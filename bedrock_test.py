@@ -1,14 +1,14 @@
-﻿
-import boto3
+﻿import boto3
 import os
 
-# Set the API key as an environment variable
+# The Bedrock API Key.
 os.environ['AWS_BEARER_TOKEN_BEDROCK'] = "<Bedrock API Key>"
+# Available regions: us-east-2, eu-west-1
+REGION = "us-east-2"
 
-# Create the Bedrock client
 client = boto3.client(
     service_name="bedrock-runtime",
-    region_name="us-east-2"
+    region_name=REGION
 )
 
 # Define the model and message

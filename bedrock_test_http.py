@@ -1,8 +1,12 @@
 ﻿import requests
-import os
 
+# The Bedrock API Key.
 api_key = "<Bedrock API Key>"
-url = "https://bedrock-runtime.us-east-2.amazonaws.com/model/us.anthropic.claude-3-5-haiku-20241022-v1:0/converse"
+# Available regions: us-east-2, eu-west-1
+REGION = "us-east-2"
+
+
+url = f"https://bedrock-runtime.{REGION}.amazonaws.com/model/us.anthropic.claude-3-5-haiku-20241022-v1:0/converse"
 
 payload = {
     "messages": [
