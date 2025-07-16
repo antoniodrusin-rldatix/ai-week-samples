@@ -1,4 +1,6 @@
-﻿
+﻿import os
+import boto3
+
 # The Bedrock API Key.
 os.environ['AWS_BEARER_TOKEN_BEDROCK'] = "<Bedrock API Key>"
 # Available regions: us-east-2, eu-west-1
