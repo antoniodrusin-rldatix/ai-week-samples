@@ -1,0 +1,1 @@
+﻿Adding a schema allows your AI agent to read a smaller file than having to read the data.
