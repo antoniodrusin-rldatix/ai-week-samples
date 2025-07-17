@@ -106,7 +106,7 @@ if __name__ == "__main__":
     models = list_all_models()
 
     # Test prompt for all models
-    test_prompt = "What are the key differences between Python and JavaScript? List 3 main differences."
+    test_prompt = r"What are the key differences between Python and JavaScript? List 3 main differences."
 
     # Make requests to specific models
     query_nova_pro(test_prompt)

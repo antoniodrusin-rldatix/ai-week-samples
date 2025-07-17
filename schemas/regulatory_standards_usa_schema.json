@@ -1,0 +1,53 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": { "type": "string" },
+      "entity": { "type": "string" },
+      "chapters": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "title": { "type": "string" },
+            "overview": { "type": "string" },
+            "about": { "type": "string" },
+            "outline": { "type": "string" },
+            "standards": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "title": { "type": ["string", "null"] },
+                  "name": { "type": "string" },
+                  "code": { "type": ["string", "null"] },
+                  "description": { "type": "string" },
+                  "rationale": { "type": ["string", "null"] },
+                  "introduction": { "type": "string" },
+                  "elements": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "name": { "type": "string" },
+                        "short_name": { "type": "string" },
+                        "description": { "type": "string" }
+                      },
+                      "required": ["name", "short_name", "description"]
+                    }
+                  }
+                },
+                "required": ["name", "description", "elements"]
+              }
+            }
+          },
+          "required": ["name", "title", "overview", "about", "outline", "standards"]
+        }
+      }
+    },
+    "required": ["name", "entity", "chapters"]
+  }
+}
