@@ -136,12 +136,13 @@ def upload_to_s3(documents, bucket_name, prefix="regulatory_standards/", region=
         # Track upload statistics
         successful_uploads = 0
         failed_uploads = 0
-
+        index = 0
         # Upload each document
         for document in documents:
             try:
                 # Create a unique filename for each document
-                doc_id = document["id"]
+                doc_id = f"{index}-{document['regulation']['entity']}-{document['regulation']['name']}-{document['chapter']['name']}-{document['standard']['name']}"
+                index += 1
                 filename = f"{prefix}{document['regulation']['entity']}/{document['regulation']['name']}/{document['chapter']['title']}/{doc_id}.txt"
 
                 # Create a formatted text document
