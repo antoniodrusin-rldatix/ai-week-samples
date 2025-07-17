@@ -142,7 +142,7 @@ def upload_to_s3(documents, bucket_name, prefix="regulatory_standards/", region=
             try:
                 # Create a unique filename for each document
                 doc_id = document["id"]
-                filename = f"{prefix}{document['regulation']['name']}/{document['chapter']['name']}/{doc_id}.txt"
+                filename = f"{prefix}{document['regulation']['entity']}/{document['regulation']['name']}/{document['chapter']['title']}/{doc_id}.txt"
 
                 # Create a formatted text document
                 formatted_text = format_document_as_text(document)
@@ -154,6 +154,7 @@ def upload_to_s3(documents, bucket_name, prefix="regulatory_standards/", region=
                     Body=formatted_text,
                     ContentType='text/plain'
                 )
+                print(f"written {len(formatted_text)} to {filename}")
                 successful_uploads += 1
 
                 # Print progress every 10 documents
