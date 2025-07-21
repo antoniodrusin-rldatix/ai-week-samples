@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 1f05a74c-9c1f-4f21-ab35-923c28675f20
+Document ID: c23e6b6d-d1eb-4225-b784-c5167dfcbbe3
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -16,39 +16,67 @@ Description: Organ Procurement Responsibilities
 
 ---------- ELEMENTS ----------
 1. CMS 482.45.(a).A-0890 (A-0890)
-   §482.45(a)(4) - Encourage discretion and sensitivity with respect to the circumstances, views, and beliefs of the families of potential donors; 
+   §482.45(a)(4) - Encourage discretion and sensitivity with respect to the
+circumstances, views, and beliefs of the families of potential donors;
 
 
 2. CMS 482.45.(a).A-0886 (A-0886)
-   §482.45(a)(1) - Incorporate an agreement with an OPO designated under part 486 of this chapter, under which it must notify, in a timely manner, the OPO or a third party designated by the OPO of individuals whose death is imminent or who have died in the hospital.  The OPO determines medical suitability for organ donation and, in the absence of alternative arrangements by the hospital, the OPO determines medical suitability for tissue and eye donation, using the definition of potential tissue and eye donor and the notification protocol developed in consultation with the tissue and eye banks identified by the hospital for this purpose; 
+   §482.45(a)(1) - Incorporate an agreement with an OPO designated under part
+486 of this chapter, under which it must notify, in a timely manner, the OPO or
+a third party designated by the OPO of individuals whose death is imminent or
+who have died in the hospital.  The OPO determines medical suitability for organ
+donation and, in the absence of alternative arrangements by the hospital, the
+OPO determines medical suitability for tissue and eye donation, using the
+definition of potential tissue and eye donor and the notification protocol
+developed in consultation with the tissue and eye banks identified by the
+hospital for this purpose;
 
 3. CMS 482.45.(a).2 (2)
-   Licensed practical nurses (LPNs) and surgical technologists (operating room technicians) may serve as ``scrub nurses'' under the supervision of a registered nurse.
+   Licensed practical nurses (LPNs) and surgical technologists (operating room
+technicians) may serve as ``scrub nurses'' under the supervision of a registered
+nurse.
 
 
 4. CMS 482.45.(a).A-0888 (A-0888)
-   §482.45(a)(3) - Ensure, in collaboration with the designated OPO, that the family of each potential donor is informed of its options to donate organs, tissues, or eyes, or to decline to donate. 
+   §482.45(a)(3) - Ensure, in collaboration with the designated OPO, that the
+family of each potential donor is informed of its options to donate organs,
+tissues, or eyes, or to decline to donate.
 
 5. CMS 482.45.(a).A-0891 (A-0891)
-   §482.45(a)(5) - Ensure that the hospital works cooperatively with the designated OPO, tissue bank and eye bank in educating staff on donation issues; 
+   §482.45(a)(5) - Ensure that the hospital works cooperatively with the
+designated OPO, tissue bank and eye bank in educating staff on donation issues;
 
 6. CMS 482.45.(a).A-0887 (A-0887)
-   §482.45(a)(2) - Incorporate an agreement with at least one tissue bank and at least one eye bank to cooperate in the retrieval, processing, preservation, storage and distribution of tissues and eyes, as may be appropriate to assure that all usable tissues and eyes are obtained from potential donors, insofar as such an agreement does not interfere with organ procurement; 
+   §482.45(a)(2) - Incorporate an agreement with at least one tissue bank and at
+least one eye bank to cooperate in the retrieval, processing, preservation,
+storage and distribution of tissues and eyes, as may be appropriate to assure
+that all usable tissues and eyes are obtained from potential donors, insofar as
+such an agreement does not interfere with organ procurement;
 
 
 7. CMS 482.45.(a).A-0889 (A-0889)
-   §482.45(a)(3) - (Continued) 
- The individual designated by the hospital to initiate the request to the family must be an organ procurement representative or a designated requestor.  A designated requestor is an individual who has completed a course offered or approved by the OPO and designed in conjunction with the tissue and eye bank community in the methodology for approaching potential donor families and requesting organ or tissue donation; 
+   §482.45(a)(3) - (Continued)
+ The individual designated by the hospital to initiate the request to the family
+must be an organ procurement representative or a designated requestor.  A
+designated requestor is an individual who has completed a course offered or
+approved by the OPO and designed in conjunction with the tissue and eye bank
+community in the methodology for approaching potential donor families and
+requesting organ or tissue donation;
 
 8. CMS 482.45.(a).A-0885 (A-0885)
    The hospital must have and implement written protocols that:
 
 9. CMS 482.45.(a).A-0892 (A-0892)
-   §482.45(a)(5) - (Continued) 
- [Ensure that the hospital works cooperatively with the designated OPO, tissue bank and eye bank in educating staff on…] reviewing death records to improve identification of potential donors, and 
+   §482.45(a)(5) - (Continued)
+ [Ensure that the hospital works cooperatively with the designated OPO, tissue
+bank and eye bank in educating staff on…] reviewing death records to improve
+identification of potential donors, and
 
 10. CMS 482.45.(a).A-0893 (A-0893)
-   §482.45(a)(5) - (Continued) 
- [Ensure that the hospital works cooperatively with the designated OPO, tissue bank and eye bank in educating staff on…] maintaining potential donors while necessary testing and placement of potential donated organs, tissues, and eyes take place.  
+   §482.45(a)(5) - (Continued)
+ [Ensure that the hospital works cooperatively with the designated OPO, tissue
+bank and eye bank in educating staff on…] maintaining potential donors while
+necessary testing and placement of potential donated organs, tissues, and eyes
+take place.
 
 ---------- END OF DOCUMENT ----------

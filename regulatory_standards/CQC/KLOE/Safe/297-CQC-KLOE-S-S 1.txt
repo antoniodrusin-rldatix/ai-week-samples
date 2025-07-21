@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: b7a1964d-1ca2-48bc-840c-3d333746ef64
+Document ID: 4767be60-2db7-4b30-a4da-e1a6a3c5907b
 
 ---------- REGULATION ----------
 Name: KLOE
@@ -10,69 +10,90 @@ Name: S
 Title: Safe
 
 OVERVIEW:
-By safe, we mean people are protected from abuse* and avoidable harm. *Abuse can be physical, sexual, mental or psychological, financial, neglect, institutional or discriminatory abuse.
+By safe, we mean people are protected from abuse* and avoidable harm. *Abuse can
+be physical, sexual, mental or psychological, financial, neglect, institutional
+or discriminatory abuse.
 
 ---------- STANDARD ----------
 Name: S 1
-Description: How do systems, processes and practices keep people safe and safeguarded from
+Description: How do systems, processes and practices keep people safe and
+safeguarded from
 abuse?
 
 ---------- ELEMENTS ----------
 1. S.1.1 (1)
-   How are safety and safeguarding systems, processes and practices developed,
-implemented and communicated to staff? 
+   How are safety and safeguarding systems, processes and practices developed,
+implemented and communicated to staff?
 
 2. S.1.2 (2)
-   How do systems, processes and practices protect people from abuse, neglect, harassment
+   How do systems, processes and practices protect people from abuse, neglect,
+harassment
 and breaches of their dignity and respect? How are these monitored and improved?
 
 3. S.1.3 (3)
-   How are people protected from discrimination, which might amount to abuse or cause
-psychological harm? This includes harassment and discrimination in relation to protected
-characteristics under the Equality Act. 
+   How are people protected from discrimination, which might amount to abuse or
+cause
+psychological harm? This includes harassment and discrimination in relation to
+protected
+characteristics under the Equality Act.
 
 4. S.1.4 (4)
-   How is safety promoted in recruitment practice, arrangements to support staff, disciplinary
-procedures, and ongoing checks? (For example, Disclosure and Barring Service checks.) 
+   How is safety promoted in recruitment practice, arrangements to support
+staff, disciplinary
+procedures, and ongoing checks? (For example, Disclosure and Barring Service
+checks.)
 
 5. S.1.5 (5)
-   Do staff receive effective training in safety systems, processes and practices?
+   Do staff receive effective training in safety systems, processes and
+practices?
 
 6. S.1.6 (6)
-   Are there arrangements to safeguard adults and children from abuse and neglect that reflect
-relevant legislation and local requirements? Do staff understand their responsibilities and
-adhere to safeguarding policies and procedures, including working in partnership with other
-agencies?
+   Are there arrangements to safeguard adults and children from abuse and
+neglect that reflect
+relevant legislation and local requirements? Do staff understand their
+responsibilities and
+adhere to safeguarding policies and procedures, including working in partnership
+with other
+agencies?
 
 
 7. S.1.7 (7)
-   Do staff identify adults and children at risk of, or suffering, significant harm? How do they
-work in partnership with other agencies to ensure they are helped, supported and
+   Do staff identify adults and children at risk of, or suffering, significant
+harm? How do they
+work in partnership with other agencies to ensure they are helped, supported and
 protected?
 
 8. S.1.8 (8)
-   How are standards of cleanliness and hygiene maintained? Are there reliable systems in
+   How are standards of cleanliness and hygiene maintained? Are there reliable
+systems in
 place to prevent and protect people from a healthcare-associated infection?
 
 9. S.1.9 (9)
-   Do the design, maintenance and use of facilities and premises keep people safe? 
+   Do the design, maintenance and use of facilities and premises keep people
+safe?
 
 10. S.1.10 (10)
-   Do the maintenance and use of equipment keep people safe? 
+   Do the maintenance and use of equipment keep people safe?
 
 11. S.1.11 (11)
-   Do the arrangements for managing waste and clinical specimens keep people safe? (This
-includes classification, segregation, storage, labelling, handling and, where appropriate,
+   Do the arrangements for managing waste and clinical specimens keep people
+safe? (This
+includes classification, segregation, storage, labelling, handling and, where
+appropriate,
 treatment and disposal of waste.)
 
 12. S.1.3 (3)
-   How are people protected from discrimination, which might amount to abuse or cause
-psychological harm? This includes harassment and discrimination in relation to protected
-characteristics under the Equality Act. 
+   How are people protected from discrimination, which might amount to abuse or
+cause
+psychological harm? This includes harassment and discrimination in relation to
+protected
+characteristics under the Equality Act.
 
 13. S.1.3 (3)
-   How are people protected from discrimination, which might amount to abuse or cause
-psychological harm? This includes harassment and discrimination in relation to protected
-characteristics under the Equality Act. 
+   How are people protected from discrimination, which might amount to abuse or
+cause
+psychological harm? This includes harassment and discrimination in relation to
+protected
+characteristics under the Equality Act.
 
 ---------- END OF DOCUMENT ----------

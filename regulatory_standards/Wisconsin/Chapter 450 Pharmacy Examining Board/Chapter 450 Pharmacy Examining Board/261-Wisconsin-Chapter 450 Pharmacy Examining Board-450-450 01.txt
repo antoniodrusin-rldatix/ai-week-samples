@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 1c365161-f7e5-4370-8ad7-5f979281f021
+Document ID: 86e79a43-0423-464e-ae71-2c5e0b181106
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,127 +15,311 @@ Description: Definitions
 
 ---------- ELEMENTS ----------
 1. 450.01.1-9 (1-9)
-   (1) “Administer" means the direct application of a vaccine or a prescribed drug or device, whether by injection, ingestion or any other means, to the body of a patient or research subject by any of the following:
-(a) A practitioner or his or her authorized agent.
-(b) A patient or research subject at the direction of a practitioner.
-(c) A pharmacist.
-(d) In the case of an opioid antagonist, any person.
-(1m) “Advanced practice nurse prescriber" means an advanced practice nurse who is certified under s. 441.16 (2).
-(1p) “Affiliated group" has the meaning given in section 1504 of the Internal Revenue Code.
-(1t) “Authenticate" means to affirmatively verify, before wholesale distribution of a prescription drug occurs, that each transaction listed on a pedigree has occurred.
-(1x) “Authorized distributor of record" means a wholesale distributor with whom a manufacturer has established an ongoing relationship to distribute the manufacturer's prescription drug. For purposes of this subsection, an ongoing relationship exists between a wholesale distributor and a manufacturer if all of the following apply:
-(a) The wholesale distributor, including any affiliated group of the wholesale distributor, has in effect a written agreement with the manufacturer evidencing the ongoing relationship.
-(b) The wholesale distributor, including any affiliated group of the wholesale distributor, is included in the manufacturer's current list of authorized distributors of record.
-(1z) “Biological product” has the meaning given in 42 USC 262 (i).
-(2) “Board" means the pharmacy examining board.
-(2m) “Colicensed" means, with respect to a partner or product, that 2 or more parties have the right to engage in marketing or manufacturing of a product consistent with the federal food and drug administration's implementation of the federal prescription drug marketing act.
-(3) “Compound" means to mix, combine or put together various ingredients or drugs for the purpose of dispensing.
-(4) “Controlled substance" has the meaning designated in s. 961.01 (4).
-(5) “Deliver" or “delivery" means the actual, constructive or attempted transfer of a drug or device from one person to another.
-(6) “Device" means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent or other similar or related article, including any component, part or accessory, which does not achieve any of its principal intended purposes through chemical action within or on the body of a person or other animal, is not dependent upon being metabolized for the achievement of any of its principal intended purposes and is:
-(a) Recognized by the U.S. pharmacopoeia and national formulary or official homeopathic pharmacopoeia of the United States, or any supplement to either of them;
-(b) Intended for use in the diagnosis, cure, mitigation, treatment or prevention of disease or other conditions in persons or other animals; or
-(c) Intended to affect the structure or any function of the body of persons or other animals.
-(7) “Dispense" means to deliver a prescribed drug or device to an ultimate user or research subject by or pursuant to the prescription order of a practitioner, including the compounding, packaging or labeling necessary to prepare the prescribed drug or device for delivery.
-(8) “Distribute" means to deliver, other than by administering or dispensing.
-(9) “Distributor" means a person licensed by the board under s. 450.07 (2).
-NOTE: Section 450.07 (2) was repealed by 2007 Wis. Act 20.
-(9m) “Drop shipment" means a sale of a prescription drug to a wholesale distributor by the manufacturer of the drug, by the manufacturer's colicensed product partner, by the manufacturer's 3rd party logistics provider, or by the manufacturer's exclusive distributor, to which all of the following apply:
-(a) The wholesale distributor or chain pharmacy warehouse takes title to, but not physical possession of, the drug.
-(b) The wholesale distributor invoices a pharmacy, a chain pharmacy warehouse, or a person authorized to dispense or administer the drug to a patient.
-(c) The pharmacy, chain pharmacy warehouse, or person authorized to dispense or administer the drug receives delivery of the drug directly from the manufacturer, the manufacturer's 3rd party logistics provider, or the manufacturer's exclusive distributor.
+   (1) “Administer" means the direct application of a vaccine or a prescribed
+drug or device, whether by injection, ingestion or any other means, to the body
+of a patient or research subject by any of the following:
+(a) A practitioner or his or her authorized agent.
+(b) A patient or research subject at the direction of a practitioner.
+(c) A pharmacist.
+(d) In the case of an opioid antagonist, any person.
+(1m) “Advanced practice nurse prescriber" means an advanced practice nurse who
+is certified under s. 441.16 (2).
+(1p) “Affiliated group" has the meaning given in section 1504 of the Internal
+Revenue Code.
+(1t) “Authenticate" means to affirmatively verify, before wholesale distribution
+of a prescription drug occurs, that each transaction listed on a pedigree has
+occurred.
+(1x) “Authorized distributor of record" means a wholesale distributor with whom
+a manufacturer has established an ongoing relationship to distribute the
+manufacturer's prescription drug. For purposes of this subsection, an ongoing
+relationship exists between a wholesale distributor and a manufacturer if all of
+the following apply:
+(a) The wholesale distributor, including any affiliated group of the wholesale
+distributor, has in effect a written agreement with the manufacturer evidencing
+the ongoing relationship.
+(b) The wholesale distributor, including any affiliated group of the wholesale
+distributor, is included in the manufacturer's current list of authorized
+distributors of record.
+(1z) “Biological product” has the meaning given in 42 USC 262 (i).
+(2) “Board" means the pharmacy examining board.
+(2m) “Colicensed" means, with respect to a partner or product, that 2 or more
+parties have the right to engage in marketing or manufacturing of a product
+consistent with the federal food and drug administration's implementation of the
+federal prescription drug marketing act.
+(3) “Compound" means to mix, combine or put together various ingredients or
+drugs for the purpose of dispensing.
+(4) “Controlled substance" has the meaning designated in s. 961.01 (4).
+(5) “Deliver" or “delivery" means the actual, constructive or attempted transfer
+of a drug or device from one person to another.
+(6) “Device" means an instrument, apparatus, implement, machine, contrivance,
+implant, in vitro reagent or other similar or related article, including any
+component, part or accessory, which does not achieve any of its principal
+intended purposes through chemical action within or on the body of a person or
+other animal, is not dependent upon being metabolized for the achievement of any
+of its principal intended purposes and is:
+(a) Recognized by the U.S. pharmacopoeia and national formulary or official
+homeopathic pharmacopoeia of the United States, or any supplement to either of
+them;
+(b) Intended for use in the diagnosis, cure, mitigation, treatment or prevention
+of disease or other conditions in persons or other animals; or
+(c) Intended to affect the structure or any function of the body of persons or
+other animals.
+(7) “Dispense" means to deliver a prescribed drug or device to an ultimate user
+or research subject by or pursuant to the prescription order of a practitioner,
+including the compounding, packaging or labeling necessary to prepare the
+prescribed drug or device for delivery.
+(8) “Distribute" means to deliver, other than by administering or dispensing.
+(9) “Distributor" means a person licensed by the board under s. 450.07 (2).
+NOTE: Section 450.07 (2) was repealed by 2007 Wis. Act 20.
+(9m) “Drop shipment" means a sale of a prescription drug to a wholesale
+distributor by the manufacturer of the drug, by the manufacturer's colicensed
+product partner, by the manufacturer's 3rd party logistics provider, or by the
+manufacturer's exclusive distributor, to which all of the following apply:
+(a) The wholesale distributor or chain pharmacy warehouse takes title to, but
+not physical possession of, the drug.
+(b) The wholesale distributor invoices a pharmacy, a chain pharmacy warehouse,
+or a person authorized to dispense or administer the drug to a patient.
+(c) The pharmacy, chain pharmacy warehouse, or person authorized to dispense or
+administer the drug receives delivery of the drug directly from the
+manufacturer, the manufacturer's 3rd party logistics provider, or the
+manufacturer's exclusive distributor.
 
 
 2. 450.01.10-14 (10-14)
-   (10) “Drug" means:
-(a) Any substance recognized as a drug in the official U.S. pharmacopoeia and national formulary or official homeopathic pharmacopoeia of the United States or any supplement to either of them;
-(b) Any substance intended for use in the diagnosis, cure, mitigation, treatment or prevention of disease or other conditions in persons or other animals;
-(c) Any substance other than a device or food intended to affect the structure or any function of the body of persons or other animals; or
-(d) Any substance intended for use as a component of any article specified in pars. (a) to (c) but does not include gases or devices or articles intended for use or consumption in or for mechanical, industrial, manufacturing or scientific applications or purposes.
-(11) “Drug product" means a specific drug or drugs in a specific dosage form and strength from a known source of manufacture.
-(11m) “Facility" means a location where a wholesale distributor stores, handles, repackages, or offers for sale prescription drugs.
-(11r) “Intracompany sales" means any transaction or transfer between any division, subsidiary, parent, or affiliated or related company under common ownership and control of a corporate entity or any transaction or transfer between colicensees of a colicensed product.
-(12) “Manufacturer" means a person licensed or approved by the federal food and drug administration to engage in the manufacture of drugs or devices, consistent with the definition of “manufacturer" under the federal food and drug administration's regulations and interpreted guidances implementing the federal prescription drug marketing act.
-(12m) “Manufacturer's exclusive distributor" means a person that contracts with a manufacturer to provide or coordinate warehousing, distribution, or other services on behalf of the manufacturer and who takes title to the manufacturer's prescription drug but who does not have general responsibility to direct the sale or disposition of the drug.
-(13) “Manufacturing" means making, assembling, processing or modifying devices, or mixing, producing or preparing drugs in dosage forms by encapsulating, entableting or other process, or packaging, repackaging or otherwise changing the container, wrapper or label of any package containing a drug or device in furtherance of the distribution of the drug or device from the original place of manufacture to the person who makes final delivery or sale to the ultimate consumer.
-(13m) “Nonprescription drug product" means any nonnarcotic drug product which may be sold without a prescription order and which is prepackaged for use by consumers and labeled in accordance with the requirements of state and federal law.
-(13r) 
-(a) “Normal distribution channel" means a chain of custody for a prescription drug that runs, directly or by drop shipment, from the manufacturer of a drug, from the manufacturer to the manufacturer's colicensed partner, from the manufacturer to the manufacturer's 3rd-party logistics provider, or from the manufacturer to the manufacturer's exclusive distributor, and continues as described in any of the following:
-1. To a pharmacy or to a person authorized to dispense or administer a drug to a patient.
-2. To an authorized distributor of record, and then to a pharmacy or to a person authorized to dispense or administer a drug to a patient.
-3. To an authorized distributor of record, then to one other authorized distributor of record, then to an office-based practitioner.
-4. To a pharmacy warehouse to the pharmacy warehouse's intracompany pharmacy, then to a patient or to a person authorized to dispense or administer a drug to a patient.
-5. To an authorized distributor of record, then to a pharmacy warehouse, then to the pharmacy warehouse's intracompany pharmacy, then to a patient or to a person authorized to dispense or administer a drug to a patient.
-(b) For purposes of this subsection, a distribution of a prescription drug to a warehouse or to another entity that redistributes the drug by intracompany sale to a pharmacy or to another person authorized to dispense or administer the drug constitutes a distribution to the pharmacy or to the person authorized to dispense or administer the drug.
-(13v) “Opioid antagonist" means a drug, such as naloxone, that satisfies all of the following:
-(a) The drug binds to the opioid receptors and competes with or displaces opioid agonists at the opioid receptor site but does not activate the receptors, effectively blocking the receptor and preventing or reversing the effect of an opioid agonist.
-(b) The drug is not a controlled substance.
-(14) “Patient" means the person or other animal for whom drug products or devices are prescribed or to whom drug products or devices are dispensed or administered.
-(14m) “Pedigree" means a document or electronic file containing information that records each distribution of a prescription drug.
+   (10) “Drug" means:
+(a) Any substance recognized as a drug in the official U.S. pharmacopoeia and
+national formulary or official homeopathic pharmacopoeia of the United States or
+any supplement to either of them;
+(b) Any substance intended for use in the diagnosis, cure, mitigation, treatment
+or prevention of disease or other conditions in persons or other animals;
+(c) Any substance other than a device or food intended to affect the structure
+or any function of the body of persons or other animals; or
+(d) Any substance intended for use as a component of any article specified in
+pars. (a) to (c) but does not include gases or devices or articles intended for
+use or consumption in or for mechanical, industrial, manufacturing or scientific
+applications or purposes.
+(11) “Drug product" means a specific drug or drugs in a specific dosage form and
+strength from a known source of manufacture.
+(11m) “Facility" means a location where a wholesale distributor stores, handles,
+repackages, or offers for sale prescription drugs.
+(11r) “Intracompany sales" means any transaction or transfer between any
+division, subsidiary, parent, or affiliated or related company under common
+ownership and control of a corporate entity or any transaction or transfer
+between colicensees of a colicensed product.
+(12) “Manufacturer" means a person licensed or approved by the federal food and
+drug administration to engage in the manufacture of drugs or devices, consistent
+with the definition of “manufacturer" under the federal food and drug
+administration's regulations and interpreted guidances implementing the federal
+prescription drug marketing act.
+(12m) “Manufacturer's exclusive distributor" means a person that contracts with
+a manufacturer to provide or coordinate warehousing, distribution, or other
+services on behalf of the manufacturer and who takes title to the manufacturer's
+prescription drug but who does not have general responsibility to direct the
+sale or disposition of the drug.
+(13) “Manufacturing" means making, assembling, processing or modifying devices,
+or mixing, producing or preparing drugs in dosage forms by encapsulating,
+entableting or other process, or packaging, repackaging or otherwise changing
+the container, wrapper or label of any package containing a drug or device in
+furtherance of the distribution of the drug or device from the original place of
+manufacture to the person who makes final delivery or sale to the ultimate
+consumer.
+(13m) “Nonprescription drug product" means any nonnarcotic drug product which
+may be sold without a prescription order and which is prepackaged for use by
+consumers and labeled in accordance with the requirements of state and federal
+law.
+(13r)
+(a) “Normal distribution channel" means a chain of custody for a prescription
+drug that runs, directly or by drop shipment, from the manufacturer of a drug,
+from the manufacturer to the manufacturer's colicensed partner, from the
+manufacturer to the manufacturer's 3rd-party logistics provider, or from the
+manufacturer to the manufacturer's exclusive distributor, and continues as
+described in any of the following:
+1. To a pharmacy or to a person authorized to dispense or administer a drug to a
+patient.
+2. To an authorized distributor of record, and then to a pharmacy or to a person
+authorized to dispense or administer a drug to a patient.
+3. To an authorized distributor of record, then to one other authorized
+distributor of record, then to an office-based practitioner.
+4. To a pharmacy warehouse to the pharmacy warehouse's intracompany pharmacy,
+then to a patient or to a person authorized to dispense or administer a drug to
+a patient.
+5. To an authorized distributor of record, then to a pharmacy warehouse, then to
+the pharmacy warehouse's intracompany pharmacy, then to a patient or to a person
+authorized to dispense or administer a drug to a patient.
+(b) For purposes of this subsection, a distribution of a prescription drug to a
+warehouse or to another entity that redistributes the drug by intracompany sale
+to a pharmacy or to another person authorized to dispense or administer the drug
+constitutes a distribution to the pharmacy or to the person authorized to
+dispense or administer the drug.
+(13v) “Opioid antagonist" means a drug, such as naloxone, that satisfies all of
+the following:
+(a) The drug binds to the opioid receptors and competes with or displaces opioid
+agonists at the opioid receptor site but does not activate the receptors,
+effectively blocking the receptor and preventing or reversing the effect of an
+opioid agonist.
+(b) The drug is not a controlled substance.
+(14) “Patient" means the person or other animal for whom drug products or
+devices are prescribed or to whom drug products or devices are dispensed or
+administered.
+(14m) “Pedigree" means a document or electronic file containing information that
+records each distribution of a prescription drug.
 
 
 3. 450.01.15-20 (15-20)
-   (15) “Pharmacist" means a person licensed by the board under s. 450.03 or 450.05.
-(15m) “Pharmacy warehouse" means a physical location for prescription drugs that acts as a central warehouse and performs intracompany sales.
-(15r) “Physician assistant" has the meaning given in s. 448.01 (6).
-(16) “Practice of pharmacy" means any of the following:
-(a) Interpreting prescription orders.
-(b) Compounding, packaging, labeling, dispensing and the coincident distribution of drugs and devices.
-(c) Participating in drug utilization reviews.
-(d) Proper and safe storage of drugs and devices and maintaining proper records of the drugs and devices.
-(e) Providing information on drugs or devices which may include, but is not limited to, advice relating to therapeutic values, potential hazards and uses.
-(f) Drug product substitution under s. 450.13.
-(g) Supervision of pharmacist supportive personnel.
-(h) Making therapeutic alternate drug selections, if made in accordance with written guidelines or procedures previously established by a pharmacy and therapeutics committee of a hospital and approved by the hospital's medical staff and use of the therapeutic alternate drug selection has been approved for a patient during the period of the patient's stay within the hospital by any of the following:
-1. The patient's physician.
-2. The patient's advanced practice nurse prescriber, if the advanced practice nurse prescriber has entered into a written agreement to collaborate with a physician.
-3. The patient's physician assistant.
-(hm) Making therapeutic alternate drug selections in accordance with written guidelines or procedures previously established by a quality assessment and assurance committee of a nursing facility under s. 49.498 (2) (a) 3. or by a committee established for a nursing home under s. 50.045 (2), if the use of the therapeutic alternate drug selection has been approved for a patient during the period of the patient's stay within the nursing facility or nursing home by any of the following:
-1. The patient's personal attending physician.
-3. The patient's physician assistant, if the physician assistant is under the supervision of the patient's personal attending physician.
-(hr) Making therapeutic alternate drug selections in accordance with written guidelines or procedures previously established in rules promulgated by the corrections system formulary board under s. 301.103, if the use of the therapeutic alternate drug selection has been approved for a prisoner, as defined in s. 301.01 (2), during his or her period of confinement in a state correctional institution, as defined in s. 301.01 (4), by any of the following:
-1. A physician.
-2. An advanced practice nurse prescriber.
-3. A physician assistant.
-(i) Drug regimen screening, including screening for therapeutic duplication, drug-to-drug interactions, incorrect dosage, incorrect duration of treatment, drug allergy reactions and clinical abuse or misuse.
-(j) Performing any act necessary to manage a pharmacy.
-(k) Administering prescribed drug products and devices under s. 450.035 (1r) and vaccines.
-(17) “Practitioner" means a person licensed in this state to prescribe and administer drugs or licensed in another state and recognized by this state as a person authorized to prescribe and administer drugs.
-(18) “Prescribed drug or device" means any drug or device prescribed by a practitioner.
-(19) “Prescription" means a drug or device prescribed by a practitioner.
-(20) “Prescription drug" means all of the following, but does not include blood, blood components intended for transfusion, or biological products that are also medical devices:
-(a) A drug, drug product, or drug-containing preparation that is subject to 21 USC 353 (b) or 21 CFR 201.105.
-(b) A controlled substance included in schedules II to V of ch. 961, whether by statute or rule, except a substance that by law may be dispensed without the prescription order of a practitioner. Controlled substances are included within this definition for purposes of s. 450.11 (3), (4) (a), and (8) only and for violations thereof punishable under s. 450.11 (9).
+   (15) “Pharmacist" means a person licensed by the board under s. 450.03 or
+450.05.
+(15m) “Pharmacy warehouse" means a physical location for prescription drugs that
+acts as a central warehouse and performs intracompany sales.
+(15r) “Physician assistant" has the meaning given in s. 448.01 (6).
+(16) “Practice of pharmacy" means any of the following:
+(a) Interpreting prescription orders.
+(b) Compounding, packaging, labeling, dispensing and the coincident distribution
+of drugs and devices.
+(c) Participating in drug utilization reviews.
+(d) Proper and safe storage of drugs and devices and maintaining proper records
+of the drugs and devices.
+(e) Providing information on drugs or devices which may include, but is not
+limited to, advice relating to therapeutic values, potential hazards and uses.
+(f) Drug product substitution under s. 450.13.
+(g) Supervision of pharmacist supportive personnel.
+(h) Making therapeutic alternate drug selections, if made in accordance with
+written guidelines or procedures previously established by a pharmacy and
+therapeutics committee of a hospital and approved by the hospital's medical
+staff and use of the therapeutic alternate drug selection has been approved for
+a patient during the period of the patient's stay within the hospital by any of
+the following:
+1. The patient's physician.
+2. The patient's advanced practice nurse prescriber, if the advanced practice
+nurse prescriber has entered into a written agreement to collaborate with a
+physician.
+3. The patient's physician assistant.
+(hm) Making therapeutic alternate drug selections in accordance with written
+guidelines or procedures previously established by a quality assessment and
+assurance committee of a nursing facility under s. 49.498 (2) (a) 3. or by a
+committee established for a nursing home under s. 50.045 (2), if the use of the
+therapeutic alternate drug selection has been approved for a patient during the
+period of the patient's stay within the nursing facility or nursing home by any
+of the following:
+1. The patient's personal attending physician.
+3. The patient's physician assistant, if the physician assistant is under the
+supervision of the patient's personal attending physician.
+(hr) Making therapeutic alternate drug selections in accordance with written
+guidelines or procedures previously established in rules promulgated by the
+corrections system formulary board under s. 301.103, if the use of the
+therapeutic alternate drug selection has been approved for a prisoner, as
+defined in s. 301.01 (2), during his or her period of confinement in a state
+correctional institution, as defined in s. 301.01 (4), by any of the following:
+1. A physician.
+2. An advanced practice nurse prescriber.
+3. A physician assistant.
+(i) Drug regimen screening, including screening for therapeutic duplication,
+drug-to-drug interactions, incorrect dosage, incorrect duration of treatment,
+drug allergy reactions and clinical abuse or misuse.
+(j) Performing any act necessary to manage a pharmacy.
+(k) Administering prescribed drug products and devices under s. 450.035 (1r) and
+vaccines.
+(17) “Practitioner" means a person licensed in this state to prescribe and
+administer drugs or licensed in another state and recognized by this state as a
+person authorized to prescribe and administer drugs.
+(18) “Prescribed drug or device" means any drug or device prescribed by a
+practitioner.
+(19) “Prescription" means a drug or device prescribed by a practitioner.
+(20) “Prescription drug" means all of the following, but does not include blood,
+blood components intended for transfusion, or biological products that are also
+medical devices:
+(a) A drug, drug product, or drug-containing preparation that is subject to 21
+USC 353 (b) or 21 CFR 201.105.
+(b) A controlled substance included in schedules II to V of ch. 961, whether by
+statute or rule, except a substance that by law may be dispensed without the
+prescription order of a practitioner. Controlled substances are included within
+this definition for purposes of s. 450.11 (3), (4) (a), and (8) only and for
+violations thereof punishable under s. 450.11 (9).
 
 4. 450.01.21-23 (21-23)
-   (21) “Prescription order" means an order transmitted orally, electronically or in writing by a practitioner for a drug or device for a particular patient and also includes a standing order issued under s. 441.18 (2) (a) 2. or 448.037 (2) (a) 2.
-(21e) “Repackage" means to repack or otherwise change the container, wrapper, or label of a prescription drug, except that “repackage" does not include any of the following:
-(a) An action by a pharmacist with respect to a prescription drug that the pharmacist is dispensing.
-(b) An action by a pharmacist who receives a prescription drug or device that the pharmacist dispensed to a patient, if, after altering the packaging or labeling of the prescription drug or device, the pharmacist returns the prescription drug or device to the patient.
-(21m) “Repackager" means a person that repackages.
-(21p) “Standing order" means an order transmitted electronically or in writing by a practitioner for a drug or device for multiple patients or for one or more groups of patients.
-(21s) “Third party logistics provider" means a person that contracts with a prescription drug manufacturer to provide or coordinate warehousing, distribution, or other services on behalf of the manufacturer but that does not take title to the manufacturer's prescription drug or have general responsibility to direct the prescription drug's sale or disposition.
-(22) “Vaccination protocol" means a written protocol agreed to by a physician, as defined in s. 448.01 (5), and a pharmacist that establishes procedures and record-keeping and reporting requirements for the administration of a vaccine by a pharmacist for a period specified in the protocol that may not exceed 2 years.
-(23) “Wholesale distribution" means distribution of a prescription drug to a person other than a consumer or patient, but does not include any of the following:
-(a) Intracompany sales of prescription drugs.
-(b) The sale, purchase, distribution, trade, or transfer of a prescription drug or offer to sell, purchase, distribute, trade, or transfer a prescription drug for emergency medical reasons.
-(c) The distribution of prescription drug samples, if the distribution is permitted under 21 USC 353 (d).
-(d) Drug returns, when conducted by a hospital, health care entity, or charitable institution as provided in 21 CFR 203.23.
-(e) The sale of minimal quantities, as defined by the board in an administrative rule, of prescription drugs by retail pharmacies to licensed practitioners for office use.
-(f) The sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription.
-(g) The sale, transfer, merger, or consolidation of all or part of the business of a pharmacy from or with another pharmacy, whether accomplished as a purchase and sale of stock or business assets.
-(h) The sale, purchase, distribution, trade, or transfer of a prescription drug from one authorized distributor of record to one additional authorized distributor of record, if the manufacturer states in writing to the receiving authorized distributor of record that the manufacturer is unable to supply the drug and the supplying authorized distributor of record states in writing that the drug has previously been exclusively in the normal distribution channel.
-(i) The delivery of, or offer to deliver, a prescription drug by a common carrier solely in the common carrier's usual course of business of transporting prescription drugs, if the common carrier does not store, warehouse, or take legal ownership of the drug.
-(j) A transaction excluded from the definition of “wholesale distribution" under 21 CFR 203.3 (cc).
-(k) The donation or distribution of a prescription drug under s. 255.056 or under 21 CFR 203.39.
-(L) The transfer from a retail pharmacy or pharmacy warehouse of an expired, damaged, returned, or recalled prescription drug to the original manufacturer or original wholesale distributor or to a 3rd-party returns processor or reverse distributor.
-(m) The return of a prescription drug, if the return is authorized by the law of this state.
-(n) The operation or implementation of a drug disposal program that is authorized under s. 165.65 (2) or (3) or is authorized under federal law, as defined in s. 165.65 (1) (a), or the possession or delivery of a household pharmaceutical item, as defined in s. 165.65 (1) (d), within the scope of a drug disposal program that is authorized under s. 165.65 (2) or (3) or is authorized under federal law.
-(o) The possession or delivery of a prescription drug within the scope of a written authorization under s. 450.115 (3).
+   (21) “Prescription order" means an order transmitted orally, electronically
+or in writing by a practitioner for a drug or device for a particular patient
+and also includes a standing order issued under s. 441.18 (2) (a) 2. or 448.037
+(2) (a) 2.
+(21e) “Repackage" means to repack or otherwise change the container, wrapper, or
+label of a prescription drug, except that “repackage" does not include any of
+the following:
+(a) An action by a pharmacist with respect to a prescription drug that the
+pharmacist is dispensing.
+(b) An action by a pharmacist who receives a prescription drug or device that
+the pharmacist dispensed to a patient, if, after altering the packaging or
+labeling of the prescription drug or device, the pharmacist returns the
+prescription drug or device to the patient.
+(21m) “Repackager" means a person that repackages.
+(21p) “Standing order" means an order transmitted electronically or in writing
+by a practitioner for a drug or device for multiple patients or for one or more
+groups of patients.
+(21s) “Third party logistics provider" means a person that contracts with a
+prescription drug manufacturer to provide or coordinate warehousing,
+distribution, or other services on behalf of the manufacturer but that does not
+take title to the manufacturer's prescription drug or have general
+responsibility to direct the prescription drug's sale or disposition.
+(22) “Vaccination protocol" means a written protocol agreed to by a physician,
+as defined in s. 448.01 (5), and a pharmacist that establishes procedures and
+record-keeping and reporting requirements for the administration of a vaccine by
+a pharmacist for a period specified in the protocol that may not exceed 2 years.
+(23) “Wholesale distribution" means distribution of a prescription drug to a
+person other than a consumer or patient, but does not include any of the
+following:
+(a) Intracompany sales of prescription drugs.
+(b) The sale, purchase, distribution, trade, or transfer of a prescription drug
+or offer to sell, purchase, distribute, trade, or transfer a prescription drug
+for emergency medical reasons.
+(c) The distribution of prescription drug samples, if the distribution is
+permitted under 21 USC 353 (d).
+(d) Drug returns, when conducted by a hospital, health care entity, or
+charitable institution as provided in 21 CFR 203.23.
+(e) The sale of minimal quantities, as defined by the board in an administrative
+rule, of prescription drugs by retail pharmacies to licensed practitioners for
+office use.
+(f) The sale, purchase, or trade of a drug, an offer to sell, purchase, or trade
+a drug, or the dispensing of a drug pursuant to a prescription.
+(g) The sale, transfer, merger, or consolidation of all or part of the business
+of a pharmacy from or with another pharmacy, whether accomplished as a purchase
+and sale of stock or business assets.
+(h) The sale, purchase, distribution, trade, or transfer of a prescription drug
+from one authorized distributor of record to one additional authorized
+distributor of record, if the manufacturer states in writing to the receiving
+authorized distributor of record that the manufacturer is unable to supply the
+drug and the supplying authorized distributor of record states in writing that
+the drug has previously been exclusively in the normal distribution channel.
+(i) The delivery of, or offer to deliver, a prescription drug by a common
+carrier solely in the common carrier's usual course of business of transporting
+prescription drugs, if the common carrier does not store, warehouse, or take
+legal ownership of the drug.
+(j) A transaction excluded from the definition of “wholesale distribution" under
+21 CFR 203.3 (cc).
+(k) The donation or distribution of a prescription drug under s. 255.056 or
+under 21 CFR 203.39.
+(L) The transfer from a retail pharmacy or pharmacy warehouse of an expired,
+damaged, returned, or recalled prescription drug to the original manufacturer or
+original wholesale distributor or to a 3rd-party returns processor or reverse
+distributor.
+(m) The return of a prescription drug, if the return is authorized by the law of
+this state.
+(n) The operation or implementation of a drug disposal program that is
+authorized under s. 165.65 (2) or (3) or is authorized under federal law, as
+defined in s. 165.65 (1) (a), or the possession or delivery of a household
+pharmaceutical item, as defined in s. 165.65 (1) (d), within the scope of a drug
+disposal program that is authorized under s. 165.65 (2) or (3) or is authorized
+under federal law.
+(o) The possession or delivery of a prescription drug within the scope of a
+written authorization under s. 450.115 (3).
 
 
 5. 450.01.24 (24)
-   (24) “Wholesale distributor" means a person engaged in the wholesale distribution of prescription drugs, including manufacturers, repackagers, own-label distributors, private label distributors, jobbers, brokers, warehouses, including manufacturers' and distributors' warehouses, manufacturers' exclusive distributors, manufacturers' authorized distributors of record, prescription drug wholesalers and distributors, independent wholesale prescription drug traders, retail pharmacies that conduct wholesale distribution, and chain pharmacy warehouses that conduct wholesale distribution.
+   (24) “Wholesale distributor" means a person engaged in the wholesale
+distribution of prescription drugs, including manufacturers, repackagers, own-
+label distributors, private label distributors, jobbers, brokers, warehouses,
+including manufacturers' and distributors' warehouses, manufacturers' exclusive
+distributors, manufacturers' authorized distributors of record, prescription
+drug wholesalers and distributors, independent wholesale prescription drug
+traders, retail pharmacies that conduct wholesale distribution, and chain
+pharmacy warehouses that conduct wholesale distribution.
 
 
 ---------- END OF DOCUMENT ----------

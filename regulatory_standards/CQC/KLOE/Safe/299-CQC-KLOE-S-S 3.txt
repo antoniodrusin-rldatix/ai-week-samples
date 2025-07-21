@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 738d9027-e0d1-4c80-b19c-919c54142edb
+Document ID: 7361e7a6-dd71-443f-a285-5c1ac4349527
 
 ---------- REGULATION ----------
 Name: KLOE
@@ -10,33 +10,44 @@ Name: S
 Title: Safe
 
 OVERVIEW:
-By safe, we mean people are protected from abuse* and avoidable harm. *Abuse can be physical, sexual, mental or psychological, financial, neglect, institutional or discriminatory abuse.
+By safe, we mean people are protected from abuse* and avoidable harm. *Abuse can
+be physical, sexual, mental or psychological, financial, neglect, institutional
+or discriminatory abuse.
 
 ---------- STANDARD ----------
 Name: S 3
-Description: Do staff have all the information they need to deliver safe care and treatment to
+Description: Do staff have all the information they need to deliver safe care
+and treatment to
 people?
 
 ---------- ELEMENTS ----------
 1. S.3.1 (1)
-   Are people’s individual care records, including clinical data, written and managed in a way
+   Are people’s individual care records, including clinical data, written and
+managed in a way
 that keeps people safe?
 
 2. S.3.2 (2)
-   Is all the information needed to deliver safe care and treatment available to relevant staff in
-a timely and accessible way? (This may include test and imaging results, care and risk
+   Is all the information needed to deliver safe care and treatment available to
+relevant staff in
+a timely and accessible way? (This may include test and imaging results, care
+and risk
 assessments, care plans and case notes.)
 
 3. S.3.3 (3)
-   When people move between teams, services and organisations (which may include at
-referral, discharge, transfer and transition), is all the information needed for their ongoing
-care shared appropriately, in a timely way and in line with relevant protocols?
+   When people move between teams, services and organisations (which may include
+at
+referral, discharge, transfer and transition), is all the information needed for
+their ongoing
+care shared appropriately, in a timely way and in line with relevant protocols?
 
 
 4. S.3.4 (4)
-   How well do the systems that manage information about people who use services support
-staff, carers and partner agencies to deliver safe care and treatment? (This includes
-coordination between different electronic and paper-based systems and appropriate access
-for staff to records.) 
+   How well do the systems that manage information about people who use services
+support
+staff, carers and partner agencies to deliver safe care and treatment? (This
+includes
+coordination between different electronic and paper-based systems and
+appropriate access
+for staff to records.)
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 949134b5-c31f-49cc-9c67-30255f2f1e7c
+Document ID: f69b5c13-8a98-4331-bffa-91e9e964f36c
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -16,13 +16,20 @@ Description: Organization and Staffing
 
 ---------- ELEMENTS ----------
 1. CMS 482.56.(a).A-1125 (A-1125)
-   §482.56(a)(1) - The director of the services must have the necessary knowledge, experience, and capabilities to properly supervise and administer the services. 
+   §482.56(a)(1) - The director of the services must have the necessary
+knowledge, experience, and capabilities to properly supervise and administer the
+services.
 
 2. CMS 482.56.(a).A-1126 (A-1126)
-   §482.56(a)(2) Physical therapy, occupational therapy, or speech-language pathology or audiology services, if provided, must be provided by qualified physical therapists, physical therapist assistants, occupational therapists, occupational therapy assistants, speech-language pathologists, or audiologists as defined in part 484 of this chapter. 
+   §482.56(a)(2) Physical therapy, occupational therapy, or speech-language
+pathology or audiology services, if provided, must be provided by qualified
+physical therapists, physical therapist assistants, occupational therapists,
+occupational therapy assistants, speech-language pathologists, or audiologists
+as defined in part 484 of this chapter.
 
 3. CMS 482.56.(a).A-1124 (A-1124)
-   §482.56(a) Standard:  Organization and Staffing 
- The organization of the service must be appropriate to the scope of the services offered. 
+   §482.56(a) Standard:  Organization and Staffing
+ The organization of the service must be appropriate to the scope of the
+services offered.
 
 ---------- END OF DOCUMENT ----------

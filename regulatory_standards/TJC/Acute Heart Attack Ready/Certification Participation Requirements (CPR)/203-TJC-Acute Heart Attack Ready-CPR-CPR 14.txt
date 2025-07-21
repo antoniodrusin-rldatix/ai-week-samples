@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 246123fe-a481-46bc-8a7a-01a450de8b8b
+Document ID: fa3ce6d0-f8c4-492d-a0ea-c7cac8383170
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,27 +10,52 @@ Name: CPR
 Title: Certification Participation Requirements (CPR)
 
 OVERVIEW:
-This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+This chapter includes specific certification participation requirements (CPRs)
+that apply to the certification process and are required to maintain a
+certification award. These differ from review eligibility criteria in that the
+certification process may be initiated even when all CPRs have not yet been met.
+For an organization seeking certification for the first time, compliance with
+the CPRs is assessed during the initial review. For the certified program,
+compliance with these requirements is assessed throughout the certification
+cycle through on-site reviews, Evidence of Standards Compliance (ESC), and
+periodic updates of organization-specific data and information. Organizations
+are either compliant or not compliant with CPRs. When an organization does not
+comply with a CPR, the organization generally will be assigned a Requirement for
+Improvement (RFI) similar to noncompliance with a standard. However, refusal to
+permit performance of an unscheduled or unannounced for-cause review (CPR 3) or
+falsification of information (CPR 7) will immediately lead to a decision of Not
+Certified. Any RFI can potentially impact the certification decision and follow-
+up requirements, as determined by established certification decision rules
+listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure
+to resolve an RFI has the potential to lead to loss of certification.
 
 ---------- STANDARD ----------
 Name: CPR 14
-Description: The disease-specific care program is part of a currently Joint Commission-accredited organization. 
+Description: The disease-specific care program is part of a currently Joint
+Commission-accredited organization.
 
 ---------- ELEMENTS ----------
 1. CPR.14 EP01 (EP 01)
-   The program must be part of a currently Joint Commission–accredited organization, if that organization is accreditation eligible.
-Note 1: This requirement does not apply to a program seeking advanced disease-specific care certification for lung volume reduction surgery or ventricular assist device destination therapy.
-Note 2: This requirement does not apply to a program seeking advanced disease-specific care certification for the following:
-- Acute stroke ready hospital
-- Comprehensive stroke center
-- Primary stroke center
-- Thrombectomy-capable stroke center
-- Acute heart attack ready
-- Comprehensive heart attack center
-- Heart failure
-- Primary heart attack center
-- Advanced certification in spine surgery
-- Total hip and total knee replacement
-However, programs seeking advanced certification for one of these programs must be a part of a hospital or ambulatory surgical center that is compliant with applicable federal laws, including Medicare Conditions of Participation or Medicare Conditions for Coverage.
+   The program must be part of a currently Joint Commission–accredited
+organization, if that organization is accreditation eligible.
+Note 1: This requirement does not apply to a program seeking advanced disease-
+specific care certification for lung volume reduction surgery or ventricular
+assist device destination therapy.
+Note 2: This requirement does not apply to a program seeking advanced disease-
+specific care certification for the following:
+- Acute stroke ready hospital
+- Comprehensive stroke center
+- Primary stroke center
+- Thrombectomy-capable stroke center
+- Acute heart attack ready
+- Comprehensive heart attack center
+- Heart failure
+- Primary heart attack center
+- Advanced certification in spine surgery
+- Total hip and total knee replacement
+However, programs seeking advanced certification for one of these programs must
+be a part of a hospital or ambulatory surgical center that is compliant with
+applicable federal laws, including Medicare Conditions of Participation or
+Medicare Conditions for Coverage.
 
 ---------- END OF DOCUMENT ----------

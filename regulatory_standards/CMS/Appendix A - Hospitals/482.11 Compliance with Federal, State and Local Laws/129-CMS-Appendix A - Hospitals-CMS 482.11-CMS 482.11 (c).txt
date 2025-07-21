@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: a5b7166e-49b6-419e-86b3-cb065de4c2ff
+Document ID: 616f052f-7015-4ee1-8f56-2ab6424ac1d4
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,17 +10,20 @@ Name: CMS 482.11
 Title: 482.11 Compliance with Federal, State and Local Laws
 
 ABOUT:
-Interpretive Guidelines §482.11 The hospital must ensure that all applicable Federal, State and local law requirements are met.
+Interpretive Guidelines §482.11 The hospital must ensure that all applicable
+Federal, State and local law requirements are met.
 
 ---------- STANDARD ----------
 Name: CMS 482.11 (c)
 Code: 482.11
-Description: The hospital must assure that personnel are licensed or meet other applicable standards that are required by State or local laws.
+Description: The hospital must assure that personnel are licensed or meet other
+applicable standards that are required by State or local laws.
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.11.(c).A-0023 (A-0023)
-   §482.11(c)  The hospital must assure that personnel are licensed or meet other applicable standards that are required by State or local laws. 
+   §482.11(c)  The hospital must assure that personnel are licensed or meet
+other applicable standards that are required by State or local laws.
 
 
 ---------- END OF DOCUMENT ----------

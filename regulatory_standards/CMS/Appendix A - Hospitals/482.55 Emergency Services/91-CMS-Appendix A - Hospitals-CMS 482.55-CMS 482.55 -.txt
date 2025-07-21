@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 7510f42b-5117-4eea-8379-9cc2bc0557b7
+Document ID: a0447412-f510-4c65-acd9-111da60c3aed
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,7 +15,8 @@ Description: Condition of Participation:  Emergency Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.55.-.A-1100 (A-1100)
-   §482.55 Condition of Participation:  Emergency Services 
- The hospital must meet the emergency needs of patients in accordance with acceptable standards of practice. 
+   §482.55 Condition of Participation:  Emergency Services
+ The hospital must meet the emergency needs of patients in accordance with
+acceptable standards of practice.
 
 ---------- END OF DOCUMENT ----------

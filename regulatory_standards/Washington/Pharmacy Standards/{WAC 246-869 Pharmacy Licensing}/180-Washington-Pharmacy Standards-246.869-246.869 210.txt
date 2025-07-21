@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 8592a80f-b78b-421b-a730-c43310fa618a
+Document ID: a5e0ff71-050d-4c74-a40f-fc070658943f
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,26 +15,41 @@ Description: Prescription labeling.
 
 ---------- ELEMENTS ----------
 1. 246.869.210.1 (1)
-   To every prescription container, there shall be fixed a label or labels bearing the following information:
-All information as required by RCW 18.64.246, provided that in determining an appropriate period of time for which a prescription drug may be retained by a patient after its dispensing, the dispenser shall take the following factors into account:
-(a) The nature of the drug;
-(b) The container in which it was packaged by the manufacturer and the expiration date thereon;
-(c) The characteristics of the patient's container, if the drug is repackaged for dispensing;
-(d) The expected conditions to which the article may be exposed;
-(e) The expected length of time of the course of therapy; and
-(f) Any other relevant factors.
-The dispenser shall, on taking into account the foregoing, place on the label of a multiple unit container a suitable beyond-use date or discard-by date to limit the patient's use of the drug. In no case may this date be later than the original expiration date determined by the manufacturer.
+   To every prescription container, there shall be fixed a label or labels
+bearing the following information:
+All information as required by RCW 18.64.246, provided that in determining an
+appropriate period of time for which a prescription drug may be retained by a
+patient after its dispensing, the dispenser shall take the following factors
+into account:
+(a) The nature of the drug;
+(b) The container in which it was packaged by the manufacturer and the
+expiration date thereon;
+(c) The characteristics of the patient's container, if the drug is repackaged
+for dispensing;
+(d) The expected conditions to which the article may be exposed;
+(e) The expected length of time of the course of therapy; and
+(f) Any other relevant factors.
+The dispenser shall, on taking into account the foregoing, place on the label of
+a multiple unit container a suitable beyond-use date or discard-by date to limit
+the patient's use of the drug. In no case may this date be later than the
+original expiration date determined by the manufacturer.
 
 2. 246.869.210.2 (2)
-   To every prescription container, there shall be fixed a label or labels bearing the following information:
-The quantity of drug dispensed, for example the volume or number of dosage units.
+   To every prescription container, there shall be fixed a label or labels
+bearing the following information:
+The quantity of drug dispensed, for example the volume or number of dosage
+units.
 
 3. 246.869.210.3 (3)
-   To every prescription container, there shall be fixed a label or labels bearing the following information:
-The following statement, "Warning: State or federal law prohibits transfer of this drug to any person other than the person for whom it was prescribed."
+   To every prescription container, there shall be fixed a label or labels
+bearing the following information:
+The following statement, "Warning: State or federal law prohibits transfer of
+this drug to any person other than the person for whom it was prescribed."
 
 4. 246.869.210.4 (4)
-   To every prescription container, there shall be fixed a label or labels bearing the following information:
-The information contained on the label shall be supplemented by oral or written information as required by WAC 246-869-220.
+   To every prescription container, there shall be fixed a label or labels
+bearing the following information:
+The information contained on the label shall be supplemented by oral or written
+information as required by WAC 246-869-220.
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: f12222d3-c189-49df-b851-f6085f3a869c
+Document ID: 119cce27-d24c-4abd-8f27-f38d8f4e85f8
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,29 +15,61 @@ Description: Pharmacy practice
 
 ---------- ELEMENTS ----------
 1. 450.090.1 (1)
-   Managing pharmacist.
-(a) Every pharmacy shall be under the control of the managing pharmacist who signed the pharmacy license application, the most recent license renewal application or the most recent amended schedule of operations. The managing pharmacist shall be responsible for the professional operations of the pharmacy. A pharmacist may be the managing pharmacist of not more than one community and one institutional pharmacy at any time and shall be engaged in the practice of pharmacy at each location he or she supervises. The board shall by rule define community pharmacy and institutional pharmacy for the purposes of this section.
-(b) If the managing pharmacist anticipates being continuously absent for a period of more than 30 days from a pharmacy he or she supervises, the managing pharmacist shall delegate the supervisory responsibility to another pharmacist for the duration of the absence by written power of attorney which shall be kept on file in the pharmacy to which the power of attorney applies. The pharmacist designated to assume the supervisory responsibility for the pharmacy during the managing pharmacist's absence shall be engaged in the practice of pharmacy at the pharmacy to which the power of attorney applies.
+   Managing pharmacist.
+(a) Every pharmacy shall be under the control of the managing pharmacist who
+signed the pharmacy license application, the most recent license renewal
+application or the most recent amended schedule of operations. The managing
+pharmacist shall be responsible for the professional operations of the pharmacy.
+A pharmacist may be the managing pharmacist of not more than one community and
+one institutional pharmacy at any time and shall be engaged in the practice of
+pharmacy at each location he or she supervises. The board shall by rule define
+community pharmacy and institutional pharmacy for the purposes of this section.
+(b) If the managing pharmacist anticipates being continuously absent for a
+period of more than 30 days from a pharmacy he or she supervises, the managing
+pharmacist shall delegate the supervisory responsibility to another pharmacist
+for the duration of the absence by written power of attorney which shall be kept
+on file in the pharmacy to which the power of attorney applies. The pharmacist
+designated to assume the supervisory responsibility for the pharmacy during the
+managing pharmacist's absence shall be engaged in the practice of pharmacy at
+the pharmacy to which the power of attorney applies.
 
 2. 450.090.2 (2)
-   Presence of pharmacist. No pharmaceutical service may be provided to any person unless a pharmacist is present in the pharmacy to provide or supervise the service.
+   Presence of pharmacist. No pharmaceutical service may be provided to any
+person unless a pharmacist is present in the pharmacy to provide or supervise
+the service.
 
 3. 450.090.4 (4)
-   Condition of pharmacy. The pharmacy shall be maintained in a clean and orderly manner and the professional service area shall be equipped with proper fixtures and equipment for sanitation.
+   Condition of pharmacy. The pharmacy shall be maintained in a clean and
+orderly manner and the professional service area shall be equipped with proper
+fixtures and equipment for sanitation.
 
 4. 450.090.6 (6)
-   Medication profile record system. Every pharmacy shall maintain a medication profile record system of all drug products dispensed for a particular patient according to the minimum standards for such systems established by the board by rule. Every practitioner shall maintain a record of all drug products dispensed to each patient according to standards established by the appropriate examining board by rule. The standards established by each examining board shall require the recording of all renewal dispensing information required by federal and state law and related rules and regulations.
+   Medication profile record system. Every pharmacy shall maintain a medication
+profile record system of all drug products dispensed for a particular patient
+according to the minimum standards for such systems established by the board by
+rule. Every practitioner shall maintain a record of all drug products dispensed
+to each patient according to standards established by the appropriate examining
+board by rule. The standards established by each examining board shall require
+the recording of all renewal dispensing information required by federal and
+state law and related rules and regulations.
 
 5. 450.090.7 (7)
-   Selection of drugs. Drug products purchased for subsequent sale and dispensing at a pharmacy shall be selected for purchase by a pharmacist.
+   Selection of drugs. Drug products purchased for subsequent sale and
+dispensing at a pharmacy shall be selected for purchase by a pharmacist.
 
 6. 450.090.7m (7m)
-   State prisons. A prescription drug that is returned to a pharmacy that primarily serves patients confined in a state prison may be dispensed to any patient in any state prison, but only if all of the following are satisfied:
-450.09(7m)(a)(a) The prescription drug was never in the possession of the patient to whom it was originally prescribed.
-(b) The prescription drug is returned in its original container.
-(c) A pharmacist determines that the prescription drug has not been adulterated or misbranded.
+   State prisons. A prescription drug that is returned to a pharmacy that
+primarily serves patients confined in a state prison may be dispensed to any
+patient in any state prison, but only if all of the following are satisfied:
+450.09(7m)(a)(a) The prescription drug was never in the possession of the
+patient to whom it was originally prescribed.
+(b) The prescription drug is returned in its original container.
+(c) A pharmacist determines that the prescription drug has not been adulterated
+or misbranded.
 
 7. 450.090.8 (8)
-   Penalties. Any person who violates this section may be assessed a forfeiture of not less than $25 nor more than $50 for each separate offense. Each day of violation constitutes a separate offense.
+   Penalties. Any person who violates this section may be assessed a forfeiture
+of not less than $25 nor more than $50 for each separate offense. Each day of
+violation constitutes a separate offense.
 
 ---------- END OF DOCUMENT ----------

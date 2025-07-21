@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: b592b59d-c99c-4fb0-a8af-93503366a8bc
+Document ID: 9f0f7448-0447-4a72-8d24-5b0856747f19
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,13 +12,13 @@ Title: 482.60 Special Provisions Applying to Psychiatric Hospitals
 ---------- STANDARD ----------
 Name: CMS 482.60 (d)
 Code: 482.60
-Description: Meet the staffing requirements specified in §482.62.
+Description: Meet the staffing requirements specified in §482.62.
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.60.(d).A-1615  (A-1615 )
-   §482.60(d) Meet the staffing requirements specified in §482.62. 
-
+   §482.60(d) Meet the staffing requirements specified in §482.62.
+
 
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 04232fa0-d57b-462d-b644-717f9c16f5c1
+Document ID: 061de744-f30e-4a59-bf98-09a72f1999a9
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,6 +15,8 @@ Description: Drugs for animal use
 
 ---------- ELEMENTS ----------
 1. 450.0125.1 (1)
-   In addition to complying with the other requirements in this chapter for distributing and dispensing, a pharmacist who distributes or dispenses a drug for animal use shall comply with s.
+   In addition to complying with the other requirements in this chapter for
+distributing and dispensing, a pharmacist who distributes or dispenses a drug
+for animal use shall comply with s.
 
 ---------- END OF DOCUMENT ----------

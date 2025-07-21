@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: cb56697d-4ff0-4e5b-ab94-76e05e17e3c4
+Document ID: 3833e4fa-fb36-411a-961a-f55f81960b0f
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,25 +15,43 @@ Description: Physical requirements
 
 ---------- ELEMENTS ----------
 1. 246.873.070.1 (1)
-   Area. The pharmacy facilities shall include:
-(a) Appropriate transportation and communications systems for the distribution and control of drugs within the hospital.
-Sufficient space and equipment for secure, environmentally controlled storage of drugs and other pharmaceutical supplies.
+   Area. The pharmacy facilities shall include:
+(a) Appropriate transportation and communications systems for the distribution
+and control of drugs within the hospital.
+Sufficient space and equipment for secure, environmentally controlled storage of
+drugs and other pharmaceutical supplies.
 
 2. 246.873.070.2 (2)
-   In order to meet the medical services' need for drugs throughout the hospital, the pharmacy facilities should include:
-(a) Space for the management and clinical functions of the pharmaceutical service.
-(b) Space and equipment for the preparation of parenteral admixtures, radiopharmaceuticals, and other sterile compounding and packaging.
+   In order to meet the medical services' need for drugs throughout the
+hospital, the pharmacy facilities should include:
+(a) Space for the management and clinical functions of the pharmaceutical
+service.
+(b) Space and equipment for the preparation of parenteral admixtures,
+radiopharmaceuticals, and other sterile compounding and packaging.
 (c) Other equipment necessary.
 
 3. 246.873.070.3 (3)
-   Access to unattended areas. All areas occupied by the hospital pharmacy shall be locked by key or combination in order to prevent access by unauthorized personnel. The director of pharmacy shall designate in writing, by title and/or position those individuals who shall be authorized access to particular areas within the pharmacy, including authorization of access to keys and/or combinations.
+   Access to unattended areas. All areas occupied by the hospital pharmacy shall
+be locked by key or combination in order to prevent access by unauthorized
+personnel. The director of pharmacy shall designate in writing, by title and/or
+position those individuals who shall be authorized access to particular areas
+within the pharmacy, including authorization of access to keys and/or
+combinations.
 
 4. 246.873.070.4 (4)
-   Drug storage areas. Drugs shall be stored under proper conditions of sanitation, temperature, light, moisture, ventilation, segregation, and security.
-(a) It is the joint responsibility of the director of pharmacy and the director of nursing to ensure that drug handling, storage, and preparation are carried out in conformance with established policies, procedures, and accepted standards.
-(b) Locked storage or locked medication carts shall be provided for use on each nursing service area or unit.
+   Drug storage areas. Drugs shall be stored under proper conditions of
+sanitation, temperature, light, moisture, ventilation, segregation, and
+security.
+(a) It is the joint responsibility of the director of pharmacy and the director
+of nursing to ensure that drug handling, storage, and preparation are carried
+out in conformance with established policies, procedures, and accepted
+standards.
+(b) Locked storage or locked medication carts shall be provided for use on each
+nursing service area or unit.
 
 5. 246.873.070.5 (5)
-   Flammable storage. All flammable material shall be stored and handled in accordance with applicable local and state fire regulations, and there shall be written policy and procedures for the destruction of these flammable materials.
+   Flammable storage. All flammable material shall be stored and handled in
+accordance with applicable local and state fire regulations, and there shall be
+written policy and procedures for the destruction of these flammable materials.
 
 ---------- END OF DOCUMENT ----------

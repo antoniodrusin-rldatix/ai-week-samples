@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 05d594b7-eaad-490e-89b9-789ad932cc3e
+Document ID: 4b09cb28-a53d-4efa-a40f-9fcd651433a1
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -11,16 +11,18 @@ Title: 482.53 Nuclear Medicine Services
 
 ---------- STANDARD ----------
 Name: CMS 482.53 -
-Description: Condition of Participation:  Nuclear Medicine Services 
+Description: Condition of Participation:  Nuclear Medicine Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.53.-.A-1025 (A-1025)
-   §482.53 Condition of Participation:  Nuclear Medicine Services 
- If the hospital provides nuclear medicine services, those services must meet the needs of the patients in accordance with acceptable standards of practice. 
+   §482.53 Condition of Participation:  Nuclear Medicine Services
+ If the hospital provides nuclear medicine services, those services must meet
+the needs of the patients in accordance with acceptable standards of practice.
 
 2. CMS 482.53.-.A-1026 (A-1026)
-   Standard-level Tag 
- §482.53 Condition of Participation:  Nuclear Medicine Services 
- If the hospital provides nuclear medicine services, those services must meet the needs of the patients in accordance with acceptable standards of practice. 
+   Standard-level Tag
+ §482.53 Condition of Participation:  Nuclear Medicine Services
+ If the hospital provides nuclear medicine services, those services must meet
+the needs of the patients in accordance with acceptable standards of practice.
 
 ---------- END OF DOCUMENT ----------

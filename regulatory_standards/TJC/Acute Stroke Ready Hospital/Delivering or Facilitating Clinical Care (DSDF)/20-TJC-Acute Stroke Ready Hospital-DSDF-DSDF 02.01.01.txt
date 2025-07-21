@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: c9f29536-86ff-482d-810b-abb8eea80a48
+Document ID: b96cafc7-edd6-4d64-9545-316f8b472d48
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,23 +10,52 @@ Name: DSDF
 Title: Delivering or Facilitating Clinical Care (DSDF)
 
 OVERVIEW:
-Delivering, facilitating, or improving the delivery of high-quality clinical care is at the heart of disease management. Patients with a chronic disease count on practitioners to provide the best care possible. Of course, delivering or facilitating high-quality care means that practitioners are constantly striving to improve. Therefore, the standards in this chapter focus on the following: - Using qualified, competent practitioners - Delivering or facilitating the delivery of care using evidence-based clinical practice guidelines (CPGs) - Individualizing care to meet patients’ needs - Managing comorbidities and concurrently occurring conditions - Initiating discharge planning and facilitating subsequent care, treatment, and services These activities require an interdisciplinary approach. Each practitioner’s role and responsibilities are determined by his or her professional skills, competence, and credentials; the care provided; and the program’s policies. Note: Clinical practice guidelines (CPGs) are found in the literature under many names—practice parameters, practice guidelines, patient care protocols, standards of practice, clinical pathways, care maps, and so forth. In all cases, CPGs should be evidence based and effective for the targeted patient populations.
+Delivering, facilitating, or improving the delivery of high-quality clinical
+care is at the heart of disease management. Patients with a chronic disease
+count on practitioners to provide the best care possible. Of course, delivering
+or facilitating high-quality care means that practitioners are constantly
+striving to improve. Therefore, the standards in this chapter focus on the
+following: - Using qualified, competent practitioners - Delivering or
+facilitating the delivery of care using evidence-based clinical practice
+guidelines (CPGs) - Individualizing care to meet patients’ needs - Managing
+comorbidities and concurrently occurring conditions - Initiating discharge
+planning and facilitating subsequent care, treatment, and services These
+activities require an interdisciplinary approach. Each practitioner’s role and
+responsibilities are determined by his or her professional skills, competence,
+and credentials; the care provided; and the program’s policies. Note: Clinical
+practice guidelines (CPGs) are found in the literature under many names—practice
+parameters, practice guidelines, patient care protocols, standards of practice,
+clinical pathways, care maps, and so forth. In all cases, CPGs should be
+evidence based and effective for the targeted patient populations.
 
 ---------- STANDARD ----------
 Name: DSDF 02.01.01
-Description: The disease-specific care program provides interdisciplinary, collaborative care, treatment, and services for each patient.
+Description: The disease-specific care program provides interdisciplinary,
+collaborative care, treatment, and services for each patient.
 
 RATIONALE:
-The disease-specific care program provides the patient with care, treatment, and services according to the patient’s individualized plan of care, needs, and goals. Interdisciplinary, collaborative care helps to meet a patient’s health care needs by coordinating and increasing efficiency in the delivery of care from multiple providers and specialists while continually delivering high-quality, safe care. Care coordination also aims at reducing cost associated with unnecessary tests or treatments.
+The disease-specific care program provides the patient with care, treatment, and
+services according to the patient’s individualized plan of care, needs, and
+goals. Interdisciplinary, collaborative care helps to meet a patient’s health
+care needs by coordinating and increasing efficiency in the delivery of care
+from multiple providers and specialists while continually delivering high-
+quality, safe care. Care coordination also aims at reducing cost associated with
+unnecessary tests or treatments.
 
 ---------- ELEMENTS ----------
 1. DSDF.02.01.01 EP1 (EP 1)
-   The disease-specific care program provides the patient with care, treatment, or services based on the assessed need of the patient and within the time frames defined in the program’s protocols, policies, procedures, and order sets.
+   The disease-specific care program provides the patient with care, treatment,
+or services based on the assessed need of the patient and within the time frames
+defined in the program’s protocols, policies, procedures, and order sets.
 
 2. DSDF.02.01.01 EP2 (EP 2)
-   The disease-specific care program evaluates the patient’s response(s) to care, treatment, and services as defined in the program’s protocols, policies, procedures, and/or order sets.
+   The disease-specific care program evaluates the patient’s response(s) to
+care, treatment, and services as defined in the program’s protocols, policies,
+procedures, and/or order sets.
 
 3. DSDF.02.01.01 EP3 (EP 3)
-   The disease-specific care program follows its organization’s processes for hand-off communication related to the patient’s current condition, care, treatment, medications, and services, as applicable.
+   The disease-specific care program follows its organization’s processes for
+hand-off communication related to the patient’s current condition, care,
+treatment, medications, and services, as applicable.
 
 ---------- END OF DOCUMENT ----------

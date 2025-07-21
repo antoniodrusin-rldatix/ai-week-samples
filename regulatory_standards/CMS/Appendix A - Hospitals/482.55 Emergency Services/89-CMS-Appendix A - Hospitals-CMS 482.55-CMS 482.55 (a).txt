@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 3f7d7a9b-3b8f-485e-867c-c85a2640397a
+Document ID: cf6b0cfd-c7e8-4d12-ade2-f3ff5b390dc2
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,26 +12,31 @@ Title: 482.55 Emergency Services
 ---------- STANDARD ----------
 Name: CMS 482.55 (a)
 Code: 482.55
-Description: Organization and Direction
+Description: Organization and Direction
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.55.(a).A-1102 (A-1102)
-   §482.55(a) - [If emergency services are provided at the hospital --] (1) The services must be organized under the direction of a qualified member of the medical staff; 
+   §482.55(a) - [If emergency services are provided at the hospital --] (1) The
+services must be organized under the direction of a qualified member of the
+medical staff;
 
 
 2. CMS 482.55.(a).A-1103 (A-1103)
-   §482.55(a) - [If emergency services are provided at the hospital --] 
- 
-(3) The policies and procedures governing medical care provided in the emergency service or department are established by and are a continuing responsibility of the medical staff. 
+   §482.55(a) - [If emergency services are provided at the hospital --]
+
+(3) The policies and procedures governing medical care provided in the emergency
+service or department are established by and are a continuing responsibility of
+the medical staff.
 
 
 3. CMS 482.55.(a).A-1103 (A-1103)
-   §482.55(a) - [If emergency services are provided at the hospital --] 
- (2) The services must be integrated with other departments of the hospital; 
+   §482.55(a) - [If emergency services are provided at the hospital --]
+ (2) The services must be integrated with other departments of the hospital;
 
 
 4. CMS 482.55.(a).A-1101 (A-1101)
-   §482.55(a) Standard:  Organization and Direction.  If emergency services are provided at the hospital -- 
+   §482.55(a) Standard:  Organization and Direction.  If emergency services are
+provided at the hospital --
 
 ---------- END OF DOCUMENT ----------

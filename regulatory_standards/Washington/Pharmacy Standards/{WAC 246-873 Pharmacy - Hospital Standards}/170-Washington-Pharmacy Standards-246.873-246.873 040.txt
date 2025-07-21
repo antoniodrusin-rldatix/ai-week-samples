@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 6b2c7902-5445-4b0a-b86e-729a99c399b1
+Document ID: a8c0c2f9-a443-44d2-aaeb-c215e4eff6ca
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,12 +15,37 @@ Description: Personnel
 
 ---------- ELEMENTS ----------
 1. 246.873.040.1 (1)
-   Director of pharmacy. The pharmacy, organized as a separate department or service, shall be directed by a licensed pharmacist appropriately qualified by education, training, and experience to manage a hospital pharmacy. The patient care and management responsibilities of the director of pharmacy shall be clearly delineated in writing and shall be in accordance with currently accepted principles of management, safety, adequate patient care and treatment. The responsibilities shall include the establishment and maintenance of policies and procedures, ongoing monitoring and evaluation of pharmaceutical service, use and control of drugs, and participation in relevant planning, policy and decision-making activities. Hospitals which do not require, or are unable to obtain the services of a fulltime director shall be held responsible for the principles contained herein and shall establish an ongoing arrangement in writing with an appropriately qualified pharmacist to provide the services. Where the director of pharmacy is not employed fulltime, then the hospital shall establish an ongoing arrangement in writing with an appropriately qualified pharmacist to provide the services described herein. The director of pharmacy shall be responsible to the chief executive officer of the hospital or his/her designee.
+   Director of pharmacy. The pharmacy, organized as a separate department or
+service, shall be directed by a licensed pharmacist appropriately qualified by
+education, training, and experience to manage a hospital pharmacy. The patient
+care and management responsibilities of the director of pharmacy shall be
+clearly delineated in writing and shall be in accordance with currently accepted
+principles of management, safety, adequate patient care and treatment. The
+responsibilities shall include the establishment and maintenance of policies and
+procedures, ongoing monitoring and evaluation of pharmaceutical service, use and
+control of drugs, and participation in relevant planning, policy and decision-
+making activities. Hospitals which do not require, or are unable to obtain the
+services of a fulltime director shall be held responsible for the principles
+contained herein and shall establish an ongoing arrangement in writing with an
+appropriately qualified pharmacist to provide the services. Where the director
+of pharmacy is not employed fulltime, then the hospital shall establish an
+ongoing arrangement in writing with an appropriately qualified pharmacist to
+provide the services described herein. The director of pharmacy shall be
+responsible to the chief executive officer of the hospital or his/her designee.
 
 2. 246.873.040.2 (2)
-   Supportive personnel. The director of pharmacy shall be assisted by sufficient numbers of additional pharmacists and/or pharmacy assistants and clerical personnel required to operate safely and efficiently to meet the needs of the patients.
+   Supportive personnel. The director of pharmacy shall be assisted by
+sufficient numbers of additional pharmacists and/or pharmacy assistants and
+clerical personnel required to operate safely and efficiently to meet the needs
+of the patients.
 
 3. 246.873.040.3 (3)
-   Supervision. All of the activities and operations of each hospital pharmacy shall be professionally managed by the director or a pharmacist designee. Functions and activities shall be under the immediate supervision of a pharmacist and shall be performed according to written policies and procedures. When the hospital pharmacy is decentralized, each decentralized section(s) or separate organizational element(s) shall be under the immediate supervision of a pharmacist responsible to the director.
+   Supervision. All of the activities and operations of each hospital pharmacy
+shall be professionally managed by the director or a pharmacist designee.
+Functions and activities shall be under the immediate supervision of a
+pharmacist and shall be performed according to written policies and procedures.
+When the hospital pharmacy is decentralized, each decentralized section(s) or
+separate organizational element(s) shall be under the immediate supervision of a
+pharmacist responsible to the director.
 
 ---------- END OF DOCUMENT ----------

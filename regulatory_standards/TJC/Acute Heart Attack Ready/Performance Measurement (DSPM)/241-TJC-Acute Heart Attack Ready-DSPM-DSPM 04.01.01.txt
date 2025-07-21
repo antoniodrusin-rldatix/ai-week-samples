@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 63a03d33-4d84-4b8c-b968-95c22f66af76
+Document ID: eb8a8302-5b65-4549-b41c-d0556b602326
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,24 +10,48 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 04.01.01
 Description: The disease-specific care program reports relevant data.
 
 RATIONALE:
-Data reporting enables the disease-specific care program to demonstrate to its key stakeholders and organization leaders how the program has achieved and improved outcomes of care; how it continues to drive operational excellence, enhance customer value, and achieve cost savings; and how it remains market competitive as determined by the program’s overall goals and objectives aligning the program to the organization’s values.
+Data reporting enables the disease-specific care program to demonstrate to its
+key stakeholders and organization leaders how the program has achieved and
+improved outcomes of care; how it continues to drive operational excellence,
+enhance customer value, and achieve cost savings; and how it remains market
+competitive as determined by the program’s overall goals and objectives aligning
+the program to the organization’s values.
 
 ---------- ELEMENTS ----------
 1. DSPM.04.01.01 EP01 (EP 01)
-   The disease-specific care program develops and implements a process to provide information about performance improvement activities, including relevant data and outcomes, to internal staff, organizational leaders, and external providers, as applicable to the program.
-
-Requirements Specific to Acute Heart Attack Ready Certification
-a. The program collects data related to emergency medical services (EMS) and interfacility transport agencies and provides feedback on all ST-elevated myocardial infarction (STEMI) patients and other cardiac patients as determined by the program.
-b. The program collaborates with receiving and referring hospitals to facilitate feedback related to transfer processes and other outcomes of care on all ST-elevated myocardial infarction (STEMI) patients and other cardiac patients as determined by the program.
+   The disease-specific care program develops and implements a process to
+provide information about performance improvement activities, including relevant
+data and outcomes, to internal staff, organizational leaders, and external
+providers, as applicable to the program.
+
+Requirements Specific to Acute Heart Attack Ready Certification
+a. The program collects data related to emergency medical services (EMS) and
+interfacility transport agencies and provides feedback on all ST-elevated
+myocardial infarction (STEMI) patients and other cardiac patients as determined
+by the program.
+b. The program collaborates with receiving and referring hospitals to facilitate
+feedback related to transfer processes and other outcomes of care on all ST-
+elevated myocardial infarction (STEMI) patients and other cardiac patients as
+determined by the program.
 
 2. DSPM.04.01.01 EP02 (EP 02)
-   The disease-specific care program reports the results of aggregate data to The Joint Commission at the required intervals.
+   The disease-specific care program reports the results of aggregate data to
+The Joint Commission at the required intervals.
 
 ---------- END OF DOCUMENT ----------

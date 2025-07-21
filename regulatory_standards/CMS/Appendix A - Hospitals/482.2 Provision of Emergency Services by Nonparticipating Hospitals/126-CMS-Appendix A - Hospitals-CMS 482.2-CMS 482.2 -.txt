@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 410cdda6-cc5a-4ae0-b158-59d9cf2c79b8
+Document ID: 16a4e87a-c360-4f7d-b54b-433e162c0653
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,41 @@ Name: CMS 482.2
 Title: 482.2 Provision of Emergency Services by Nonparticipating Hospitals
 
 OVERVIEW:
-NOTE: in the regulations or guidance which follow, in every instance where the following terms appear: • “spouse” means an individual who is married to another individual as a result of marriage lawful where it was entered into, including a lawful same-sex marriage, regardless of whether the jurisdiction where the hospital is located, or in which the spouse lives, permits such marriages to occur or recognizes such marriages. • “marriage” means a marriage lawful where entered into, including a lawful same-sex marriage, regardless of whether the jurisdiction where the hospital is located, or in which the spouse lives, permits such marriages to occur or recognizes such marriages; • “family” includes, but is not limited to, an individual’s “spouse” (see above); and • “relative” when used as a noun, includes, but is not limited to, an individual’s “spouse” (see above). Furthermore, except where CMS regulations explicitly require an interpretation in accordance with State law, wherever the text of a regulation or associated guidance uses the above terms or includes a reference to a patient’s “representative,” “surrogate,” “support person,” “next-of-kin,” or similar term in such a manner as would normally implicitly or explicitly include a spouse, the terms are to be interpreted consistent with the guidance above. A hospital is expected to recognize all lawful marriages and spouses for purposes of compliance with the Conditions of Participation, regardless of any laws to the contrary of the state or locality or other jurisdiction where the hospital is located or where the spouse lives.
+NOTE: in the regulations or guidance which follow, in every instance where the
+following terms appear: • “spouse” means an individual who is married to another
+individual as a result of marriage lawful where it was entered into, including a
+lawful same-sex marriage, regardless of whether the jurisdiction where the
+hospital is located, or in which the spouse lives, permits such marriages to
+occur or recognizes such marriages. • “marriage” means a marriage lawful where
+entered into, including a lawful same-sex marriage, regardless of whether the
+jurisdiction where the hospital is located, or in which the spouse lives,
+permits such marriages to occur or recognizes such marriages; • “family”
+includes, but is not limited to, an individual’s “spouse” (see above); and •
+“relative” when used as a noun, includes, but is not limited to, an individual’s
+“spouse” (see above). Furthermore, except where CMS regulations explicitly
+require an interpretation in accordance with State law, wherever the text of a
+regulation or associated guidance uses the above terms or includes a reference
+to a patient’s “representative,” “surrogate,” “support person,” “next-of-kin,”
+or similar term in such a manner as would normally implicitly or explicitly
+include a spouse, the terms are to be interpreted consistent with the guidance
+above. A hospital is expected to recognize all lawful marriages and spouses for
+purposes of compliance with the Conditions of Participation, regardless of any
+laws to the contrary of the state or locality or other jurisdiction where the
+hospital is located or where the spouse lives.
 
 ABOUT:
-Interpretive Guidelines §482.2 The statutory requirements that a hospital must meet are: • The hospital is primarily engaged in providing, by or under the supervision of MD/DOs, to inpatients, diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled or sick persons, or rehabilitation services for the injured, disabled, or sick persons; • The hospital maintains clinical records on all patients; • The hospital has medical staff bylaws; • The hospital has a requirement that every Medicare patient must be under the care of an MD/DO; • The hospital provides 24-hour nursing services rendered or supervised by a registered professional nurse and has a licensed, practical, or registered professional nurse on duty at all times; and • The hospital is licensed or is approved as meeting the standards for licensing, as a hospital as defined by the State.
+Interpretive Guidelines §482.2 The statutory requirements that a hospital must
+meet are: • The hospital is primarily engaged in providing, by or under the
+supervision of MD/DOs, to inpatients, diagnostic services and therapeutic
+services for medical diagnosis, treatment, and care of injured, disabled or sick
+persons, or rehabilitation services for the injured, disabled, or sick persons;
+• The hospital maintains clinical records on all patients; • The hospital has
+medical staff bylaws; • The hospital has a requirement that every Medicare
+patient must be under the care of an MD/DO; • The hospital provides 24-hour
+nursing services rendered or supervised by a registered professional nurse and
+has a licensed, practical, or registered professional nurse on duty at all
+times; and • The hospital is licensed or is approved as meeting the standards
+for licensing, as a hospital as defined by the State.
 
 ---------- STANDARD ----------
 Name: CMS 482.2 -
@@ -28,21 +59,36 @@ Description: Provision of Emergency Services by Nonparticipating Hospitals
    test
 
 3. CMS 482.2.-.A-0001 (A-0001)
-   §482.2 Provision of Emergency Services by Nonparticipating Hospitals 
- (a)  The services of an institution that does not have an agreement to participate in the Medicare program may, nevertheless, be reimbursed under the program if-- 
- (1)  The services are emergency services; and  
- (2)  The institution meets the requirements of section 1861(e)(1) through (5) and (7) of the Act.  Rules applicable to emergency services furnished by nonparticipating hospitals are set forth in subpart G of part 424 of this chapter. 
- (b) Section 440.170(e) of this chapter defines emergency hospital services for purposes of Medicaid reimbursement. 
+   §482.2 Provision of Emergency Services by Nonparticipating Hospitals
+ (a)  The services of an institution that does not have an agreement to
+participate in the Medicare program may, nevertheless, be reimbursed under the
+program if--
+ (1)  The services are emergency services; and
+ (2)  The institution meets the requirements of section 1861(e)(1) through (5)
+and (7) of the Act.  Rules applicable to emergency services furnished by
+nonparticipating hospitals are set forth in subpart G of part 424 of this
+chapter.
+ (b) Section 440.170(e) of this chapter defines emergency hospital services for
+purposes of Medicaid reimbursement.
 
 4. CMS 482.2.-.A-0001 (A-0001)
-   §482.2 Provision of Emergency Services by Nonparticipating Hospitals 
- (a)  The services of an institution that does not have an agreement to participate in the Medicare program may, nevertheless, be reimbursed under the program if-- 
- (1)  The services are emergency services; and  
- (2)  The institution meets the requirements of section 1861(e)(1) through (5) and (7) of the Act.  Rules applicable to emergency services furnished by nonparticipating hospitals are set forth in subpart G of part 424 of this chapter. 
- (b) Section 440.170(e) of this chapter defines emergency hospital services for purposes of Medicaid reimbursement.
+   §482.2 Provision of Emergency Services by Nonparticipating Hospitals
+ (a)  The services of an institution that does not have an agreement to
+participate in the Medicare program may, nevertheless, be reimbursed under the
+program if--
+ (1)  The services are emergency services; and
+ (2)  The institution meets the requirements of section 1861(e)(1) through (5)
+and (7) of the Act.  Rules applicable to emergency services furnished by
+nonparticipating hospitals are set forth in subpart G of part 424 of this
+chapter.
+ (b) Section 440.170(e) of this chapter defines emergency hospital services for
+purposes of Medicaid reimbursement.
 
 5. CMS 482.2.-.2 (2)
-   The institution meets the requirements of section 1861(e) (1) through (5)and (7) of the Act. Rules applicable to emergency services furnished by nonparticipating hospitals are set forth in subpart G of part 424 of this chapter.
+   The institution meets the requirements of section 1861(e) (1) through (5)and
+(7) of the Act. Rules applicable to emergency services furnished by
+nonparticipating hospitals are set forth in subpart G of part 424 of this
+chapter.
 
 
 ---------- END OF DOCUMENT ----------

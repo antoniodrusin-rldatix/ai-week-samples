@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: cad82c74-2fcb-4a7f-b651-80d97a84e1df
+Document ID: 34deacd8-04e6-4736-8190-cc1f125b3440
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,15 +15,30 @@ Description: Reporting potential causes of public health emergency
 
 ---------- ELEMENTS ----------
 1. 450.0145.1 (1)
-   Within 24 hours after an occurrence of any of the following, a pharmacist or pharmacy shall report the occurrence electronically, by fax machine, by telephone, or in writing to a local health department, as defined in s. 250.01 (4), or the department of health services:
-(a) An unusual increase in the number of prescriptions dispensed or nonprescription drug products sold by the pharmacist or pharmacy for the treatment of medical conditions specified by the department of health services by rule under s. 252.02 (7).
-(b) An unusual increase in the number of prescriptions dispensed by the pharmacist or pharmacy that are antibiotic drugs.
-(c) The dispensing of a prescription by the pharmacist or pharmacy for treatment of a disease that is relatively uncommon or may be associated with bioterrorism, as defined in s. 323.02 (4).
+   Within 24 hours after an occurrence of any of the following, a pharmacist or
+pharmacy shall report the occurrence electronically, by fax machine, by
+telephone, or in writing to a local health department, as defined in s. 250.01
+(4), or the department of health services:
+(a) An unusual increase in the number of prescriptions dispensed or
+nonprescription drug products sold by the pharmacist or pharmacy for the
+treatment of medical conditions specified by the department of health services
+by rule under s. 252.02 (7).
+(b) An unusual increase in the number of prescriptions dispensed by the
+pharmacist or pharmacy that are antibiotic drugs.
+(c) The dispensing of a prescription by the pharmacist or pharmacy for treatment
+of a disease that is relatively uncommon or may be associated with bioterrorism,
+as defined in s. 323.02 (4).
 
 2. 450.0145.1m (1m)
-   Except as provided in sub. (2), a pharmacist or pharmacy may not report personally identifying information concerning an individual who is dispensed a prescription or who purchases a nonprescription drug product as specified in sub. (1) (a), (b), or (c).
+   Except as provided in sub. (2), a pharmacist or pharmacy may not report
+personally identifying information concerning an individual who is dispensed a
+prescription or who purchases a nonprescription drug product as specified in
+sub. (1) (a), (b), or (c).
 
 3. 450.0145.2 (2)
-   In submitting a report under sub. (1), a pharmacist or pharmacy shall include personally identifying information other than a social security number concerning an individual who is dispensed a prescription or who purchases a nonprescription drug product as specified in sub. (1) (a), (b), or (c).
+   In submitting a report under sub. (1), a pharmacist or pharmacy shall include
+personally identifying information other than a social security number
+concerning an individual who is dispensed a prescription or who purchases a
+nonprescription drug product as specified in sub. (1) (a), (b), or (c).
 
 ---------- END OF DOCUMENT ----------

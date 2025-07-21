@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 6ac934c6-a68b-4d65-9f6d-553b1d0e2667
+Document ID: 62ce5ecd-7da3-4193-a637-42aeb2cd38f5
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,7 +15,14 @@ Description: Food and Dietetic Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.28...A-0618 (A-0618)
-   §482.28 Condition of Participation:  Food and Dietetic Services 
- The hospital must have organized dietary services that are directed and staffed by adequate qualified personnel.  However, a hospital that has a contract with an outside food management company may be found to meet this Condition of Participation if the company has a dietician who serves the hospital on a full-time, part-time, or consultant basis, and if the company maintains at least the minimum standards specified in this section and provides for constant liaison with the hospital medical staff for recommendations on dietetic policies affecting patient treatment.
+   §482.28 Condition of Participation:  Food and Dietetic Services
+ The hospital must have organized dietary services that are directed and staffed
+by adequate qualified personnel.  However, a hospital that has a contract with
+an outside food management company may be found to meet this Condition of
+Participation if the company has a dietician who serves the hospital on a full-
+time, part-time, or consultant basis, and if the company maintains at least the
+minimum standards specified in this section and provides for constant liaison
+with the hospital medical staff for recommendations on dietetic policies
+affecting patient treatment.
 
 ---------- END OF DOCUMENT ----------

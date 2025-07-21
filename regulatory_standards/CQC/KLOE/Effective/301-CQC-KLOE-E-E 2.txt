@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: adb7de95-e3c5-462c-8de3-f8aad06eae93
+Document ID: ec111e90-9fcb-453c-afc6-f9a646835508
 
 ---------- REGULATION ----------
 Name: KLOE
@@ -10,29 +10,38 @@ Name: E
 Title: Effective
 
 OVERVIEW:
-By effective, we mean that people’s care, treatment and support achieves good outcomes, promotes a good quality of life and is based on the best available evidence.
+By effective, we mean that people’s care, treatment and support achieves good
+outcomes, promotes a good quality of life and is based on the best available
+evidence.
 
 ---------- STANDARD ----------
 Name: E 2
-Description: How are people's care and treatment outcomes monitored and how do they compare
+Description: How are people's care and treatment outcomes monitored and how do
+they compare
 with other similar services?
 
 ---------- ELEMENTS ----------
 1. E.2.1 (1)
-   Is information about the outcomes of people's care and treatment (both physical and
+   Is information about the outcomes of people's care and treatment (both
+physical and
 mental where appropriate) routinely collected and monitored?
 
 2. E.2.2 (2)
-   Does this information show that the intended outcomes for people are being achieved?
+   Does this information show that the intended outcomes for people are being
+achieved?
 
 3. E.2.3 (3)
-   How do outcomes for people in this service compare with other similar services and how
-have they changed over time? 
+   How do outcomes for people in this service compare with other similar
+services and how
+have they changed over time?
 
 4. E.2.4 (4)
-   Is there participation in relevant quality improvement initiatives, such as local and national
-clinical audits, benchmarking, (approved) accreditation schemes, peer review, research,
-trials and other quality improvement initiatives? Are all relevant staff involved in activities to
+   Is there participation in relevant quality improvement initiatives, such as
+local and national
+clinical audits, benchmarking, (approved) accreditation schemes, peer review,
+research,
+trials and other quality improvement initiatives? Are all relevant staff
+involved in activities to
 monitor and use information to improve outcomes?
 
 ---------- END OF DOCUMENT ----------

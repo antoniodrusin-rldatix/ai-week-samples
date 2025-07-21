@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 30ba5796-75af-4dc8-8d6a-3fba0b65dbc1
+Document ID: b21abf11-bf7e-4d61-aa87-062a4bf23d24
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,39 +10,58 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 03
-Description: The program collects measurement data to evaluate processes and outcomes. Note: Measurement data must be internally trended over time and may be compared to an external data source for comparative purposes. 
+Description: The program collects measurement data to evaluate processes and
+outcomes. Note: Measurement data must be internally trended over time and may be
+compared to an external data source for comparative purposes.
 
 ---------- ELEMENTS ----------
 1. DSPM.03 EP07 (EP 07)
-   The program incorporates identified improvement opportunities into the performance improvement plan. 
+   The program incorporates identified improvement opportunities into the
+performance improvement plan.
 
 2. DSPM.03 EP08 (EP 08)
-   The program demonstrates improvement in processes and patient outcomes. 
+   The program demonstrates improvement in processes and patient outcomes.
 
 3. DSPM.03 EP06 (EP 06)
-   The program communicates to staff and organizational leaders the identified improvement opportunities. 
+   The program communicates to staff and organizational leaders the identified
+improvement opportunities.
 
 4. DSPM.03 EP03 (EP 03)
-   The program collects patient satisfaction data relevant to its target population. 
+   The program collects patient satisfaction data relevant to its target
+population.
 
 5. DSPM.03 EP01 (EP 01)
-   The program selects valid, reliable performance measures that are relevant to the target population and based on clinical practice guidelines or other evidence-based practice. 
+   The program selects valid, reliable performance measures that are relevant to
+the target population and based on clinical practice guidelines or other
+evidence-based practice.
 
 6. DSPM.03 EP04 (EP 04)
-   Data are aggregated at the program level. 
+   Data are aggregated at the program level.
 
 7. DSPM.03 EP05 (EP 05)
-   The program reports aggregated data results to The Joint Commission at defined intervals. 
+   The program reports aggregated data results to The Joint Commission at
+defined intervals.
 
 8. DSPM.03 EP02 (EP 02)
-   The program collects data related to processes and/or outcomes of care. 
-
-Requirements Specific to Acute Heart Attack Ready Certification 
-a. Provide process and examples of 24–48 hour feedback given to 911 EMS agencies and/or interfacility transport agencies for the most recent 6 months. 
-b. The program provides examples of feedback received from receiving centers within the most recent 6 months.
+   The program collects data related to processes and/or outcomes of care.
+
+Requirements Specific to Acute Heart Attack Ready Certification
+a. Provide process and examples of 24–48 hour feedback given to 911 EMS agencies
+and/or interfacility transport agencies for the most recent 6 months.
+b. The program provides examples of feedback received from receiving centers
+within the most recent 6 months.
 
 ---------- END OF DOCUMENT ----------

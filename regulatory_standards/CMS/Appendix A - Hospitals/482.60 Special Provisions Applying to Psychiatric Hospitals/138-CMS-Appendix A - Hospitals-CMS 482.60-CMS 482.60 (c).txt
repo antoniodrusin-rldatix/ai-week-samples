@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 4414c1a5-bb0d-4c0a-96c0-4483a2cb65cd
+Document ID: 01f13e72-2503-4a00-aa4e-c02cd2cd2903
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,10 +12,14 @@ Title: 482.60 Special Provisions Applying to Psychiatric Hospitals
 ---------- STANDARD ----------
 Name: CMS 482.60 (c)
 Code: 482.60
-Description: Maintain clinical records on all patients, including records sufficient to permit CMS to determine the degree and intensity of treatment furnished to Medicare beneficiaries as specified in §482.61;
+Description: Maintain clinical records on all patients, including records
+sufficient to permit CMS to determine the degree and intensity of treatment
+furnished to Medicare beneficiaries as specified in §482.61;
 
 ---------- ELEMENTS ----------
 1. CMS 482.60.(c).A-1610 (A-1610)
-   §482.60(c) Maintain clinical records on all patients, including records sufficient to permit CMS to determine the degree and intensity of treatment furnished to Medicare beneficiaries as specified in §482.61; and 
+   §482.60(c) Maintain clinical records on all patients, including records
+sufficient to permit CMS to determine the degree and intensity of treatment
+furnished to Medicare beneficiaries as specified in §482.61; and
 
 ---------- END OF DOCUMENT ----------

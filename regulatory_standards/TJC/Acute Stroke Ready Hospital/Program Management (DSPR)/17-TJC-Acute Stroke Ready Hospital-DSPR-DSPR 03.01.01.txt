@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 699b10a5-cf4d-4de3-b115-609a5e8af515
+Document ID: 0d58200e-dbca-4cde-b62c-ef065157ff3e
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,32 +10,67 @@ Name: DSPR
 Title: Program Management (DSPR)
 
 OVERVIEW:
-Providing high-quality care requires an infrastructure capable of supporting the activities of the patient and practitioner. Leaders must commit resources to support, evaluate, and improve services. Commitments such as these require leaders to know their organization’s strengths, challenges, and areas for improvement. They must also have a thorough understanding of their patient population so that the care they provide is relevant to their population’s needs. The standards in this chapter focus on the following: - Designing and implementing the program - Evaluating the program - Offering a relevant program for patients - Providing safe and adequate access to care - Conducting the program in an ethical manner - Supplying reference resources to practitioners - Offering the program in safe and accessible facilities Please note that not all standards or elements of performance apply to every disease-specific care program. For example, disease management service providers may facilitate or support care by telephone interventions but may not have a physical site where patients are seen or gathered. In these cases, the facility standards may not apply. Each disease-specific care program should consider its individual circumstances and services.
+Providing high-quality care requires an infrastructure capable of supporting the
+activities of the patient and practitioner. Leaders must commit resources to
+support, evaluate, and improve services. Commitments such as these require
+leaders to know their organization’s strengths, challenges, and areas for
+improvement. They must also have a thorough understanding of their patient
+population so that the care they provide is relevant to their population’s
+needs. The standards in this chapter focus on the following: - Designing and
+implementing the program - Evaluating the program - Offering a relevant program
+for patients - Providing safe and adequate access to care - Conducting the
+program in an ethical manner - Supplying reference resources to practitioners -
+Offering the program in safe and accessible facilities Please note that not all
+standards or elements of performance apply to every disease-specific care
+program. For example, disease management service providers may facilitate or
+support care by telephone interventions but may not have a physical site where
+patients are seen or gathered. In these cases, the facility standards may not
+apply. Each disease-specific care program should consider its individual
+circumstances and services.
 
 ---------- STANDARD ----------
 Name: DSPR 03.01.01
-Description: The disease-specific care program utilizes current clinical practice guideline(s). Note: See the Glossary for definition of clinical practice guidelines (CPGs).
+Description: The disease-specific care program utilizes current clinical
+practice guideline(s). Note: See the Glossary for definition of clinical
+practice guidelines (CPGs).
 
 RATIONALE:
-Clinical practice guidelines help physicians, other licensed practitioners, staff, and patients make decisions about preventing, diagnosing, treating, and managing selected conditions. Clinical practice guidelines are useful for designing clinical processes as well as evaluating the design of existing processes so that the delivery of care is safe and consistently applied.
+Clinical practice guidelines help physicians, other licensed practitioners,
+staff, and patients make decisions about preventing, diagnosing, treating, and
+managing selected conditions. Clinical practice guidelines are useful for
+designing clinical processes as well as evaluating the design of existing
+processes so that the delivery of care is safe and consistently applied.
 
 ---------- ELEMENTS ----------
 1. DSPR.03.01.01 EP1 (EP 1)
-   The disease-specific care program identifies in writing the current clinical practice guideline(s) it has selected to implement specific to the care, treatment, and services it provides. Documentation is required.
+   The disease-specific care program identifies in writing the current clinical
+practice guideline(s) it has selected to implement specific to the care,
+treatment, and services it provides. Documentation is required.
 
 2. DSPR.03.01.01 EP2 (EP 2)
-   The disease-specific care program reviews and approves, at least annually, the selected clinical practice guideline(s). The results are documented.
+   The disease-specific care program reviews and approves, at least annually,
+the selected clinical practice guideline(s). The results are documented.
 Note: The results may be documented in meeting minutes or other sources.
 
 3. DSPR.03.01.01 EP3 (EP 3)
-   The disease-specific care program develops and implements a process to educate or inform physicians, other licensed practitioners, and staff regarding the selected clinical practice guidelines implemented in the program. Documentation is required.
-Note: This process may include the dissemination of new or revised clinical practice guidelines and subsequent changes to policies and procedures that impact the care, treatment, and services provided in the disease-specific care program.
-
-Requirement Specific to Acute Stroke Ready Certification
-a. Physicians and other licensed practitioners demonstrate knowledge and understanding of the program’s protocols related to care, treatment, and services for stroke patients.
+   The disease-specific care program develops and implements a process to
+educate or inform physicians, other licensed practitioners, and staff regarding
+the selected clinical practice guidelines implemented in the program.
+Documentation is required.
+Note: This process may include the dissemination of new or revised clinical
+practice guidelines and subsequent changes to policies and procedures that
+impact the care, treatment, and services provided in the disease-specific care
+program.
+
+Requirement Specific to Acute Stroke Ready Certification
+a. Physicians and other licensed practitioners demonstrate knowledge and
+understanding of the program’s protocols related to care, treatment, and
+services for stroke patients.
 
 
 4. DSPR.03.01.01 EP4 (EP 4)
-   The disease-specific care program’s staff have access to the clinical practice guidelines the program has selected to use and other reference materials.
+   The disease-specific care program’s staff have access to the clinical
+practice guidelines the program has selected to use and other reference
+materials.
 
 ---------- END OF DOCUMENT ----------

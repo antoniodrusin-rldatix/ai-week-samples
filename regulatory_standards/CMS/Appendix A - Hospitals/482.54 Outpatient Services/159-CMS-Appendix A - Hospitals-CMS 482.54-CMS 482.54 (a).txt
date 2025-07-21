@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: ef475132-bee9-4206-9230-bc1dd954bfab
+Document ID: bf0a1400-6410-4882-8456-93b6eb0e1286
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,13 +12,14 @@ Title: 482.54 Outpatient Services
 ---------- STANDARD ----------
 Name: CMS 482.54 (a)
 Code: 482.54
-Description: Organization
+Description: Organization
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.54.(a).A-1077 (A-1077)
-   §482.54(a) Standard:  Organization 
- Outpatient services must be appropriately organized and integrated with inpatient services. 
+   §482.54(a) Standard:  Organization
+ Outpatient services must be appropriately organized and integrated with
+inpatient services.
 
 
 ---------- END OF DOCUMENT ----------

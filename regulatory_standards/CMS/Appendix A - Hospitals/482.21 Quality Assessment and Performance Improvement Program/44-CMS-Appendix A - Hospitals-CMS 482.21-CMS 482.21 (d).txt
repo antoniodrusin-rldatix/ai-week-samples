@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: b066ed11-855b-47f8-8c75-c70aa0f34266
+Document ID: fe01bfee-8786-4e30-a052-bbedd9b3ed32
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,35 +10,61 @@ Name: CMS 482.21
 Title: 482.21 Quality Assessment and Performance Improvement Program
 
 OVERVIEW:
-A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing Adequate Resources
+A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities
+A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance
+Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing
+Adequate Resources
 
 ABOUT:
-The hospital must develop, implement, and maintain an effective, ongoing, hospital wide, data-driven quality assessment and performance improvement program.  The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services;  involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
+The hospital must develop, implement, and maintain an effective, ongoing,
+hospital wide, data-driven quality assessment and performance improvement
+program.  The hospital’s governing body must ensure that the program reflects
+the complexity of the hospital’s organization and services;  involves all
+hospital departments and services (including those services furnished under
+contract or arrangement); and focuses on indicators related to improved health
+outcomes and the prevention and reduction of medical errors.  The hospital must
+maintain and demonstrate evidence of its QAPI program for review by CMS.
 
 ---------- STANDARD ----------
 Name: CMS 482.21 (d)
 Code: 482.21
-Description: Performance Improvement Projects 
+Description: Performance Improvement Projects
 
 ---------- ELEMENTS ----------
 1. CMS 482.21.(d).2 (2)
-   A hospital may, as one of its projects, develop and implement an information technology system explicitly designed to improve patient  safety and quality of care. This project, in its initial stage of development, does not need to demonstrate measurable improvement in indicators related to health outcomes.
+   A hospital may, as one of its projects, develop and implement an information
+technology system explicitly designed to improve patient  safety and quality of
+care. This project, in its initial stage of development, does not need to
+demonstrate measurable improvement in indicators related to health outcomes.
 
 
 2. CMS 482.21.(d).A-0297 (A-0297)
-   Performance Improvement Projects 
- §482.21(d) Standard:  Performance Improvement Projects. 
- As part of its quality assessment and performance improvement program, the hospital must conduct performance improvement projects. 
- (1) The number and scope of distinct improvement projects conducted annually must be proportional to the scope and complexity of the hospital’s services and operations. 
- (2) A hospital may, as one of its projects, develop and implement an information technology system explicitly designed to improve patient safety and quality of care.  This project, in its initial stage of development, does not need to demonstrate measurable improvement in indicators related to health outcomes. 
- (3) The hospital must document what quality improvement projects are being conducted, the reasons for conducting these projects, and the measurable progress achieved on these projects. 
- (4) A hospital is not required to participate in a QIO cooperative project, but its own projects are required to be of comparable effort. 
+   Performance Improvement Projects
+ §482.21(d) Standard:  Performance Improvement Projects.
+ As part of its quality assessment and performance improvement program, the
+hospital must conduct performance improvement projects.
+ (1) The number and scope of distinct improvement projects conducted annually
+must be proportional to the scope and complexity of the hospital’s services and
+operations.
+ (2) A hospital may, as one of its projects, develop and implement an
+information technology system explicitly designed to improve patient safety and
+quality of care.  This project, in its initial stage of development, does not
+need to demonstrate measurable improvement in indicators related to health
+outcomes.
+ (3) The hospital must document what quality improvement projects are being
+conducted, the reasons for conducting these projects, and the measurable
+progress achieved on these projects.
+ (4) A hospital is not required to participate in a QIO cooperative project, but
+its own projects are required to be of comparable effort.
 
 
 3. CMS 482.21.(d).3 (3)
-   The hospital must document what quality improvement projects are being conducted, the reasons for conducting these projects, and the measurable progress achieved on these projects.
+   The hospital must document what quality improvement projects are being
+conducted, the reasons for conducting these projects, and the measurable
+progress achieved on these projects.
 
 4. CMS 482.21.(d).4 (4)
-   A hospital is not required to participate in a QIO cooperative project, but its own projects are required to be of comparable effort.
+   A hospital is not required to participate in a QIO cooperative project, but
+its own projects are required to be of comparable effort.
 
 ---------- END OF DOCUMENT ----------

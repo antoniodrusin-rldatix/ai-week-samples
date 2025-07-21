@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 3aaf12fe-9f17-4138-852f-53a8953a5ce0
+Document ID: a8a3d303-dc8d-4f54-8b44-9887335e7b4a
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -16,13 +16,16 @@ Description: Personnel
 
 ---------- ELEMENTS ----------
 1. CMS 482.55.(b).A-1111 (A-1111)
-   §482.55(b)(1) - The emergency services must be supervised by a qualified member of the medical staff. 
+   §482.55(b)(1) - The emergency services must be supervised by a qualified
+member of the medical staff.
 
 2. CMS 482.55.(b).A-1112 (A-1112)
-   §482.55(b)(2) - There must be adequate medical and nursing personnel qualified in emergency care to meet the written emergency procedures and needs anticipated by the facility. 
+   §482.55(b)(2) - There must be adequate medical and nursing personnel
+qualified in emergency care to meet the written emergency procedures and needs
+anticipated by the facility.
 
 
 3. CMS 482.55.(b).A-1110 (A-1110)
-   §482.55(b) Standard:  Personnel 
+   §482.55(b) Standard:  Personnel
 
 ---------- END OF DOCUMENT ----------

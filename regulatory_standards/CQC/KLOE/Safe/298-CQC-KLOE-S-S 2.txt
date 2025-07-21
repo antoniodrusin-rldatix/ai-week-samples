@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 17300f8b-ef32-4efc-97ad-62b0c6904b46
+Document ID: 654b0574-c8b8-4992-a146-7f79b0095488
 
 ---------- REGULATION ----------
 Name: KLOE
@@ -10,39 +10,51 @@ Name: S
 Title: Safe
 
 OVERVIEW:
-By safe, we mean people are protected from abuse* and avoidable harm. *Abuse can be physical, sexual, mental or psychological, financial, neglect, institutional or discriminatory abuse.
+By safe, we mean people are protected from abuse* and avoidable harm. *Abuse can
+be physical, sexual, mental or psychological, financial, neglect, institutional
+or discriminatory abuse.
 
 ---------- STANDARD ----------
 Name: S 2
-Description: How are risks to people assessed, and their safety monitored and managed so they
+Description: How are risks to people assessed, and their safety monitored and
+managed so they
 are supported to stay safe?
 
 ---------- ELEMENTS ----------
 1. S.2.1 (1)
-   How are staffing levels and skill mix planned and reviewed so that people receive safe care
+   How are staffing levels and skill mix planned and reviewed so that people
+receive safe care
 and treatment at all times and staff do not work excessive hours?
 
 2. S.2.2 (2)
-   How do actual staffing levels and skill mix compare with the planned levels? Is cover
+   How do actual staffing levels and skill mix compare with the planned levels?
+Is cover
 provided for staff absence?
 
 3. S.2.3 (3)
-   Do arrangements for using bank, agency and locum staff keep people safe at all times?
+   Do arrangements for using bank, agency and locum staff keep people safe at
+all times?
 
 4. S.2.4 (4)
-   How do arrangements for handovers and shift changes ensure that people are safe?
+   How do arrangements for handovers and shift changes ensure that people are
+safe?
 
 5. S.2.5 (5)
-   Are comprehensive risk assessments carried out for people who use services and risk
-management plans developed in line with national guidance? Are risks managed positively?
+   Are comprehensive risk assessments carried out for people who use services
+and risk
+management plans developed in line with national guidance? Are risks managed
+positively?
 
 6. S.2.6 (6)
-   How do staff identify and respond appropriately to changing risks to people, including
-deteriorating health and wellbeing, medical emergencies or behaviour that challenges? Are
+   How do staff identify and respond appropriately to changing risks to people,
+including
+deteriorating health and wellbeing, medical emergencies or behaviour that
+challenges? Are
 staff able to seek support from senior staff in these situations?
 
 7. S.2.7 (7)
-   How is the impact on safety assessed and monitored when carrying out changes to the
+   How is the impact on safety assessed and monitored when carrying out changes
+to the
 service or the staff?
 
 ---------- END OF DOCUMENT ----------

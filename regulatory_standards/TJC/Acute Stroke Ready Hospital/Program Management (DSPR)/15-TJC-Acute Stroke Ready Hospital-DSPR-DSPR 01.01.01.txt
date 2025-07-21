@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 1cb5623d-5658-4094-8271-de1aa05d7148
+Document ID: cdcc6747-ad99-48e6-a517-ca53791ea09d
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,58 +10,120 @@ Name: DSPR
 Title: Program Management (DSPR)
 
 OVERVIEW:
-Providing high-quality care requires an infrastructure capable of supporting the activities of the patient and practitioner. Leaders must commit resources to support, evaluate, and improve services. Commitments such as these require leaders to know their organization’s strengths, challenges, and areas for improvement. They must also have a thorough understanding of their patient population so that the care they provide is relevant to their population’s needs. The standards in this chapter focus on the following: - Designing and implementing the program - Evaluating the program - Offering a relevant program for patients - Providing safe and adequate access to care - Conducting the program in an ethical manner - Supplying reference resources to practitioners - Offering the program in safe and accessible facilities Please note that not all standards or elements of performance apply to every disease-specific care program. For example, disease management service providers may facilitate or support care by telephone interventions but may not have a physical site where patients are seen or gathered. In these cases, the facility standards may not apply. Each disease-specific care program should consider its individual circumstances and services.
+Providing high-quality care requires an infrastructure capable of supporting the
+activities of the patient and practitioner. Leaders must commit resources to
+support, evaluate, and improve services. Commitments such as these require
+leaders to know their organization’s strengths, challenges, and areas for
+improvement. They must also have a thorough understanding of their patient
+population so that the care they provide is relevant to their population’s
+needs. The standards in this chapter focus on the following: - Designing and
+implementing the program - Evaluating the program - Offering a relevant program
+for patients - Providing safe and adequate access to care - Conducting the
+program in an ethical manner - Supplying reference resources to practitioners -
+Offering the program in safe and accessible facilities Please note that not all
+standards or elements of performance apply to every disease-specific care
+program. For example, disease management service providers may facilitate or
+support care by telephone interventions but may not have a physical site where
+patients are seen or gathered. In these cases, the facility standards may not
+apply. Each disease-specific care program should consider its individual
+circumstances and services.
 
 ---------- STANDARD ----------
 Name: DSPR 01.01.01
-Description: The organization demonstrates its commitment to the disease-specific care program, provides leadership structure, and determines members of its interdisciplinary team.
+Description: The organization demonstrates its commitment to the disease-
+specific care program, provides leadership structure, and determines members of
+its interdisciplinary team.
 
 RATIONALE:
-The program’s performance depends on how well the leaders work together to carry out the responsibilities within the disease-specific care program. Responsibilities may be shared by a variety of leaders, including senior managers and the leaders of the organized medical staff.
+The program’s performance depends on how well the leaders work together to carry
+out the responsibilities within the disease-specific care program.
+Responsibilities may be shared by a variety of leaders, including senior
+managers and the leaders of the organized medical staff.
 
 ---------- ELEMENTS ----------
 1. DSPR.01.01.01 EP1 (EP 1)
-   The leader(s) of the organization demonstrates commitment to the disease-specific care program, including by allocating financial and other resources to support the program.
+   The leader(s) of the organization demonstrates commitment to the disease-
+specific care program, including by allocating financial and other resources to
+support the program.
 
 2. DSPR.01.01.01 EP2 (EP 2)
-   The leader(s) of the organization identifies a medical director(s) or physician champion(s) who is qualified through education, training, or experience to define, implement, and provide clinical guidance and administrative leadership for the disease-specific care program.
-
-Requirement Specific to Acute Stroke Ready Certification
-a. The program appoints a physician with sufficient knowledge of neurology and cerebrovascular disease as the acute stroke ready program’s medical director to provide administrative leadership and clinical oversight to the stroke program.
-Note: The ASRH's medical director does not have to be board certified in neurology or neurosurgery but must have sufficient knowledge of cerebrovascular disease to provide administrative leadership, clinical guidance, and input to the program.
+   The leader(s) of the organization identifies a medical director(s) or
+physician champion(s) who is qualified through education, training, or
+experience to define, implement, and provide clinical guidance and
+administrative leadership for the disease-specific care program.
+
+Requirement Specific to Acute Stroke Ready Certification
+a. The program appoints a physician with sufficient knowledge of neurology and
+cerebrovascular disease as the acute stroke ready program’s medical director to
+provide administrative leadership and clinical oversight to the stroke program.
+Note: The ASRH's medical director does not have to be board certified in
+neurology or neurosurgery but must have sufficient knowledge of cerebrovascular
+disease to provide administrative leadership, clinical guidance, and input to
+the program.
 
 
 3. DSPR.01.01.01 EP3 (EP 3)
-   The leader(s) of the organization identifies an individual(s) who is qualified through education, training, or experience to collaborate with the medical director(s) or physician champion(s) to define, implement, and direct the disease-specific care program.
-
-Requirement Specific to Acute Stroke Ready Certification
-a. The acute stroke ready program appoints an individual who is qualified through education, training, or experience and who collaborates with the medical director to define, implement, and direct the program.
-Note: This role may be an individual’s primary job responsibility or may be in addition to other duties.
+   The leader(s) of the organization identifies an individual(s) who is
+qualified through education, training, or experience to collaborate with the
+medical director(s) or physician champion(s) to define, implement, and direct
+the disease-specific care program.
+
+Requirement Specific to Acute Stroke Ready Certification
+a. The acute stroke ready program appoints an individual who is qualified
+through education, training, or experience and who collaborates with the medical
+director to define, implement, and direct the program.
+Note: This role may be an individual’s primary job responsibility or may be in
+addition to other duties.
 
 4. DSPR.01.01.01 EP4 (EP 4)
-   The leader(s) of the organization and the disease-specific care program identify, in writing, the composition of the interdisciplinary team.
-
-Requirements Specific to Acute Stroke Ready Certification
-a. The program identifies a core stroke team that includes, at a minimum, a nurse (or nurse practitioner or physician assistant) and a physician. Each member of the core stroke team has basic training in acute stroke care as defined by the program.
-b. The program documents the roles and responsibilities for interdisciplinary team members including the core stroke team.
-c. The program defines its interdisciplinary team so that it reflects the needs of its patients.
+   The leader(s) of the organization and the disease-specific care program
+identify, in writing, the composition of the interdisciplinary team.
+
+Requirements Specific to Acute Stroke Ready Certification
+a. The program identifies a core stroke team that includes, at a minimum, a
+nurse (or nurse practitioner or physician assistant) and a physician. Each
+member of the core stroke team has basic training in acute stroke care as
+defined by the program.
+b. The program documents the roles and responsibilities for interdisciplinary
+team members including the core stroke team.
+c. The program defines its interdisciplinary team so that it reflects the needs
+of its patients.
 
 5. DSPR.01.01.01 EP5 (EP 5)
-   The leader(s) of the organization and the disease-specific care program determine the number and skill mix of staff needed to support the delivery of safe, quality care, treatment, and services, as appropriate to the scope and complexity of the disease-specific care program.
-Note: The number and skill mix of staff needed may be demonstrated through unit staffing plans and/or on-call schedules, as applicable.
-
-Requirements Specific to Acute Stroke Ready Certification
-a. The program appoints an acute stroke team to manage patients who present with stroke.
-b. The program has at least one physician, nurse practitioner, or physician assistant on site to supervise patient care, order medication, and manage emergent issues.
-Note: The nurse practitioner or physician assistant must have prescriptive authority and the ability to consult with a covering physician if needed.
-c. The program has designated physicians or other licensed practitioners knowledgeable in the diagnosis and treatment of stroke who are responsible for responding to patients with an acute stroke 24 hours a day, 7 days a week.
-d. Emergency department physicians and other licensed practitioners have 24-hour access, either in person or via telemedicine, to a physician who can provide a timely, informed consultation for stroke care when additional clinical expertise is needed.
-Note: If the emergency department physicians or other licensed practitioners are privileged in the diagnosis and treatment of stroke, then access to bedside or telemedicine consultation is not necessary.
+   The leader(s) of the organization and the disease-specific care program
+determine the number and skill mix of staff needed to support the delivery of
+safe, quality care, treatment, and services, as appropriate to the scope and
+complexity of the disease-specific care program.
+Note: The number and skill mix of staff needed may be demonstrated through unit
+staffing plans and/or on-call schedules, as applicable.
+
+Requirements Specific to Acute Stroke Ready Certification
+a. The program appoints an acute stroke team to manage patients who present with
+stroke.
+b. The program has at least one physician, nurse practitioner, or physician
+assistant on site to supervise patient care, order medication, and manage
+emergent issues.
+Note: The nurse practitioner or physician assistant must have prescriptive
+authority and the ability to consult with a covering physician if needed.
+c. The program has designated physicians or other licensed practitioners
+knowledgeable in the diagnosis and treatment of stroke who are responsible for
+responding to patients with an acute stroke 24 hours a day, 7 days a week.
+d. Emergency department physicians and other licensed practitioners have 24-hour
+access, either in person or via telemedicine, to a physician who can provide a
+timely, informed consultation for stroke care when additional clinical expertise
+is needed.
+Note: If the emergency department physicians or other licensed practitioners are
+privileged in the diagnosis and treatment of stroke, then access to bedside or
+telemedicine consultation is not necessary.
 
 6. DSPR.01.01.01 EP6 (EP 6)
-   The leader(s) of the organization and the disease-specific care program protect the integrity of clinical decision-making by supporting and promoting collaboration and a culture of safety among the interdisciplinary team and other staff involved in the delivery of care, treatment, and services.
+   The leader(s) of the organization and the disease-specific care program
+protect the integrity of clinical decision-making by supporting and promoting
+collaboration and a culture of safety among the interdisciplinary team and other
+staff involved in the delivery of care, treatment, and services.
 
 7. DSPR.01.01.01 EP7 (EP 7)
-   The disease-specific care program develops and implements a process for how it will receive and resolve complaints and grievances in a timely manner.
+   The disease-specific care program develops and implements a process for how
+it will receive and resolve complaints and grievances in a timely manner.
 
 ---------- END OF DOCUMENT ----------

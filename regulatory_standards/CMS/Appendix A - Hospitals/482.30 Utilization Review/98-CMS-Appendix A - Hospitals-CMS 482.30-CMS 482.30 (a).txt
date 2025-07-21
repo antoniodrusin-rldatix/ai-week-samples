@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: e16e96f3-975a-4af3-a198-da7848caefb3
+Document ID: 34ad37af-4c87-4463-8925-772401134c15
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,18 @@ Name: CMS 482.30
 Title: 482.30 Utilization Review
 
 OVERVIEW:
-The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs.
+The hospital must have in effect a utilization review (UR) plan that provides
+for review of services furnished by the institution and by members of the
+medical staff to patients entitled to benefits under the Medicare and Medicaid
+programs.
 
 ABOUT:
-Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the exception criteria at §482.30(a), it must have a UR plan in effect which provides for review of services provided to Medicare and Medicaid beneficiaries. Survey Procedures  §482.30 The manner and degree of noncompliance with one or more of the UR standards is considered when determining whether there is condition-level compliance or noncompliance.
+Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the
+exception criteria at §482.30(a), it must have a UR plan in effect which
+provides for review of services provided to Medicare and Medicaid beneficiaries.
+Survey Procedures  §482.30 The manner and degree of noncompliance with one or
+more of the UR standards is considered when determining whether there is
+condition-level compliance or noncompliance.
 
 ---------- STANDARD ----------
 Name: CMS 482.30 (a)
@@ -22,14 +30,21 @@ Description: Applicability
 
 ---------- ELEMENTS ----------
 1. CMS 482.30.(a).A-0653 (A-0653)
-   §482.30(a) Standard:  Applicability 
- The provisions of this section apply except in either of the following 
-circumstances: 
- (1) A Utilization and Quality Control Quality Improvement Organization (QIO) has assumed binding review for the hospital. 
- (2) CMS has determined that the UR procedures established by the State under title XIX of the Act are superior to the procedures required in this section, and has required hospitals in that State to meet the UR plan requirements under §§456.50 through 456.245 of this chapter. 
+   §482.30(a) Standard:  Applicability
+ The provisions of this section apply except in either of the following
+circumstances:
+ (1) A Utilization and Quality Control Quality Improvement Organization (QIO)
+has assumed binding review for the hospital.
+ (2) CMS has determined that the UR procedures established by the State under
+title XIX of the Act are superior to the procedures required in this section,
+and has required hospitals in that State to meet the UR plan requirements under
+§§456.50 through 456.245 of this chapter.
 
 2. CMS 482.30.(a).2 (2)
-   CMS has determined that the UR procedures established by the State under title XIX of the Act are superior to the procedures required in this section, and has required hospitals in that State to meet the UR plan requirements under §§456.50 through 456.245 of this chapter
+   CMS has determined that the UR procedures established by the State under
+title XIX of the Act are superior to the procedures required in this section,
+and has required hospitals in that State to meet the UR plan requirements under
+§§456.50 through 456.245 of this chapter
 
 
 ---------- END OF DOCUMENT ----------

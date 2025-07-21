@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: b80b7b9a-94de-46be-931d-d37718593e13
+Document ID: b05a98bf-ec42-4936-9771-e5a4680640db
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,42 +15,75 @@ Description: Disciplinary proceedings; immunity; orders
 
 ---------- ELEMENTS ----------
 1. 450.0100.1 (1)
-   (a) In this subsection, “unprofessional conduct" includes any of the following, but does not include the dispensing of an antimicrobial drug for expedited partner therapy as described in s. 450.11 (1g) or the delivery of an opioid antagonist as described in s. 450.11 (1i):
-1. Making any materially false statement or giving any materially false information in connection with an application for a license or for renewal or reinstatement of a license.
-2. Violating this chapter or, subject to s. 961.38 (4r), ch. 961 or any federal or state statute or rule which substantially relates to the practice of the licensee.
-3. Practicing pharmacy while the person's ability to practice is impaired by alcohol or other drugs or physical or mental disability or disease.
-4. Engaging in false, misleading or deceptive advertising.
-5. Making a substantial misrepresentation in the course of practice which is relied upon by another person.
-6. Engaging in conduct in the practice of the licensee which evidences a lack of knowledge or ability to apply professional principles or skills.
-7. Obtaining or attempting to obtain compensation by fraud or deceit.
-8. Violating any order of the board.
-(b) Subject to subch. II of ch. 111 and the rules adopted under s. 440.03 (1), the board may reprimand the licensee or deny, revoke, suspend or limit the license or any combination thereof of any person licensed under this chapter who has:
-1. Engaged in unprofessional conduct.
-2. Been adjudicated mentally incompetent by a court.
-3. Been found guilty of an offense the circumstances of which substantially relate to the practice of the licensee.
+   (a) In this subsection, “unprofessional conduct" includes any of the
+following, but does not include the dispensing of an antimicrobial drug for
+expedited partner therapy as described in s. 450.11 (1g) or the delivery of an
+opioid antagonist as described in s. 450.11 (1i):
+1. Making any materially false statement or giving any materially false
+information in connection with an application for a license or for renewal or
+reinstatement of a license.
+2. Violating this chapter or, subject to s. 961.38 (4r), ch. 961 or any federal
+or state statute or rule which substantially relates to the practice of the
+licensee.
+3. Practicing pharmacy while the person's ability to practice is impaired by
+alcohol or other drugs or physical or mental disability or disease.
+4. Engaging in false, misleading or deceptive advertising.
+5. Making a substantial misrepresentation in the course of practice which is
+relied upon by another person.
+6. Engaging in conduct in the practice of the licensee which evidences a lack of
+knowledge or ability to apply professional principles or skills.
+7. Obtaining or attempting to obtain compensation by fraud or deceit.
+8. Violating any order of the board.
+(b) Subject to subch. II of ch. 111 and the rules adopted under s. 440.03 (1),
+the board may reprimand the licensee or deny, revoke, suspend or limit the
+license or any combination thereof of any person licensed under this chapter who
+has:
+1. Engaged in unprofessional conduct.
+2. Been adjudicated mentally incompetent by a court.
+3. Been found guilty of an offense the circumstances of which substantially
+relate to the practice of the licensee.
 
 2. 450.0100.2 (2)
-   In addition to or in lieu of a reprimand or denial, limitation, suspension or revocation of a license under sub. (1), the board may, for the violations enumerated under sub. (1), assess a forfeiture of not more than $1,000 for each separate offense. Each day of violation constitutes a separate offense.
+   In addition to or in lieu of a reprimand or denial, limitation, suspension or
+revocation of a license under sub. (1), the board may, for the violations
+enumerated under sub. (1), assess a forfeiture of not more than $1,000 for each
+separate offense. Each day of violation constitutes a separate offense.
 
 3. 450.0100.3 (3)
-   (a) In this subsection, “health care professional" means any of the following:
-1. A pharmacist licensed under this chapter.
-2. A nurse licensed under ch. 441.
-3. A chiropractor licensed under ch. 446.
-4. A dentist licensed under ch. 447.
-5. A physician, physician assistant, podiatrist, physical therapist, physical therapist assistant, occupational therapist, or occupational therapy assistant licensed under ch. 448 or a physical therapist or physical therapist assistant who holds a compact privilege under subch. IX of ch. 448.
-5m. A dietitian certified under subch. V of ch. 448.
-5q. An athletic trainer licensed under subch. VI of ch. 448.
-6. An optometrist licensed under ch. 449.
-7. An acupuncturist certified under ch. 451.
-8. A veterinarian licensed under ch. 89.
-9. A psychologist licensed under ch. 455.
-10. A social worker, marriage and family therapist, or professional counselor certified or licensed under ch. 457.
-11. A speech-language pathologist or audiologist licensed under subch. II of ch. 459 or a speech and language pathologist licensed by the department of public instruction.
-(b) Any health care professional who in good faith provides another health care professional with information concerning a violation of this chapter or ch. 961 by any person shall be immune from any civil or criminal liability that results from any act or omission in providing such information. In any administrative or court proceeding, the good faith of the health care professional providing such information shall be presumed.
+   (a) In this subsection, “health care professional" means any of the
+following:
+1. A pharmacist licensed under this chapter.
+2. A nurse licensed under ch. 441.
+3. A chiropractor licensed under ch. 446.
+4. A dentist licensed under ch. 447.
+5. A physician, physician assistant, podiatrist, physical therapist, physical
+therapist assistant, occupational therapist, or occupational therapy assistant
+licensed under ch. 448 or a physical therapist or physical therapist assistant
+who holds a compact privilege under subch. IX of ch. 448.
+5m. A dietitian certified under subch. V of ch. 448.
+5q. An athletic trainer licensed under subch. VI of ch. 448.
+6. An optometrist licensed under ch. 449.
+7. An acupuncturist certified under ch. 451.
+8. A veterinarian licensed under ch. 89.
+9. A psychologist licensed under ch. 455.
+10. A social worker, marriage and family therapist, or professional counselor
+certified or licensed under ch. 457.
+11. A speech-language pathologist or audiologist licensed under subch. II of ch.
+459 or a speech and language pathologist licensed by the department of public
+instruction.
+(b) Any health care professional who in good faith provides another health care
+professional with information concerning a violation of this chapter or ch. 961
+by any person shall be immune from any civil or criminal liability that results
+from any act or omission in providing such information. In any administrative or
+court proceeding, the good faith of the health care professional providing such
+information shall be presumed.
 
 4. 450.0100.4 (4)
-   (a) The secretary may, in case of the need for emergency action, issue general and special orders necessary to prevent or correct actions by any pharmacist under this section that would be cause for suspension or revocation of a license.
-(b) Special orders may direct a pharmacist to cease and desist from engaging in particular activities.
+   (a) The secretary may, in case of the need for emergency action, issue
+general and special orders necessary to prevent or correct actions by any
+pharmacist under this section that would be cause for suspension or revocation
+of a license.
+(b) Special orders may direct a pharmacist to cease and desist from engaging in
+particular activities.
 
 ---------- END OF DOCUMENT ----------

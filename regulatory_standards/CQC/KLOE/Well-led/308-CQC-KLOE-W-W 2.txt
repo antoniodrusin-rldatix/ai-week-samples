@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 14cc4440-ad98-4d0b-b772-406070e964ff
+Document ID: 219e8c9d-d22a-47b9-a1ac-0dbff809070f
 
 ---------- REGULATION ----------
 Name: KLOE
@@ -10,36 +10,45 @@ Name: W
 Title: Well-led
 
 OVERVIEW:
-By well-led, we mean that the leadership, management and governance of the organisation assures the delivery of high-quality and person-centred care, supports learning and innovation, and promotes an open and fair culture.
+By well-led, we mean that the leadership, management and governance of the
+organisation assures the delivery of high-quality and person-centred care,
+supports learning and innovation, and promotes an open and fair culture.
 
 ---------- STANDARD ----------
 Name: W 2
-Description: Is there a clear vision and credible strategy to deliver high-quality sustainable care to people, and robust plans to deliver?
+Description: Is there a clear vision and credible strategy to deliver high-
+quality sustainable care to people, and robust plans to deliver?
 
 ---------- ELEMENTS ----------
 1. W.2.1 (1)
-   Is there a clear vision and a set of values, with quality and sustainability as the top
+   Is there a clear vision and a set of values, with quality and sustainability
+as the top
 priorities?
 
 2. W.2.2 (2)
-   Is there a robust, realistic strategy for achieving the priorities and delivering good quality
+   Is there a robust, realistic strategy for achieving the priorities and
+delivering good quality
 sustainable care?
 
 3. W.2.3 (3)
-   Have the vision, values and strategy been developed using a structured planning process
-in collaboration with staff, people who use services, and external partners? 
+   Have the vision, values and strategy been developed using a structured
+planning process
+in collaboration with staff, people who use services, and external partners?
 
 4. W.2.4 (4)
-   Do staff know and understand what the vision, values and strategy are, and their role in
+   Do staff know and understand what the vision, values and strategy are, and
+their role in
 achieving them?
 
 5. W.2.5 (5)
-   Is the strategy aligned to local plans in the wider health and social care economy, and how
-have services been planned to meet the needs of the relevant population?
+   Is the strategy aligned to local plans in the wider health and social care
+economy, and how
+have services been planned to meet the needs of the relevant population?
 
 
 6. W.2.6 (6)
-   Is progress against delivery of the strategy and local plans monitored and reviewed, and is
+   Is progress against delivery of the strategy and local plans monitored and
+reviewed, and is
 there evidence to show this?
 
 ---------- END OF DOCUMENT ----------

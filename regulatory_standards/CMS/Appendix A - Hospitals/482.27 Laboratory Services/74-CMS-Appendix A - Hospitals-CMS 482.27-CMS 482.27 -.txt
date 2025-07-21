@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 585b6399-8721-4ed2-ba21-00f916517f6b
+Document ID: 3f296966-5953-483c-b4eb-6ab52b8b6eea
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,34 @@ Name: CMS 482.27
 Title: 482.27 Laboratory Services
 
 OVERVIEW:
-The hospital must maintain, or have available, adequate laboratory services to meet the needs of its patients.  The hospital must ensure that all laboratory services provided to its patients are performed in a facility certified in accordance with Part 493 of this chapter.
+The hospital must maintain, or have available, adequate laboratory services to
+meet the needs of its patients.  The hospital must ensure that all laboratory
+services provided to its patients are performed in a facility certified in
+accordance with Part 493 of this chapter.
 
 ABOUT:
-Interpretive Guidelines §482.27 The hospital must maintain or have available laboratory services whenever its patients need those services.  The hospital may make laboratory services available directly, through contractual agreements, or through a combination of direct and contractual services.  The scope and complexity of the hospital laboratory service must be adequate to meet the needs of its patients.  The hospital must maintain, or have available, adequate laboratory services to meet the needs of its patients at each campus or off-campus location of the hospital.  All laboratory services, whether direct or contractual, whether conducted in a lab or in another location, must be provided in accordance with Clinical Laboratory Improvement Act (CLIA) requirements.  Every hospital laboratory service must be operating under a current CLIA certificate appropriate to the level of services performed. The hospital’s laboratory services, including any contracted services, must be integrated into its hospital-wide QAPI program. Patient laboratory results and all other laboratory clinical patient records are considered patient medical records and the hospital must comply with the requirements of the Medical Records CoP. Survey Procedures §482.27 • Determine the total number of laboratories, the location of each laboratory, and every location where laboratory procedures are performed. • Verify that the laboratory service and all laboratory locations are integrated into the hospital-wide QAPI program. • If laboratory services are contracted, verify that the review of the quality of those services is integrated into the hospital-wide QAPI program.
+Interpretive Guidelines §482.27 The hospital must maintain or have available
+laboratory services whenever its patients need those services.  The hospital may
+make laboratory services available directly, through contractual agreements, or
+through a combination of direct and contractual services.  The scope and
+complexity of the hospital laboratory service must be adequate to meet the needs
+of its patients.  The hospital must maintain, or have available, adequate
+laboratory services to meet the needs of its patients at each campus or off-
+campus location of the hospital.  All laboratory services, whether direct or
+contractual, whether conducted in a lab or in another location, must be provided
+in accordance with Clinical Laboratory Improvement Act (CLIA) requirements. 
+Every hospital laboratory service must be operating under a current CLIA
+certificate appropriate to the level of services performed. The hospital’s
+laboratory services, including any contracted services, must be integrated into
+its hospital-wide QAPI program. Patient laboratory results and all other
+laboratory clinical patient records are considered patient medical records and
+the hospital must comply with the requirements of the Medical Records CoP.
+Survey Procedures §482.27 • Determine the total number of laboratories, the
+location of each laboratory, and every location where laboratory procedures are
+performed. • Verify that the laboratory service and all laboratory locations are
+integrated into the hospital-wide QAPI program. • If laboratory services are
+contracted, verify that the review of the quality of those services is
+integrated into the hospital-wide QAPI program.
 
 ---------- STANDARD ----------
 Name: CMS 482.27 -
@@ -21,7 +45,10 @@ Description: Condition of Participation: Laboratory Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.27.-.A-0576 (A-0576)
-   §482.27 Condition of Participation: Laboratory Services 
- The hospital must maintain, or have available, adequate laboratory services to meet the needs of its patients.  The hospital must ensure that all laboratory services provided to its patients are performed in a facility certified in accordance with Part 493 of this chapter. 
+   §482.27 Condition of Participation: Laboratory Services
+ The hospital must maintain, or have available, adequate laboratory services to
+meet the needs of its patients.  The hospital must ensure that all laboratory
+services provided to its patients are performed in a facility certified in
+accordance with Part 493 of this chapter.
 
 ---------- END OF DOCUMENT ----------

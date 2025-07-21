@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: a448a5f0-d33a-4309-9101-2bd6206da9e1
+Document ID: 230c02ca-eaa2-4989-8cb3-6363642e1e97
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,13 +12,17 @@ Title: 482.60 Special Provisions Applying to Psychiatric Hospitals
 ---------- STANDARD ----------
 Name: CMS 482.60 (a)
 Code: 482.60
-Description: Be primarily engaged in providing, by or under the supervision of a doctor of medicine or osteopathy, psychiatric services for the diagnosis and treatment of mentally ill persons;
-
+Description: Be primarily engaged in providing, by or under the supervision of a
+doctor of medicine or osteopathy, psychiatric services for the diagnosis and
+treatment of mentally ill persons;
+
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.60.(a).A-1601  (A-1601 )
-   Be primarily engaged in providing, by or under the supervision of a doctor of medicine or osteopathy, psychiatric services for the diagnosis and treatment of mentally ill persons;
+   Be primarily engaged in providing, by or under the supervision of a doctor of
+medicine or osteopathy, psychiatric services for the diagnosis and treatment of
+mentally ill persons;
 
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 2996bc97-b561-4a2e-9ac9-f60621ba27f6
+Document ID: b1fb240e-f8ca-41a2-9e6d-251f14a55f8c
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,24 +10,48 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 02.01.01
-Description: The disease-specific care program evaluates data to support performance improvement. Note: Measurement data must be internally trended over time and may be compared to an external data source.
+Description: The disease-specific care program evaluates data to support
+performance improvement. Note: Measurement data must be internally trended over
+time and may be compared to an external data source.
 
 RATIONALE:
-Data collection allows for comparison and analysis, which is useful in making decisions and identifying trends or patterns. Collecting and analyzing data helps the program determine if the performance improvement intervention(s) brought about the desired results. The data analyses may also help discover unexpected influences and/or provide the program with credible evidence to show stakeholders the success of the program’s activities.
+Data collection allows for comparison and analysis, which is useful in making
+decisions and identifying trends or patterns. Collecting and analyzing data
+helps the program determine if the performance improvement intervention(s)
+brought about the desired results. The data analyses may also help discover
+unexpected influences and/or provide the program with credible evidence to show
+stakeholders the success of the program’s activities.
 
 ---------- ELEMENTS ----------
 1. DSPM.02.01.01 EP01 (EP 01)
-   The disease-specific care program analyzes data to support quality and performance improvement activities at least quarterly.
+   The disease-specific care program analyzes data to support quality and
+performance improvement activities at least quarterly.
 
 2. DSPM.02.01.01 EP02 (EP 02)
-   The disease-specific care program utilizes aggregate data related to the processes and outcomes of the care, treatment, and services it provides to guide the development and implementation of performance improvement goals and activities.
-Note: Examples of aggregate data may include analyses of audited registry data, as applicable to the program. See the Glossary for a definition of aggregate.
+   The disease-specific care program utilizes aggregate data related to the
+processes and outcomes of the care, treatment, and services it provides to guide
+the development and implementation of performance improvement goals and
+activities.
+Note: Examples of aggregate data may include analyses of audited registry data,
+as applicable to the program. See the Glossary for a definition of aggregate.
 
 3. DSPM.02.01.01 EP03 (EP 03)
-   The disease-specific care program uses aggregate data related to the patient’s perception of the safety and quality of disease-specific care, treatment, or services they receive to guide the development and implementation of performance improvement goals and activities.
+   The disease-specific care program uses aggregate data related to the
+patient’s perception of the safety and quality of disease-specific care,
+treatment, or services they receive to guide the development and implementation
+of performance improvement goals and activities.
 
 ---------- END OF DOCUMENT ----------

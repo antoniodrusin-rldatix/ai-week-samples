@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 97b9f173-eeff-4637-9335-69d79090e2f5
+Document ID: a570af71-e21c-46b0-bc7a-96f9aec487b2
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -11,60 +11,93 @@ Title: {WAC 246-873 Pharmacy - Hospital Standards}
 
 ---------- STANDARD ----------
 Name: 246.873 060
-Description: Provision of emergency department discharge medications when pharmacy services are unavailable.
+Description: Provision of emergency department discharge medications when
+pharmacy services are unavailable.
 
 RATIONALE:
-The responsible manager, as defined in WAC 246-869-070, of a hospital or free standing emergency department may, in collaboration with the appropriate medical staff committee of the hospital, develop policies and procedures in compliance with RCW 70.41.480 which must be implemented to provide discharge medications to patients released from hospital emergency departments during hours when community or outpatient hospital pharmacy services are not available. The delivery of a single dose for immediate administration to the patient is not subject to this regulation. Such policies shall allow the practitioner or registered nurse to distribute medications, pursuant to the policies and procedures, as specified in RCW 70.41.480 and the following:
+The responsible manager, as defined in WAC 246-869-070, of a hospital or free
+standing emergency department may, in collaboration with the appropriate medical
+staff committee of the hospital, develop policies and procedures in compliance
+with RCW 70.41.480 which must be implemented to provide discharge medications to
+patients released from hospital emergency departments during hours when
+community or outpatient hospital pharmacy services are not available. The
+delivery of a single dose for immediate administration to the patient is not
+subject to this regulation. Such policies shall allow the practitioner or
+registered nurse to distribute medications, pursuant to the policies and
+procedures, as specified in RCW 70.41.480 and the following:
 
 ---------- ELEMENTS ----------
 1. 246.873.060.1 (1)
-   An order of a practitioner authorized to prescribe a drug is presented. Oral or electronically transmitted orders must be verified by the practitioner in writing within seventy-two hours.
+   An order of a practitioner authorized to prescribe a drug is presented. Oral
+or electronically transmitted orders must be verified by the practitioner in
+writing within seventy-two hours.
 
 2. 246.873.060.2 (2)
-   A department credentialed pharmacy technician or a licensed pharmacist shall prepackage the medication. Medication prepackaged by a department credentialed pharmacy technician must be checked by a licensed pharmacist. The prepackaged medication must contain any supplemental material provided and an affixed label that contains:
-(a) Name, address, and telephone number of the hospital.
-(b) The name of the drug (as required by chapter 246-899 WAC), strength and number of units.
-(c) Cautionary information as required for patient safety and information on use is provided.
-(d) An expiration date after which the patient should not use the medication.
+   A department credentialed pharmacy technician or a licensed pharmacist shall
+prepackage the medication. Medication prepackaged by a department credentialed
+pharmacy technician must be checked by a licensed pharmacist. The prepackaged
+medication must contain any supplemental material provided and an affixed label
+that contains:
+(a) Name, address, and telephone number of the hospital.
+(b) The name of the drug (as required by chapter 246-899 WAC), strength and
+number of units.
+(c) Cautionary information as required for patient safety and information on use
+is provided.
+(d) An expiration date after which the patient should not use the medication.
 (e) Directions for use.
 
 3. 246.873.060.3 (3)
-   No more than a forty-eight hour supply is provided to the patient except when the pharmacist has informed appropriate hospital personnel that normal services will not be available within forty-eight hours. A final quantity of medication supply shall not exceed ninety-six hours.
+   No more than a forty-eight hour supply is provided to the patient except when
+the pharmacist has informed appropriate hospital personnel that normal services
+will not be available within forty-eight hours. A final quantity of medication
+supply shall not exceed ninety-six hours.
 
 4. 246.873.060.4 (4)
-   The practitioner or registered nurse will ensure the container is labeled before presenting to the patient and shows the following:
-(a) Name of patient;
-(b) Complete directions for use, which should include at a minimum the number of units distributed, frequency, and route of administration;
-(c) Date of distribution;
-(d) Identifying number (i.e., RX number or similar indicator);
-(e) Name of prescribing practitioner;
-(f) Initials of the practitioner or registered nurse who distributed the medication.
+   The practitioner or registered nurse will ensure the container is labeled
+before presenting to the patient and shows the following:
+(a) Name of patient;
+(b) Complete directions for use, which should include at a minimum the number of
+units distributed, frequency, and route of administration;
+(c) Date of distribution;
+(d) Identifying number (i.e., RX number or similar indicator);
+(e) Name of prescribing practitioner;
+(f) Initials of the practitioner or registered nurse who distributed the
+medication.
 
 5. 246.873.060.6 (6)
-   The original hard copy or electronically transmitted order by the practitioner is retained for verification by the pharmacist after completion by the practitioner or registered nurse and shall contain:
-(a) Name and address of patient if not already listed in the medical record;
-(b) Date of issuance;
-(c) Units issued;
+   The original hard copy or electronically transmitted order by the
+practitioner is retained for verification by the pharmacist after completion by
+the practitioner or registered nurse and shall contain:
+(a) Name and address of patient if not already listed in the medical record;
+(b) Date of issuance;
+(c) Units issued;
 (d) Initials of practitioner or registered nurse.
 
 6. 246.873.060.7 (7)
-   The medications distributed as discharge medications must be stored in compliance with the laws concerning security and access. They must be stored in or near the emergency department in such a manner as to preclude the necessity for entry into the pharmacy when pharmacy services are not available.
+   The medications distributed as discharge medications must be stored in
+compliance with the laws concerning security and access. They must be stored in
+or near the emergency department in such a manner as to preclude the necessity
+for entry into the pharmacy when pharmacy services are not available.
 
 7. 246.873.060.7 (7)
-   The procedures outlined in this rule may not be used for controlled substances except at the following rural hospitals which met all three of the rural access project criteria on May 17, 1989:
-Hospital / City 
-1. Lake Chelan Community Hospital  / Chelan 
-2. St. Joseph's Hospital / Chewelah 
-3. Whitman Community Hospital / Colfax 
-4. Lincoln Hospital / Davenport 
-5. Dayton General Hospital / Dayton 
-6. Ocean Beach Hospital / Ilwaco 
-7. Newport Community Hospital / Newport 
-8. Jefferson General Hospital / Port Townsend 
-9. Ritzville Memorial Hospital / Ritzville 
-10. Willapa Harbor Hospital / South Bend 
+   The procedures outlined in this rule may not be used for controlled
+substances except at the following rural hospitals which met all three of the
+rural access project criteria on May 17, 1989:
+Hospital / City
+1. Lake Chelan Community Hospital  / Chelan
+2. St. Joseph's Hospital / Chewelah
+3. Whitman Community Hospital / Colfax
+4. Lincoln Hospital / Davenport
+5. Dayton General Hospital / Dayton
+6. Ocean Beach Hospital / Ilwaco
+7. Newport Community Hospital / Newport
+8. Jefferson General Hospital / Port Townsend
+9. Ritzville Memorial Hospital / Ritzville
+10. Willapa Harbor Hospital / South Bend
 
 8. 246.873.060.5 (5)
-   A registered nurse or practitioner will distribute prepackaged emergency medications to patients only after a practitioner has counseled the patient on the medication.
+   A registered nurse or practitioner will distribute prepackaged emergency
+medications to patients only after a practitioner has counseled the patient on
+the medication.
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: d1814c3b-04f4-4c0f-99e8-973b6d18b39a
+Document ID: 0fdfa9ea-cb53-4de1-8d47-3f7cfa180d6a
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,14 +15,25 @@ Description: Labeling of biological products
 
 ---------- ELEMENTS ----------
 1. 450.0122.1 (1)
-   In this section:
-(a) “Brand name" means the name, other than the proper name, that the labeler of a biological product places on its commercial container at the time of packaging.
-(b) “Proper name” means the nonproprietary name for a biological product designated by the federal food and drug administration licensure for use upon each package of the product.
+   In this section:
+(a) “Brand name" means the name, other than the proper name, that the labeler of
+a biological product places on its commercial container at the time of
+packaging.
+(b) “Proper name” means the nonproprietary name for a biological product
+designated by the federal food and drug administration licensure for use upon
+each package of the product.
 
 2. 450.0122.2 (2)
-   The manufacturer's or distributor's commercial container of every biological product delivered to any pharmacist, practitioner, hospital, or nursing home shall bear a label containing the proper name of the biological product, the brand name of the biological product, if any, the name and address of the manufacturer of the biological product, and, if different from the manufacturer, the name and address of the distributor of the biological product.
+   The manufacturer's or distributor's commercial container of every biological
+product delivered to any pharmacist, practitioner, hospital, or nursing home
+shall bear a label containing the proper name of the biological product, the
+brand name of the biological product, if any, the name and address of the
+manufacturer of the biological product, and, if different from the manufacturer,
+the name and address of the distributor of the biological product.
 
 3. 450.0122.3 (3)
-   Every prescription order or medication profile record for a biological product shall include the brand name, if any, and the name of the manufacturer of the biological product.
+   Every prescription order or medication profile record for a biological
+product shall include the brand name, if any, and the name of the manufacturer
+of the biological product.
 
 ---------- END OF DOCUMENT ----------

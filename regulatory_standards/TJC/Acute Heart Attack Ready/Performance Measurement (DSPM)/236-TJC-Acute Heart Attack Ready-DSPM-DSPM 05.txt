@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 59233cfa-1949-4357-9728-529160a02b32
+Document ID: 85400dc6-d066-4e86-b502-39280b26ea86
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,17 +10,29 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 05
-Description: The program evaluates patient satisfaction with the quality of care. 
+Description: The program evaluates patient satisfaction with the quality of
+care.
 
 ---------- ELEMENTS ----------
 1. DSPM.05 EP01 (EP 01)
-   The program evaluates patient satisfaction with and perception of quality of care at the program level. 
+   The program evaluates patient satisfaction with and perception of quality of
+care at the program level.
 
 2. DSPM.05 EP02 (EP 02)
-   Patient satisfaction data are utilized for program-specific performance improvement activities. 
+   Patient satisfaction data are utilized for program-specific performance
+improvement activities.
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 1c07a8b2-b6a5-4eac-9c63-dbd6831a5e35
+Document ID: 2d462fe2-932a-4c66-89f4-e237068398f4
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,18 @@ Name: CMS 482.30
 Title: 482.30 Utilization Review
 
 OVERVIEW:
-The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs.
+The hospital must have in effect a utilization review (UR) plan that provides
+for review of services furnished by the institution and by members of the
+medical staff to patients entitled to benefits under the Medicare and Medicaid
+programs.
 
 ABOUT:
-Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the exception criteria at §482.30(a), it must have a UR plan in effect which provides for review of services provided to Medicare and Medicaid beneficiaries. Survey Procedures  §482.30 The manner and degree of noncompliance with one or more of the UR standards is considered when determining whether there is condition-level compliance or noncompliance.
+Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the
+exception criteria at §482.30(a), it must have a UR plan in effect which
+provides for review of services provided to Medicare and Medicaid beneficiaries.
+Survey Procedures  §482.30 The manner and degree of noncompliance with one or
+more of the UR standards is considered when determining whether there is
+condition-level compliance or noncompliance.
 
 ---------- STANDARD ----------
 Name: CMS 482.30 (c)
@@ -22,30 +30,47 @@ Description: Scope and Frequency of Review
 
 ---------- ELEMENTS ----------
 1. CMS 482.30.(c).2 (2)
-   Review of admissions may be performed before, at, or after hospital admission.
+   Review of admissions may be performed before, at, or after hospital
+admission.
 
 
 2. CMS 482.30.(c).A-0655 (A-0655)
-   §482.30(c) Standard:  Scope and Frequency of Review 
- (1)  The UR plan must provide for review for Medicare and Medicaid patients with respect to the medical necessity of-- 
- (i)  Admissions to the institution; 
- (ii)  The duration of stays; and 
- (iii)  Professional services furnished including drugs and biologicals. 
- (2)  Review of admissions may be performed before, at, or after hospital admission. 
- (3)  Except as specified in paragraph (e) of this section, reviews may be conducted on a sample basis. 
- (4)  Hospitals that are paid for inpatient hospital services under the prospective payment system set forth in Part 412 of this chapter must conduct review of duration of stays and review of professional services as follows: 
- (i)  For duration of stays, these hospitals need review only cases that they reasonably assume to be outlier cases based on extended length of stay, as described in §412.80(a)(1)(i) of this chapter; and 
- (ii)  For professional services, these hospitals need review only cases that they reasonably assume to be outlier cases based on extraordinarily high costs, as described in §412.80(a)(1)(ii) of this chapter. 
+   §482.30(c) Standard:  Scope and Frequency of Review
+ (1)  The UR plan must provide for review for Medicare and Medicaid patients
+with respect to the medical necessity of--
+ (i)  Admissions to the institution;
+ (ii)  The duration of stays; and
+ (iii)  Professional services furnished including drugs and biologicals.
+ (2)  Review of admissions may be performed before, at, or after hospital
+admission.
+ (3)  Except as specified in paragraph (e) of this section, reviews may be
+conducted on a sample basis.
+ (4)  Hospitals that are paid for inpatient hospital services under the
+prospective payment system set forth in Part 412 of this chapter must conduct
+review of duration of stays and review of professional services as follows:
+ (i)  For duration of stays, these hospitals need review only cases that they
+reasonably assume to be outlier cases based on extended length of stay, as
+described in §412.80(a)(1)(i) of this chapter; and
+ (ii)  For professional services, these hospitals need review only cases that
+they reasonably assume to be outlier cases based on extraordinarily high costs,
+as described in §412.80(a)(1)(ii) of this chapter.
 
 3. CMS 482.30.(c).4 (4)
-   Hospitals that are paid for inpatient hospital services under the prospective payment system set forth in Part 412 of this chapter must conduct review of duration of stays and review of professional services as follows:
-
-(i) For duration of stays, these hospitals need review only cases that they reasonably assume to be outlier cases based on extended length of stay, as described in Sec. 412.80(a)(1)(i) of this chapter; and
-
-(ii) For professional services, these hospitals need review only cases that they reasonably assume to be outlier cases based on extraordinarily high costs, as described in §412.80(a)(1)(ii) of this chapter. 
+   Hospitals that are paid for inpatient hospital services under the prospective
+payment system set forth in Part 412 of this chapter must conduct review of
+duration of stays and review of professional services as follows:
+
+(i) For duration of stays, these hospitals need review only cases that they
+reasonably assume to be outlier cases based on extended length of stay, as
+described in Sec. 412.80(a)(1)(i) of this chapter; and
+
+(ii) For professional services, these hospitals need review only cases that they
+reasonably assume to be outlier cases based on extraordinarily high costs, as
+described in §412.80(a)(1)(ii) of this chapter.
 
 4. CMS 482.30.(c).3 (3)
-   Except as specified in paragraph (e) of this section, reviews may be conducted on a sample basis.
+   Except as specified in paragraph (e) of this section, reviews may be
+conducted on a sample basis.
 
 
 ---------- END OF DOCUMENT ----------

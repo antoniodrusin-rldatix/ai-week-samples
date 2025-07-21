@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: c8c24076-aae5-4086-a05b-ed5ef4e71699
+Document ID: 66ef3f86-14dd-4183-a0db-875e78ed2614
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,6 +15,7 @@ Description: Licensure
 
 ---------- ELEMENTS ----------
 1. 246.873.030.1 (1)
-   Hospital pharmacists shall be licensed by the board of pharmacy in accordance with chapter 18.64 RCW.
+   Hospital pharmacists shall be licensed by the board of pharmacy in accordance
+with chapter 18.64 RCW.
 
 ---------- END OF DOCUMENT ----------

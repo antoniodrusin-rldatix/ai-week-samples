@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 2e0f493f-6752-4650-b87e-f589665352b3
+Document ID: 79f27249-c521-454b-914a-d1820ef88c5c
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,42 +15,119 @@ Description: Administration of drug products and devices; vaccines
 
 ---------- ELEMENTS ----------
 1. 450.035.1g (1g)
-   In this section, “drug product or device" does not include a vaccine. 
+   In this section, “drug product or device" does not include a vaccine.
 
 2. 450.035.1r (1r)
-   A pharmacist may not administer by injection a prescribed drug product or device unless he or she has successfully completed a course of study and training in administration technique conducted by a course provider approved by the Accreditation Council for Pharmacy Education or the board. A pharmacist who administers a prescribed drug product or device under this subsection shall comply with the requirements and procedures established in rules promulgated by the board under s. 450.02 (2g) (b). The pharmacist or his or her agent shall also, after the pharmacist administers a prescribed drug product or device under this subsection, notify the prescribing practitioner or enter the information in a patient record system shared by the prescribing practitioner. 
+   A pharmacist may not administer by injection a prescribed drug product or
+device unless he or she has successfully completed a course of study and
+training in administration technique conducted by a course provider approved by
+the Accreditation Council for Pharmacy Education or the board. A pharmacist who
+administers a prescribed drug product or device under this subsection shall
+comply with the requirements and procedures established in rules promulgated by
+the board under s. 450.02 (2g) (b). The pharmacist or his or her agent shall
+also, after the pharmacist administers a prescribed drug product or device under
+this subsection, notify the prescribing practitioner or enter the information in
+a patient record system shared by the prescribing practitioner.
 
 3. 450.035.1t (1t)
-   A person engaged in the practice of pharmacy under s. 450.03 (1) (f) or (g) may not administer a prescribed drug product or device unless he or she has successfully completed a course of study and training in administration technique conducted by a course provider approved by the Accreditation Council for Pharmacy Education or the board. A person engaged in the practice of pharmacy under s. 450.03 (1) (f) or (g) may administer a prescribed drug product or device under this subsection only under the direct supervision of a pharmacist who has successfully completed a course of study and training in administration technique conducted by a course provider approved by the Accreditation Council for Pharmacy Education or the board. A person engaged in the practice of pharmacy under s. 450.03 (1) (f) or (g) who administers a prescribed drug product or device under this subsection shall comply with the requirements and procedures established in rules promulgated by the board under s. 450.02 (2g) (b). The person or his or her agent shall also, after the person administers a prescribed drug product or device under this subsection, notify the prescribing practitioner or enter the information in a patient record system shared by the prescribing practitioner.
+   A person engaged in the practice of pharmacy under s. 450.03 (1) (f) or (g)
+may not administer a prescribed drug product or device unless he or she has
+successfully completed a course of study and training in administration
+technique conducted by a course provider approved by the Accreditation Council
+for Pharmacy Education or the board. A person engaged in the practice of
+pharmacy under s. 450.03 (1) (f) or (g) may administer a prescribed drug product
+or device under this subsection only under the direct supervision of a
+pharmacist who has successfully completed a course of study and training in
+administration technique conducted by a course provider approved by the
+Accreditation Council for Pharmacy Education or the board. A person engaged in
+the practice of pharmacy under s. 450.03 (1) (f) or (g) who administers a
+prescribed drug product or device under this subsection shall comply with the
+requirements and procedures established in rules promulgated by the board under
+s. 450.02 (2g) (b). The person or his or her agent shall also, after the person
+administers a prescribed drug product or device under this subsection, notify
+the prescribing practitioner or enter the information in a patient record system
+shared by the prescribing practitioner.
 
 4. 450.035.2 (2)
-   A pharmacist may not administer a vaccine unless he or she has successfully completed 12 hours in a course of study and training, approved by the Accreditation Council for Pharmacy Education or the board, in vaccination storage, protocols, administration technique, emergency procedures, and record keeping and has satisfied the requirements specified in sub. (2t). Except as provided under sub. (2c), a pharmacist may not administer a vaccine under this subsection to a person who is under the age of 6. 
+   A pharmacist may not administer a vaccine unless he or she has successfully
+completed 12 hours in a course of study and training, approved by the
+Accreditation Council for Pharmacy Education or the board, in vaccination
+storage, protocols, administration technique, emergency procedures, and record
+keeping and has satisfied the requirements specified in sub. (2t). Except as
+provided under sub. (2c), a pharmacist may not administer a vaccine under this
+subsection to a person who is under the age of 6.
 
 5. 450.035.2c (2c)
-   A pharmacist may administer a vaccine under sub. (2) to a person who is under the age of 6 if all of the following apply: 
-(a) The vaccine is administered pursuant to a prescription order issued within the 29 days immediately preceding the day on which the vaccine is administered. 
-(b) The pharmacist has successfully completed a course of instruction approved by the Accreditation Council for Pharmacy Education or the board that includes the administration of vaccines to children under the age of 6. 
+   A pharmacist may administer a vaccine under sub. (2) to a person who is under
+the age of 6 if all of the following apply:
+(a) The vaccine is administered pursuant to a prescription order issued within
+the 29 days immediately preceding the day on which the vaccine is administered.
+(b) The pharmacist has successfully completed a course of instruction approved
+by the Accreditation Council for Pharmacy Education or the board that includes
+the administration of vaccines to children under the age of 6.
 
 6. 450.035.2g (2g)
-   (a) A person engaged in the practice of pharmacy under s. 450.03 (1) (f), (fm), or (g) may not administer a vaccine unless he or she acts under the direct supervision of a health care provider authorized to administer vaccines and he or she has successfully completed 12 hours in a course of study and training, approved by the Accreditation Council for Pharmacy Education or the board, in vaccination storage, protocols, administration technique, emergency procedures, and record keeping. If the supervising health care provider under this paragraph is a pharmacist, a person engaged in the practice of pharmacy under s. 450.03 (1) (f), (fm), or (g) may not administer a vaccine unless the supervising pharmacist has successfully completed a course of study and training specified in sub. (2) and has satisfied the requirements specified in sub. (2t).
-(b) A person engaged in the practice of pharmacy under s. 450.03 (1) (f), (fm), or (g) may not administer a vaccine under this subsection to a person who is under the age of 6.
+   (a) A person engaged in the practice of pharmacy under s. 450.03 (1) (f),
+(fm), or (g) may not administer a vaccine unless he or she acts under the direct
+supervision of a health care provider authorized to administer vaccines and he
+or she has successfully completed 12 hours in a course of study and training,
+approved by the Accreditation Council for Pharmacy Education or the board, in
+vaccination storage, protocols, administration technique, emergency procedures,
+and record keeping. If the supervising health care provider under this paragraph
+is a pharmacist, a person engaged in the practice of pharmacy under s. 450.03
+(1) (f), (fm), or (g) may not administer a vaccine unless the supervising
+pharmacist has successfully completed a course of study and training specified
+in sub. (2) and has satisfied the requirements specified in sub. (2t).
+(b) A person engaged in the practice of pharmacy under s. 450.03 (1) (f), (fm),
+or (g) may not administer a vaccine under this subsection to a person who is
+under the age of 6.
 
 7. 450.035.2i (2i)
-   (a) Subject to subs. (2), (2g), and (2h), a pharmacist or a person engaged in the practice of pharmacy under s. 450.03 (1) (f), (fm), (g), or (i) may administer without a prescription order any vaccine listed in the current immunization schedules recommended by the federal advisory committee on immunization practices and published by the federal centers for disease control and prevention. 
-(b) Subject to subs. (2), (2g), and (2h), a pharmacist or a person engaged in the practice of pharmacy under s. 450.03 (1) (f), (fm), (g), or (i) may initiate and administer any vaccine not listed in the current immunization schedules recommended by the federal advisory committee on immunization practices and published by the federal centers for disease control and prevention if the vaccine is administered pursuant to a prescription order, vaccination protocol, or standing order. 
+   (a) Subject to subs. (2), (2g), and (2h), a pharmacist or a person engaged in
+the practice of pharmacy under s. 450.03 (1) (f), (fm), (g), or (i) may
+administer without a prescription order any vaccine listed in the current
+immunization schedules recommended by the federal advisory committee on
+immunization practices and published by the federal centers for disease control
+and prevention.
+(b) Subject to subs. (2), (2g), and (2h), a pharmacist or a person engaged in
+the practice of pharmacy under s. 450.03 (1) (f), (fm), (g), or (i) may initiate
+and administer any vaccine not listed in the current immunization schedules
+recommended by the federal advisory committee on immunization practices and
+published by the federal centers for disease control and prevention if the
+vaccine is administered pursuant to a prescription order, vaccination protocol,
+or standing order.
 
 8. 450.035.2m (2m)
-   Except as provided in sub. (1t) or (2g), a pharmacist may not delegate to any person any administration of a prescribed drug product or device or vaccine under sub. (1r) or (2).
+   Except as provided in sub. (1t) or (2g), a pharmacist may not delegate to any
+person any administration of a prescribed drug product or device or vaccine
+under sub. (1r) or (2).
 
 9. 450.035.2t (2t)
-   A pharmacist may not administer a vaccine under sub. (2) or supervise a person administering a vaccine under sub. (2g) unless the pharmacist satisfies each of the following:
-(a) The pharmacist has in effect liability insurance that covers the pharmacist and a person who administers a vaccine under sub. (2g) against loss, expense and liability resulting from errors, omissions or neglect in the administration of vaccines in an amount that is not less than $1,000,000 for each occurrence and $2,000,000 for all occurrences in any one policy year.
-(b) The pharmacist maintains proof that he or she satisfies the requirement specified in par. (a) and, upon request, provides copies of such proof to the department or the board.
-(3) A pharmacist or a person engaged in the practice of pharmacy under s. 450.03 (1) (f) or (g) who successfully completes a course of study and training specified in sub. (1r), (1t), (2), or (2g) shall maintain proof of completion and, upon request, provide copies of such proof to the department or the board.
-(4) A pharmacist or person engaged in the practice of pharmacy under s. 450.03 (1) (f) or (g) who administers a vaccine to a person under this section shall update, or cause a pharmacy to update, the Wisconsin Immunization Registry established by the department of health services within 7 days of administering the vaccine.
+   A pharmacist may not administer a vaccine under sub. (2) or supervise a
+person administering a vaccine under sub. (2g) unless the pharmacist satisfies
+each of the following:
+(a) The pharmacist has in effect liability insurance that covers the pharmacist
+and a person who administers a vaccine under sub. (2g) against loss, expense and
+liability resulting from errors, omissions or neglect in the administration of
+vaccines in an amount that is not less than $1,000,000 for each occurrence and
+$2,000,000 for all occurrences in any one policy year.
+(b) The pharmacist maintains proof that he or she satisfies the requirement
+specified in par. (a) and, upon request, provides copies of such proof to the
+department or the board.
+(3) A pharmacist or a person engaged in the practice of pharmacy under s. 450.03
+(1) (f) or (g) who successfully completes a course of study and training
+specified in sub. (1r), (1t), (2), or (2g) shall maintain proof of completion
+and, upon request, provide copies of such proof to the department or the board.
+(4) A pharmacist or person engaged in the practice of pharmacy under s. 450.03
+(1) (f) or (g) who administers a vaccine to a person under this section shall
+update, or cause a pharmacy to update, the Wisconsin Immunization Registry
+established by the department of health services within 7 days of administering
+the vaccine.
 
 
 10. 450.035.2k (2k)
-   A person authorized to administer a vaccine under this section may administer by injection epinephrine and diphenhydramine to a person experiencing an adverse reaction to a vaccine. 
+   A person authorized to administer a vaccine under this section may administer
+by injection epinephrine and diphenhydramine to a person experiencing an adverse
+reaction to a vaccine.
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 85af9de6-5b9a-4029-b5f6-4d59326ef86e
+Document ID: 6659b3d9-1cde-4520-9004-e56a4e2f9b7d
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -11,12 +11,18 @@ Title: 482.43 Discharge Planning
 
 ---------- STANDARD ----------
 Name: CMS 482.43 -
-Description: Condition of Participation:  Discharge Planning 
+Description: Condition of Participation:  Discharge Planning
 
 ---------- ELEMENTS ----------
 1. CMS 482.43.-.A-0799 (A-0799)
-   §482.43 Condition of Participation:  Discharge Planning 
- 
-The hospital must have in effect a discharge planning process that focuses on the patient goals and treatment preferences and includes the patient and his or her caregivers support person(s) in the discharge planning for post-discharge care. The discharge planning process and the discharge plan must be consistent with the patient’s goals for care and his or her treatment preferences, ensure an effective transition of the patient from hospital to post-discharge care, and reduce the factors leading to a preventable hospital readmissions. 
+   §482.43 Condition of Participation:  Discharge Planning
+
+The hospital must have in effect a discharge planning process that focuses on
+the patient goals and treatment preferences and includes the patient and his or
+her caregivers support person(s) in the discharge planning for post-discharge
+care. The discharge planning process and the discharge plan must be consistent
+with the patient’s goals for care and his or her treatment preferences, ensure
+an effective transition of the patient from hospital to post-discharge care, and
+reduce the factors leading to a preventable hospital readmissions.
 
 ---------- END OF DOCUMENT ----------

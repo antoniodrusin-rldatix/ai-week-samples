@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: d4954fd5-5d47-4d3d-8be3-1a370b9647aa
+Document ID: 7bcea219-fa4a-41e0-9171-daa30ddaaf02
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,14 +10,17 @@ Name: CMS 482.11
 Title: 482.11 Compliance with Federal, State and Local Laws
 
 ABOUT:
-Interpretive Guidelines §482.11 The hospital must ensure that all applicable Federal, State and local law requirements are met.
+Interpretive Guidelines §482.11 The hospital must ensure that all applicable
+Federal, State and local law requirements are met.
 
 ---------- STANDARD ----------
 Name: CMS 482.11 -
-Description: Condition of Participation: Compliance with Federal, State and Local Laws
+Description: Condition of Participation: Compliance with Federal, State and
+Local Laws
 
 ---------- ELEMENTS ----------
 1. CMS 482.11.-.A-0020 (A-0020)
-   §482.11 Condition of Participation:  Compliance with Federal, State and Local Laws 
+   §482.11 Condition of Participation:  Compliance with Federal, State and Local
+Laws
 
 ---------- END OF DOCUMENT ----------

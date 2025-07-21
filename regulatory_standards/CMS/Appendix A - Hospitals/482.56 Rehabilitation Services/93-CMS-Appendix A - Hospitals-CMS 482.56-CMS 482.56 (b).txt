@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 7dc4e0d1-14d8-434b-90f8-27f9d1cfa75a
+Document ID: 4a624924-ff7c-4734-9317-8bc13dc5070e
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -16,16 +16,27 @@ Description: Delivery of services
 
 ---------- ELEMENTS ----------
 1. CMS 482.56.(b).99 (99)
-   Services must be given in accordance with orders of practitioners who are authorized by the medical staff to order the services, and the orders must be incorporated in the patient's record. The provision of care and the personnel qualifications must be in accordance with national acceptable standards of practice and must also meet the requirements of §409.17.
+   Services must be given in accordance with orders of practitioners who are
+authorized by the medical staff to order the services, and the orders must be
+incorporated in the patient's record. The provision of care and the personnel
+qualifications must be in accordance with national acceptable standards of
+practice and must also meet the requirements of §409.17.
 
 2. CMS 482.56.(b).A-1133 (A-1133)
-   §482.56(b)(1)  All rehabilitation services orders must be documented in the patient’s medical record in accordance with the requirements at §482.24. 
+   §482.56(b)(1)  All rehabilitation services orders must be documented in the
+patient’s medical record in accordance with the requirements at §482.24.
 
 3. CMS 482.56.(b).A-1134 (A-1134)
-   §482.56(b)(2)  The provision of care and the personnel qualifications must be in accordance with national acceptable standards of practice and must also meet the requirements of §409.17 of this chapter. 
+   §482.56(b)(2)  The provision of care and the personnel qualifications must be
+in accordance with national acceptable standards of practice and must also meet
+the requirements of §409.17 of this chapter.
 
 4. CMS 482.56.(b).A-1132 (A-1132)
-   §482.56(b) Standard: Delivery of Services  
- Services must only be provided under the orders of a qualified and licensed practitioner who is responsible for the care of the patient, acting within his or her scope of practice under State law, and who is authorized by the hospital’s medical staff to order the services in accordance with hospital policies and procedures and State laws. 
+   §482.56(b) Standard: Delivery of Services
+ Services must only be provided under the orders of a qualified and licensed
+practitioner who is responsible for the care of the patient, acting within his
+or her scope of practice under State law, and who is authorized by the
+hospital’s medical staff to order the services in accordance with hospital
+policies and procedures and State laws.
 
 ---------- END OF DOCUMENT ----------

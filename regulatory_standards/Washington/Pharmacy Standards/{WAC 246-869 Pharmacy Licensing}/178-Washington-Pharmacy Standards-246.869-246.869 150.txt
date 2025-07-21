@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: e4462cc4-f71b-4935-9859-28f56cb46cef
+Document ID: 3d9d02c1-eb62-49e0-937e-ea8f29de10ac
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,21 +15,30 @@ Description: Physical standards for pharmacies—Adequate stock.
 
 ---------- ELEMENTS ----------
 1. 246.869.150.1 (1)
-   The pharmacy must maintain at all times a representative assortment of drugs in order to meet the pharmaceutical needs of its patients.
+   The pharmacy must maintain at all times a representative assortment of drugs
+in order to meet the pharmaceutical needs of its patients.
 
 2. 246.869.150.2 (2)
-   Dated items—All merchandise which has exceeded its expiration date must be removed from stock.
+   Dated items—All merchandise which has exceeded its expiration date must be
+removed from stock.
 
 3. 246.869.150.3 (3)
-   All stock and materials on shelves or display for sale must be free from contamination, deterioration and adulteration.
+   All stock and materials on shelves or display for sale must be free from
+contamination, deterioration and adulteration.
 
 4. 246.869.150.4 (4)
-   All stock and materials must be properly labeled according to federal and state statutes, rules and regulations.
+   All stock and materials must be properly labeled according to federal and
+state statutes, rules and regulations.
 
 5. 246.869.150.5 (5)
-   Devices that are not fit or approved by the FDA for use by the ultimate consumer shall not be offered for sale and must be removed from stock.
+   Devices that are not fit or approved by the FDA for use by the ultimate
+consumer shall not be offered for sale and must be removed from stock.
 
 6. 246.869.150.6 (6)
-   All drugs shall be stored in accordance with USP standards and shall be protected from excessive heat or freezing except as those drugs that must be frozen in accordance with the requirements of the label. If drugs are exposed to excessive heat or frozen when not allowed by the requirements of the label, they must be destroyed.
+   All drugs shall be stored in accordance with USP standards and shall be
+protected from excessive heat or freezing except as those drugs that must be
+frozen in accordance with the requirements of the label. If drugs are exposed to
+excessive heat or frozen when not allowed by the requirements of the label, they
+must be destroyed.
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 0b2d66c0-2caf-4c09-9f9d-8808e257a3c1
+Document ID: df8b89d7-0854-4e46-a20f-ad423f3658b7
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,43 +15,78 @@ Description: Pharmacy examining board
 
 ---------- ELEMENTS ----------
 1. 450.02.1 (1)
-   The department shall keep a record of the proceedings and a register of the names and places of practice or business of pharmacies, manufacturers, distributors and other persons licensed under this chapter, and the books, registers and records of the department shall be prima facie evidence of the matters recorded.
+   The department shall keep a record of the proceedings and a register of the
+names and places of practice or business of pharmacies, manufacturers,
+distributors and other persons licensed under this chapter, and the books,
+registers and records of the department shall be prima facie evidence of the
+matters recorded.
 
 2. 450.02.2 (2)
-   The board shall adopt rules defining the active practice of pharmacy. The rules shall apply to all applicants for licensure under s. 450.05.
+   The board shall adopt rules defining the active practice of pharmacy. The
+rules shall apply to all applicants for licensure under s. 450.05.
 
 3. 450.02.2g (2g)
-   (a) The pharmacy examining board shall, after consultation with the medical examining board and the board of nursing, promulgate rules that establish criteria for approving courses under ss. 450.035 (1r) and (2) and 450.085 (1).
-(b) The board shall promulgate rules that establish requirements and procedures for the administration of a drug product or device, as defined in s. 450.035 (1g), by a pharmacist under s. 450.035 (1r) or by another person under s. 450.035 (1t).
+   (a) The pharmacy examining board shall, after consultation with the medical
+examining board and the board of nursing, promulgate rules that establish
+criteria for approving courses under ss. 450.035 (1r) and (2) and 450.085 (1).
+(b) The board shall promulgate rules that establish requirements and procedures
+for the administration of a drug product or device, as defined in s. 450.035
+(1g), by a pharmacist under s. 450.035 (1r) or by another person under s.
+450.035 (1t).
 
 4. 450.02.2m (2m)
-   The board shall periodically prepare and distribute letters, bulletins or other types of notice to pharmacists that identify the courses that are approved for purposes of ss. 450.035 (1r) and (2) and 450.085 (1).
+   The board shall periodically prepare and distribute letters, bulletins or
+other types of notice to pharmacists that identify the courses that are approved
+for purposes of ss. 450.035 (1r) and (2) and 450.085 (1).
 
 5. 450.02.3 (3)
-   The board may promulgate rules:
-(a) Relating to the manufacture of drugs and the distribution and dispensing of prescription drugs.
-(b) Establishing security standards for pharmacies.
-(c) Relating to the manufacture, distribution and dispensing of hypodermic syringes, needles and other objects used, intended for use or designed for use in injecting a drug.
-(d) Necessary for the administration and enforcement of this chapter and ch. 961.
-(e) Establishing minimum standards for the practice of pharmacy.
-(f) Establishing procedures for identifying pharmacists impaired by alcohol or other drugs or physical or mental disability or disease and for assisting those pharmacists in obtaining treatment.
+   The board may promulgate rules:
+(a) Relating to the manufacture of drugs and the distribution and dispensing of
+prescription drugs.
+(b) Establishing security standards for pharmacies.
+(c) Relating to the manufacture, distribution and dispensing of hypodermic
+syringes, needles and other objects used, intended for use or designed for use
+in injecting a drug.
+(d) Necessary for the administration and enforcement of this chapter and ch.
+961.
+(e) Establishing minimum standards for the practice of pharmacy.
+(f) Establishing procedures for identifying pharmacists impaired by alcohol or
+other drugs or physical or mental disability or disease and for assisting those
+pharmacists in obtaining treatment.
 
 6. 450.02.3m (3m)
-   (a) The board or its designee may grant a variance to a requirement of this chapter or to a rule promulgated by the board if all of the following are true:
-1. The board or its designee determines that a natural or man-made disaster or emergency exists or has occurred.
-2. A pharmacist has requested the variance.
-3. The board or its designee determines that the variance is necessary to protect the public health, safety, or welfare.
-(am) If a member of the board disagrees with a decision made by a designee under par. (a) or sub. (3r), the board chairperson shall call a meeting of the board as soon as practicable to review the decision. The board may affirm or modify the designee's decision.
-(b) A variance granted under par. (a) shall be for a stated term not to exceed 90 days, except that the board or its designee may extend the variance upon request by a pharmacist if it determines that an extension is necessary to protect the public health, safety, or welfare.
+   (a) The board or its designee may grant a variance to a requirement of this
+chapter or to a rule promulgated by the board if all of the following are true:
+1. The board or its designee determines that a natural or man-made disaster or
+emergency exists or has occurred.
+2. A pharmacist has requested the variance.
+3. The board or its designee determines that the variance is necessary to
+protect the public health, safety, or welfare.
+(am) If a member of the board disagrees with a decision made by a designee under
+par. (a) or sub. (3r), the board chairperson shall call a meeting of the board
+as soon as practicable to review the decision. The board may affirm or modify
+the designee's decision.
+(b) A variance granted under par. (a) shall be for a stated term not to exceed
+90 days, except that the board or its designee may extend the variance upon
+request by a pharmacist if it determines that an extension is necessary to
+protect the public health, safety, or welfare.
 
 7. 450.02.3r (3r)
-   (a) The board or its designee may authorize a pilot program, and may grant a waiver or variance in connection with the pilot program from any rule promulgated by the board, if all of the following are true:
-1. The pilot program is related to the practice of pharmacy or prescription verification.
-2. The board or its designee determines that the pilot program will improve the safety, quality, or efficiency of the practice of pharmacy in this state.
-(b) The board or its designee may not authorize a pilot program under par. (a) that lasts longer than 3 years.
-(4) The board may not promulgate a rule which does any of the following:
-(a) Limits to a pharmacist the authority to sell or in any way interferes with the sale of nonnarcotic nonprescription drugs that are prepackaged for consumer use and labeled in compliance with all applicable state and federal laws.
-(b) Interprets s. 448.03 (2) (e) to expand the therapeutic alternate drug selection powers of a pharmacist beyond those specified in s. 450.01 (16) (h).
+   (a) The board or its designee may authorize a pilot program, and may grant a
+waiver or variance in connection with the pilot program from any rule
+promulgated by the board, if all of the following are true:
+1. The pilot program is related to the practice of pharmacy or prescription
+verification.
+2. The board or its designee determines that the pilot program will improve the
+safety, quality, or efficiency of the practice of pharmacy in this state.
+(b) The board or its designee may not authorize a pilot program under par. (a)
+that lasts longer than 3 years.
+(4) The board may not promulgate a rule which does any of the following:
+(a) Limits to a pharmacist the authority to sell or in any way interferes with
+the sale of nonnarcotic nonprescription drugs that are prepackaged for consumer
+use and labeled in compliance with all applicable state and federal laws.
+(b) Interprets s. 448.03 (2) (e) to expand the therapeutic alternate drug
+selection powers of a pharmacist beyond those specified in s. 450.01 (16) (h).
 
 
 ---------- END OF DOCUMENT ----------

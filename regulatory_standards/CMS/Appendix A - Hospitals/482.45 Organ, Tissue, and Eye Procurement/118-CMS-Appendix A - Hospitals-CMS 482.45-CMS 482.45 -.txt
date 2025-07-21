@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 2014ec97-74c9-4950-8902-4ab0686758e3
+Document ID: 7c4aae7c-7718-4296-b7ac-b3251a9e8bdf
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,6 +15,6 @@ Description: Condition of Participation:  Organ, Tissue and Eye Procurement
 
 ---------- ELEMENTS ----------
 1. CMS 482.45.-.A-0884 (A-0884)
-   §482.45 Condition of Participation:  Organ, Tissue and Eye Procurement 
+   §482.45 Condition of Participation:  Organ, Tissue and Eye Procurement
 
 ---------- END OF DOCUMENT ----------

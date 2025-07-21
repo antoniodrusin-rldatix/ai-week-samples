@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 6e746a12-a8c7-4305-b6a4-a68aecbe6fd8
+Document ID: 3699800f-e215-47a8-a19c-df0715ae2013
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -11,11 +11,14 @@ Title: 482.52 Anesthesia Services
 
 ---------- STANDARD ----------
 Name: CMS 482.52 -
-Description: Condition of Participation:  Anesthesia Services 
+Description: Condition of Participation:  Anesthesia Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.52.-.A-1000 (A-1000)
-   §482.52 Condition of Participation:  Anesthesia Services 
- If the hospital furnishes anesthesia services, they must be provided in a well-organized manner under the direction of a qualified doctor of medicine or osteopathy.  The service is responsible for all anesthesia administered in the hospital. 
+   §482.52 Condition of Participation:  Anesthesia Services
+ If the hospital furnishes anesthesia services, they must be provided in a well-
+organized manner under the direction of a qualified doctor of medicine or
+osteopathy.  The service is responsible for all anesthesia administered in the
+hospital.
 
 ---------- END OF DOCUMENT ----------

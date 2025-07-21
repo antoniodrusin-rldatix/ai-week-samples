@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 5654eb97-ec27-4fe0-8b40-3cf8d4c4aac7
+Document ID: 6c152885-9b4d-4cda-aab7-d0e67a56bc63
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,7 +15,8 @@ Description: Condition of Participation:  Outpatient Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.54.-.A-1076 (A-1076)
-   §482.54 Condition of Participation:  Outpatient Services 
- If the hospital provides outpatient services, the services must meet the needs of the patients in accordance with acceptable standards of practice. 
+   §482.54 Condition of Participation:  Outpatient Services
+ If the hospital provides outpatient services, the services must meet the needs
+of the patients in accordance with acceptable standards of practice.
 
 ---------- END OF DOCUMENT ----------

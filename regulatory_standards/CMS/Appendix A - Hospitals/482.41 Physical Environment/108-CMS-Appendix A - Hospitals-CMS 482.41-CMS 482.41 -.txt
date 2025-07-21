@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 4e81945c-a948-47cf-aeae-327bdeba85e8
+Document ID: 4db89a7b-7317-43d6-9b4f-bea5e87c9303
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,22 @@ Name: CMS 482.41
 Title: 482.41 Physical Environment
 
 OVERVIEW:
-The hospital must be constructed, arranged, and maintained to ensure the safety of the patient, and to provide facilities for diagnosis and treatment and for special hospital services appropriate to the needs of the community.
+The hospital must be constructed, arranged, and maintained to ensure the safety
+of the patient, and to provide facilities for diagnosis and treatment and for
+special hospital services appropriate to the needs of the community.
 
 ABOUT:
-Interpretive Guidelines §482.41 This CoP applies to all locations of the hospital, all campuses, all satellites, all providerbased activities, and all inpatient and outpatient locations. The hospital’s Facility Maintenance and hospital departments or services responsible for the hospital’s buildings and equipment (both facility equipment and patient care equipment) must be incorporated into the hospital’s QAPI program and be in compliance with the QAPI requirements. Survey Procedures §482.41 Survey of the Physical Environment CoP should be conducted by one surveyor.  However, each surveyor as he/she conducts his/her survey assignments should assess the hospital’s compliance with the Physical Environment CoP.  The Life Safety Code survey may be conducted separately by a specialty surveyor.
+Interpretive Guidelines §482.41 This CoP applies to all locations of the
+hospital, all campuses, all satellites, all providerbased activities, and all
+inpatient and outpatient locations. The hospital’s Facility Maintenance and
+hospital departments or services responsible for the hospital’s buildings and
+equipment (both facility equipment and patient care equipment) must be
+incorporated into the hospital’s QAPI program and be in compliance with the QAPI
+requirements. Survey Procedures §482.41 Survey of the Physical Environment CoP
+should be conducted by one surveyor.  However, each surveyor as he/she conducts
+his/her survey assignments should assess the hospital’s compliance with the
+Physical Environment CoP.  The Life Safety Code survey may be conducted
+separately by a specialty surveyor.
 
 ---------- STANDARD ----------
 Name: CMS 482.41 -
@@ -21,7 +33,9 @@ Description: Condition of Participation:  Physical Environment
 
 ---------- ELEMENTS ----------
 1. CMS 482.41.-.A-0700 (A-0700)
-   §482.41  Condition of Participation:  Physical Environment 
- The hospital must be constructed, arranged, and maintained to ensure the safety of the patient, and to provide facilities for diagnosis and treatment and for special hospital services appropriate to the needs of the community. 
+   §482.41  Condition of Participation:  Physical Environment
+ The hospital must be constructed, arranged, and maintained to ensure the safety
+of the patient, and to provide facilities for diagnosis and treatment and for
+special hospital services appropriate to the needs of the community.
 
 ---------- END OF DOCUMENT ----------

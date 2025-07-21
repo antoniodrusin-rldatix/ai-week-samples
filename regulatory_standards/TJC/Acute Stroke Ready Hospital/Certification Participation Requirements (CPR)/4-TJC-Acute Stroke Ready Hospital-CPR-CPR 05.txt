@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 5b6247d3-3b20-445b-8155-db21413fd54c
+Document ID: 1426e270-3699-40c0-9b29-6266048da1c0
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,26 +10,51 @@ Name: CPR
 Title: Certification Participation Requirements (CPR)
 
 OVERVIEW:
-This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+This chapter includes specific certification participation requirements (CPRs)
+that apply to the certification process and are required to maintain a
+certification award. These differ from review eligibility criteria in that the
+certification process may be initiated even when all CPRs have not yet been met.
+For an organization seeking certification for the first time, compliance with
+the CPRs is assessed during the initial review. For the certified program,
+compliance with these requirements is assessed throughout the certification
+cycle through on-site reviews, Evidence of Standards Compliance (ESC), and
+periodic updates of organization-specific data and information. Organizations
+are either compliant or not compliant with CPRs. When an organization does not
+comply with a CPR, the organization generally will be assigned a Requirement for
+Improvement (RFI) similar to noncompliance with a standard. However, refusal to
+permit performance of an unscheduled or unannounced for-cause review (CPR 3) or
+falsification of information (CPR 7) will immediately lead to a decision of Not
+Certified. Any RFI can potentially impact the certification decision and follow-
+up requirements, as determined by established certification decision rules
+listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure
+to resolve an RFI has the potential to lead to loss of certification.
 
 ---------- STANDARD ----------
 Name: CPR 05
-Description: The organization submits performance measurement data to The Joint Commission on a routine basis.
+Description: The organization submits performance measurement data to The Joint
+Commission on a routine basis.
 
 ---------- ELEMENTS ----------
 1. CPR.05 EP05 (EP 05)
-   For Stage I programs: The organization submits data on performance measures to The Joint Commission upon request at the time of the intra-cycle and recertification reviews.
+   For Stage I programs: The organization submits data on performance measures
+to The Joint Commission upon request at the time of the intra-cycle and
+recertification reviews.
 
 2. CPR.05 EP03 (EP 03)
-   For Stage II programs: The organization submits data on standardized performance measures to The Joint Commission at least quarterly.
+   For Stage II programs: The organization submits data on standardized
+performance measures to The Joint Commission at least quarterly.
 
 3. CPR.05 EP02 (EP 02)
-   For Stage I programs: The organization changes to a new measure if the data reflect continuing stable and satisfactory performance.
+   For Stage I programs: The organization changes to a new measure if the data
+reflect continuing stable and satisfactory performance.
 
 4. CPR.05 EP04 (EP 04)
-   For Stage I and Stage II programs: The organization makes its performance measure data available during on-site certification reviews.
+   For Stage I and Stage II programs: The organization makes its performance
+measure data available during on-site certification reviews.
 
 5. CPR.05 EP01 (EP 01)
-   For Stage I programs: The organization continues to use a measure if data suggest an unstable pattern of performance or identify an opportunity for improvement.
+   For Stage I programs: The organization continues to use a measure if data
+suggest an unstable pattern of performance or identify an opportunity for
+improvement.
 
 ---------- END OF DOCUMENT ----------

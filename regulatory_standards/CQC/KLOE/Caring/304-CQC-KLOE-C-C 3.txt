@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 68240316-d35e-4391-9bd5-059f77c161f1
+Document ID: dc033bf3-9538-48dc-8c52-e5a10037268d
 
 ---------- REGULATION ----------
 Name: KLOE
@@ -10,25 +10,30 @@ Name: C
 Title: Caring
 
 OVERVIEW:
-By caring, we mean that the service involves and treats people with compassion, kindness, dignity and respect.
+By caring, we mean that the service involves and treats people with compassion,
+kindness, dignity and respect.
 
 ---------- STANDARD ----------
 Name: C 3
-Description: How are people's privacy and dignity respected and promoted? 
+Description: How are people's privacy and dignity respected and promoted?
 
 ---------- ELEMENTS ----------
 1. C.3.1 (1)
-   How does the service and staff make sure that people’s privacy and dignity needs are
-understood and always respected, including during physical or intimate care and
+   How does the service and staff make sure that people’s privacy and dignity
+needs are
+understood and always respected, including during physical or intimate care and
 examinations?
 
 2. C.3.2 (2)
-   Do staff respond in a compassionate, timely and appropriate way when people experience
+   Do staff respond in a compassionate, timely and appropriate way when people
+experience
 physical pain, discomfort or emotional distress?
 
 3. C.3.3 (3)
-   How are people assured that information about them is treated confidentially in a way that
-complies with the Data Protection Act and that staff support people to make and review
+   How are people assured that information about them is treated confidentially
+in a way that
+complies with the Data Protection Act and that staff support people to make and
+review
 choices about sharing their information?
 
 ---------- END OF DOCUMENT ----------

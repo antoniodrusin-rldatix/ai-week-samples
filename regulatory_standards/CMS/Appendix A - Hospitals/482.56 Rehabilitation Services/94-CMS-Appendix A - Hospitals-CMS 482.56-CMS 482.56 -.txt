@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: ddaa8245-04a2-4853-99bb-c5676f265168
+Document ID: e84ab73a-27cb-48eb-b7af-4d86e0965782
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,7 +15,9 @@ Description: Condition of Participation:  Rehabilitation Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.56.-.A-1123 (A-1123)
-   §482.56 Condition of Participation:  Rehabilitation Services 
- If the hospital provides rehabilitation, physical therapy, occupational therapy, audiology, or speech pathology services, the services must be organized and staffed to ensure the health and safety of patients.
+   §482.56 Condition of Participation:  Rehabilitation Services
+ If the hospital provides rehabilitation, physical therapy, occupational
+therapy, audiology, or speech pathology services, the services must be organized
+and staffed to ensure the health and safety of patients.
 
 ---------- END OF DOCUMENT ----------

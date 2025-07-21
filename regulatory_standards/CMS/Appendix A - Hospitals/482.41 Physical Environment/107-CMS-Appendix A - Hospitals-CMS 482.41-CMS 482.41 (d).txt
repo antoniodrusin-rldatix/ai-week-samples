@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 7685b6e3-eac8-426d-acfd-2bd5b8070fea
+Document ID: bb9e4d2b-734b-4a5b-986b-d1d9c7a12fde
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,22 @@ Name: CMS 482.41
 Title: 482.41 Physical Environment
 
 OVERVIEW:
-The hospital must be constructed, arranged, and maintained to ensure the safety of the patient, and to provide facilities for diagnosis and treatment and for special hospital services appropriate to the needs of the community.
+The hospital must be constructed, arranged, and maintained to ensure the safety
+of the patient, and to provide facilities for diagnosis and treatment and for
+special hospital services appropriate to the needs of the community.
 
 ABOUT:
-Interpretive Guidelines §482.41 This CoP applies to all locations of the hospital, all campuses, all satellites, all providerbased activities, and all inpatient and outpatient locations. The hospital’s Facility Maintenance and hospital departments or services responsible for the hospital’s buildings and equipment (both facility equipment and patient care equipment) must be incorporated into the hospital’s QAPI program and be in compliance with the QAPI requirements. Survey Procedures §482.41 Survey of the Physical Environment CoP should be conducted by one surveyor.  However, each surveyor as he/she conducts his/her survey assignments should assess the hospital’s compliance with the Physical Environment CoP.  The Life Safety Code survey may be conducted separately by a specialty surveyor.
+Interpretive Guidelines §482.41 This CoP applies to all locations of the
+hospital, all campuses, all satellites, all providerbased activities, and all
+inpatient and outpatient locations. The hospital’s Facility Maintenance and
+hospital departments or services responsible for the hospital’s buildings and
+equipment (both facility equipment and patient care equipment) must be
+incorporated into the hospital’s QAPI program and be in compliance with the QAPI
+requirements. Survey Procedures §482.41 Survey of the Physical Environment CoP
+should be conducted by one surveyor.  However, each surveyor as he/she conducts
+his/her survey assignments should assess the hospital’s compliance with the
+Physical Environment CoP.  The Life Safety Code survey may be conducted
+separately by a specialty surveyor.
 
 ---------- STANDARD ----------
 Name: CMS 482.41 (d)
@@ -22,34 +34,55 @@ Description: Facilities
 
 ---------- ELEMENTS ----------
 1. CMS 482.41.(d).A-0723 (A-0723)
-   §482.41(d)(1) - Diagnostic and therapeutic facilities must be located for the safety of patients. 
+   §482.41(d)(1) - Diagnostic and therapeutic facilities must be located for the
+safety of patients.
 
 
 2. CMS 482.41.(d).A-0724 (A-0724)
-   §482.41(d)(2) - Facilities, supplies, and equipment must be maintained to ensure an acceptable level of safety and quality. 
+   §482.41(d)(2) - Facilities, supplies, and equipment must be maintained to
+ensure an acceptable level of safety and quality.
 
 
 3. CMS 482.41.(d).A-0725 (A-0725)
-   §482.41(d)(3) - The extent and complexity of facilities must be determined by the services offered. 
+   §482.41(d)(3) - The extent and complexity of facilities must be determined by
+the services offered.
 
 
 4. CMS 482.41.(d).A-0726 (A-0726)
-   §482.41(d)(4) - There must be proper ventilation, light, and temperature controls in pharmaceutical, food preparation, and other appropriate areas. 
-
+   §482.41(d)(4) - There must be proper ventilation, light, and temperature
+controls in pharmaceutical, food preparation, and other appropriate areas.
+
 
 
 5. CMS 482.41.(d).A-0722 (A-0722)
-   §482.41(d) Standard:  Facilities 
- The hospital must maintain adequate facilities for its services. 
+   §482.41(d) Standard:  Facilities
+ The hospital must maintain adequate facilities for its services.
 
 6. CMS 482.41.(d).A-0730  (A-0730 )
-   §482.41(e)  
- 
-The standards incorporated by reference in this section are approved for incorporation by reference by the Director of the Office of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect a copy at the CMS Information Resource Center, 7500 Security Boulevard, Baltimore, MD or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202–741–6030, or go to: http://www.archives.gov/federal_register/code_of_federalregulations/ibr_locations.htm l.  If any changes in this edition of the Code are incorporated by reference, CMS will publish a document in the Federal Register to announce the changes.  
- 
-(1) National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169, www.nfpa.org, 1.617.770.3000. (i) NFPA 99, Standards for Health Care Facilities Code of the National Fire Protection Association 99, 2012 edition, issued August 11, 2011. (ii) TIA 12–2 to NFPA 99, issued August 11, 2011. (iii) TIA 12–3 to NFPA 99, issued August 9, 2012. (iv) TIA 12–4 to NFPA 99, issued March 7, 2013. (v) TIA 12–5 to NFPA 99, issued August 1, 2013. (vi) TIA 12–6 to NFPA 99, issued March 3, 2014. (vii) NFPA 101, Life Safety Code, 2012 edition, issued August 11, 2011; (viii) TIA 12–1 to NFPA 101, issued August 11, 2011. (ix) TIA 12–2 to NFPA 101, issued October 30, 2012. (x) TIA 12–3 to NFPA 101, issued October 22, 2013. (xi) TIA 12–4 to NFPA 101, issued October 22, 2013. 
- 
-(2) [Reserved] 
- 
+   §482.41(e)
+
+The standards incorporated by reference in this section are approved for
+incorporation by reference by the Director of the Office of the Federal Register
+in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect a copy at
+the CMS Information Resource Center, 7500 Security Boulevard, Baltimore, MD or
+at the National Archives and Records Administration (NARA). For information on
+the availability of this material at NARA, call 202–741–6030, or go to: http://w
+ww.archives.gov/federal_register/code_of_federalregulations/ibr_locations.htm l.
+If any changes in this edition of the Code are incorporated by reference, CMS
+will publish a document in the Federal Register to announce the changes.
+
+(1) National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169,
+www.nfpa.org, 1.617.770.3000. (i) NFPA 99, Standards for Health Care Facilities
+Code of the National Fire Protection Association 99, 2012 edition, issued August
+11, 2011. (ii) TIA 12–2 to NFPA 99, issued August 11, 2011. (iii) TIA 12–3 to
+NFPA 99, issued August 9, 2012. (iv) TIA 12–4 to NFPA 99, issued March 7, 2013.
+(v) TIA 12–5 to NFPA 99, issued August 1, 2013. (vi) TIA 12–6 to NFPA 99, issued
+March 3, 2014. (vii) NFPA 101, Life Safety Code, 2012 edition, issued August 11,
+2011; (viii) TIA 12–1 to NFPA 101, issued August 11, 2011. (ix) TIA 12–2 to NFPA
+101, issued October 30, 2012. (x) TIA 12–3 to NFPA 101, issued October 22, 2013.
+(xi) TIA 12–4 to NFPA 101, issued October 22, 2013.
+
+(2) [Reserved]
+
 
 ---------- END OF DOCUMENT ----------

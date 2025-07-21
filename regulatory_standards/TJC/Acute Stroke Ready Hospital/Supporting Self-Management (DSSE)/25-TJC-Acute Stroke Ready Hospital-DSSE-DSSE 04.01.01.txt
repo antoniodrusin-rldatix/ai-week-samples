@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: eb17b359-a3a9-4334-87e6-c9fa0abffc29
+Document ID: a30f0a4d-44b7-4b8b-960c-aaf9bfef432d
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,20 +10,38 @@ Name: DSSE
 Title: Supporting Self-Management (DSSE)
 
 OVERVIEW:
-One basic principle of disease management mandates that the patient must be actively involved in managing the disease. Patients who learn about their disease, their symptoms, and the warning signs of future complications tend to be better able to manage their long-term health. Practitioners can strive to offer high-quality care, but their effort will have greater results when patients are interested and informed. The standards in this chapter focus on the following: - Assessing patients’ self-management capabilities - Providing support for patients in self-management activities - Involving patients in developing the plan of care - Educating patients in the theory and skills necessary to manage their disease(s) - Recognizing and supporting self-management efforts
+One basic principle of disease management mandates that the patient must be
+actively involved in managing the disease. Patients who learn about their
+disease, their symptoms, and the warning signs of future complications tend to
+be better able to manage their long-term health. Practitioners can strive to
+offer high-quality care, but their effort will have greater results when
+patients are interested and informed. The standards in this chapter focus on the
+following: - Assessing patients’ self-management capabilities - Providing
+support for patients in self-management activities - Involving patients in
+developing the plan of care - Educating patients in the theory and skills
+necessary to manage their disease(s) - Recognizing and supporting self-
+management efforts
 
 ---------- STANDARD ----------
 Name: DSSE 04.01.01
-Description: The disease-specific program provides community outreach, education, and resources.
+Description: The disease-specific program provides community outreach,
+education, and resources.
 
 RATIONALE:
-Community outreach activities give the program a better understanding of the community’s priorities, needs, and socioeconomic constraints or barriers and ensure that interventions deployed within underserved communities are relevant, meaningful, scalable, and sustainable. Community outreach activities should include populations at higher risk for health care disparities.
+Community outreach activities give the program a better understanding of the
+community’s priorities, needs, and socioeconomic constraints or barriers and
+ensure that interventions deployed within underserved communities are relevant,
+meaningful, scalable, and sustainable. Community outreach activities should
+include populations at higher risk for health care disparities.
 
 ---------- ELEMENTS ----------
 1. DSSE.04.01.01 EP1 (EP 1)
-   The disease-specific care program develops and implements a process to evaluate the needs of the community it serves.
+   The disease-specific care program develops and implements a process to
+evaluate the needs of the community it serves.
 
 2. DSSE.04.01.01 EP2 (EP 2)
-   The disease-specific care program provides at least one community outreach education activity per year related to the care, treatment, and services it provides based on the assessed needs of the community.
+   The disease-specific care program provides at least one community outreach
+education activity per year related to the care, treatment, and services it
+provides based on the assessed needs of the community.
 
 ---------- END OF DOCUMENT ----------

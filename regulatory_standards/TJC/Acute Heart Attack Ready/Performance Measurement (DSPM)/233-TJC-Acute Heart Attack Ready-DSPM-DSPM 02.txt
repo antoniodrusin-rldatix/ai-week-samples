@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: bb27c5e3-c5eb-46b9-8d1e-a12541449dfa
+Document ID: 061d2b2d-2205-484e-aa38-f0e8fcba5b3e
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,29 +10,39 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 02
-Description: The program maintains data quality and integrity. 
+Description: The program maintains data quality and integrity.
 
 ---------- ELEMENTS ----------
 1. DSPM.02 EP03 (EP 03)
-   The program minimizes data bias. 
+   The program minimizes data bias.
 
 2. DSPM.02 EP01 (EP 01)
-   The program uses standardized data, definitions, and measure specifications in a consistent manner. 
+   The program uses standardized data, definitions, and measure specifications
+in a consistent manner.
 
 3. DSPM.02 EP05 (EP 05)
-   The program uses sampling methodology based on measurement principles. 
+   The program uses sampling methodology based on measurement principles.
 
 4. DSPM.02 EP04 (EP 04)
-   The program monitors data reliability and validity. 
+   The program monitors data reliability and validity.
 
 5. DSPM.02 EP02 (EP 02)
-   Data collection is timely, accurate, complete, and relevant to the program. 
+   Data collection is timely, accurate, complete, and relevant to the program.
 
 6. DSPM.02 EP06 (EP 06)
-   The program uses data analysis tools. 
+   The program uses data analysis tools.
 
 ---------- END OF DOCUMENT ----------

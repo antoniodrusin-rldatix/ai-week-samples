@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: b6cdc428-18bf-433f-8857-2d2dffd9f581
+Document ID: f0d0a1e5-a54d-4271-a1e8-0d71da0b827d
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -16,19 +16,24 @@ Description: Delivery of Service
 
 ---------- ELEMENTS ----------
 1. CMS 482.53.(b).A-1036 (A-1036)
-   §482.53(b)(1) In-house preparation of radio pharmaceuticals is by, or under the  supervision of, an appropriately trained registered pharmacist or doctor of medicine or osteopathy.
+   §482.53(b)(1) In-house preparation of radio pharmaceuticals is by, or under
+the  supervision of, an appropriately trained registered pharmacist or doctor of
+medicine or osteopathy.
 
 2. CMS 482.53.(b).A-1038 (A-1038)
-   §482.53(b)(3) - If laboratory tests are performed in the nuclear medicine service, the service must meet the applicable requirement for laboratory services specified in §482.27. 
+   §482.53(b)(3) - If laboratory tests are performed in the nuclear medicine
+service, the service must meet the applicable requirement for laboratory
+services specified in §482.27.
 
 
 3. CMS 482.53.(b).A-1037 (A-1037)
-   §482.53(b)(2) - There is proper storage and disposal of radioactive material. 
+   §482.53(b)(2) - There is proper storage and disposal of radioactive material.
 
 
 4. CMS 482.53.(b).A-1035 (A-1035)
-   §482.53(b) Standard:  Delivery of Service 
- Radioactive materials must be prepared, labeled, used, transported, stored, and disposed of in accordance with acceptable standards of practice. 
- §482.53(b)(2) There is proper storage and disposal of radioactive material. 
+   §482.53(b) Standard:  Delivery of Service
+ Radioactive materials must be prepared, labeled, used, transported, stored, and
+disposed of in accordance with acceptable standards of practice.
+ §482.53(b)(2) There is proper storage and disposal of radioactive material.
 
 ---------- END OF DOCUMENT ----------

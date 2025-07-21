@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 256cf3e2-92c3-499a-b8f5-29be8026496b
+Document ID: dc52cea0-580c-4215-b698-f1cd1f7aa927
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,7 +15,9 @@ Description: Condition of Participation:  Respiratory Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.57...A-1151 (A-1151)
-   §482.57 Condition of Participation:  Respiratory Services 
- The hospital must meet the needs of the patients in accordance with acceptable standards of practice.  The following requirements apply if the hospital provides respiratory care services. 
+   §482.57 Condition of Participation:  Respiratory Services
+ The hospital must meet the needs of the patients in accordance with acceptable
+standards of practice.  The following requirements apply if the hospital
+provides respiratory care services.
 
 ---------- END OF DOCUMENT ----------

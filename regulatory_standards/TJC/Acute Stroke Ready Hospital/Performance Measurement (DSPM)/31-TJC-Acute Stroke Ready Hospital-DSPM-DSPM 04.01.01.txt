@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 3b13d98a-54a8-40f4-bf0b-78f81b20dea3
+Document ID: c8218404-ff90-4c95-bd08-901724ddaa98
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,20 +10,38 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 04.01.01
 Description: The disease-specific care program reports relevant data.
 
 RATIONALE:
-Data reporting enables the disease-specific care program to demonstrate to its key stakeholders and organization leaders how the program has achieved and improved outcomes of care; how it continues to drive operational excellence, enhance customer value, and achieve cost savings; and how it remains market competitive as determined by the program’s overall goals and objectives aligning the program to the organization’s values.
+Data reporting enables the disease-specific care program to demonstrate to its
+key stakeholders and organization leaders how the program has achieved and
+improved outcomes of care; how it continues to drive operational excellence,
+enhance customer value, and achieve cost savings; and how it remains market
+competitive as determined by the program’s overall goals and objectives aligning
+the program to the organization’s values.
 
 ---------- ELEMENTS ----------
 1. DSPM.04.01.01 EP1 (EP 1)
-   The disease-specific care program develops and implements a process to provide information about performance improvement activities, including relevant data and outcomes, to internal staff, organizational leaders, and external providers, as applicable to the program.
+   The disease-specific care program develops and implements a process to
+provide information about performance improvement activities, including relevant
+data and outcomes, to internal staff, organizational leaders, and external
+providers, as applicable to the program.
 
 2. DSPM.04.01.01 EP2 (EP 2)
-   The disease-specific care program reports the results of aggregate data to The Joint Commission at the required intervals.
+   The disease-specific care program reports the results of aggregate data to
+The Joint Commission at the required intervals.
 
 ---------- END OF DOCUMENT ----------

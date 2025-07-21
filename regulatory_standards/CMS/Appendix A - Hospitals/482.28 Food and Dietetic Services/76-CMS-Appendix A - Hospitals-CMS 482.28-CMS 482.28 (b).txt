@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 02c608cc-2776-4a77-b24f-c0bec14a2496
+Document ID: 372e8534-63e1-4579-9109-8121ce188263
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,21 +12,28 @@ Title: 482.28 Food and Dietetic Services
 ---------- STANDARD ----------
 Name: CMS 482.28 (b)
 Code: 482.28
-Description: Menus must meet the needs of the patients.
-
+Description: Menus must meet the needs of the patients.
+
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.28.(b).A-0629 (A-0629)
-   §482.28(b) Menus must meet the needs of patients. 
-(1) - Individual patient nutritional needs must be met in accordance with recognized dietary practices. 
+   §482.28(b) Menus must meet the needs of patients.
+(1) - Individual patient nutritional needs must be met in accordance with
+recognized dietary practices.
 
 2. CMS 482.28.(b).A-0630 (A-0630)
-   §482.28(b)(2) - All patient diets, including therapeutic diets, must be ordered by a practitioner responsible for the care of the patient, or by a qualified dietitian or qualified nutrition professional as authorized by the medical staff and in accordance with State law governing dietitians and nutrition professionals. 
+   §482.28(b)(2) - All patient diets, including therapeutic diets, must be
+ordered by a practitioner responsible for the care of the patient, or by a
+qualified dietitian or qualified nutrition professional as authorized by the
+medical staff and in accordance with State law governing dietitians and
+nutrition professionals.
 
 3. CMS 482.28.(b).A-0631 (A-0631)
-   §482.28(b)(3) - A current therapeutic diet manual approved by the dietitian and medical staff must be readily available to all medical, nursing, and food service personnel. 
-
+   §482.28(b)(3) - A current therapeutic diet manual approved by the dietitian
+and medical staff must be readily available to all medical, nursing, and food
+service personnel.
+
 
 
 ---------- END OF DOCUMENT ----------

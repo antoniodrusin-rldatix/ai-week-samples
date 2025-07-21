@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: c88d82eb-3b21-433e-8f36-a99bba1c212e
+Document ID: ee97d612-ebc7-439f-975b-0089781eaf9c
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -15,7 +15,10 @@ Description: Condition of Participation:  Surgical Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.51.-.A-0940 (A-0940)
-   §482.51 Condition of Participation:  Surgical Services 
- If the hospital provides surgical services, the services must be well organized and provided in accordance with acceptable standards of practice.  If outpatient surgical services are offered the services must be consistent in quality with inpatient care in accordance with the complexity of services offered. 
+   §482.51 Condition of Participation:  Surgical Services
+ If the hospital provides surgical services, the services must be well organized
+and provided in accordance with acceptable standards of practice.  If outpatient
+surgical services are offered the services must be consistent in quality with
+inpatient care in accordance with the complexity of services offered.
 
 ---------- END OF DOCUMENT ----------

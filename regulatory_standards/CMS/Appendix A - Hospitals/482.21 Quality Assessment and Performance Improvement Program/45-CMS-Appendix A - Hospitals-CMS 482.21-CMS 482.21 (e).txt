@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: e4c12e25-c45d-472a-bbf3-d558c0fe4698
+Document ID: 37d7fb21-8552-4f12-8170-f2817149941c
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,38 +10,63 @@ Name: CMS 482.21
 Title: 482.21 Quality Assessment and Performance Improvement Program
 
 OVERVIEW:
-A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing Adequate Resources
+A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities
+A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance
+Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing
+Adequate Resources
 
 ABOUT:
-The hospital must develop, implement, and maintain an effective, ongoing, hospital wide, data-driven quality assessment and performance improvement program.  The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services;  involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
+The hospital must develop, implement, and maintain an effective, ongoing,
+hospital wide, data-driven quality assessment and performance improvement
+program.  The hospital’s governing body must ensure that the program reflects
+the complexity of the hospital’s organization and services;  involves all
+hospital departments and services (including those services furnished under
+contract or arrangement); and focuses on indicators related to improved health
+outcomes and the prevention and reduction of medical errors.  The hospital must
+maintain and demonstrate evidence of its QAPI program for review by CMS.
 
 ---------- STANDARD ----------
 Name: CMS 482.21 (e)
 Code: 482.21
-Description: Executive Responsibilities 
+Description: Executive Responsibilities
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.21.(e).2 (2)
-   (A-0309) That the hospital-wide quality assessment and performance improvement efforts address priorities for improved quality of care and patient safety and that all improvement actions are evaluated.
+   (A-0309) That the hospital-wide quality assessment and performance
+improvement efforts address priorities for improved quality of care and patient
+safety and that all improvement actions are evaluated.
 
 2. CMS 482.21.(e).A-0309 (A-0309)
-   Executive Responsibilities 
-
- §482.21(e) Standard:  Executive Responsibilities 
- The hospital’s governing body (or organized group or individual who assumes full legal authority and responsibility for operations of the hospital), medical staff, and administrative officials are responsible and accountable for ensuring the following: 
- (1)   That an ongoing program for quality improvement and patient safety, including the reduction of medical errors, is defined, implemented, and maintained. 
- (2)  That the hospital-wide quality assessment and performance improvement efforts address priorities for improved quality of care and patient safety and that all improvement actions are evaluated… 
- (5)  That the determination of the number of distinct improvement projects is conducted annually.
+   Executive Responsibilities
+
+ §482.21(e) Standard:  Executive Responsibilities
+ The hospital’s governing body (or organized group or individual who assumes
+full legal authority and responsibility for operations of the hospital), medical
+staff, and administrative officials are responsible and accountable for ensuring
+the following:
+ (1)   That an ongoing program for quality improvement and patient safety,
+including the reduction of medical errors, is defined, implemented, and
+maintained.
+ (2)  That the hospital-wide quality assessment and performance improvement
+efforts address priorities for improved quality of care and patient safety and
+that all improvement actions are evaluated…
+ (5)  That the determination of the number of distinct improvement projects is
+conducted annually.
 
 3. CMS 482.21.(e).5 (5)
-   (A-0309) That the determination of the number of distinct improvement projects is conducted annually.
+   (A-0309) That the determination of the number of distinct improvement
+projects is conducted annually.
 
 4. CMS 482.21.(e).A-0315 (A-0315)
-   Providing Adequate Resources 
- §482.21(e) Standard:  Executive Responsibilities 
- [§482.21(e) The hospital’s governing body (or organized group or individual who assumes full legal authority and responsibility for operations of the hospital), medical staff, and administrative officials are responsible and accountable for ensuring the following:] 
- (4) That adequate resources are allocated for measuring, assessing, improving, and sustaining the hospital’s performance and reducing risk to patients. 
+   Providing Adequate Resources
+ §482.21(e) Standard:  Executive Responsibilities
+ [§482.21(e) The hospital’s governing body (or organized group or individual who
+assumes full legal authority and responsibility for operations of the hospital),
+medical staff, and administrative officials are responsible and accountable for
+ensuring the following:]
+ (4) That adequate resources are allocated for measuring, assessing, improving,
+and sustaining the hospital’s performance and reducing risk to patients.
 
 5. CMS 482.21.(e).3 (3)
    (A-0286)  That clear expectations for safety are established.

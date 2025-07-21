@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 0932c0c0-7b8a-472c-aa19-d29b5d7a4647
+Document ID: 883a368d-0b43-48ae-9b50-a0682c64fbce
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,23 +10,36 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 06
-Description: The program has a sentinel event process that includes identifying, reporting, managing, and tracking sentinel events. 
+Description: The program has a sentinel event process that includes identifying,
+reporting, managing, and tracking sentinel events.
 
 ---------- ELEMENTS ----------
 1. DSPM.06 EP01 (EP 01)
-   A process exists for identifying sentinel events related to the program. 
+   A process exists for identifying sentinel events related to the program.
 
 2. DSPM.06 EP03 (EP 03)
-   A process exists for analyzing sentinel events as they relate to program activity. 
+   A process exists for analyzing sentinel events as they relate to program
+activity.
 
 3. DSPM.06 EP02 (EP 02)
-   A process exists for internally tracking sentinel events if and when they occur. 
+   A process exists for internally tracking sentinel events if and when they
+occur.
 
 4. DSPM.06 EP04 (EP 04)
-   The program leader(s) implements changes to the program based on the analysis of sentinel events. 
+   The program leader(s) implements changes to the program based on the analysis
+of sentinel events.
 
 ---------- END OF DOCUMENT ----------

@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 2c4dfc92-d1d0-41a5-9ad4-33d40414401f
+Document ID: 630a7f00-2dac-43ca-8be3-a4defa0f2819
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -7,7 +7,8 @@ Regulatory Entity: Washington
 
 ---------- CHAPTER ----------
 Name: 246.887
-Title: {WAC 246-887 Pharmacy - Regulations implementing the Uniform Controlled Substances Act}
+Title: {WAC 246-887 Pharmacy - Regulations implementing the Uniform Controlled
+Substances Act}
 
 ---------- STANDARD ----------
 Name: 246.887 020
@@ -15,34 +16,83 @@ Description: Uniform Controlled Substances Act.
 
 ---------- ELEMENTS ----------
 1. 246.887.020.1 (1)
-   The pharmacy quality assurance commission (commission) adopts Title 21 of the Code of Federal Regulations. The following sections do not apply: Section 1301.13, section 1301.33, section 1301.35-.46, section 1303, section 1308.41-.45, and section 1316.31-.67. Any inconsistencies between Title 21 of the Code of Federal Regulations sections 1300 through 1321 and chapter 246-887 WAC should be resolved in favor of chapter 246-887 WAC. Further, nothing in these rules applies to the production, processing, distribution, or possession of marijuana as authorized and regulated by the Washington state liquor and cannabis board.
+   The pharmacy quality assurance commission (commission) adopts Title 21 of the
+Code of Federal Regulations. The following sections do not apply: Section
+1301.13, section 1301.33, section 1301.35-.46, section 1303, section
+1308.41-.45, and section 1316.31-.67. Any inconsistencies between Title 21 of
+the Code of Federal Regulations sections 1300 through 1321 and chapter 246-887
+WAC should be resolved in favor of chapter 246-887 WAC. Further, nothing in
+these rules applies to the production, processing, distribution, or possession
+of marijuana as authorized and regulated by the Washington state liquor and
+cannabis board.
 
 2. 246.887.020.2 (2)
-   Registration. A separate registration is required for each place of business, as defined in 21 C.F.R. 1301.12 where controlled substances are manufactured, distributed or dispensed. Application for registration must be made on forms supplied by the commission, and all requested information must be supplied unless the information is not applicable, which must be indicated by the applicant. An applicant for registration must hold the appropriate wholesaler, manufacturer or pharmacy license provided for in chapter 18.64 RCW.
+   Registration. A separate registration is required for each place of business,
+as defined in 21 C.F.R. 1301.12 where controlled substances are manufactured,
+distributed or dispensed. Application for registration must be made on forms
+supplied by the commission, and all requested information must be supplied
+unless the information is not applicable, which must be indicated by the
+applicant. An applicant for registration must hold the appropriate wholesaler,
+manufacturer or pharmacy license provided for in chapter 18.64 RCW.
 
 3. 246.887.020.3 (3)
-   Every registrant shall be required to keep inventory records required by 21 C.F.R. 1304.04 and must maintain said inventory records for a period of two years from the date of inventory. Such registrants are further required to keep a record of receipt and distribution of controlled substances. Such record shall include:
-(a) Invoices, orders, receipts, etc. showing the date, supplier and quantity of drug received, and the name of the drug;
-(b) Distribution records; i.e., invoices, etc. from wholesalers and manufacturers and prescriptions records for dispensers;
-(c) In the event of a significant loss or theft, two copies of DEA 106 (report of theft or loss of controlled substances) must be transmitted to the federal authorities and a copy must be sent to the commission;
-(d) For transfers of controlled substances from one dispenser to another, a record of the transfer must be made at the time of transfer indicating the drug, quantity, date of transfer, who it was transferred to and from whom. Said record must be retained by both the transferee and the transferor. These transfers can only be made in emergencies pursuant to 21 C.F.R. 1307.11.
+   Every registrant shall be required to keep inventory records required by 21
+C.F.R. 1304.04 and must maintain said inventory records for a period of two
+years from the date of inventory. Such registrants are further required to keep
+a record of receipt and distribution of controlled substances. Such record shall
+include:
+(a) Invoices, orders, receipts, etc. showing the date, supplier and quantity of
+drug received, and the name of the drug;
+(b) Distribution records; i.e., invoices, etc. from wholesalers and
+manufacturers and prescriptions records for dispensers;
+(c) In the event of a significant loss or theft, two copies of DEA 106 (report
+of theft or loss of controlled substances) must be transmitted to the federal
+authorities and a copy must be sent to the commission;
+(d) For transfers of controlled substances from one dispenser to another, a
+record of the transfer must be made at the time of transfer indicating the drug,
+quantity, date of transfer, who it was transferred to and from whom. Said record
+must be retained by both the transferee and the transferor. These transfers can
+only be made in emergencies pursuant to 21 C.F.R. 1307.11.
 
 4. 246.887.020.4 (4)
-   The records must be maintained separately for Schedule II drugs. The records for Schedule III, IV and V drugs may be maintained either separately or in a form that is readily retrievable from the business records of the registrant.
+   The records must be maintained separately for Schedule II drugs. The records
+for Schedule III, IV and V drugs may be maintained either separately or in a
+form that is readily retrievable from the business records of the registrant.
 
 5. 246.887.020.5 (5)
-   A federal order form is required for each distribution of a Schedule I or II controlled substance, and said forms along with other records required to be kept must be made readily available to authorized employees of the commission.
+   A federal order form is required for each distribution of a Schedule I or II
+controlled substance, and said forms along with other records required to be
+kept must be made readily available to authorized employees of the commission.
 
 6. 246.887.020.6 (6)
-   Schedule II drugs require that a dispenser have a signed prescription in his possession prior to dispensing said drugs. An exception is permitted in an "emergency." An emergency exists when the immediate administration of the drug is necessary for proper treatment and no alternative treatment is available, and further, it is not possible for the physician to provide a written or electronic prescription for the drug at that time. If a Schedule II drug is dispensed in an emergency, the practitioner must deliver a signed prescription to the dispenser within seven days after authorizing an emergency oral prescription or if delivered by mail it must be postmarked within the seven-day period, and further the pharmacist must note on the prescription that it was filled on an emergency basis.
+   Schedule II drugs require that a dispenser have a signed prescription in his
+possession prior to dispensing said drugs. An exception is permitted in an
+"emergency." An emergency exists when the immediate administration of the drug
+is necessary for proper treatment and no alternative treatment is available, and
+further, it is not possible for the physician to provide a written or electronic
+prescription for the drug at that time. If a Schedule II drug is dispensed in an
+emergency, the practitioner must deliver a signed prescription to the dispenser
+within seven days after authorizing an emergency oral prescription or if
+delivered by mail it must be postmarked within the seven-day period, and further
+the pharmacist must note on the prescription that it was filled on an emergency
+basis.
 
 7. 246.887.020.7 (7)
    A prescription for a substance included in Schedule II may not be refilled.
 
 8. 246.887.020.8 (8)
-   A prescription for a substance included in Schedule II may not be filled more than six months after the date the prescription was issued.
+   A prescription for a substance included in Schedule II may not be filled more
+than six months after the date the prescription was issued.
 
 9. 246.887.020.9 (9)
-   Except when dispensed directly by a practitioner authorized to prescribe or administer a controlled substance, other than a pharmacy, to an ultimate user, a substance included in Schedule III, IV, or V, which is a prescription drug as determined under RCW 69.04.560, may not be dispensed without a written, oral, or electronically communicated prescription of a practitioner. Any oral prescription must be promptly reduced to writing. The prescription for a substance included in Schedule III, IV, or V may not be filled or refilled more than six months after the date issued by the practitioner or be refilled more than five times, unless the practitioner issues a new prescription.
+   Except when dispensed directly by a practitioner authorized to prescribe or
+administer a controlled substance, other than a pharmacy, to an ultimate user, a
+substance included in Schedule III, IV, or V, which is a prescription drug as
+determined under RCW 69.04.560, may not be dispensed without a written, oral, or
+electronically communicated prescription of a practitioner. Any oral
+prescription must be promptly reduced to writing. The prescription for a
+substance included in Schedule III, IV, or V may not be filled or refilled more
+than six months after the date issued by the practitioner or be refilled more
+than five times, unless the practitioner issues a new prescription.
 
 ---------- END OF DOCUMENT ----------

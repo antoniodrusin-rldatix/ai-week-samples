@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 7581199f-7918-4dc9-a1e8-36be3d830d21
+Document ID: 1b1877c6-fe6f-4f67-a99c-46bf2d3dbcf8
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,167 +15,416 @@ Description:  Prescription drugs and prescription devices
 
 ---------- ELEMENTS ----------
 1. 450.0111.1 (1)
-   Dispensing. Except as provided in sub. (1i) (b) 2., no person may dispense any prescribed drug or device except upon the prescription order of a practitioner. All prescription orders shall, except as provided in sub. (1a), specify the date of issue, the name and address of the practitioner, the name and quantity of the drug product or device prescribed, directions for the use of the drug product or device, the symptom or purpose for which the drug is being prescribed if required under sub. (4) (a) 8., and, if the order is written by the practitioner, the signature of the practitioner. Except as provided in ss. 118.2925 (3), 255.07 (2), 441.18 (2) (a) 1., 448.035 (2), and 448.037 (2) (a) 1. and except for standing orders issued under s. 441.18 (2) (a) 2. or 448.037 (2) (a) 2., all prescription orders shall also specify the name and address of the patient. A prescription order issued under s. 118.2925 (3) shall specify the name and address of the school. A prescription order issued under s. 255.07 (2) shall specify the name and address of the authorized entity or authorized individual. Any oral prescription order shall be immediately reduced to writing by the pharmacist and filed according to sub. (2).
+   Dispensing. Except as provided in sub. (1i) (b) 2., no person may dispense
+any prescribed drug or device except upon the prescription order of a
+practitioner. All prescription orders shall, except as provided in sub. (1a),
+specify the date of issue, the name and address of the practitioner, the name
+and quantity of the drug product or device prescribed, directions for the use of
+the drug product or device, the symptom or purpose for which the drug is being
+prescribed if required under sub. (4) (a) 8., and, if the order is written by
+the practitioner, the signature of the practitioner. Except as provided in ss.
+118.2925 (3), 255.07 (2), 441.18 (2) (a) 1., 448.035 (2), and 448.037 (2) (a) 1.
+and except for standing orders issued under s. 441.18 (2) (a) 2. or 448.037 (2)
+(a) 2., all prescription orders shall also specify the name and address of the
+patient. A prescription order issued under s. 118.2925 (3) shall specify the
+name and address of the school. A prescription order issued under s. 255.07 (2)
+shall specify the name and address of the authorized entity or authorized
+individual. Any oral prescription order shall be immediately reduced to writing
+by the pharmacist and filed according to sub. (2).
 
 2. 450.0111.1a (1a)
-   Chart orders. A prescription order entered on the chart or medical record of an inpatient or resident of a health care facility by a practitioner is not required to include the address of the practitioner.
+   Chart orders. A prescription order entered on the chart or medical record of
+an inpatient or resident of a health care facility by a practitioner is not
+required to include the address of the practitioner.
 
 3. 450.0111.1b (1b)
-   Identification card required for certain controlled substances.
-(a) In this subsection:
-1. “Health care facility" means a facility, as defined in s. 647.01 (4); any hospital, nursing home, community-based residential facility, county home, county infirmary, county hospital, county mental health complex, or other place licensed or approved by the department of health services under s. 49.70, 49.71, 49.72, 50.03, 50.032, 50.033, 50.034, 50.35, 51.08, or 51.09; a facility under s. 45.50, 51.05, 51.06, 233.40, 233.41, 233.42, or 252.10; and any other facility identified by the board by rule.
-2. “Identification card" means any of the following:
-a. An operator's license issued under ch. 343 or under a comparable law of another state.
-b. An identification card issued under s. 343.50 or under a comparable law of another state.
-c. An identification card issued by a U.S. uniformed service.
-d. A U.S. or foreign passport.
-e. A tribal identification card, as defined in s. 134.695 (1) (cm).
-(b) Except as provided under par. (e), a controlled substance included in schedule II or III of ch. 961 may not be dispensed, and may not be delivered to a representative of the ultimate user, without an identification card belonging to the person to whom the drug is being dispensed or delivered.
-(bm) A pharmacist or other person dispensing or delivering a drug shall legibly record the name on each identification card presented under par. (b) to the pharmacist or other person, and the name of each person to whom a drug is dispensed or delivered subject to par. (e) 2., and shall maintain that record for a time established by the board by rule or, for a record that is subject to s. 961.385, until the name is delivered to the controlled substances board under s. 961.385, whichever is sooner.
-(c) If the person to whom a drug subject to par. (b) is being delivered is not the ultimate user of the drug, the person delivering the drug may ask the ultimate user of the drug to designate a person who is authorized to pick up the drug on behalf of the ultimate user and may inform the person to whom the drug is being delivered that his or her identification is being recorded.
-(d) A pharmacist is immune from any civil or criminal liability and from discipline under s. 450.10 for any act taken by the pharmacist in reliance on an identification card that the pharmacist reasonably believed was authentic and displayed the name of the person to whom the drug was being delivered if the sale was made in good faith.
-(e) No identification card is required under par. (b) if any of the following applies:
-1. The drug is administered or dispensed directly to the ultimate user by a practitioner.
-2. The pharmacist or other person dispensing or delivering the drug has personal knowledge of the person to whom the drug is dispensed or delivered and that the person is the ultimate user or the ultimate user's authorized representative.
-3. The drug is delivered to a health care facility to be administered in the health care facility.
-(f) The board may, by rule, establish an exemption from the requirements under this subsection for the delivery of a drug by mail if the board determines that the exemption is necessary.
+   Identification card required for certain controlled substances.
+(a) In this subsection:
+1. “Health care facility" means a facility, as defined in s. 647.01 (4); any
+hospital, nursing home, community-based residential facility, county home,
+county infirmary, county hospital, county mental health complex, or other place
+licensed or approved by the department of health services under s. 49.70, 49.71,
+49.72, 50.03, 50.032, 50.033, 50.034, 50.35, 51.08, or 51.09; a facility under
+s. 45.50, 51.05, 51.06, 233.40, 233.41, 233.42, or 252.10; and any other
+facility identified by the board by rule.
+2. “Identification card" means any of the following:
+a. An operator's license issued under ch. 343 or under a comparable law of
+another state.
+b. An identification card issued under s. 343.50 or under a comparable law of
+another state.
+c. An identification card issued by a U.S. uniformed service.
+d. A U.S. or foreign passport.
+e. A tribal identification card, as defined in s. 134.695 (1) (cm).
+(b) Except as provided under par. (e), a controlled substance included in
+schedule II or III of ch. 961 may not be dispensed, and may not be delivered to
+a representative of the ultimate user, without an identification card belonging
+to the person to whom the drug is being dispensed or delivered.
+(bm) A pharmacist or other person dispensing or delivering a drug shall legibly
+record the name on each identification card presented under par. (b) to the
+pharmacist or other person, and the name of each person to whom a drug is
+dispensed or delivered subject to par. (e) 2., and shall maintain that record
+for a time established by the board by rule or, for a record that is subject to
+s. 961.385, until the name is delivered to the controlled substances board under
+s. 961.385, whichever is sooner.
+(c) If the person to whom a drug subject to par. (b) is being delivered is not
+the ultimate user of the drug, the person delivering the drug may ask the
+ultimate user of the drug to designate a person who is authorized to pick up the
+drug on behalf of the ultimate user and may inform the person to whom the drug
+is being delivered that his or her identification is being recorded.
+(d) A pharmacist is immune from any civil or criminal liability and from
+discipline under s. 450.10 for any act taken by the pharmacist in reliance on an
+identification card that the pharmacist reasonably believed was authentic and
+displayed the name of the person to whom the drug was being delivered if the
+sale was made in good faith.
+(e) No identification card is required under par. (b) if any of the following
+applies:
+1. The drug is administered or dispensed directly to the ultimate user by a
+practitioner.
+2. The pharmacist or other person dispensing or delivering the drug has personal
+knowledge of the person to whom the drug is dispensed or delivered and that the
+person is the ultimate user or the ultimate user's authorized representative.
+3. The drug is delivered to a health care facility to be administered in the
+health care facility.
+(f) The board may, by rule, establish an exemption from the requirements under
+this subsection for the delivery of a drug by mail if the board determines that
+the exemption is necessary.
 
 4. 450.0111.1g (1g)
-    Dispensing certain antimicrobial drugs for expedited partner therapy.
-(a) In this subsection:
-1. “Antimicrobial drug" has the meaning given in s. 448.035 (1) (b).
-2. “Expedited partner therapy" has the meaning given in s. 448.035 (1) (c).
-450.11(1g)(b)(b) A pharmacist may, upon the prescription order of a practitioner providing expedited partner therapy, as specified in s. 448.035, that complies with the requirements of sub. (1), dispense an antimicrobial drug as a course of therapy for treatment of chlamydial infections, gonorrhea, or trichomoniasis to the practitioner's patient or a person with whom the patient has had sexual contact for use by the person with whom the patient has had sexual contact. The pharmacist shall provide a consultation in accordance with rules promulgated by the board for the dispensing of a prescription to the person to whom the antimicrobial drug is dispensed. A pharmacist providing a consultation under this paragraph shall ask whether the person for whom the antimicrobial drug has been prescribed is allergic to the antimicrobial drug and advise that the person for whom the antimicrobial drug has been prescribed must discontinue use of the antimicrobial drug if the person is allergic to or develops signs of an allergic reaction to the antimicrobial drug.
-(c)
-1. Except as provided in subd. 2., a pharmacist is immune from civil liability for injury to or the death of a person who takes an antimicrobial drug dispensed for that person under this subsection in connection with expedited partner therapy if the antimicrobial drug is dispensed as provided under par. (b).
-2. The immunity under subd. 1. does not extend to the distribution or dispensing of an antimicrobial drug by a pharmacist whose act or omission involves reckless, wanton, or intentional misconduct.
+    Dispensing certain antimicrobial drugs for expedited partner therapy.
+(a) In this subsection:
+1. “Antimicrobial drug" has the meaning given in s. 448.035 (1) (b).
+2. “Expedited partner therapy" has the meaning given in s. 448.035 (1) (c).
+450.11(1g)(b)(b) A pharmacist may, upon the prescription order of a practitioner
+providing expedited partner therapy, as specified in s. 448.035, that complies
+with the requirements of sub. (1), dispense an antimicrobial drug as a course of
+therapy for treatment of chlamydial infections, gonorrhea, or trichomoniasis to
+the practitioner's patient or a person with whom the patient has had sexual
+contact for use by the person with whom the patient has had sexual contact. The
+pharmacist shall provide a consultation in accordance with rules promulgated by
+the board for the dispensing of a prescription to the person to whom the
+antimicrobial drug is dispensed. A pharmacist providing a consultation under
+this paragraph shall ask whether the person for whom the antimicrobial drug has
+been prescribed is allergic to the antimicrobial drug and advise that the person
+for whom the antimicrobial drug has been prescribed must discontinue use of the
+antimicrobial drug if the person is allergic to or develops signs of an allergic
+reaction to the antimicrobial drug.
+(c)
+1. Except as provided in subd. 2., a pharmacist is immune from civil liability
+for injury to or the death of a person who takes an antimicrobial drug dispensed
+for that person under this subsection in connection with expedited partner
+therapy if the antimicrobial drug is dispensed as provided under par. (b).
+2. The immunity under subd. 1. does not extend to the distribution or dispensing
+of an antimicrobial drug by a pharmacist whose act or omission involves
+reckless, wanton, or intentional misconduct.
 
 5. 450.0111.1i (1i)
-   Opioid antagonists.
-(a) Prescription and liability.
-1. A pharmacist may, upon and in accordance with the prescription order of an advanced practice nurse prescriber under s. 441.18 (2) (a) 1., or of a physician or physician assistant under s. 448.037 (2) (a) 1., that complies with the requirements of sub. (1), deliver an opioid antagonist to a person specified in the prescription order and may, upon and in accordance with the standing order of an advanced practice nurse prescriber under s. 441.18 (2) (a) 2., or of a physician or physician assistant under s. 448.037 (2) (a) 2., that complies with the requirements of sub. (1), deliver an opioid antagonist to an individual in accordance with the order. The pharmacist shall provide a consultation in accordance with rules promulgated by the board for the delivery of a prescription to the person to whom the opioid antagonist is delivered.
-2. A pharmacist who, acting in good faith, delivers an opioid antagonist in accordance with subd. 1., or who, acting in good faith, otherwise lawfully dispenses an opioid antagonist, shall be immune from criminal or civil liability and may not be subject to professional discipline under s. 450.10 for any outcomes resulting from delivering or dispensing the opioid antagonist.
-(b) Possession, dispensing, and delivery.
-1. Any person may possess an opioid antagonist.
-2.
-a. Subject to subd. 2. b. to d., any person may deliver or dispense an opioid antagonist.
-b. An advanced practice nurse prescriber may only deliver or dispense an opioid antagonist in accordance with s. 441.18 (2) or in accordance with his or her other legal authority to dispense prescription drugs.
-c. A physician or physician assistant may only deliver or dispense an opioid antagonist in accordance with s. 448.037 (2) or in accordance with his or her other legal authority to dispense prescription drugs.
-d. A pharmacist may only deliver or dispense an opioid antagonist in accordance with par. (a) 1. or in accordance with his or her other legal authority to dispense prescription drugs.
-(c) Immunity.
-1. In this paragraph, “ opioid-related drug overdose" has the meaning given in s. 256.40 (1) (d).
-2. Subject to par. (a) 2. and ss. 441.18 (3) and 448.037 (3), any person who, acting in good faith, delivers or dispenses an opioid antagonist to another person shall be immune from civil or criminal liability for any outcomes resulting from delivering or dispensing the opioid antagonist.
-3. Subject to ss. 256.40 (3) (b) and 895.48 (1g), any person who, reasonably believing another person to be undergoing an opioid-related drug overdose, administers an opioid antagonist to that person shall be immune from civil or criminal liability for any outcomes resulting from the administration of the opioid antagonist to that person.
+   Opioid antagonists.
+(a) Prescription and liability.
+1. A pharmacist may, upon and in accordance with the prescription order of an
+advanced practice nurse prescriber under s. 441.18 (2) (a) 1., or of a physician
+or physician assistant under s. 448.037 (2) (a) 1., that complies with the
+requirements of sub. (1), deliver an opioid antagonist to a person specified in
+the prescription order and may, upon and in accordance with the standing order
+of an advanced practice nurse prescriber under s. 441.18 (2) (a) 2., or of a
+physician or physician assistant under s. 448.037 (2) (a) 2., that complies with
+the requirements of sub. (1), deliver an opioid antagonist to an individual in
+accordance with the order. The pharmacist shall provide a consultation in
+accordance with rules promulgated by the board for the delivery of a
+prescription to the person to whom the opioid antagonist is delivered.
+2. A pharmacist who, acting in good faith, delivers an opioid antagonist in
+accordance with subd. 1., or who, acting in good faith, otherwise lawfully
+dispenses an opioid antagonist, shall be immune from criminal or civil liability
+and may not be subject to professional discipline under s. 450.10 for any
+outcomes resulting from delivering or dispensing the opioid antagonist.
+(b) Possession, dispensing, and delivery.
+1. Any person may possess an opioid antagonist.
+2.
+a. Subject to subd. 2. b. to d., any person may deliver or dispense an opioid
+antagonist.
+b. An advanced practice nurse prescriber may only deliver or dispense an opioid
+antagonist in accordance with s. 441.18 (2) or in accordance with his or her
+other legal authority to dispense prescription drugs.
+c. A physician or physician assistant may only deliver or dispense an opioid
+antagonist in accordance with s. 448.037 (2) or in accordance with his or her
+other legal authority to dispense prescription drugs.
+d. A pharmacist may only deliver or dispense an opioid antagonist in accordance
+with par. (a) 1. or in accordance with his or her other legal authority to
+dispense prescription drugs.
+(c) Immunity.
+1. In this paragraph, “ opioid-related drug overdose" has the meaning given in
+s. 256.40 (1) (d).
+2. Subject to par. (a) 2. and ss. 441.18 (3) and 448.037 (3), any person who,
+acting in good faith, delivers or dispenses an opioid antagonist to another
+person shall be immune from civil or criminal liability for any outcomes
+resulting from delivering or dispensing the opioid antagonist.
+3. Subject to ss. 256.40 (3) (b) and 895.48 (1g), any person who, reasonably
+believing another person to be undergoing an opioid-related drug overdose,
+administers an opioid antagonist to that person shall be immune from civil or
+criminal liability for any outcomes resulting from the administration of the
+opioid antagonist to that person.
 
 6. 450.0111.1m (1m)
-   Electronic transmission. Except as provided in s. 89.068 (1) (c) 4., a practitioner may transmit a prescription order electronically only if the patient approves the transmission and the prescription order is transmitted to a pharmacy designated by the patient.
+   Electronic transmission. Except as provided in s. 89.068 (1) (c) 4., a
+practitioner may transmit a prescription order electronically only if the
+patient approves the transmission and the prescription order is transmitted to a
+pharmacy designated by the patient.
 
 7. 450.0111.2 (2)
-   Prescription order file. Every prescription order shall be filed in a suitable book or file and preserved for at least 5 years. Prescription orders transmitted electronically may be filed and preserved in electronic format.
+   Prescription order file. Every prescription order shall be filed in a
+suitable book or file and preserved for at least 5 years. Prescription orders
+transmitted electronically may be filed and preserved in electronic format.
 
 8. 450.0111.3 (3)
-   Preparation of prescription drugs. Except as provided in sub. (1i) (b) and ss. 118.2925 (4), 255.07 (3), and 450.076, no person other than a pharmacist or practitioner or their agents and employees as directed, supervised, and inspected by the pharmacist or practitioner may prepare, compound, dispense, or prepare for delivery for a patient any prescription drug.
+   Preparation of prescription drugs. Except as provided in sub. (1i) (b) and
+ss. 118.2925 (4), 255.07 (3), and 450.076, no person other than a pharmacist or
+practitioner or their agents and employees as directed, supervised, and
+inspected by the pharmacist or practitioner may prepare, compound, dispense, or
+prepare for delivery for a patient any prescription drug.
 
 9. 450.0111.4 (4)
-   Label required.
-(a) Except as provided under par. (b), no prescribed drug or device may be dispensed unless there is a label attached to the container disclosing all of the following:
-1. The name and address of the dispensing practitioner or licensed facility from which the prescribed drug or device was dispensed.
-1m. The telephone number of the pharmacy, if the prescribed drug or device is dispensed by an out-of-state pharmacy licensed under s. 450.065.
-2. The date on which the prescription was dispensed.
-3. The number of the prescription order as recorded in the prescription order file of the facility from which the prescription was dispensed.
-4. The name of the practitioner who prescribed the drug or device.
-5.
-a. Except as provided in subd. 5. b. to d., the full name of the patient.
-b. For an antimicrobial drug dispensed under sub. (1g), the full name of the patient, if known, or the words, “expedited partner therapy" or the letters “EPT."
-c. For an opioid antagonist when delivered under sub. (1i) (a), the name of the person to whom the opioid antagonist is delivered.
-d. For an epinephrine auto-injector prescribed under s. 118.2925 (3) or 255.07 (2), the name of the school, authorized entity, authorized individual, or other person specified under s. 255.07 (3).
-6. Directions for use of the prescribed drug or device as contained in the prescription order.
-7. The name and strength of the prescribed drug dispensed, unless the prescribing practitioner requests omission of the name and strength of the drug dispensed.
-8. The symptom or purpose for which the drug is being prescribed if the prescription order specifies the symptom or purpose under sub. (4m).
-(b) Paragraph (a) does not apply to complimentary samples of drug products or devices dispensed by a practitioner to his or her patients.
+   Label required.
+(a) Except as provided under par. (b), no prescribed drug or device may be
+dispensed unless there is a label attached to the container disclosing all of
+the following:
+1. The name and address of the dispensing practitioner or licensed facility from
+which the prescribed drug or device was dispensed.
+1m. The telephone number of the pharmacy, if the prescribed drug or device is
+dispensed by an out-of-state pharmacy licensed under s. 450.065.
+2. The date on which the prescription was dispensed.
+3. The number of the prescription order as recorded in the prescription order
+file of the facility from which the prescription was dispensed.
+4. The name of the practitioner who prescribed the drug or device.
+5.
+a. Except as provided in subd. 5. b. to d., the full name of the patient.
+b. For an antimicrobial drug dispensed under sub. (1g), the full name of the
+patient, if known, or the words, “expedited partner therapy" or the letters
+“EPT."
+c. For an opioid antagonist when delivered under sub. (1i) (a), the name of the
+person to whom the opioid antagonist is delivered.
+d. For an epinephrine auto-injector prescribed under s. 118.2925 (3) or 255.07
+(2), the name of the school, authorized entity, authorized individual, or other
+person specified under s. 255.07 (3).
+6. Directions for use of the prescribed drug or device as contained in the
+prescription order.
+7. The name and strength of the prescribed drug dispensed, unless the
+prescribing practitioner requests omission of the name and strength of the drug
+dispensed.
+8. The symptom or purpose for which the drug is being prescribed if the
+prescription order specifies the symptom or purpose under sub. (4m).
+(b) Paragraph (a) does not apply to complimentary samples of drug products or
+devices dispensed by a practitioner to his or her patients.
 
 10. 450.0111.4g (4g)
-   Brand name permitted on label; drugs and drug products.
-(a) In this subsection:
-1. “Brand name" has the meaning given in s. 450.12 (1) (a).
-2. “Drug product equivalent" has the meaning given in s. 450.13 (1e).
-3. “Generic name" has the meaning given in s. 450.12 (1) (b).
-(b) If a pharmacist, pursuant to a prescription order that specifies a drug product by its brand name, dispenses the drug product equivalent of the drug product specified in the prescription order, the label required under sub. (4) (a) may include both the generic name of the drug product equivalent and the brand name specified in the prescription order, unless the prescribing practitioner requests that the brand name be omitted from the label.
-(c) This subsection does not apply to a prescription order for a biological product.
+   Brand name permitted on label; drugs and drug products.
+(a) In this subsection:
+1. “Brand name" has the meaning given in s. 450.12 (1) (a).
+2. “Drug product equivalent" has the meaning given in s. 450.13 (1e).
+3. “Generic name" has the meaning given in s. 450.12 (1) (b).
+(b) If a pharmacist, pursuant to a prescription order that specifies a drug
+product by its brand name, dispenses the drug product equivalent of the drug
+product specified in the prescription order, the label required under sub. (4)
+(a) may include both the generic name of the drug product equivalent and the
+brand name specified in the prescription order, unless the prescribing
+practitioner requests that the brand name be omitted from the label.
+(c) This subsection does not apply to a prescription order for a biological
+product.
 
 11. 450.0111.4i (4i)
-   Brand name permitted on label; biological products.
-(a) In this section:
-1. “Brand name" has the meaning given in s. 450.122 (1) (a).
-2. “Interchangeable biological product” has the meaning given in s. 450.135 (1).
-3. “Proper name” has the meaning given in s. 450.122 (1) (b).
-(b) If a pharmacist, pursuant to a prescription order that specifies a biological product by its brand name, dispenses the interchangeable biological product of the biological product specified in the prescription order, the label required under sub. (4) (a) may include both the proper name of the interchangeable biological product and the brand name specified in the prescription order.
+   Brand name permitted on label; biological products.
+(a) In this section:
+1. “Brand name" has the meaning given in s. 450.122 (1) (a).
+2. “Interchangeable biological product” has the meaning given in s. 450.135 (1).
+3. “Proper name” has the meaning given in s. 450.122 (1) (b).
+(b) If a pharmacist, pursuant to a prescription order that specifies a
+biological product by its brand name, dispenses the interchangeable biological
+product of the biological product specified in the prescription order, the label
+required under sub. (4) (a) may include both the proper name of the
+interchangeable biological product and the brand name specified in the
+prescription order.
 
 12. 450.0111.4m (4m)
-   Label options. If a patient indicates in writing to a practitioner who makes a prescription order for the patient that the patient wants the symptom or purpose for the prescription to be disclosed on the label, the practitioner shall specify the symptom or purpose in the prescription order.
+   Label options. If a patient indicates in writing to a practitioner who makes
+a prescription order for the patient that the patient wants the symptom or
+purpose for the prescription to be disclosed on the label, the practitioner
+shall specify the symptom or purpose in the prescription order.
 
 13. 450.0111.5 (5)
-   Initial fills and refills.
-(a) Except as provided in pars. (bm) and (br), no prescription may be refilled unless the requirements of sub. (1) and, if applicable, sub. (1m) have been met and written, oral, or electronic authorization has been given by the prescribing practitioner. Unless the prescribing practitioner has specified in the prescription order that dispensing a prescribed drug in an initial amount followed by periodic refills as specified in the prescription order is medically necessary, a pharmacist may exercise his or her professional judgment to dispense varying quantities of the prescribed drug per fill up to the total number of dosage units authorized by the prescribing practitioner in the prescription order including any refills, subject to par. (b).
-(b)
-1. The authority of a pharmacist under par. (a) to dispense varying quantities of a drug applies only with respect to the refills, if any, specified in the prescription order and does not apply with respect to the initial quantity specified in the prescription order, except that a pharmacist may dispense a varying initial quantity of a drug using that authority if such quantity of that drug was previously dispensed to the patient in the previous 2-year period under an earlier prescription.
-2. The authority of a pharmacist under par. (a) to dispense varying quantities of a drug does not apply with respect to controlled substances.
-3. A pharmacist may not use the authority under par. (a) to dispense varying quantities of a drug to dispense more than a 90-day supply of a drug in a single fill or refill.
-(bm)
-1. In the event a pharmacist receives a request for a prescription to be refilled and the prescription cannot be refilled as provided in par. (a), the pharmacist may, subject to subd. 2. a. to e., extend the existing prescription order and dispense the drug to the patient, if all of the following apply:
-a. The pharmacist has been unsuccessful in attempting to procure a new prescription order or refill authorization for the drug after attempting to contact the prescribing practitioner or his or her office.
-b. The patient is on a consistent drug therapy program and the patient has previously refilled the prescription at that pharmacy or through another pharmacy in the same pharmacy chain.
-c. The drug is essential to the life of the patient, or the interruption of the drug therapy could result in undesirable consequences for the patient's health.
-d. The pharmacist has not received and is not aware of written or oral instructions from the prescribing practitioner prohibiting further dispensing pursuant to or extension of the prescription order.
-2.
-a. A prescribing practitioner may indicate, by writing on the face of the prescription order or, with respect to a prescription order transmitted electronically, by designating in electronic format the phrase “No extensions,” or words of similar meaning, that no extension of the prescription order may be made under subd. 1. If such indication is made, the pharmacist may not extend the prescription order under subd. 1.
-b. A pharmacist acting under subd. 1. may not extend a prescription order to dispense more than a 7-day supply of the prescribed drug, except that if the drug is typically packaged in a form that requires a pharmacist to dispense the drug in a quantity greater than a 7-day supply, the pharmacist may extend the prescription order as necessary to dispense the drug in the smallest quantity in which it is typically packaged.
-c. A pharmacist may not extend a prescription order under subd. 1. for a drug that is a controlled substance.
-d. A pharmacist may not extend a prescription order under subd. 1. for a particular patient if a prescription order was previously extended under subd. 1. for that patient in the previous one-year period for that drug.
-e. A pharmacist shall, at the earliest reasonable time after acting under subd. 1., notify the prescribing practitioner or his or her office.
-(br)
-1. In the event a pharmacist receives a request for a prescription to be refilled and the prescription cannot be refilled as provided in par. (a), the pharmacist may, subject to subd. 2. a. to e., extend the existing prescription order and dispense the drug to the patient, if the pharmacist has not received and is not aware of written or oral instructions from the prescribing practitioner prohibiting further dispensing pursuant to or extension of the prescription order.
-2.
-a. A prescribing practitioner may indicate, by writing on the face of the prescription order or, with respect to a prescription order transmitted electronically, by designating in electronic format the phrase “No extensions," or words of similar meaning, that no extension of the prescription order may be made under subd. 1. If such indication is made, the pharmacist may not extend the prescription order under subd. 1.
+   Initial fills and refills.
+(a) Except as provided in pars. (bm) and (br), no prescription may be refilled
+unless the requirements of sub. (1) and, if applicable, sub. (1m) have been met
+and written, oral, or electronic authorization has been given by the prescribing
+practitioner. Unless the prescribing practitioner has specified in the
+prescription order that dispensing a prescribed drug in an initial amount
+followed by periodic refills as specified in the prescription order is medically
+necessary, a pharmacist may exercise his or her professional judgment to
+dispense varying quantities of the prescribed drug per fill up to the total
+number of dosage units authorized by the prescribing practitioner in the
+prescription order including any refills, subject to par. (b).
+(b)
+1. The authority of a pharmacist under par. (a) to dispense varying quantities
+of a drug applies only with respect to the refills, if any, specified in the
+prescription order and does not apply with respect to the initial quantity
+specified in the prescription order, except that a pharmacist may dispense a
+varying initial quantity of a drug using that authority if such quantity of that
+drug was previously dispensed to the patient in the previous 2-year period under
+an earlier prescription.
+2. The authority of a pharmacist under par. (a) to dispense varying quantities
+of a drug does not apply with respect to controlled substances.
+3. A pharmacist may not use the authority under par. (a) to dispense varying
+quantities of a drug to dispense more than a 90-day supply of a drug in a single
+fill or refill.
+(bm)
+1. In the event a pharmacist receives a request for a prescription to be
+refilled and the prescription cannot be refilled as provided in par. (a), the
+pharmacist may, subject to subd. 2. a. to e., extend the existing prescription
+order and dispense the drug to the patient, if all of the following apply:
+a. The pharmacist has been unsuccessful in attempting to procure a new
+prescription order or refill authorization for the drug after attempting to
+contact the prescribing practitioner or his or her office.
+b. The patient is on a consistent drug therapy program and the patient has
+previously refilled the prescription at that pharmacy or through another
+pharmacy in the same pharmacy chain.
+c. The drug is essential to the life of the patient, or the interruption of the
+drug therapy could result in undesirable consequences for the patient's health.
+d. The pharmacist has not received and is not aware of written or oral
+instructions from the prescribing practitioner prohibiting further dispensing
+pursuant to or extension of the prescription order.
+2.
+a. A prescribing practitioner may indicate, by writing on the face of the
+prescription order or, with respect to a prescription order transmitted
+electronically, by designating in electronic format the phrase “No extensions,”
+or words of similar meaning, that no extension of the prescription order may be
+made under subd. 1. If such indication is made, the pharmacist may not extend
+the prescription order under subd. 1.
+b. A pharmacist acting under subd. 1. may not extend a prescription order to
+dispense more than a 7-day supply of the prescribed drug, except that if the
+drug is typically packaged in a form that requires a pharmacist to dispense the
+drug in a quantity greater than a 7-day supply, the pharmacist may extend the
+prescription order as necessary to dispense the drug in the smallest quantity in
+which it is typically packaged.
+c. A pharmacist may not extend a prescription order under subd. 1. for a drug
+that is a controlled substance.
+d. A pharmacist may not extend a prescription order under subd. 1. for a
+particular patient if a prescription order was previously extended under subd.
+1. for that patient in the previous one-year period for that drug.
+e. A pharmacist shall, at the earliest reasonable time after acting under subd.
+1., notify the prescribing practitioner or his or her office.
+(br)
+1. In the event a pharmacist receives a request for a prescription to be
+refilled and the prescription cannot be refilled as provided in par. (a), the
+pharmacist may, subject to subd. 2. a. to e., extend the existing prescription
+order and dispense the drug to the patient, if the pharmacist has not received
+and is not aware of written or oral instructions from the prescribing
+practitioner prohibiting further dispensing pursuant to or extension of the
+prescription order.
+2.
+a. A prescribing practitioner may indicate, by writing on the face of the
+prescription order or, with respect to a prescription order transmitted
+electronically, by designating in electronic format the phrase “No extensions,"
+or words of similar meaning, that no extension of the prescription order may be
+made under subd. 1. If such indication is made, the pharmacist may not extend
+the prescription order under subd. 1.
 
 
 14. 450.0111.5b (5b)
-   b. A pharmacist acting under subd. 1. may not extend a prescription order to dispense more than a 30-day supply of the prescribed drug, except that if the drug is typically packaged in a form that requires a pharmacist to dispense the drug in a quantity greater than a 30-day supply, the pharmacist may extend the prescription order as necessary to dispense the drug in the smallest quantity in which it is typically packaged.
-c. A pharmacist may not extend a prescription order under subd. 1. for a drug that is a controlled substance.
-d. A pharmacist may not extend a prescription order under subd. 1. for a particular patient if a prescription order was previously extended under subd. 1. for that patient during the period described in subd. 3.
-e. A pharmacist shall, at the earliest reasonable time after acting under subd. 1., notify the prescribing practitioner or his or her office, but is not required to attempt to procure a new prescription order or refill authorization for the drug by contacting the prescribing practitioner or his or her office prior to acting under subd. 1. After acting under subd. 1., the pharmacist may notify the patient or other individual that any further refills will require the authorization of a prescribing practitioner.
-3. This paragraph applies only during the public health emergency declared on March 12, 2020, by executive order 72, and for 30 days after the conclusion of that public health emergency. During that time, this paragraph supersedes par. (bm) to the extent of any conflict.
-(c) An accurate record of refill dispensing shall be maintained showing the date and amount.
+   b. A pharmacist acting under subd. 1. may not extend a prescription order to
+dispense more than a 30-day supply of the prescribed drug, except that if the
+drug is typically packaged in a form that requires a pharmacist to dispense the
+drug in a quantity greater than a 30-day supply, the pharmacist may extend the
+prescription order as necessary to dispense the drug in the smallest quantity in
+which it is typically packaged.
+c. A pharmacist may not extend a prescription order under subd. 1. for a drug
+that is a controlled substance.
+d. A pharmacist may not extend a prescription order under subd. 1. for a
+particular patient if a prescription order was previously extended under subd.
+1. for that patient during the period described in subd. 3.
+e. A pharmacist shall, at the earliest reasonable time after acting under subd.
+1., notify the prescribing practitioner or his or her office, but is not
+required to attempt to procure a new prescription order or refill authorization
+for the drug by contacting the prescribing practitioner or his or her office
+prior to acting under subd. 1. After acting under subd. 1., the pharmacist may
+notify the patient or other individual that any further refills will require the
+authorization of a prescribing practitioner.
+3. This paragraph applies only during the public health emergency declared on
+March 12, 2020, by executive order 72, and for 30 days after the conclusion of
+that public health emergency. During that time, this paragraph supersedes par.
+(bm) to the extent of any conflict.
+(c) An accurate record of refill dispensing shall be maintained showing the date
+and amount.
 
 15. 450.0111.6 (6)
-   Sales of prescription drugs. In the event of any sale of prescription drugs in bankruptcy, at public auction or any other sale of prescription drugs other than in the normal course of business or practice, the seller shall give written notice of the sale to the board at least one week prior to the date of sale and shall make a complete and accurate written report of the sale to the board within 10 days after the sale, showing the name and address of all of the purchasers of prescription drugs together with an itemized inventory of the prescription drugs sold to each purchaser. This subsection does not apply to the sale of a manufacturer, distributor or pharmacy as an ongoing business or practice if the parties first notify the board of the impending sale.
+   Sales of prescription drugs. In the event of any sale of prescription drugs
+in bankruptcy, at public auction or any other sale of prescription drugs other
+than in the normal course of business or practice, the seller shall give written
+notice of the sale to the board at least one week prior to the date of sale and
+shall make a complete and accurate written report of the sale to the board
+within 10 days after the sale, showing the name and address of all of the
+purchasers of prescription drugs together with an itemized inventory of the
+prescription drugs sold to each purchaser. This subsection does not apply to the
+sale of a manufacturer, distributor or pharmacy as an ongoing business or
+practice if the parties first notify the board of the impending sale.
 
 16. 450.0111.7 (7)
-   Prohibited acts.
-(a) No person may obtain or attempt to obtain a prescription drug, or procure or attempt to procure the administration of a prescription drug, by fraud, deceit or willful misrepresentation or by forgery or alteration of a prescription order; or by willful concealment of a material fact; or by use of a false name or address.
-(b) Information communicated to a physician, physician assistant, or advanced practice nurse prescriber in an effort to procure unlawfully a prescription drug or the administration of a prescription drug is not a privileged communication.
-(c) No person may willfully make a false statement in any prescription order, report or record required by this section.
-(d) No person may, for the purpose of obtaining a prescription drug, falsely assume the title of, or represent himself or herself to be, a manufacturer, distributor, pharmacist or practitioner.
-(e) No person may make or utter any false or forged prescription order.
-(f) No person may willfully affix any false or forged label to a package or receptacle containing prescription drugs.
-(g) Except as authorized by this chapter, no person may possess, with intent to manufacture or deliver, a prescription drug. Intent under this paragraph may be demonstrated by, without limitation because of enumeration, evidence of the quantity and monetary value of the substance possessed, the possession of manufacturing implements or paraphernalia, and the activities or statements of the person in possession of the prescription drug prior to, during and after the alleged violation.
-(h) Except as provided in sub. (1i) (b), no person may possess a prescription drug unless the prescription drug is obtained in compliance with this section.
-(i) No pharmacist, manufacturer, distributor, owner or operator of a pharmacy or agent of a pharmacist, manufacturer, distributor or such an owner or operator may give any compensation or anything of value to a practitioner for the purpose of providing, or inducing the practitioner to obtain, any equipment, computer software or access to a service that may be used for the electronic transmission of a prescription order.
+   Prohibited acts.
+(a) No person may obtain or attempt to obtain a prescription drug, or procure or
+attempt to procure the administration of a prescription drug, by fraud, deceit
+or willful misrepresentation or by forgery or alteration of a prescription
+order; or by willful concealment of a material fact; or by use of a false name
+or address.
+(b) Information communicated to a physician, physician assistant, or advanced
+practice nurse prescriber in an effort to procure unlawfully a prescription drug
+or the administration of a prescription drug is not a privileged communication.
+(c) No person may willfully make a false statement in any prescription order,
+report or record required by this section.
+(d) No person may, for the purpose of obtaining a prescription drug, falsely
+assume the title of, or represent himself or herself to be, a manufacturer,
+distributor, pharmacist or practitioner.
+(e) No person may make or utter any false or forged prescription order.
+(f) No person may willfully affix any false or forged label to a package or
+receptacle containing prescription drugs.
+(g) Except as authorized by this chapter, no person may possess, with intent to
+manufacture or deliver, a prescription drug. Intent under this paragraph may be
+demonstrated by, without limitation because of enumeration, evidence of the
+quantity and monetary value of the substance possessed, the possession of
+manufacturing implements or paraphernalia, and the activities or statements of
+the person in possession of the prescription drug prior to, during and after the
+alleged violation.
+(h) Except as provided in sub. (1i) (b), no person may possess a prescription
+drug unless the prescription drug is obtained in compliance with this section.
+(i) No pharmacist, manufacturer, distributor, owner or operator of a pharmacy or
+agent of a pharmacist, manufacturer, distributor or such an owner or operator
+may give any compensation or anything of value to a practitioner for the purpose
+of providing, or inducing the practitioner to obtain, any equipment, computer
+software or access to a service that may be used for the electronic transmission
+of a prescription order.
 
 17. 450.0111.8 (8)
-   Rule-making authority. The department of justice may promulgate rules necessary for the enforcement of this section. In addition to all law enforcement officers and agencies, the enforcement of this section is the responsibility of the department and:
-(a) The board, insofar as this section applies to pharmacists.
-(b) The medical examining board, insofar as this section applies to physicians and physician assistants.
-(bm) The podiatry affiliated credentialing board, insofar as this section applies to podiatrists.
-(c) The veterinary examining board, insofar as this section applies to veterinarians.
-(d) The dentistry examining board, insofar as this section applies to dentists.
-(e) The board of nursing, insofar as this section applies to advanced practice nurse prescribers.
+   Rule-making authority. The department of justice may promulgate rules
+necessary for the enforcement of this section. In addition to all law
+enforcement officers and agencies, the enforcement of this section is the
+responsibility of the department and:
+(a) The board, insofar as this section applies to pharmacists.
+(b) The medical examining board, insofar as this section applies to physicians
+and physician assistants.
+(bm) The podiatry affiliated credentialing board, insofar as this section
+applies to podiatrists.
+(c) The veterinary examining board, insofar as this section applies to
+veterinarians.
+(d) The dentistry examining board, insofar as this section applies to dentists.
+(e) The board of nursing, insofar as this section applies to advanced practice
+nurse prescribers.
 
 18. 450.0111.9 (9)
-   Penalties and enforcement proceedings.
-(a) Except as provided in par. (b), any person who violates this section may be fined not more than $500 or imprisoned not more than 6 months or both.
-(b) Any person who delivers, or who possesses with intent to manufacture or deliver, a prescription drug in violation of this section is guilty of a Class H felony.
-(bm) A violation of sub. (1b) is not punishable under par. (a) or (b).
-(c) In any action or proceeding brought for the enforcement of this section, it shall not be necessary to negate any exception or exemption contained in this section, and the burden of proof of any such exception or exemption shall be upon the defendant.
+   Penalties and enforcement proceedings.
+(a) Except as provided in par. (b), any person who violates this section may be
+fined not more than $500 or imprisoned not more than 6 months or both.
+(b) Any person who delivers, or who possesses with intent to manufacture or
+deliver, a prescription drug in violation of this section is guilty of a Class H
+felony.
+(bm) A violation of sub. (1b) is not punishable under par. (a) or (b).
+(c) In any action or proceeding brought for the enforcement of this section, it
+shall not be necessary to negate any exception or exemption contained in this
+section, and the burden of proof of any such exception or exemption shall be
+upon the defendant.
 
 ---------- END OF DOCUMENT ----------

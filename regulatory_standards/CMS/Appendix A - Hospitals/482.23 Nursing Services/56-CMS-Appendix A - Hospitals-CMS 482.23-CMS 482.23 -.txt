@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 885c2e9f-dbf3-4b1a-844a-14c7c0c53ef6
+Document ID: 9156a8ee-2af2-4818-919e-4ee8fe1e96ee
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,35 @@ Name: CMS 482.23
 Title: 482.23 Nursing Services
 
 OVERVIEW:
-The hospital must have an organized nursing service that provides 24-hour nursing services.  The nursing services must be furnished or supervised by a registered nurse.
+The hospital must have an organized nursing service that provides 24-hour
+nursing services.  The nursing services must be furnished or supervised by a
+registered nurse.
 
 ABOUT:
-Interpretive Guidelines §482.23 The hospital must have an organized nursing service and must provide on premise nursing services 24 hours a day, 7 days a week with at least 1 registered nurse (RN) furnishing or supervising the service 24 hours a day, 7 days a week (Exception: small rural hospitals operating under a waiver as discussed in §482.23(b)(1)). The Social Security Act (SSA) at §1861(b) states that nursing services must be furnished to inpatients and furnished by the hospital. The SSA at §1861(e) further requires that the hospital have a RN on duty at all times (except small rural hospitals operating under a nursing waiver). The nursing service must be a well-organized service of the hospital and under the direction of a registered nurse. The nursing service must be integrated into the hospital-wide QAPI program. Survey Procedures §482.23 • Determine if the nursing service is integrated into the hospital-wide QAPI program. • Interview the director of the service. Request the following items: - Organizational chart(s) for nursing services for all locations where the hospital provides nursing services; - Job or position descriptions for all nursing personnel including the director’s position description. • Select at least one patient from every inpatient care unit. Observe the nursing care in progress to determine the adequacy of staffing and to assess the delivery of care. Other sources of information to use in the evaluation of the nursing services are: nursing care plans, medical records, patients, family members, accident and investigative reports, staffing schedules, nursing policies and procedures, and QAPI activities and reports. Interview patients for information relative to the delivery of nursing services. ______________________________________________________________________
+Interpretive Guidelines §482.23 The hospital must have an organized nursing
+service and must provide on premise nursing services 24 hours a day, 7 days a
+week with at least 1 registered nurse (RN) furnishing or supervising the service
+24 hours a day, 7 days a week (Exception: small rural hospitals operating under
+a waiver as discussed in §482.23(b)(1)). The Social Security Act (SSA) at
+§1861(b) states that nursing services must be furnished to inpatients and
+furnished by the hospital. The SSA at §1861(e) further requires that the
+hospital have a RN on duty at all times (except small rural hospitals operating
+under a nursing waiver). The nursing service must be a well-organized service of
+the hospital and under the direction of a registered nurse. The nursing service
+must be integrated into the hospital-wide QAPI program. Survey Procedures
+§482.23 • Determine if the nursing service is integrated into the hospital-wide
+QAPI program. • Interview the director of the service. Request the following
+items: - Organizational chart(s) for nursing services for all locations where
+the hospital provides nursing services; - Job or position descriptions for all
+nursing personnel including the director’s position description. • Select at
+least one patient from every inpatient care unit. Observe the nursing care in
+progress to determine the adequacy of staffing and to assess the delivery of
+care. Other sources of information to use in the evaluation of the nursing
+services are: nursing care plans, medical records, patients, family members,
+accident and investigative reports, staffing schedules, nursing policies and
+procedures, and QAPI activities and reports. Interview patients for information
+relative to the delivery of nursing services.
+______________________________________________________________________
 
 ---------- STANDARD ----------
 Name: CMS 482.23 -
@@ -21,7 +46,9 @@ Description: Nursing Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.23.-.A-0385 (A-0385)
-   §482.23  Condition of Participation:  Nursing Services 
- The hospital must have an organized nursing service that provides 24-hour nursing services.  The nursing services must be furnished or supervised by a registered nurse. 
+   §482.23  Condition of Participation:  Nursing Services
+ The hospital must have an organized nursing service that provides 24-hour
+nursing services.  The nursing services must be furnished or supervised by a
+registered nurse.
 
 ---------- END OF DOCUMENT ----------

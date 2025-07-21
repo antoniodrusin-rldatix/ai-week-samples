@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: f8e0a33f-2e80-46af-bc0c-a2d8a3800090
+Document ID: cf47db6a-87db-4d8f-9768-c9fa0f20c4b6
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,69 +10,251 @@ Name: CMS 482.12
 Title: 482.12 Governing Body
 
 OVERVIEW:
-There must be an effective governing body that is legally responsible for the conduct of the hospital. If a hospital does not have an organized governing body, the persons legally responsible for the conduct of the hospital must carry out the functions specified in this part that pertain to the governing body.
+There must be an effective governing body that is legally responsible for the
+conduct of the hospital. If a hospital does not have an organized governing
+body, the persons legally responsible for the conduct of the hospital must carry
+out the functions specified in this part that pertain to the governing body.
 
 ABOUT:
-Interpretive Guidelines §482.12 The hospital must have a governing body which is effective in carrying out its responsibilities for the conduct of the hospital.  In the absence of an organized governing body, there must be written documentation that identifies the individual or individuals that are legally responsible for the conduct of the hospital operations. If the hospital is part of a healthcare system that includes several separately certified hospitals, each with its own Medicare provider agreement and CMS Certification Number, the governing body of the healthcare system has the option to act as the governing body of each separately certified hospital, unless doing so would conflict with State law.  A hospital system also has the option to form several governing bodies, each of which is responsible for several separately certified hospitals.  For example, a health system operating hospitals in many States might choose to form regional sub-boards each responsible for the hospitals in its region, or a health system that has a mixture of types of hospitals may choose to form one sub-board responsible for its short-term acute care hospitals and another for its long term care hospitals. When deciding whether or not to exercise the option to have a single governing body for multiple hospitals in the system, another factor for systems to consider might be Medicare payment requirements at §§412.22(e) - (h) applicable to certain types of hospitals, i.e., non-grandfathered  Hospitals-within-Hospitals and Hospital Satellites.  In such cases where the hospital system owns both the tenant and the host hospital, using a single governing body for both hospitals would jeopardize the payment status of a hospital that is being paid by Medicare under a payment system excluded from the Hospital Inpatient Prospective Payment System (IPPS).  However, surveyors do not assess compliance with or enforce the Medicare payment regulations that govern Hospitals-within-Hospitals or Hospital Satellites. The Medicare program offers hospital facilities considerable flexibility regarding how they choose to participate.  Based on the geographic and other institutional limitations set out in the “provider-based” regulation at §413.65, which addresses provider-based status for hospital facilities in multiple locations, hospital governing bodies make business decisions about how they want to participate in Medicare, and they indicate on their Medicare enrollment application the choices they have made.  It is not uncommon to find multiple hospital campuses with one owner located in the same geographic area enrolled in Medicare as one hospital.  It is also not uncommon to see a hospital system choosing to enroll its various facilities as separately certified hospitals.  Various factors enter into consideration when the governing body of a system makes these decisions. For example, some governing bodies prefer to enroll various campuses as separate hospitals, out of a concern that problems at one hospital’s campus might jeopardize the Medicare participation of the other campuses if they were a multi-campus hospital covered under one Medicare provider agreement.  In other cases a governing body may see the benefits of integrating clinical services on multiple campuses into one integrated hospital.  In still other cases, the deciding factor might be the implications for Medicare reimbursement of graduate medical education, the ease of adding satellite locations, etc. CMS defers to the governing bodies of hospitals to weigh the pertinent factors and permissible options, and to make business decisions in their best interest when applying to participate in Medicare.  CMS’s hospital certification decisions and issuance of a provider agreement and associated CCN follow from these business decisions by a hospital’s governing body.  But once the “hospital,” with whatever component parts, has been certified, that hospital must independently demonstrate its compliance with the CoPs, independent of any other facility.  (77 FR 29040, May 16, 2012) If a hospital system has chosen to have a one body act as the governing body for multiple separately certified hospitals (i.e., a system governing body), this does not alter the fact that each hospital must independently demonstrate compliance with the CoPs.  Examples of what this means include, but are not limited to, the following: • Each separately certified hospital must be separately and independently assessed for its compliance with the CoPs, through either State Survey Agency or approved Medicare hospital accreditation program surveys.   There is no survey of a hospital “system,” since the Medicare provider agreement and its terms are specific to each certified hospital. • A system governing body may wish to adopt identical policies and procedures for many aspects of a hospital’s operations across all of its hospitals within the system.  It has the flexibility to do so, but the documentation of such policies and procedures must be clear that the governing body has chosen to apply them to specifically named hospitals. Also, each hospital must be able to present for inspection the system governing body policies and procedures that clearly apply to that hospital.  For example: A document that says “XX Healthsystem has adopted the following policy” is not acceptable.  Instead, the document must be more specific, such as, “XX Healthsystem adopts the following policy and procedure for Hospital A, Hospital B, and Hospital C.”  Furthermore, the names of each hospital (Hospitals A, B, and C in this example) must correspond to the names used for their provider agreements.  For example, if Hospital C is one Medicare-certified hospital with two inpatient campuses, one called “East” and one called “West,” it is not acceptable for the policy document to state, “XX Healthsystem adopts the following policy and procedure for Hospital A, Hospital B, and Hospital East and Hospital West.”  It would be acceptable to state, “XX Healthsystem adopts the following policy and procedure for Hospital A, Hospital B, and Hospital C.” It also is not acceptable for the policy document to state, “XX Healthsystem adopts the following policy and procedure for Hospital A, Hospital B, and Hospital East, but not Hospital West.”  Since “Hospitals” East and West refer to separate campuses of Hospital C, which participates in Medicare as one multicampus hospital, it is not appropriate to refer to these separate campuses of C as “hospitals,” since the XX Healthsystem made a business decision to enroll them as parts of one multi-campus hospital in Medicare.   CMS recognizes that, depending on the particular policy topic, it may be acceptable to have policies that vary by type of unit/department within a hospital.  The system governing body could achieve this as follows:  “XX Healthsystem adopts the following policy and procedure requiring that a physician be on-site 24 hours per day, seven days per week on the inpatient campuses of Hospital A and Hospital B, but within Hospital C, only for the East inpatient campus.” • Likewise, the minutes of the governing body must be written in such a manner so that it is clear when the governing body has taken actions that apply to a specific certified hospital. • Departments of separately certified hospitals with one system governing body cannot be operationally integrated.  For example, if a system has chosen to operate three separately certified hospitals in relatively close proximity to each other rather than to have them certified as one multi-campus hospital, then each hospital must have its own nursing service.  It may not have one integrated nursing service with one Director of Nursing who manages one nursing staff for all three hospitals.  The system cannot maintain one integrated schedule that assigns nursing staff among the different hospitals.  The system also cannot move them back and forth between hospitals on an ad hoc, as needed basis, as if they were one hospital. On the other hand, the policies and procedures the governing body has adopted for the nursing service in each hospital may be identical, so long as the services operate separately.  It is also permissible for the same individual to be the Director of Nursing for each hospital, provided that he or she is able to carry out all of the duties of the position in each hospital, such as managing each hospital's separate nursing staff.  It is also permissible for one nurse to work at multiple hospitals within the system, in the same way that a nurse may work for multiple hospitals that do not share ownership, but the nurse must have separate work schedules for each hospital.  Such schedules cannot overlap. • Likewise, although the system may choose to operate a quality assessment/performance improvement (QAPI) program at the system level which standardizes indicators measured across system hospitals, each separately-certified hospital in the system must have a QAPI program that is specific to that hospital.  This is required not only to demonstrate compliance, but also for the governing body to function effectively, since reviewing QAPI program results only at the system level would make it difficult for the governing body to identify and act upon problems that are localized to one hospital. For example, the system may choose to use the same quality indicators or the same methodology to track adverse events across all system hospitals.  But each certified hospital must have its own QAPI data with respect to these indicators and adverse events.  If a system is tracking readmission rates across all of its hospitals, it must be able to separate out the hospital-specific results for the governing body’s review and possible action. The governing body must be functioning effectively and holds the ultimate responsibility for the hospital’s compliance not only with the specific standards of the governing body CoP, but also with all of the CoPs.  This is the case regardless of whether the regulatory text for a particular condition or standard within a condition specifically mentions responsibilities of the governing body.  Substantial, i.e., condition-level, non-compliance with one of the other hospital CoPs may be an indicator that the governing body is not functioning effectively.  However, it is not the policy of CMS that condition-level noncompliance with any other CoP automatically results in a condition-level citation of the governing body CoP.  Surveyors must consider whether the manner and degree of the other deficiencies provide sufficient evidence to conclude that the governing body is not functioning effectively. Survey Procedures §482.12 • Verify that the hospital has an organized governing body or has written documentation that identifies the individual or individuals that are responsible for the conduct of the hospital operations. • If the hospital is part of a hospital system which uses one governing body for several of the hospital’s separately certified within the system: • Review the governing body minutes to determine if it is clear which actions pertain to which hospitals. • Select for review several policy and procedure documents adopted by the system governing body to determine if it is clear that they apply to the hospital being surveyed.
+Interpretive Guidelines §482.12 The hospital must have a governing body which is
+effective in carrying out its responsibilities for the conduct of the hospital. 
+In the absence of an organized governing body, there must be written
+documentation that identifies the individual or individuals that are legally
+responsible for the conduct of the hospital operations. If the hospital is part
+of a healthcare system that includes several separately certified hospitals,
+each with its own Medicare provider agreement and CMS Certification Number, the
+governing body of the healthcare system has the option to act as the governing
+body of each separately certified hospital, unless doing so would conflict with
+State law.  A hospital system also has the option to form several governing
+bodies, each of which is responsible for several separately certified
+hospitals.  For example, a health system operating hospitals in many States
+might choose to form regional sub-boards each responsible for the hospitals in
+its region, or a health system that has a mixture of types of hospitals may
+choose to form one sub-board responsible for its short-term acute care hospitals
+and another for its long term care hospitals. When deciding whether or not to
+exercise the option to have a single governing body for multiple hospitals in
+the system, another factor for systems to consider might be Medicare payment
+requirements at §§412.22(e) - (h) applicable to certain types of hospitals,
+i.e., non-grandfathered  Hospitals-within-Hospitals and Hospital Satellites.  In
+such cases where the hospital system owns both the tenant and the host hospital,
+using a single governing body for both hospitals would jeopardize the payment
+status of a hospital that is being paid by Medicare under a payment system
+excluded from the Hospital Inpatient Prospective Payment System (IPPS). 
+However, surveyors do not assess compliance with or enforce the Medicare payment
+regulations that govern Hospitals-within-Hospitals or Hospital Satellites. The
+Medicare program offers hospital facilities considerable flexibility regarding
+how they choose to participate.  Based on the geographic and other institutional
+limitations set out in the “provider-based” regulation at §413.65, which
+addresses provider-based status for hospital facilities in multiple locations,
+hospital governing bodies make business decisions about how they want to
+participate in Medicare, and they indicate on their Medicare enrollment
+application the choices they have made.  It is not uncommon to find multiple
+hospital campuses with one owner located in the same geographic area enrolled in
+Medicare as one hospital.  It is also not uncommon to see a hospital system
+choosing to enroll its various facilities as separately certified hospitals. 
+Various factors enter into consideration when the governing body of a system
+makes these decisions. For example, some governing bodies prefer to enroll
+various campuses as separate hospitals, out of a concern that problems at one
+hospital’s campus might jeopardize the Medicare participation of the other
+campuses if they were a multi-campus hospital covered under one Medicare
+provider agreement.  In other cases a governing body may see the benefits of
+integrating clinical services on multiple campuses into one integrated
+hospital.  In still other cases, the deciding factor might be the implications
+for Medicare reimbursement of graduate medical education, the ease of adding
+satellite locations, etc. CMS defers to the governing bodies of hospitals to
+weigh the pertinent factors and permissible options, and to make business
+decisions in their best interest when applying to participate in Medicare. 
+CMS’s hospital certification decisions and issuance of a provider agreement and
+associated CCN follow from these business decisions by a hospital’s governing
+body.  But once the “hospital,” with whatever component parts, has been
+certified, that hospital must independently demonstrate its compliance with the
+CoPs, independent of any other facility.  (77 FR 29040, May 16, 2012) If a
+hospital system has chosen to have a one body act as the governing body for
+multiple separately certified hospitals (i.e., a system governing body), this
+does not alter the fact that each hospital must independently demonstrate
+compliance with the CoPs.  Examples of what this means include, but are not
+limited to, the following: • Each separately certified hospital must be
+separately and independently assessed for its compliance with the CoPs, through
+either State Survey Agency or approved Medicare hospital accreditation program
+surveys.   There is no survey of a hospital “system,” since the Medicare
+provider agreement and its terms are specific to each certified hospital. • A
+system governing body may wish to adopt identical policies and procedures for
+many aspects of a hospital’s operations across all of its hospitals within the
+system.  It has the flexibility to do so, but the documentation of such policies
+and procedures must be clear that the governing body has chosen to apply them to
+specifically named hospitals. Also, each hospital must be able to present for
+inspection the system governing body policies and procedures that clearly apply
+to that hospital.  For example: A document that says “XX Healthsystem has
+adopted the following policy” is not acceptable.  Instead, the document must be
+more specific, such as, “XX Healthsystem adopts the following policy and
+procedure for Hospital A, Hospital B, and Hospital C.”  Furthermore, the names
+of each hospital (Hospitals A, B, and C in this example) must correspond to the
+names used for their provider agreements.  For example, if Hospital C is one
+Medicare-certified hospital with two inpatient campuses, one called “East” and
+one called “West,” it is not acceptable for the policy document to state, “XX
+Healthsystem adopts the following policy and procedure for Hospital A, Hospital
+B, and Hospital East and Hospital West.”  It would be acceptable to state, “XX
+Healthsystem adopts the following policy and procedure for Hospital A, Hospital
+B, and Hospital C.” It also is not acceptable for the policy document to state,
+“XX Healthsystem adopts the following policy and procedure for Hospital A,
+Hospital B, and Hospital East, but not Hospital West.”  Since “Hospitals” East
+and West refer to separate campuses of Hospital C, which participates in
+Medicare as one multicampus hospital, it is not appropriate to refer to these
+separate campuses of C as “hospitals,” since the XX Healthsystem made a business
+decision to enroll them as parts of one multi-campus hospital in Medicare.   CMS
+recognizes that, depending on the particular policy topic, it may be acceptable
+to have policies that vary by type of unit/department within a hospital.  The
+system governing body could achieve this as follows:  “XX Healthsystem adopts
+the following policy and procedure requiring that a physician be on-site 24
+hours per day, seven days per week on the inpatient campuses of Hospital A and
+Hospital B, but within Hospital C, only for the East inpatient campus.” •
+Likewise, the minutes of the governing body must be written in such a manner so
+that it is clear when the governing body has taken actions that apply to a
+specific certified hospital. • Departments of separately certified hospitals
+with one system governing body cannot be operationally integrated.  For example,
+if a system has chosen to operate three separately certified hospitals in
+relatively close proximity to each other rather than to have them certified as
+one multi-campus hospital, then each hospital must have its own nursing
+service.  It may not have one integrated nursing service with one Director of
+Nursing who manages one nursing staff for all three hospitals.  The system
+cannot maintain one integrated schedule that assigns nursing staff among the
+different hospitals.  The system also cannot move them back and forth between
+hospitals on an ad hoc, as needed basis, as if they were one hospital. On the
+other hand, the policies and procedures the governing body has adopted for the
+nursing service in each hospital may be identical, so long as the services
+operate separately.  It is also permissible for the same individual to be the
+Director of Nursing for each hospital, provided that he or she is able to carry
+out all of the duties of the position in each hospital, such as managing each
+hospital's separate nursing staff.  It is also permissible for one nurse to work
+at multiple hospitals within the system, in the same way that a nurse may work
+for multiple hospitals that do not share ownership, but the nurse must have
+separate work schedules for each hospital.  Such schedules cannot overlap. •
+Likewise, although the system may choose to operate a quality
+assessment/performance improvement (QAPI) program at the system level which
+standardizes indicators measured across system hospitals, each separately-
+certified hospital in the system must have a QAPI program that is specific to
+that hospital.  This is required not only to demonstrate compliance, but also
+for the governing body to function effectively, since reviewing QAPI program
+results only at the system level would make it difficult for the governing body
+to identify and act upon problems that are localized to one hospital. For
+example, the system may choose to use the same quality indicators or the same
+methodology to track adverse events across all system hospitals.  But each
+certified hospital must have its own QAPI data with respect to these indicators
+and adverse events.  If a system is tracking readmission rates across all of its
+hospitals, it must be able to separate out the hospital-specific results for the
+governing body’s review and possible action. The governing body must be
+functioning effectively and holds the ultimate responsibility for the hospital’s
+compliance not only with the specific standards of the governing body CoP, but
+also with all of the CoPs.  This is the case regardless of whether the
+regulatory text for a particular condition or standard within a condition
+specifically mentions responsibilities of the governing body.  Substantial,
+i.e., condition-level, non-compliance with one of the other hospital CoPs may be
+an indicator that the governing body is not functioning effectively.  However,
+it is not the policy of CMS that condition-level noncompliance with any other
+CoP automatically results in a condition-level citation of the governing body
+CoP.  Surveyors must consider whether the manner and degree of the other
+deficiencies provide sufficient evidence to conclude that the governing body is
+not functioning effectively. Survey Procedures §482.12 • Verify that the
+hospital has an organized governing body or has written documentation that
+identifies the individual or individuals that are responsible for the conduct of
+the hospital operations. • If the hospital is part of a hospital system which
+uses one governing body for several of the hospital’s separately certified
+within the system: • Review the governing body minutes to determine if it is
+clear which actions pertain to which hospitals. • Select for review several
+policy and procedure documents adopted by the system governing body to determine
+if it is clear that they apply to the hospital being surveyed.
 
 ---------- STANDARD ----------
 Name: CMS 482.12 (d)
 Code: 482.12
-Description: Institutional plan and budget. 
+Description: Institutional plan and budget.
 
 ---------- ELEMENTS ----------
 1. CMS 482.12.(d).A-0073 (A-0073)
-   §482.12(d) Standard:  Institutional Plan and Budget 
- The institution must have an overall institutional plan that meets the following conditions: 
- (1) The plan must include an annual operating budget that is prepared according to generally accepted accounting principles. 
- (2)  The budget must include all anticipated income and expenses.  This provision does not require that the budget identify item by item the components of each anticipated income or expense. 
- (3)  The plan must provide for capital expenditures for at least a 3-year period, including the year in which the operating budget specified in paragraph (d)(2) of this section is applicable. 
- (4)  The plan must include and identify in detail the objective of, and the anticipated sources of financing for, each anticipated capital expenditure in excess of $600,000 (or a lesser amount that is established, in accordance with section 1122(g)(1) of the Act, by the State in which the hospital is located) that relates to any of the following: 
- (i)   Acquisition of  land; 
- (ii)  Improvement of land, buildings, and equipment; or 
- (iii)The replacement, modernization, and expansion of buildings and equipment. 
+   §482.12(d) Standard:  Institutional Plan and Budget
+ The institution must have an overall institutional plan that meets the
+following conditions:
+ (1) The plan must include an annual operating budget that is prepared according
+to generally accepted accounting principles.
+ (2)  The budget must include all anticipated income and expenses.  This
+provision does not require that the budget identify item by item the components
+of each anticipated income or expense.
+ (3)  The plan must provide for capital expenditures for at least a 3-year
+period, including the year in which the operating budget specified in paragraph
+(d)(2) of this section is applicable.
+ (4)  The plan must include and identify in detail the objective of, and the
+anticipated sources of financing for, each anticipated capital expenditure in
+excess of $600,000 (or a lesser amount that is established, in accordance with
+section 1122(g)(1) of the Act, by the State in which the hospital is located)
+that relates to any of the following:
+ (i)   Acquisition of  land;
+ (ii)  Improvement of land, buildings, and equipment; or
+ (iii)The replacement, modernization, and expansion of buildings and equipment.
 
 2. CMS 482.12.(d).A-0074 (A-0074)
-   §482.12(d)(5) The plan must be submitted for review to the planning agency designated in accordance with section 1122(b) of the Act, or if an agency is not designated, to the appropriate health planning agency in the State. (See Part 100 of this title.)
+   §482.12(d)(5) The plan must be submitted for review to the planning agency
+designated in accordance with section 1122(b) of the Act, or if an agency is not
+designated, to the appropriate health planning agency in the State. (See Part
+100 of this title.)
 
 3. CMS 482.12.(d).3 (3)
-   The plan must provide for capital expenditures for at least a 3-year period, including the year in which the operating budget specified in paragraph (d)(2) of this section is applicable.
+   The plan must provide for capital expenditures for at least a 3-year period,
+including the year in which the operating budget specified in paragraph (d)(2)
+of this section is applicable.
 
 4. CMS 482.12.(d).4 (4)
-   The plan must include and identify in detail the objective of, and the anticipated sources of financing for, each anticipated capital expenditure in excess of $600,000 (or a lesser amount that is established, in accordance with section 1122(g)(1) of the Act, by the State in which the hospital is located) that relates to any of the 
-following:
-
-  (i) Acquisition of land;
-  (ii) Improvement of land, buildings, and equipment; or
-  (iii) The replacement, modernization, and expansion of buildings and equipment.
+   The plan must include and identify in detail the objective of, and the
+anticipated sources of financing for, each anticipated capital expenditure in
+excess of $600,000 (or a lesser amount that is established, in accordance with
+section 1122(g)(1) of the Act, by the State in which the hospital is located)
+that relates to any of the
+following:
+
+  (i) Acquisition of land;
+  (ii) Improvement of land, buildings, and equipment; or
+  (iii) The replacement, modernization, and expansion of buildings and
+equipment.
 
 
 5. CMS 482.12.(d).2 (2)
-   The budget must include all anticipated income and expenses. This provision does not require that the budget identify item by item the components of each anticipated income or expense.
+   The budget must include all anticipated income and expenses. This provision
+does not require that the budget identify item by item the components of each
+anticipated income or expense.
 
 6. CMS 482.12.(d).A-0076 (A-0076)
-   §482.12(d)(6) The plan must be reviewed and updated annually 
+   §482.12(d)(6) The plan must be reviewed and updated annually
 
 
 7. CMS 482.12.(d).A-0077 (A-0077)
-   §482.12(d)(7) The plan must be prepared-- 
- (i)   Under the direction of the governing body; and 
- (ii)  By a committee consisting of representatives of the governing body, the administrative staff, and the medical staff of the institution.
+   §482.12(d)(7) The plan must be prepared--
+ (i)   Under the direction of the governing body; and
+ (ii)  By a committee consisting of representatives of the governing body, the
+administrative staff, and the medical staff of the institution.
 
 
 8. CMS 482.12.(d).7 (7)
-   The plan must be prepared--
-(i) Under the direction of the governing body; and
-(ii) By a committee consisting of representatives of the governing body, the administrative staff, and the medical staff of the institution.
+   The plan must be prepared--
+(i) Under the direction of the governing body; and
+(ii) By a committee consisting of representatives of the governing body, the
+administrative staff, and the medical staff of the institution.
 
 
 9. CMS 482.12.(d).A-0075 (A-0075)
-   §482.12(d)(5)  (Continued) 
- A capital expenditure is not subject to section 1122 review if 75 percent of the health care facility’s patients who are expected to use the service for which the capital expenditure is made are individuals enrolled in a health maintenance organization (HMO) or competitive medical plan (CMP) that meets the requirements of section 1876(b) of the Act, and if the Department determines that the capital expenditure is for services and facilities that are needed by the HMO or CMP in order to operate efficiently and economically and that are not otherwise readily accessible to the HMO or CMP because-- 
- (i)  The facilities do not provide common services at the same site; 
- (ii)  The facilities are not available under a contract of reasonable duration; 
- (iii)  Full and equal medical staff privileges in the facilities are not available; 
- (iv)  Arrangements with these facilities are not administratively feasible; or 
- (v)  The purchase of these services is more costly than if the HMO or CMP provided the services directly. 
+   §482.12(d)(5)  (Continued)
+ A capital expenditure is not subject to section 1122 review if 75 percent of
+the health care facility’s patients who are expected to use the service for
+which the capital expenditure is made are individuals enrolled in a health
+maintenance organization (HMO) or competitive medical plan (CMP) that meets the
+requirements of section 1876(b) of the Act, and if the Department determines
+that the capital expenditure is for services and facilities that are needed by
+the HMO or CMP in order to operate efficiently and economically and that are not
+otherwise readily accessible to the HMO or CMP because--
+ (i)  The facilities do not provide common services at the same site;
+ (ii)  The facilities are not available under a contract of reasonable duration;
+ (iii)  Full and equal medical staff privileges in the facilities are not
+available;
+ (iv)  Arrangements with these facilities are not administratively feasible; or
+ (v)  The purchase of these services is more costly than if the HMO or CMP
+provided the services directly.
 
 ---------- END OF DOCUMENT ----------

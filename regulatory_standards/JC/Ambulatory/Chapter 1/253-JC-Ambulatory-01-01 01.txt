@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: c6e75e95-655e-4560-aece-d2dc5dadfa4e
+Document ID: 33870de2-00cf-4b4b-ad4c-ed0b2afaa1e7
 
 ---------- REGULATION ----------
 Name: Ambulatory
@@ -15,7 +15,7 @@ Description: Ambulatory
 
 ---------- ELEMENTS ----------
 1. 01.01.AMB (AMB)
-   
+
 
 2. 01.01.AMB (AMB)
    aMBULATORY

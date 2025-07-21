@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: b86b266b-7d84-445a-99b8-5c35d8c79db4
+Document ID: 1c1bfd99-8ea1-4af1-ac67-c8f6851cf412
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,27 +15,57 @@ Description: Using drug product equivalent in dispensing prescriptions
 
 ---------- ELEMENTS ----------
 1. 450.0130.1e (1e)
-   Definition. In this section, “drug product equivalent" means a drug product that is designated the therapeutic equivalent of another drug product by the federal food and drug administration as set forth in the latest edition of or supplement to the federal food and drug administration's Approved Drug Products with Therapeutic Equivalence Evaluations.
+   Definition. In this section, “drug product equivalent" means a drug product
+that is designated the therapeutic equivalent of another drug product by the
+federal food and drug administration as set forth in the latest edition of or
+supplement to the federal food and drug administration's Approved Drug Products
+with Therapeutic Equivalence Evaluations.
 
 2. 450.0130.1s (1s)
-   Drug product or equivalent to be used. Except as provided in sub. (2), a pharmacist shall dispense every prescription using either the drug product prescribed or its drug product equivalent, if its drug product equivalent is lower in price to the consumer than the drug product prescribed, and shall inform the consumer of the options available in dispensing the prescription.
+   Drug product or equivalent to be used. Except as provided in sub. (2), a
+pharmacist shall dispense every prescription using either the drug product
+prescribed or its drug product equivalent, if its drug product equivalent is
+lower in price to the consumer than the drug product prescribed, and shall
+inform the consumer of the options available in dispensing the prescription.
 
 3. 450.0130.2 (2)
-   Exception. A prescribing practitioner may indicate, by writing on the face of the prescription order or, with respect to a prescription order transmitted electronically, by designating in electronic format the phrase “No substitutions" or words of similar meaning or the initials “N.S.", that no substitution of the drug product prescribed may be made under sub. (1s). If such indication is made, the pharmacist shall dispense the prescription with the specific drug product prescribed. No preprinted statement regarding drug product substitution may appear on the face of the prescription order.
+   Exception. A prescribing practitioner may indicate, by writing on the face of
+the prescription order or, with respect to a prescription order transmitted
+electronically, by designating in electronic format the phrase “No
+substitutions" or words of similar meaning or the initials “N.S.", that no
+substitution of the drug product prescribed may be made under sub. (1s). If such
+indication is made, the pharmacist shall dispense the prescription with the
+specific drug product prescribed. No preprinted statement regarding drug product
+substitution may appear on the face of the prescription order.
 
 4. 450.0130.3 (3)
-   Refilled prescriptions. Prescriptions dispensed with a drug product equivalent may be refilled with a different drug product equivalent only if the pharmacist informs the consumer of the change.
+   Refilled prescriptions. Prescriptions dispensed with a drug product
+equivalent may be refilled with a different drug product equivalent only if the
+pharmacist informs the consumer of the change.
 
 5. 450.0130.4 (4)
-   Limitation on liability. A pharmacist who dispenses a prescription with a drug product equivalent under this section assumes no greater liability than would be incurred had the pharmacist dispensed the prescription with the drug product prescribed.
+   Limitation on liability. A pharmacist who dispenses a prescription with a
+drug product equivalent under this section assumes no greater liability than
+would be incurred had the pharmacist dispensed the prescription with the drug
+product prescribed.
 
 6. 450.0130.5 (5)
-   Use of drug product equivalent in hospitals. Subsections (1s) to (4) do not apply to a pharmacist who dispenses a drug product equivalent that is prescribed for a patient in a hospital if the pharmacist dispenses the drug product equivalent in accordance with written guidelines or procedures previously established by a pharmacy and therapeutics committee of the hospital and approved by the hospital's medical staff and use of the drug product equivalent has been approved for a patient during the period of the patient's stay within the hospital by any of the following:
-(a) The patient's individual physician.
-(b) The patient's advanced practice nurse prescriber, if the advanced practice nurse prescriber has entered into a written agreement to collaborate with a physician.
+   Use of drug product equivalent in hospitals. Subsections (1s) to (4) do not
+apply to a pharmacist who dispenses a drug product equivalent that is prescribed
+for a patient in a hospital if the pharmacist dispenses the drug product
+equivalent in accordance with written guidelines or procedures previously
+established by a pharmacy and therapeutics committee of the hospital and
+approved by the hospital's medical staff and use of the drug product equivalent
+has been approved for a patient during the period of the patient's stay within
+the hospital by any of the following:
+(a) The patient's individual physician.
+(b) The patient's advanced practice nurse prescriber, if the advanced practice
+nurse prescriber has entered into a written agreement to collaborate with a
+physician.
 (c) The patient's physician assistant.
 
 7. 450.0130.6 (6)
-   Applicability. This section does not apply with respect to a prescription for a biological product.
+   Applicability. This section does not apply with respect to a prescription for
+a biological product.
 
 ---------- END OF DOCUMENT ----------

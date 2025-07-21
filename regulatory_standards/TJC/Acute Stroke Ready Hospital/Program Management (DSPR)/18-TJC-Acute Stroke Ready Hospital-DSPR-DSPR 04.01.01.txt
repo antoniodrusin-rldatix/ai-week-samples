@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 8713a239-5a52-41e8-b0cd-28f66877ee91
+Document ID: 60259d81-4d9c-463e-ba37-0b39ce406476
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,69 +10,138 @@ Name: DSPR
 Title: Program Management (DSPR)
 
 OVERVIEW:
-Providing high-quality care requires an infrastructure capable of supporting the activities of the patient and practitioner. Leaders must commit resources to support, evaluate, and improve services. Commitments such as these require leaders to know their organization’s strengths, challenges, and areas for improvement. They must also have a thorough understanding of their patient population so that the care they provide is relevant to their population’s needs. The standards in this chapter focus on the following: - Designing and implementing the program - Evaluating the program - Offering a relevant program for patients - Providing safe and adequate access to care - Conducting the program in an ethical manner - Supplying reference resources to practitioners - Offering the program in safe and accessible facilities Please note that not all standards or elements of performance apply to every disease-specific care program. For example, disease management service providers may facilitate or support care by telephone interventions but may not have a physical site where patients are seen or gathered. In these cases, the facility standards may not apply. Each disease-specific care program should consider its individual circumstances and services.
+Providing high-quality care requires an infrastructure capable of supporting the
+activities of the patient and practitioner. Leaders must commit resources to
+support, evaluate, and improve services. Commitments such as these require
+leaders to know their organization’s strengths, challenges, and areas for
+improvement. They must also have a thorough understanding of their patient
+population so that the care they provide is relevant to their population’s
+needs. The standards in this chapter focus on the following: - Designing and
+implementing the program - Evaluating the program - Offering a relevant program
+for patients - Providing safe and adequate access to care - Conducting the
+program in an ethical manner - Supplying reference resources to practitioners -
+Offering the program in safe and accessible facilities Please note that not all
+standards or elements of performance apply to every disease-specific care
+program. For example, disease management service providers may facilitate or
+support care by telephone interventions but may not have a physical site where
+patients are seen or gathered. In these cases, the facility standards may not
+apply. Each disease-specific care program should consider its individual
+circumstances and services.
 
 ---------- STANDARD ----------
 Name: DSPR 04.01.01
-Description: The disease-specific care program develops and implements program goals, policies, and procedures for the care, treatment, and services it provides.
+Description: The disease-specific care program develops and implements program
+goals, policies, and procedures for the care, treatment, and services it
+provides.
 
 RATIONALE:
-An integrated and collaborative team approach for developing the disease-specific care program’s mission, vision, and goals makes certain that the delivery of care, treatment and services will be provided safely, effectively, and equitably to the population(s) the program serves.
+An integrated and collaborative team approach for developing the disease-
+specific care program’s mission, vision, and goals makes certain that the
+delivery of care, treatment and services will be provided safely, effectively,
+and equitably to the population(s) the program serves.
 
 ---------- ELEMENTS ----------
 1. DSPR.04.01.01 EP1 (EP 1)
-   The leader(s) of the organization and the disease-specific care program define, in writing, the program’s mission, goals, and scope of services provided.
-
-Requirement Specific to Acute Stroke Ready Certification
-a. The program collaborates with emergency medical services (EMS) providers to make certain of the following:
-- The program has a relationship with EMS providers that includes notification when a patient with suspected stroke is being transported to the acute stroke ready hospital.
-- The program has access to treatment protocols utilized by EMS providers and prehospital personnel for emergency stroke care and transport of suspected stroke patients to stroke centers.
-- The program works collaboratively with EMS to make certain that providers have specific training in the use of at least one accepted stroke field assessment tool.
+   The leader(s) of the organization and the disease-specific care program
+define, in writing, the program’s mission, goals, and scope of services
+provided.
+
+Requirement Specific to Acute Stroke Ready Certification
+a. The program collaborates with emergency medical services (EMS) providers to
+make certain of the following:
+- The program has a relationship with EMS providers that includes notification
+when a patient with suspected stroke is being transported to the acute stroke
+ready hospital.
+- The program has access to treatment protocols utilized by EMS providers and
+prehospital personnel for emergency stroke care and transport of suspected
+stroke patients to stroke centers.
+- The program works collaboratively with EMS to make certain that providers have
+specific training in the use of at least one accepted stroke field assessment
+tool.
 
 2. DSPR.04.01.01 EP2 (EP 2)
-   The disease-specific care program identifies which services will be provided directly or through referral, consultation, transfer, contractual agreements, or contracted services.
-
-Requirements Specific to Acute Stroke Ready Certification
-a. The program has a written transfer protocol with at least one primary stroke center or one comprehensive stroke center or a stroke center of comparable capability.
-b. Written transfer protocols with accepting facilities include the following:
-- Contact names
-- Contact phone numbers
-- Ability to transfer 24 hours a day, 7 days a week
-- Ground and air transportation options
-c. There is a written protocol for transfer that includes communication and feedback from the receiving facility.
-d. Protocols for care related to patient referrals demonstrate that the program does the following:
-- Addresses processes for transferring patients to another facility
-- Evaluates the receiving organization’s ability to meet the patient’s and family’s needs
-e. For patients transferring to a higher-level stroke center, patients should leave the organization within two hours of emergency department arrival or when medically stable. The program includes time parameters and transfer procedures to the stroke center.
-f. The program has access to stroke expertise 24 hours a day, 7 days a week.
-Note: Access to stroke expertise may be in person or via telemedicine. If via telemedicine, there is the capability for a live interactive physical exam with real-time viewing of the patient and their neuroimaging studies.
-g. The program has the ability to complete initial laboratory tests on site 24 hours a day, 7 days a week.
-Note: Laboratory tests may include a complete blood cell count with platelet count, coagulation studies (prothrombin time, International Normalized Ratio), blood chemistries, and troponin.
-h. The program has the ability to perform computed tomography (CT) of the head on site 24 hours a day, 7 days a week.
-Note: A brain magnetic resonance imaging (MRI) may be performed in lieu of a head CT, if the same time parameters can be met in the acute setting.
+   The disease-specific care program identifies which services will be provided
+directly or through referral, consultation, transfer, contractual agreements, or
+contracted services.
+
+Requirements Specific to Acute Stroke Ready Certification
+a. The program has a written transfer protocol with at least one primary stroke
+center or one comprehensive stroke center or a stroke center of comparable
+capability.
+b. Written transfer protocols with accepting facilities include the following:
+- Contact names
+- Contact phone numbers
+- Ability to transfer 24 hours a day, 7 days a week
+- Ground and air transportation options
+c. There is a written protocol for transfer that includes communication and
+feedback from the receiving facility.
+d. Protocols for care related to patient referrals demonstrate that the program
+does the following:
+- Addresses processes for transferring patients to another facility
+- Evaluates the receiving organization’s ability to meet the patient’s and
+family’s needs
+e. For patients transferring to a higher-level stroke center, patients should
+leave the organization within two hours of emergency department arrival or when
+medically stable. The program includes time parameters and transfer procedures
+to the stroke center.
+f. The program has access to stroke expertise 24 hours a day, 7 days a week.
+Note: Access to stroke expertise may be in person or via telemedicine. If via
+telemedicine, there is the capability for a live interactive physical exam with
+real-time viewing of the patient and their neuroimaging studies.
+g. The program has the ability to complete initial laboratory tests on site 24
+hours a day, 7 days a week.
+Note: Laboratory tests may include a complete blood cell count with platelet
+count, coagulation studies (prothrombin time, International Normalized Ratio),
+blood chemistries, and troponin.
+h. The program has the ability to perform computed tomography (CT) of the head
+on site 24 hours a day, 7 days a week.
+Note: A brain magnetic resonance imaging (MRI) may be performed in lieu of a
+head CT, if the same time parameters can be met in the acute setting.
 
 3. DSPR.04.01.01 EP3 (EP 3)
-   The disease-specific care program develops, implements, and revises written program-specific protocols, policies, procedures, and/or order sets in accordance with the current clinical practice guideline(s) it follows.
-
-Requirements Specific to Acute Stroke Ready Certification
-a. The program’s written protocols, policies, procedures, and/or order sets include but are not limited to the following:
-- Emergency and inpatient acute stroke response processes that are used to notify physicians or other licensed practitioners who respond to the patients presenting with acute ischemic and hemorrhagic stroke 24 hours a day, 7 days a week
-- Emergency management care, including rapid assessment and prehospital communication between emergency medical services staff, and medical stabilization of the patient en route to the emergency department
-- Indication and initiation of IV thrombolytic therapy
-- The transfer of complex stroke patients to higher levels of care
-- Dysphagia screening utilizing a reliable, evidence-based tool approved by the interdisciplinary team
-- Initiation of telemedicine, as applicable
-Note 1: A telemedicine link is initiated within 20 minutes of the emergency physician or acute stroke team determining it is necessary or within the time frame specified in the contract, whichever is sooner.
-Note 2: The program develops response time goals for care protocols in alignment with current clinical practice guidelines.
-b. The organization's formulary or medication list must include an IV thrombolytic therapy for the treatment of acute ischemic stroke.
-Note: If a program maintains more than one IV thrombolytic on formulary for the treatment of acute ischemic stroke, written protocols are in place that define medication selection and administration.
+   The disease-specific care program develops, implements, and revises written
+program-specific protocols, policies, procedures, and/or order sets in
+accordance with the current clinical practice guideline(s) it follows.
+
+Requirements Specific to Acute Stroke Ready Certification
+a. The program’s written protocols, policies, procedures, and/or order sets
+include but are not limited to the following:
+- Emergency and inpatient acute stroke response processes that are used to
+notify physicians or other licensed practitioners who respond to the patients
+presenting with acute ischemic and hemorrhagic stroke 24 hours a day, 7 days a
+week
+- Emergency management care, including rapid assessment and prehospital
+communication between emergency medical services staff, and medical
+stabilization of the patient en route to the emergency department
+- Indication and initiation of IV thrombolytic therapy
+- The transfer of complex stroke patients to higher levels of care
+- Dysphagia screening utilizing a reliable, evidence-based tool approved by the
+interdisciplinary team
+- Initiation of telemedicine, as applicable
+Note 1: A telemedicine link is initiated within 20 minutes of the emergency
+physician or acute stroke team determining it is necessary or within the time
+frame specified in the contract, whichever is sooner.
+Note 2: The program develops response time goals for care protocols in alignment
+with current clinical practice guidelines.
+b. The organization's formulary or medication list must include an IV
+thrombolytic therapy for the treatment of acute ischemic stroke.
+Note: If a program maintains more than one IV thrombolytic on formulary for the
+treatment of acute ischemic stroke, written protocols are in place that define
+medication selection and administration.
 
 4. DSPR.04.01.01 EP4 (EP 4)
-   The disease-specific care program complies with its organization's policies and procedures (such as infection prevention and control, environment of care, life safety, medication management) and applicable law and regulation when providing care, treatment, and services.
-Note 1: Joint Commission–accredited organizations comply with all accreditation requirements.
-Note 2: Non-Joint Commission–accredited organizations comply with the requirements specified in Appendix A or Appendix B.
+   The disease-specific care program complies with its organization's policies
+and procedures (such as infection prevention and control, environment of care,
+life safety, medication management) and applicable law and regulation when
+providing care, treatment, and services.
+Note 1: Joint Commission–accredited organizations comply with all accreditation
+requirements.
+Note 2: Non-Joint Commission–accredited organizations comply with the
+requirements specified in Appendix A or Appendix B.
 
 5. DSPR.04.01.01 EP5 (EP 5)
-   The organization develops and implements a process to report, communicate, mitigate, and/or resolve situations that may cause an abrupt disruption in the delivery of care, treatment, and services.
+   The organization develops and implements a process to report, communicate,
+mitigate, and/or resolve situations that may cause an abrupt disruption in the
+delivery of care, treatment, and services.
 
 ---------- END OF DOCUMENT ----------

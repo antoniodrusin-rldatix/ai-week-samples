@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 3dde686e-79dd-4257-ac27-277262aa3fc1
+Document ID: 2f81e5ed-738b-41d2-938a-c7cc1b250ac5
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,7 +15,9 @@ Description: Placing prescription drugs prohibited
 
 ---------- ELEMENTS ----------
 1. 450.0150.1 (1)
-   Except as otherwise provided by law, no person may put, or cause to be put, any prescription drug in any public place, or upon any private premises without the consent of the owner or occupant.
+   Except as otherwise provided by law, no person may put, or cause to be put,
+any prescription drug in any public place, or upon any private premises without
+the consent of the owner or occupant.
 
 2. 450.0150.2 (2)
    Any person who violates this section is guilty of a Class H felony.

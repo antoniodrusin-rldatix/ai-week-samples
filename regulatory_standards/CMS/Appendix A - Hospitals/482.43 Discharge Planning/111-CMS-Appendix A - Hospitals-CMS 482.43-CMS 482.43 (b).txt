@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: e1fd8f53-f7a7-43eb-9034-363dd2f85fd3
+Document ID: f8f0143d-215a-47c6-a708-10984a977819
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,44 +12,73 @@ Title: 482.43 Discharge Planning
 ---------- STANDARD ----------
 Name: CMS 482.43 (b)
 Code: 482.43
-Description: Discharge of the patient and the provision and transmission of the patient’s necessary medical information. 
+Description: Discharge of the patient and the provision and transmission of the
+patient’s necessary medical information.
 
 RATIONALE:
-
-
+
+
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.43.(b).3 (3)
-   (A-0806) The discharge planning evaluation must include an evaluation of the likelihood of a patient needing post- hospital services and of the availability of the services.
+   (A-0806) The discharge planning evaluation must include an evaluation of the
+likelihood of a patient needing post- hospital services and of the availability
+of the services.
 
 
 2. CMS 482.43.(b).4 (4)
-   (A-0806) The discharge planning evaluation must include an evaluation of the likelihood of a patient's capacity for self-care or of the possibility of the patient being cared for in the environment from which he or she entered the hospital.
+   (A-0806) The discharge planning evaluation must include an evaluation of the
+likelihood of a patient's capacity for self-care or of the possibility of the
+patient being cared for in the environment from which he or she entered the
+hospital.
 
 
 3. CMS 482.43.(b).A-0806 (A-0806)
-   §482.43(b) Standard:  Discharge Planning Evaluation 
- (1) The hospital must provide a discharge planning evaluation to the patients identified in paragraph (a) of this section, and to other patients upon the patient’s request, the request of a person acting on the patient’s behalf, or the request of the physician. 
- (3) - The discharge planning evaluation must include an evaluation of the likelihood of a patient needing post-hospital services and of the availability of the services. 
- (4) - The discharge planning evaluation must include an evaluation of the likelihood of a patient’s capacity for self-care or of the possibility of the patient being cared for in the environment from which he or she entered the hospital. 
+   §482.43(b) Standard:  Discharge Planning Evaluation
+ (1) The hospital must provide a discharge planning evaluation to the patients
+identified in paragraph (a) of this section, and to other patients upon the
+patient’s request, the request of a person acting on the patient’s behalf, or
+the request of the physician.
+ (3) - The discharge planning evaluation must include an evaluation of the
+likelihood of a patient needing post-hospital services and of the availability
+of the services.
+ (4) - The discharge planning evaluation must include an evaluation of the
+likelihood of a patient’s capacity for self-care or of the possibility of the
+patient being cared for in the environment from which he or she entered the
+hospital.
 
 4. CMS 482.43.(b).A-0807 (A-0807)
-   §482.43(b)(2) - A registered nurse, social worker, or other appropriately qualified personnel must develop, or supervise the development of, the evaluation. 
+   §482.43(b)(2) - A registered nurse, social worker, or other appropriately
+qualified personnel must develop, or supervise the development of, the
+evaluation.
 
 
 5. CMS 482.43.(b).A-0810 (A-0810)
-   §482.43(b)(5) - The hospital personnel must complete the evaluation on a timely basis so that appropriate arrangements for post-hospital care are made before discharge, and to avoid unnecessary delays in discharge. 
+   §482.43(b)(5) - The hospital personnel must complete the evaluation on a
+timely basis so that appropriate arrangements for post-hospital care are made
+before discharge, and to avoid unnecessary delays in discharge.
 
 
 6. CMS 482.43.(b).A-0811 (A-0811)
-   §482.43(b)(6) - The hospital … must discuss the results of the evaluation with the patient or individual acting on his or her behalf. 
+   §482.43(b)(6) - The hospital … must discuss the results of the evaluation
+with the patient or individual acting on his or her behalf.
 
 7. CMS 482.43.(b).A-0812 (A-0812)
-   §482.43(b)(6) – [The hospital must] include the discharge planning evaluation in the patient’s medical record for use in establishing an appropriate discharge plan….  
+   §482.43(b)(6) – [The hospital must] include the discharge planning evaluation
+in the patient’s medical record for use in establishing an appropriate discharge
+plan….
 
 8. CMS 482.43.(b).A-0813  (A-0813 )
-   §482.43(b) Standard: Discharge of the patient and the provision and transmission of the patient’s necessary medical information. The hospital must discharge the patient , and also transfer or refer the patient where applicable, along with all necessary medical information pertaining to the patient’s current course of illness and treatment, post-discharge goals of care, and treatment preferences, at the time of discharge, to the appropriate post-acute care service providers and suppliers, facilities, agencies, and other outpatient service providers and practitioners responsible for the patient’s follow-up or ancillary care.  
- 
+   §482.43(b) Standard: Discharge of the patient and the provision and
+transmission of the patient’s necessary medical information. The hospital must
+discharge the patient , and also transfer or refer the patient where applicable,
+along with all necessary medical information pertaining to the patient’s current
+course of illness and treatment, post-discharge goals of care, and treatment
+preferences, at the time of discharge, to the appropriate post-acute care
+service providers and suppliers, facilities, agencies, and other outpatient
+service providers and practitioners responsible for the patient’s follow-up or
+ancillary care.
+
 
 ---------- END OF DOCUMENT ----------

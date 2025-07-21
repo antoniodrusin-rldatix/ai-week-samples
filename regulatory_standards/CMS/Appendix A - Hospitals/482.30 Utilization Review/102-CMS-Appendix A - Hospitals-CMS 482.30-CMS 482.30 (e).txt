@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 06647881-70ec-4c9d-aa05-0c9b4c7f8aa2
+Document ID: 35b44c77-be46-4346-9fcd-4b8b8c67312e
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,10 +10,18 @@ Name: CMS 482.30
 Title: 482.30 Utilization Review
 
 OVERVIEW:
-The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs.
+The hospital must have in effect a utilization review (UR) plan that provides
+for review of services furnished by the institution and by members of the
+medical staff to patients entitled to benefits under the Medicare and Medicaid
+programs.
 
 ABOUT:
-Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the exception criteria at §482.30(a), it must have a UR plan in effect which provides for review of services provided to Medicare and Medicaid beneficiaries. Survey Procedures  §482.30 The manner and degree of noncompliance with one or more of the UR standards is considered when determining whether there is condition-level compliance or noncompliance.
+Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the
+exception criteria at §482.30(a), it must have a UR plan in effect which
+provides for review of services provided to Medicare and Medicaid beneficiaries.
+Survey Procedures  §482.30 The manner and degree of noncompliance with one or
+more of the UR standards is considered when determining whether there is
+condition-level compliance or noncompliance.
 
 ---------- STANDARD ----------
 Name: CMS 482.30 (e)
@@ -22,21 +30,34 @@ Description: Extended Stay Review
 
 ---------- ELEMENTS ----------
 1. CMS 482.30.(e).2 (2)
-   In hospitals paid under the prospective payment system, the UR committee must review all cases reasonably assumed by the hospital to be outlier cases because the extended length of stay exceeds the threshold criteria for the diagnosis, as described in §412.80(a)(1)(i).  The hospital is not required to review an extended stay that does not exceed the outlier threshold for the diagnosis. 
+   In hospitals paid under the prospective payment system, the UR committee must
+review all cases reasonably assumed by the hospital to be outlier cases because
+the extended length of stay exceeds the threshold criteria for the diagnosis, as
+described in §412.80(a)(1)(i).  The hospital is not required to review an
+extended stay that does not exceed the outlier threshold for the diagnosis.
 
 
 2. CMS 482.30.(e).A-0657 (A-0657)
-   §482.30(e) Standard:  Extended Stay Review 
- (1)  In hospitals that are not paid under the prospective payment system, the UR committee must make a periodic review, as specified in the UR plan, or each current inpatient receiving hospital services during a continuous period of 
-extended duration.   
- The scheduling of the periodic reviews may-- 
- (i)  Be the same for all cases; or 
- (ii)  Differ for different classes of cases. 
- (2)  In hospitals paid under the prospective payment system, the UR committee must review all cases reasonably assumed by the hospital to be outlier cases because the extended length of stay exceeds the threshold criteria for the diagnosis, as described in §412.80(a)(1)(i).  The hospital is not required to review an extended stay that does not exceed the outlier threshold for the diagnosis. 
- (3)  The UR committee must make the periodic review no later than 7 days after the day required in the UR plan. 
+   §482.30(e) Standard:  Extended Stay Review
+ (1)  In hospitals that are not paid under the prospective payment system, the
+UR committee must make a periodic review, as specified in the UR plan, or each
+current inpatient receiving hospital services during a continuous period of
+extended duration.
+ The scheduling of the periodic reviews may--
+ (i)  Be the same for all cases; or
+ (ii)  Differ for different classes of cases.
+ (2)  In hospitals paid under the prospective payment system, the UR committee
+must review all cases reasonably assumed by the hospital to be outlier cases
+because the extended length of stay exceeds the threshold criteria for the
+diagnosis, as described in §412.80(a)(1)(i).  The hospital is not required to
+review an extended stay that does not exceed the outlier threshold for the
+diagnosis.
+ (3)  The UR committee must make the periodic review no later than 7 days after
+the day required in the UR plan.
 
 3. CMS 482.30.(e).3 (3)
-   The UR committee must make the periodic review no later than 7 days after the day required in the UR plan.
+   The UR committee must make the periodic review no later than 7 days after the
+day required in the UR plan.
 
 
 ---------- END OF DOCUMENT ----------

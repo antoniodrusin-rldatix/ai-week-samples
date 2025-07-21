@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 1144b653-3b08-497f-9729-85369bce83a8
+Document ID: 87cf9e23-50e0-430e-8775-1d402de9c73d
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,24 +15,59 @@ Description: Wholesale distributors; pedigree
 
 ---------- ELEMENTS ----------
 1. 450.073.1 (1)
-   A wholesale distributor shall establish and maintain a pedigree for each prescription drug that leaves, or has ever left, the normal distribution channel. Before a wholesale distribution of a prescription drug leaves the normal distribution channel, a wholesale distributor shall provide a copy of the pedigree to the person receiving the drug. This section does not apply to a retail pharmacy or pharmacy intracompany warehouse unless the pharmacy or pharmacy intracompany warehouse engages in the wholesale distribution of prescription drugs.
+   A wholesale distributor shall establish and maintain a pedigree for each
+prescription drug that leaves, or has ever left, the normal distribution
+channel. Before a wholesale distribution of a prescription drug leaves the
+normal distribution channel, a wholesale distributor shall provide a copy of the
+pedigree to the person receiving the drug. This section does not apply to a
+retail pharmacy or pharmacy intracompany warehouse unless the pharmacy or
+pharmacy intracompany warehouse engages in the wholesale distribution of
+prescription drugs.
 
 2. 450.073.2 (2)
-   A pedigree shall contain all necessary identifying information concerning each sale in the chain of the distribution of the prescription drug from the manufacturer of the prescription drug or the manufacturers 3rd-party logistics provider, colicensed product partner, or exclusive distributor until final sale or distribution to a pharmacy or a person dispensing or distributing the prescription drug. The pedigree shall include all of the following:
-(a) The name, address, telephone number, and, if available, electronic mail address of each recipient or distributor of the prescription drug in the chain of distribution, until the final sale or distribution described in sub. (2) (intro.).
-(b) The name and address of each facility from which the prescription drug was distributed, if different from the address provided in par. (a).
-(c) The date of each distribution.
-(d) A certification that every recipient has authenticated the pedigree before distribution of the prescription drug to the next point in the chain of distribution.
-(e) The name, dosage strength, size and number of containers, lot number, and name of the manufacturer for each prescription drug.
+   A pedigree shall contain all necessary identifying information concerning
+each sale in the chain of the distribution of the prescription drug from the
+manufacturer of the prescription drug or the manufacturers 3rd-party logistics
+provider, colicensed product partner, or exclusive distributor until final sale
+or distribution to a pharmacy or a person dispensing or distributing the
+prescription drug. The pedigree shall include all of the following:
+(a) The name, address, telephone number, and, if available, electronic mail
+address of each recipient or distributor of the prescription drug in the chain
+of distribution, until the final sale or distribution described in sub. (2)
+(intro.).
+(b) The name and address of each facility from which the prescription drug was
+distributed, if different from the address provided in par. (a).
+(c) The date of each distribution.
+(d) A certification that every recipient has authenticated the pedigree before
+distribution of the prescription drug to the next point in the chain of
+distribution.
+(e) The name, dosage strength, size and number of containers, lot number, and
+name of the manufacturer for each prescription drug.
 
 3. 450.073.3 (3)
-   The board shall promulgate rules implementing an electronic track and trace pedigree system. Not later than July 1, 2010, the board shall determine the date on which the system will be implemented. The system may not be implemented before July 1, 2011, and the board may delay the implementation date in increments if the board determines that the technology to implement the system is not yet universally available across the prescription drug supply chain or is not capable of adequately protecting patient safety.
+   The board shall promulgate rules implementing an electronic track and trace
+pedigree system. Not later than July 1, 2010, the board shall determine the date
+on which the system will be implemented. The system may not be implemented
+before July 1, 2011, and the board may delay the implementation date in
+increments if the board determines that the technology to implement the system
+is not yet universally available across the prescription drug supply chain or is
+not capable of adequately protecting patient safety.
 
 4. 450.073.4 (4)
-   A person who is engaged in the wholesale distribution of a prescription drug, including a repackager but not including the original manufacturer of the prescription drug, who possesses a pedigree for the prescription drug, and who intends to further distribute the prescription drug, shall verify that each transaction recorded on the pedigree has occurred before the person may distribute the prescription drug.
+   A person who is engaged in the wholesale distribution of a prescription drug,
+including a repackager but not including the original manufacturer of the
+prescription drug, who possesses a pedigree for the prescription drug, and who
+intends to further distribute the prescription drug, shall verify that each
+transaction recorded on the pedigree has occurred before the person may
+distribute the prescription drug.
 
 5. 450.073.5 (5)
-   (a) A pedigree shall be maintained by a person who purchases prescription drugs identified in the pedigree and by a wholesale distributor who distributes prescription drugs identified in the pedigree for not less than 3 years from the date of sale or distribution.
-(b) A person maintaining a pedigree under par. (a) shall make the pedigree available for inspection or use by a law enforcement officer within 7 days after the law enforcement officer's request.
+   (a) A pedigree shall be maintained by a person who purchases prescription
+drugs identified in the pedigree and by a wholesale distributor who distributes
+prescription drugs identified in the pedigree for not less than 3 years from the
+date of sale or distribution.
+(b) A person maintaining a pedigree under par. (a) shall make the pedigree
+available for inspection or use by a law enforcement officer within 7 days after
+the law enforcement officer's request.
 
 ---------- END OF DOCUMENT ----------

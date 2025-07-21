@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: f879e9d8-4227-4414-8769-455e326320b8
+Document ID: f01d2a22-5760-4b94-821a-222605bc0db5
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,26 +10,49 @@ Name: CMS 482.21
 Title: 482.21 Quality Assessment and Performance Improvement Program
 
 OVERVIEW:
-A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing Adequate Resources
+A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities
+A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance
+Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing
+Adequate Resources
 
 ABOUT:
-The hospital must develop, implement, and maintain an effective, ongoing, hospital wide, data-driven quality assessment and performance improvement program.  The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services;  involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
+The hospital must develop, implement, and maintain an effective, ongoing,
+hospital wide, data-driven quality assessment and performance improvement
+program.  The hospital’s governing body must ensure that the program reflects
+the complexity of the hospital’s organization and services;  involves all
+hospital departments and services (including those services furnished under
+contract or arrangement); and focuses on indicators related to improved health
+outcomes and the prevention and reduction of medical errors.  The hospital must
+maintain and demonstrate evidence of its QAPI program for review by CMS.
 
 ---------- STANDARD ----------
 Name: CMS 482.21 -
-Description: Quality Assessment and Performance Improvement Program 
+Description: Quality Assessment and Performance Improvement Program
 
 ---------- ELEMENTS ----------
 1. CMS 482.21.-.A-0263 (A-0263)
-   §482.21 Condition of Participation:  Quality Assessment and Performance Improvement Program 
-
-The hospital must develop, implement, and maintain an effective, ongoing, hospital
-wide, data-driven quality assessment and performance improvement program.  The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services;  involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
+   §482.21 Condition of Participation:  Quality Assessment and Performance
+Improvement Program
+
+The hospital must develop, implement, and maintain an effective, ongoing,
+hospital
+wide, data-driven quality assessment and performance improvement program.  The
+hospital’s governing body must ensure that the program reflects the complexity
+of the hospital’s organization and services;  involves all hospital departments
+and services (including those services furnished under contract or arrangement);
+and focuses on indicators related to improved health outcomes and the prevention
+and reduction of medical errors.  The hospital must maintain and demonstrate
+evidence of its QAPI program for review by CMS.
 
 2. CMS 482.21.-.A-308 (A-308)
-   Standard Tag for requirements found only in Condition stem statement  
-
-§482.21 Condition of Participation: Quality Assessment and Performance Improvement Program 
- … The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services; involves all hospital departments and services (including those services furnished under contract or arrangement)…   The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS. 
+   Standard Tag for requirements found only in Condition stem statement
+
+§482.21 Condition of Participation: Quality Assessment and Performance
+Improvement Program
+ … The hospital’s governing body must ensure that the program reflects the
+complexity of the hospital’s organization and services; involves all hospital
+departments and services (including those services furnished under contract or
+arrangement)…   The hospital must maintain and demonstrate evidence of its QAPI
+program for review by CMS.
 
 ---------- END OF DOCUMENT ----------

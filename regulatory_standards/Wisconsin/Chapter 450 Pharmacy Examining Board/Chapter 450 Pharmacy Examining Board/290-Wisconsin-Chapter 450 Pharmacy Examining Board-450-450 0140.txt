@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 0e91424a-ae4f-433a-99dc-ae4d69a69f30
+Document ID: 84756cd9-2e09-4ba9-90e3-094184185acb
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,20 +15,37 @@ Description: Poisons
 
 ---------- ELEMENTS ----------
 1. 450.0140.1 (1)
-   In this section, “highly toxic" has the meaning specified under 15 USC 1261 (h).
+   In this section, “highly toxic" has the meaning specified under 15 USC 1261
+(h).
 
 2. 450.0140.2 (2)
-   No person may deliver any highly toxic substance unless the delivery is made on the prescription order of a practitioner or complies with pars. (a) to (d):
-450.14(2)(a)(a) The container shall be plainly labeled with the name of the substance, the name and address of the person delivering the substance and, except as provided in sub. (3), the word “Poison".
-(b) The person delivering the substance shall ascertain that the recipient is aware of the poisonous character of the substance and desires it for a lawful purpose.
-(c) Before delivery, the person delivering the substance shall record in a book kept for that purpose the name of the article or substance, the quantity, the purpose, the date, the name and address of the person for whom procured and the signature of the individual personally delivering the article or substance. The record shall be signed by the person to whom the substance is delivered. Each book containing records required under this paragraph shall be preserved by the owner of the book for at least 3 years after the date of the last entry and shall be open to inspection by authorized officers.
-(d) If the recipient is under 18 years of age, he or she must have the written order of an adult.
+   No person may deliver any highly toxic substance unless the delivery is made
+on the prescription order of a practitioner or complies with pars. (a) to (d):
+450.14(2)(a)(a) The container shall be plainly labeled with the name of the
+substance, the name and address of the person delivering the substance and,
+except as provided in sub. (3), the word “Poison".
+(b) The person delivering the substance shall ascertain that the recipient is
+aware of the poisonous character of the substance and desires it for a lawful
+purpose.
+(c) Before delivery, the person delivering the substance shall record in a book
+kept for that purpose the name of the article or substance, the quantity, the
+purpose, the date, the name and address of the person for whom procured and the
+signature of the individual personally delivering the article or substance. The
+record shall be signed by the person to whom the substance is delivered. Each
+book containing records required under this paragraph shall be preserved by the
+owner of the book for at least 3 years after the date of the last entry and
+shall be open to inspection by authorized officers.
+(d) If the recipient is under 18 years of age, he or she must have the written
+order of an adult.
 
 3. 450.0140.3 (3)
-   A “Poison" label under sub. (2) (a) is not required for liniments, ointments or other external preparations which are plainly labeled “for external use only".
+   A “Poison" label under sub. (2) (a) is not required for liniments, ointments
+or other external preparations which are plainly labeled “for external use
+only".
 
 4. 450.0140.4 (4)
-   This section does not apply to manufacturers or distributors selling at wholesale nor to pesticides which comply with ss. 94.67 to 94.71.
+   This section does not apply to manufacturers or distributors selling at
+wholesale nor to pesticides which comply with ss. 94.67 to 94.71.
 
 5. 450.0140.5 (5)
    Any person who violates this section is guilty of a Class H felony.

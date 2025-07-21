@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 7091c80a-e89e-498d-9e4a-90288b3b1533
+Document ID: f91742a5-f3dc-475f-8f4c-4d0bdbf0cfc3
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,76 +15,135 @@ Description: Drug procurement, distribution and control
 
 ---------- ELEMENTS ----------
 1. 246.873.080.1 (1)
-   General. Pharmaceutical service shall include:
-(a) Procurement, preparation, storage, distribution and control of all drugs throughout the hospital.
-(b) A monthly inspection of all nursing care units or other areas of the hospital where medications are dispensed, administered or stored. Inspection reports shall be maintained for one year.
-(c) Monitoring the drug therapy.
-(d) Provisions for drug information to patients, physicians and others.
-(e) Surveillance and reporting of adverse drug reactions and drug product defect(s).
+   General. Pharmaceutical service shall include:
+(a) Procurement, preparation, storage, distribution and control of all drugs
+throughout the hospital.
+(b) A monthly inspection of all nursing care units or other areas of the
+hospital where medications are dispensed, administered or stored. Inspection
+reports shall be maintained for one year.
+(c) Monitoring the drug therapy.
+(d) Provisions for drug information to patients, physicians and others.
+(e) Surveillance and reporting of adverse drug reactions and drug product
+defect(s).
 
 2. 246.873.080.2 (2)
-   Additional pharmaceutical services should include:
-(a) Obtaining and recording comprehensive drug histories and participation in discharge planning in order to affect appropriate drug use.
-(b) Preparation of all sterile products (e.g., IV admixtures, piggybacks, irrigation solutions), except in emergencies.
-(c) Distribution and control of all radiopharmaceuticals.
-(d) Administration of drugs.
+   Additional pharmaceutical services should include:
+(a) Obtaining and recording comprehensive drug histories and participation in
+discharge planning in order to affect appropriate drug use.
+(b) Preparation of all sterile products (e.g., IV admixtures, piggybacks,
+irrigation solutions), except in emergencies.
+(c) Distribution and control of all radiopharmaceuticals.
+(d) Administration of drugs.
 (e) Prescribing.
 
 3. 246.873.080.3 (3)
-   The director shall be responsible for establishing specifications for procurement, distribution and the maintenance of a system of accountability for drugs, IV solutions, chemicals, and biologicals related to the practice of pharmacy.
+   The director shall be responsible for establishing specifications for
+procurement, distribution and the maintenance of a system of accountability for
+drugs, IV solutions, chemicals, and biologicals related to the practice of
+pharmacy.
 
 4. 246.873.080.4 (4)
-   The director shall establish, annually review and update when necessary comprehensive written policies and procedures governing the responsibilities and functions of the pharmaceutical service. Policies affecting patient care and treatment involving drug use shall be established by the director of pharmacy with the cooperation and input of the medical staff, nursing service and the administration.
+   The director shall establish, annually review and update when necessary
+comprehensive written policies and procedures governing the responsibilities and
+functions of the pharmaceutical service. Policies affecting patient care and
+treatment involving drug use shall be established by the director of pharmacy
+with the cooperation and input of the medical staff, nursing service and the
+administration.
 
 5. 246.873.080.5 (5)
-   Labeling:
-(a) Inpatient. All drug containers in the hospital shall be labeled clearly, legibly and adequately to show the drug's name (generic and/or trade) and strength when applicable. Accessory or cautionary statements and the expiration date shall be applied to containers as appropriate.
-(b) Outpatients. Labels on medications used for outpatients, emergency room, and discharge drug orders shall meet the requirements of RCW 18.64.246.
-(c) Parenteral and irrigation solutions. When drugs are added to intravenous solutions, a suitable label shall be affixed to the container. As a minimum the label shall indicate name and location of the patient, name and amount of drug(s) added, appropriate dating, initials of the personnel who prepared and checked the solution.
+   Labeling:
+(a) Inpatient. All drug containers in the hospital shall be labeled clearly,
+legibly and adequately to show the drug's name (generic and/or trade) and
+strength when applicable. Accessory or cautionary statements and the expiration
+date shall be applied to containers as appropriate.
+(b) Outpatients. Labels on medications used for outpatients, emergency room, and
+discharge drug orders shall meet the requirements of RCW 18.64.246.
+(c) Parenteral and irrigation solutions. When drugs are added to intravenous
+solutions, a suitable label shall be affixed to the container. As a minimum the
+label shall indicate name and location of the patient, name and amount of
+drug(s) added, appropriate dating, initials of the personnel who prepared and
+checked the solution.
 
 6. 246.873.080.6 (6)
-   Medication orders. Drugs are to be dispensed and administered only upon orders of authorized practitioners. A pharmacist shall review the original order or direct copy thereof, prior to dispensing any drug, except for emergency use or as authorized in WAC 246-873-050.
+   Medication orders. Drugs are to be dispensed and administered only upon
+orders of authorized practitioners. A pharmacist shall review the original order
+or direct copy thereof, prior to dispensing any drug, except for emergency use
+or as authorized in WAC 246-873-050.
 
 7. 246.873.080.7 (7)
-   Controlled substance accountability. The director of pharmacy shall establish effective procedures and maintain adequate records regarding use and accountability of controlled substances, and such other drugs as appropriate, in compliance with state and federal laws and regulations.
-(a) Complete, accurate, and current records shall be kept of receipt of all controlled substances and in addition, a Schedule II perpetual inventory shall be maintained.
-(b) The pharmacy shall maintain records of Schedule II drugs issued from the pharmacy to other hospital units which include:
-(i) Date
-(ii) Name of the drug
-(iii) Amount of drug issued
-(iv) Name and/or initials of the pharmacist who issued the drug
-(v) Name of the patient and/or unit to which the drug was issued.
-(c) Records shall be maintained by any unit of the hospital which utilizes Schedule II drugs indicating:
-(i) Date
-(ii) Time of administration
-(iii) Name of the drug (if not already indicated on the records
-(iv) Dosage of the drug which was used which shall include both the amount administered and any amount destroyed.
-(v) Name of the patient to whom the drug was administered
-(vi) Name of the practitioner who authorized the drug
-(vii) Signature of the licensed individual who administered the drug.
-(d) When it is necessary to destroy small amounts of controlled substances following the administration of a dose by a nurse, the destruction shall be witnessed by a second nurse who shall countersign the records of destruction.
-(e) The director of the pharmacy shall develop written procedures for the proper destruction of controlled substances not covered by (d) above conforming with federal and state statutes. A copy of the procedures shall be forwarded to the Drug Enforcement Administration (DEA) and the state board of pharmacy. As a minimum, procedures shall include the following:
-(i) All destructions shall render the drugs unrecoverable.
-(ii) Destruction shall be accomplished by the pharmacist and one other licensed health professional.
-(iii) Records of all destructions shall be maintained by the pharmacy. Quarterly summary reports shall be mailed to the DEA with copies to the state board of pharmacy.
-(iv) A copy of the destruction record shall be maintained in the pharmacy for two years.
-(f) Periodic monitoring of controlled substances records shall be performed by a nurse or a pharmacist to determine whether the drugs recorded on usage records have also been recorded on the patient's chart.
-(g) Use of multiple dose vials of controlled substances shall be discouraged.
-(h) Controlled substances, Schedule II and III, which are floor stocked, in any hospital patient or nursing service area shall be checked by actual count at the change of each shift by two authorized persons licensed to administer drugs.
-(i) All controlled substance records shall be kept for two years.
-(j) Hospitals wishing to use record systems other than that described above shall make application and receive written approval from the board of pharmacy prior to implementation.
-(k) Significant losses or disappearances of controlled substances and the facts surrounding the discrepancy shall be reported to the board of pharmacy, the drug enforcement agency, the chief executive officer of the hospital and other appropriate authorities.
+   Controlled substance accountability. The director of pharmacy shall establish
+effective procedures and maintain adequate records regarding use and
+accountability of controlled substances, and such other drugs as appropriate, in
+compliance with state and federal laws and regulations.
+(a) Complete, accurate, and current records shall be kept of receipt of all
+controlled substances and in addition, a Schedule II perpetual inventory shall
+be maintained.
+(b) The pharmacy shall maintain records of Schedule II drugs issued from the
+pharmacy to other hospital units which include:
+(i) Date
+(ii) Name of the drug
+(iii) Amount of drug issued
+(iv) Name and/or initials of the pharmacist who issued the drug
+(v) Name of the patient and/or unit to which the drug was issued.
+(c) Records shall be maintained by any unit of the hospital which utilizes
+Schedule II drugs indicating:
+(i) Date
+(ii) Time of administration
+(iii) Name of the drug (if not already indicated on the records
+(iv) Dosage of the drug which was used which shall include both the amount
+administered and any amount destroyed.
+(v) Name of the patient to whom the drug was administered
+(vi) Name of the practitioner who authorized the drug
+(vii) Signature of the licensed individual who administered the drug.
+(d) When it is necessary to destroy small amounts of controlled substances
+following the administration of a dose by a nurse, the destruction shall be
+witnessed by a second nurse who shall countersign the records of destruction.
+(e) The director of the pharmacy shall develop written procedures for the proper
+destruction of controlled substances not covered by (d) above conforming with
+federal and state statutes. A copy of the procedures shall be forwarded to the
+Drug Enforcement Administration (DEA) and the state board of pharmacy. As a
+minimum, procedures shall include the following:
+(i) All destructions shall render the drugs unrecoverable.
+(ii) Destruction shall be accomplished by the pharmacist and one other licensed
+health professional.
+(iii) Records of all destructions shall be maintained by the pharmacy. Quarterly
+summary reports shall be mailed to the DEA with copies to the state board of
+pharmacy.
+(iv) A copy of the destruction record shall be maintained in the pharmacy for
+two years.
+(f) Periodic monitoring of controlled substances records shall be performed by a
+nurse or a pharmacist to determine whether the drugs recorded on usage records
+have also been recorded on the patient's chart.
+(g) Use of multiple dose vials of controlled substances shall be discouraged.
+(h) Controlled substances, Schedule II and III, which are floor stocked, in any
+hospital patient or nursing service area shall be checked by actual count at the
+change of each shift by two authorized persons licensed to administer drugs.
+(i) All controlled substance records shall be kept for two years.
+(j) Hospitals wishing to use record systems other than that described above
+shall make application and receive written approval from the board of pharmacy
+prior to implementation.
+(k) Significant losses or disappearances of controlled substances and the facts
+surrounding the discrepancy shall be reported to the board of pharmacy, the drug
+enforcement agency, the chief executive officer of the hospital and other
+appropriate authorities.
 
 8. 246.873.080.8 (8)
-   Drug recall. The director shall develop and implement a recall procedure to assure that potential harm to patients within the hospital is prevented and that all drugs included on the recall are returned to the pharmacy for proper disposition.
+   Drug recall. The director shall develop and implement a recall procedure to
+assure that potential harm to patients within the hospital is prevented and that
+all drugs included on the recall are returned to the pharmacy for proper
+disposition.
 
 9. 246.873.080.9 (9)
-   All medications administered to inpatients shall be recorded in the patient's medical record.
+   All medications administered to inpatients shall be recorded in the patient's
+medical record.
 
 10. 246.873.080.10 (10)
-   Adverse drugs reactions. All adverse drug reactions shall be appropriately recorded in the patient's record and reported to the prescribing practitioner and to the pharmacy.
+   Adverse drugs reactions. All adverse drug reactions shall be appropriately
+recorded in the patient's record and reported to the prescribing practitioner
+and to the pharmacy.
 
 11. 246.873.080.11 (11)
-   Drug errors. All drug errors shall upon discovery be recorded in an incident report and reported to the prescribing practitioner and to the pharmacy.
+   Drug errors. All drug errors shall upon discovery be recorded in an incident
+report and reported to the prescribing practitioner and to the pharmacy.
 
 ---------- END OF DOCUMENT ----------

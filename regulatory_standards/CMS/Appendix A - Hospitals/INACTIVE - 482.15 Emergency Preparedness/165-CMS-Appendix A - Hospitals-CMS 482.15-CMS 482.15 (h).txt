@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: a9a118ad-feae-4385-8d87-c27142d1c18b
+Document ID: 1435ff73-5716-43f5-8926-e2c8f0cc1283
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -10,47 +10,63 @@ Name: CMS 482.15
 Title: INACTIVE - 482.15 Emergency Preparedness
 
 OVERVIEW:
-The hospital must comply with all applicable Federal, State, and local emergency preparedness requirements.  The hospital must develop and maintain a comprehensive emergency preparedness program that meets the requirements of this section, utlizing an all-hazards approach.  The emergency preparedness program must include, but not be limited to, the following elements
+The hospital must comply with all applicable Federal, State, and local emergency
+preparedness requirements.  The hospital must develop and maintain a
+comprehensive emergency preparedness program that meets the requirements of this
+section, utlizing an all-hazards approach.  The emergency preparedness program
+must include, but not be limited to, the following elements
 
 ---------- STANDARD ----------
 Name: CMS 482.15 (h)
 Description: Incorporated References
 
 RATIONALE:
-The standards incorporated by reference in this section are approved for incorporation by reference by the Director of the Office of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain the material from the sources listed below. You may inspect a copy at the CMS Information Resource Center, 7500 Security Boulevard, Baltimore, MD or at the National Archives and Records Administration (NARA). 
-
-For information on the availability of this material at NARA, call 202–741–6030, or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. 
-If any changes in this edition of the Code are incorporated by reference, CMS will publish a document in the Federal Register to announce the changes.
+The standards incorporated by reference in this section are approved for
+incorporation by reference by the Director of the Office of the Federal Register
+in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain the
+material from the sources listed below. You may inspect a copy at the CMS
+Information Resource Center, 7500 Security Boulevard, Baltimore, MD or at the
+National Archives and Records Administration (NARA).
+
+For information on the availability of this material at NARA, call 202–741–6030,
+or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/i
+br_locations.html.
+If any changes in this edition of the Code are incorporated by reference, CMS
+will publish a document in the Federal Register to announce the changes.
 
 ---------- ELEMENTS ----------
 1. CMS 482.15.(h).1 (1)
-   National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169, www.nfpa.org, 1.617.770.3000.
-(i) NFPA 99, Health Care Facilities Code, 2012 edition, issued August 11, 2011.
-(ii) Technical interim amendment (TIA) 12-2 to NFPA 99, issued August 11, 2011.
-(iii) TIA 12-3 to NFPA 99, issued August 9, 2012.
-(iv) TIA 12-4 to NFPA 99, issued March 7, 2013.
-(v) TIA 12-5 to NFPA 99, issued August 1, 2013.
-(vi) TIA 12-6 to NFPA 99, issued March 3, 2014.
-(vii) NFPA 101, Life Safety Code, 2012 edition, issued August 11, 2011.
-(viii) TIA 12-1 to NFPA 101, issued August 11, 2011.
-(ix) TIA 12-2 to NFPA 101, issued October 30, 2012.
-(x) TIA 12-3 to NFPA 101, issued October 22, 2013.
-(xi) TIA 12-4 to NFPA 101, issued October 22, 2013.
-(xiii) NFPA 110, Standard for Emergency and Standby Power Systems, 2010 edition, including TIAs to chapter 7, issued August 6, 2009.
+   National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169,
+www.nfpa.org, 1.617.770.3000.
+(i) NFPA 99, Health Care Facilities Code, 2012 edition, issued August 11, 2011.
+(ii) Technical interim amendment (TIA) 12-2 to NFPA 99, issued August 11, 2011.
+(iii) TIA 12-3 to NFPA 99, issued August 9, 2012.
+(iv) TIA 12-4 to NFPA 99, issued March 7, 2013.
+(v) TIA 12-5 to NFPA 99, issued August 1, 2013.
+(vi) TIA 12-6 to NFPA 99, issued March 3, 2014.
+(vii) NFPA 101, Life Safety Code, 2012 edition, issued August 11, 2011.
+(viii) TIA 12-1 to NFPA 101, issued August 11, 2011.
+(ix) TIA 12-2 to NFPA 101, issued October 30, 2012.
+(x) TIA 12-3 to NFPA 101, issued October 22, 2013.
+(xi) TIA 12-4 to NFPA 101, issued October 22, 2013.
+(xiii) NFPA 110, Standard for Emergency and Standby Power Systems, 2010 edition,
+including TIAs to chapter 7, issued August 6, 2009.
 
 2. CMS 482.15.(h).1 (1)
-   National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169, www.nfpa.org, 1.617.770.3000.
-(i) NFPA 99, Health Care Facilities Code, 2012 edition, issued August 11, 2011.
-(ii) Technical interim amendment (TIA) 12-2 to NFPA 99, issued August 11, 2011.
-(iii) TIA 12-3 to NFPA 99, issued August 9, 2012.
-(iv) TIA 12-4 to NFPA 99, issued March 7, 2013.
-(v) TIA 12-5 to NFPA 99, issued August 1, 2013.
-(vi) TIA 12-6 to NFPA 99, issued March 3, 2014.
-(vii) NFPA 101, Life Safety Code, 2012 edition, issued August 11, 2011.
-(viii) TIA 12-1 to NFPA 101, issued August 11, 2011.
-(ix) TIA 12-2 to NFPA 101, issued October 30, 2012.
-(x) TIA 12-3 to NFPA 101, issued October 22, 2013.
-(xi) TIA 12-4 to NFPA 101, issued October 22, 2013.
-(xiii) NFPA 110, Standard for Emergency and Standby Power Systems, 2010 edition, including TIAs to chapter 7, issued August 6, 2009.
+   National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02169,
+www.nfpa.org, 1.617.770.3000.
+(i) NFPA 99, Health Care Facilities Code, 2012 edition, issued August 11, 2011.
+(ii) Technical interim amendment (TIA) 12-2 to NFPA 99, issued August 11, 2011.
+(iii) TIA 12-3 to NFPA 99, issued August 9, 2012.
+(iv) TIA 12-4 to NFPA 99, issued March 7, 2013.
+(v) TIA 12-5 to NFPA 99, issued August 1, 2013.
+(vi) TIA 12-6 to NFPA 99, issued March 3, 2014.
+(vii) NFPA 101, Life Safety Code, 2012 edition, issued August 11, 2011.
+(viii) TIA 12-1 to NFPA 101, issued August 11, 2011.
+(ix) TIA 12-2 to NFPA 101, issued October 30, 2012.
+(x) TIA 12-3 to NFPA 101, issued October 22, 2013.
+(xi) TIA 12-4 to NFPA 101, issued October 22, 2013.
+(xiii) NFPA 110, Standard for Emergency and Standby Power Systems, 2010 edition,
+including TIAs to chapter 7, issued August 6, 2009.
 
 ---------- END OF DOCUMENT ----------

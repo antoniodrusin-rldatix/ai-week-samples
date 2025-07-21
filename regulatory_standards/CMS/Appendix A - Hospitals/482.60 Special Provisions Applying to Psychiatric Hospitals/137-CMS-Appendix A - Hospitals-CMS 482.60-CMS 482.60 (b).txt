@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 6239b604-984c-4adc-a3a5-6657f2d1d969
+Document ID: 6a449236-1c99-4aa1-bf27-a3fcac84f7cf
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -12,12 +12,14 @@ Title: 482.60 Special Provisions Applying to Psychiatric Hospitals
 ---------- STANDARD ----------
 Name: CMS 482.60 (b)
 Code: 482.60
-Description: Meet the Conditions of Participation specified in§§482.1 through 482.23 and §§482.25 through 482.57; 
+Description: Meet the Conditions of Participation specified in§§482.1 through
+482.23 and §§482.25 through 482.57;
 
 
 ---------- ELEMENTS ----------
 1. CMS 482.60.(b).A-1605 (A-1605)
-   §482.60(b) Meet the Conditions of Participation specified in§§482.1 through 482.23 and §§482.25 through 482.57;
+   §482.60(b) Meet the Conditions of Participation specified in§§482.1 through
+482.23 and §§482.25 through 482.57;
 
 
 ---------- END OF DOCUMENT ----------

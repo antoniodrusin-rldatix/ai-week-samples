@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 289b5dd2-ed21-4c9f-aa26-f622e0d71a65
+Document ID: 73e33e48-cf06-4e76-8a7b-a5d544988dea
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,14 +15,63 @@ Description: Wholesale distributors; restrictions on transactions
 
 ---------- ELEMENTS ----------
 1. 450.072.1 (1)
-    A wholesale distributor shall receive prescription drug returns or exchanges from a pharmacy, a person authorized to administer or dispense drugs, or a pharmacy's intracompany warehouse pursuant to the terms and conditions of the agreement between the wholesale distributor and the pharmacy or chain pharmacy warehouse. A wholesale distributor that receives returns of expired, damaged, recalled, or otherwise nonsaleable prescription drugs may distribute the prescription drugs only to the original manufacturer of the products or to a 3rd party returns processor. Notwithstanding s. 450.073, returns or exchanges of saleable or nonsaleable prescription drugs, including any redistribution by a receiving wholesaler, are not subject to pedigree requirements under s. 450.073 if the returns or exchanges are exempt from the pedigree requirement under the federal food and drug administration's current guidance on the federal prescription drug marketing act. A person licensed under s. 450.071 or a pharmacy or other person authorized to administer or dispense drugs shall ensure that the person or pharmacy's return process is secure and does not permit the entry of adulterated and counterfeit products.
+    A wholesale distributor shall receive prescription drug returns or exchanges
+from a pharmacy, a person authorized to administer or dispense drugs, or a
+pharmacy's intracompany warehouse pursuant to the terms and conditions of the
+agreement between the wholesale distributor and the pharmacy or chain pharmacy
+warehouse. A wholesale distributor that receives returns of expired, damaged,
+recalled, or otherwise nonsaleable prescription drugs may distribute the
+prescription drugs only to the original manufacturer of the products or to a 3rd
+party returns processor. Notwithstanding s. 450.073, returns or exchanges of
+saleable or nonsaleable prescription drugs, including any redistribution by a
+receiving wholesaler, are not subject to pedigree requirements under s. 450.073
+if the returns or exchanges are exempt from the pedigree requirement under the
+federal food and drug administration's current guidance on the federal
+prescription drug marketing act. A person licensed under s. 450.071 or a
+pharmacy or other person authorized to administer or dispense drugs shall ensure
+that the person or pharmacy's return process is secure and does not permit the
+entry of adulterated and counterfeit products.
 
 2. 450.072.2 (2)
-   (a) A manufacturer or wholesale distributor may not deliver prescription drugs to a person unless the person is licensed under s. 450.071 or 450.06 or by the appropriate licensing authority of another state or unless the person is a faculty member of an institution of higher education, as defined in s. 36.32 (1), and is obtaining the prescription drugs for the purpose of lawful research, teaching, or testing and not for resale. A manufacturer or wholesale distributor may not deliver prescription drugs to a person that is not known to the manufacturer or wholesale distributor unless the manufacturer or wholesale distributor has verified with the board or with the licensing authority of the state in which the person is located that the person is licensed to receive prescription drugs or unless the person is a faculty member of an institution of higher education, as defined in s. 36.32 (1), and is obtaining the prescription drugs for the purpose of lawful research, teaching, or testing and not for resale.
-(b) A manufacturer or wholesale distributor may distribute a prescription drug only to the premises listed on the person's license or authorization, except that a manufacturer or wholesale distributor may distribute the prescription drugs to an authorized agent of the person at the premises of the manufacturer or wholesale distributor if all of the following are true:
-1. The manufacturer or wholesale distributor documents the authorized agent's name and address.
-2. Distribution to an authorized agent is necessary to promote or protect the immediate health or safety of the authorized agent's patient.
-(c) A manufacturer or wholesale distributor may distribute a prescription drug to a hospital pharmacy receiving area if a licensed pharmacist or another authorized recipient signs, at the time of the distribution, a receipt that shows the type and quantity of prescription drugs distributed. If there is a discrepancy between the type and quantity of prescription drugs indicated on the receipt and the type and quantity of prescription drugs received at the hospital pharmacy receiving area, the discrepancy shall be reported to the manufacturer or wholesale distributor that distributed the prescription drugs no later than the day immediately following the date on which the prescription drugs were distributed to the hospital pharmacy receiving area.
-(d) No manufacturer or wholesale distributor may accept payment for, or allow the use of, a person's credit to establish an account for the purchase of a prescription drug from any person other than the owner of record, the chief executive officer, or the chief financial officer identified on the license or authorization of a person who may receive prescription drugs. Any account established for the purchase of prescription drugs shall bear the name of the licensed or authorized person.
+   (a) A manufacturer or wholesale distributor may not deliver prescription
+drugs to a person unless the person is licensed under s. 450.071 or 450.06 or by
+the appropriate licensing authority of another state or unless the person is a
+faculty member of an institution of higher education, as defined in s. 36.32
+(1), and is obtaining the prescription drugs for the purpose of lawful research,
+teaching, or testing and not for resale. A manufacturer or wholesale distributor
+may not deliver prescription drugs to a person that is not known to the
+manufacturer or wholesale distributor unless the manufacturer or wholesale
+distributor has verified with the board or with the licensing authority of the
+state in which the person is located that the person is licensed to receive
+prescription drugs or unless the person is a faculty member of an institution of
+higher education, as defined in s. 36.32 (1), and is obtaining the prescription
+drugs for the purpose of lawful research, teaching, or testing and not for
+resale.
+(b) A manufacturer or wholesale distributor may distribute a prescription drug
+only to the premises listed on the person's license or authorization, except
+that a manufacturer or wholesale distributor may distribute the prescription
+drugs to an authorized agent of the person at the premises of the manufacturer
+or wholesale distributor if all of the following are true:
+1. The manufacturer or wholesale distributor documents the authorized agent's
+name and address.
+2. Distribution to an authorized agent is necessary to promote or protect the
+immediate health or safety of the authorized agent's patient.
+(c) A manufacturer or wholesale distributor may distribute a prescription drug
+to a hospital pharmacy receiving area if a licensed pharmacist or another
+authorized recipient signs, at the time of the distribution, a receipt that
+shows the type and quantity of prescription drugs distributed. If there is a
+discrepancy between the type and quantity of prescription drugs indicated on the
+receipt and the type and quantity of prescription drugs received at the hospital
+pharmacy receiving area, the discrepancy shall be reported to the manufacturer
+or wholesale distributor that distributed the prescription drugs no later than
+the day immediately following the date on which the prescription drugs were
+distributed to the hospital pharmacy receiving area.
+(d) No manufacturer or wholesale distributor may accept payment for, or allow
+the use of, a person's credit to establish an account for the purchase of a
+prescription drug from any person other than the owner of record, the chief
+executive officer, or the chief financial officer identified on the license or
+authorization of a person who may receive prescription drugs. Any account
+established for the purchase of prescription drugs shall bear the name of the
+licensed or authorized person.
 
 ---------- END OF DOCUMENT ----------

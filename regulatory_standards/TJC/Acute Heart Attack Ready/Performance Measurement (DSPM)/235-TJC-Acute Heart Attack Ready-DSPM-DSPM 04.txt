@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 952fb67c-2cdd-46aa-b5e1-acf8a372cc0f
+Document ID: 16b80e1f-101c-44cd-be42-c9255c5f5e88
 
 ---------- REGULATION ----------
 Name: Acute Heart Attack Ready
@@ -10,20 +10,31 @@ Name: DSPM
 Title: Performance Measurement (DSPM)
 
 OVERVIEW:
-Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+Performance improvement (PI) activities should help identify and evaluate
+changes that the program must make to enhance performance. Performance
+improvement is a continuous process and is dependent on measuring the function
+of important processes and services, as well as the final outcomes of the care
+rendered. The standards in this chapter focus on the following: - Having an
+organized, comprehensive approach to PI - Developing a performance improvement
+plan - Trending and comparing data to evaluate processes and outcomes - Using
+information garnered from measurement data to improve or validate clinical
+practice - Using patient-specific, care-related data - Evaluating the patient's
+perception of the quality of care - Maintaining data quality and integrity
 
 ---------- STANDARD ----------
 Name: DSPM 04
-Description: The program collects and analyzes data to determine variance from the clinical practice guidelines. 
+Description: The program collects and analyzes data to determine variance from
+the clinical practice guidelines.
 
 ---------- ELEMENTS ----------
 1. DSPM.04 EP03 (EP 03)
-   The program uses data analysis to modify performance improvement activities in support of clinical practice guidelines. 
+   The program uses data analysis to modify performance improvement activities
+in support of clinical practice guidelines.
 
 2. DSPM.04 EP01 (EP 01)
-   The program tracks data variances at the patient level. 
+   The program tracks data variances at the patient level.
 
 3. DSPM.04 EP02 (EP 02)
-   The program evaluates variances that affect program performance and outcomes. 
+   The program evaluates variances that affect program performance and outcomes.
 
 ---------- END OF DOCUMENT ----------

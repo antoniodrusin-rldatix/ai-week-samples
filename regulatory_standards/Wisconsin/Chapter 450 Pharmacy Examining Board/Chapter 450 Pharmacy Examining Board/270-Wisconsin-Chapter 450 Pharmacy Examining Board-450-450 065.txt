@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 5e14c195-e413-4e1c-98e3-a8a72f5f64ed
+Document ID: 2eb6d717-87c5-49ee-9231-3f21acc21e30
 
 ---------- REGULATION ----------
 Name: Chapter 450 Pharmacy Examining Board
@@ -15,26 +15,45 @@ Description: Out-of-state pharmacies; licensure
 
 ---------- ELEMENTS ----------
 1. 450.065.1 (1)
-   No pharmacy that is in another state may ship, mail, or otherwise deliver a prescribed drug or device to persons in this state unless the pharmacy is licensed under sub. (2).
+   No pharmacy that is in another state may ship, mail, or otherwise deliver a
+prescribed drug or device to persons in this state unless the pharmacy is
+licensed under sub. (2).
 
 2. 450.065.2 (2)
-   The board shall issue a license to a pharmacy that is located outside this state if the pharmacy does all of the following:
-(a) Applies on a form provided by the board that shows all of the following:
-1. The location of the pharmacy.
-2. The name and address of the person holding title and ownership control of the location.
-3. The name of the managing pharmacist of the pharmacy.
-(b) Submits a statement in a form prescribed by the board from the owner of the pharmacy or, if the pharmacy is not a sole proprietorship, from the managing pharmacist of the pharmacy that indicates that the owner or managing pharmacist, whichever is applicable, knows the laws relating to the practice of pharmacy in this state.
-(c) Submits evidence satisfactory to the board that it is licensed in the state in which it is located.
-(d) Pays the initial credential fee determined by the department under s. 440.03 (9) (a).
+   The board shall issue a license to a pharmacy that is located outside this
+state if the pharmacy does all of the following:
+(a) Applies on a form provided by the board that shows all of the following:
+1. The location of the pharmacy.
+2. The name and address of the person holding title and ownership control of the
+location.
+3. The name of the managing pharmacist of the pharmacy.
+(b) Submits a statement in a form prescribed by the board from the owner of the
+pharmacy or, if the pharmacy is not a sole proprietorship, from the managing
+pharmacist of the pharmacy that indicates that the owner or managing pharmacist,
+whichever is applicable, knows the laws relating to the practice of pharmacy in
+this state.
+(c) Submits evidence satisfactory to the board that it is licensed in the state
+in which it is located.
+(d) Pays the initial credential fee determined by the department under s. 440.03
+(9) (a).
 
 3. 450.065.3 (3)
-   A pharmacy that applies for a license under sub. (2) may not be required to comply with any provision in this chapter or any rule promulgated under this chapter relating to the professional service area of a pharmacy or the minimum equipment requirements for a pharmacy.
+   A pharmacy that applies for a license under sub. (2) may not be required to
+comply with any provision in this chapter or any rule promulgated under this
+chapter relating to the professional service area of a pharmacy or the minimum
+equipment requirements for a pharmacy.
 
 4. 450.065.4 (4)
-   (a) Notwithstanding s. 450.03, a pharmacist employed in a pharmacy licensed under this section is not required to be licensed under this chapter.
-(b) Notwithstanding s. 450.09, a pharmacy licensed under this section is not required to be under the control of a managing pharmacist licensed under this chapter.
+   (a) Notwithstanding s. 450.03, a pharmacist employed in a pharmacy licensed
+under this section is not required to be licensed under this chapter.
+(b) Notwithstanding s. 450.09, a pharmacy licensed under this section is not
+required to be under the control of a managing pharmacist licensed under this
+chapter.
 
 5. 450.065.5 (5)
-   A pharmacy licensed under this section shall provide a telephone number that allows a person in this state to contact the pharmacy during the pharmacy's regular hours of business and that is available for use by a person in this state for not less than 40 hours per week.
+   A pharmacy licensed under this section shall provide a telephone number that
+allows a person in this state to contact the pharmacy during the pharmacy's
+regular hours of business and that is available for use by a person in this
+state for not less than 40 hours per week.
 
 ---------- END OF DOCUMENT ----------

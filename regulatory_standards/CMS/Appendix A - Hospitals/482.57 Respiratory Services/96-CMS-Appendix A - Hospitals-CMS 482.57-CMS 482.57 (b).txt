@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: bf8f2e05-818e-440b-a363-7cbb30b28b83
+Document ID: 13a87638-78a7-4d8d-b905-53550825e809
 
 ---------- REGULATION ----------
 Name: Appendix A - Hospitals
@@ -16,21 +16,30 @@ Description: Delivery of Services
 
 ---------- ELEMENTS ----------
 1. CMS 482.57.(b).A-1161 (A-1161)
-   §482.57(b)(1) - Personnel qualified to perform specific procedures and the amount of supervision required for personnel to carry out specific procedures must be designated in writing. 
+   §482.57(b)(1) - Personnel qualified to perform specific procedures and the
+amount of supervision required for personnel to carry out specific procedures
+must be designated in writing.
 
 
 2. CMS 482.57.(b).A-1163 (A-1163)
-   §482.57(b)(3) - Services must only be provided under the orders of a qualified and licensed practitioner who is responsible for the care of the patient, acting within his or her scope of practice under State law, and who is authorized by the hospital’s medical staff to order the services in accordance with hospital policies and procedures and State laws. 
+   §482.57(b)(3) - Services must only be provided under the orders of a
+qualified and licensed practitioner who is responsible for the care of the
+patient, acting within his or her scope of practice under State law, and who is
+authorized by the hospital’s medical staff to order the services in accordance
+with hospital policies and procedures and State laws.
 
 3. CMS 482.57.(b).A-1162 (A-1162)
-   §482.57(b)(2) - If blood gases or other clinical laboratory tests are performed in the respiratory care unit, the unit must meet the applicable requirements for laboratory services specified in §482.27. 
+   §482.57(b)(2) - If blood gases or other clinical laboratory tests are
+performed in the respiratory care unit, the unit must meet the applicable
+requirements for laboratory services specified in §482.27.
 
 
 4. CMS 482.57.(b).A-1164  (A-1164 )
-   §482.57(b)(4)- All respiratory care services orders must be documented in the patient’s medical record in accordance with the requirements at §482.24. 
+   §482.57(b)(4)- All respiratory care services orders must be documented in the
+patient’s medical record in accordance with the requirements at §482.24.
 
 5. CMS 482.57.(b).A-1160 (A-1160)
-   §482.57(b) Standard:  Delivery of Services 
- Services must be delivered in accordance with medical staff directives. 
+   §482.57(b) Standard:  Delivery of Services
+ Services must be delivered in accordance with medical staff directives.
 
 ---------- END OF DOCUMENT ----------

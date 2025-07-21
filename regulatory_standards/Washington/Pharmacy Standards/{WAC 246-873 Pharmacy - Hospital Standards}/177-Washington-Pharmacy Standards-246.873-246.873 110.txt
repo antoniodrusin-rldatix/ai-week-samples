@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 6869392f-d8d4-4cec-8130-3e42843055ee
+Document ID: b3094c6e-a32b-4b05-bf4d-f3836022403a
 
 ---------- REGULATION ----------
 Name: Pharmacy Standards
@@ -15,12 +15,19 @@ Description: Additional responsibilities of pharmacy service
 
 ---------- ELEMENTS ----------
 1. 246.873.110.1 (1)
-   General. The pharmacy service shall participate in other activities and committees within the hospital affecting pharmaceutical services, drugs and drug use.
+   General. The pharmacy service shall participate in other activities and
+committees within the hospital affecting pharmaceutical services, drugs and drug
+use.
 
 2. 246.873.110.2 (2)
-   Quality assurance. The pharmaceutical service shall establish a pharmacy quality assurance program.
+   Quality assurance. The pharmaceutical service shall establish a pharmacy
+quality assurance program.
 
 3. 246.873.110.3 (3)
-   Clinical activities. The director of pharmacy should develop clinically oriented programs, including but not limited to obtaining and recording comprehensive drug histories and participation in discharge planning to affect appropriate drug use, a formal drug information service, prescribing, and administration of drugs.
+   Clinical activities. The director of pharmacy should develop clinically
+oriented programs, including but not limited to obtaining and recording
+comprehensive drug histories and participation in discharge planning to affect
+appropriate drug use, a formal drug information service, prescribing, and
+administration of drugs.
 
 ---------- END OF DOCUMENT ----------

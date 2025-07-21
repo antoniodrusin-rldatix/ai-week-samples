@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 9aff7544-e777-4f36-9d98-0cfe48d5086a
+Document ID: 839b680d-ca27-4b3a-a30a-ee0464dd9e0d
 
 ---------- REGULATION ----------
 Name: Test
@@ -15,6 +15,6 @@ Description: Standard 01
 
 ---------- ELEMENTS ----------
 1. chapter.01.Element 01 (Element 01)
-   
+
 
 ---------- END OF DOCUMENT ----------

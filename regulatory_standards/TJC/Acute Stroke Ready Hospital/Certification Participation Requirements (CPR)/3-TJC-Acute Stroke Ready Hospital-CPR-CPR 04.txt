@@ -1,5 +1,5 @@
 REGULATORY STANDARD DOCUMENT
-Document ID: 96de1732-57b2-4fa5-b2ef-76c461a272de
+Document ID: 9493cb97-ee7b-4693-be81-7de0ece2f2ad
 
 ---------- REGULATION ----------
 Name: Acute Stroke Ready Hospital
@@ -10,29 +10,60 @@ Name: CPR
 Title: Certification Participation Requirements (CPR)
 
 OVERVIEW:
-This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+This chapter includes specific certification participation requirements (CPRs)
+that apply to the certification process and are required to maintain a
+certification award. These differ from review eligibility criteria in that the
+certification process may be initiated even when all CPRs have not yet been met.
+For an organization seeking certification for the first time, compliance with
+the CPRs is assessed during the initial review. For the certified program,
+compliance with these requirements is assessed throughout the certification
+cycle through on-site reviews, Evidence of Standards Compliance (ESC), and
+periodic updates of organization-specific data and information. Organizations
+are either compliant or not compliant with CPRs. When an organization does not
+comply with a CPR, the organization generally will be assigned a Requirement for
+Improvement (RFI) similar to noncompliance with a standard. However, refusal to
+permit performance of an unscheduled or unannounced for-cause review (CPR 3) or
+falsification of information (CPR 7) will immediately lead to a decision of Not
+Certified. Any RFI can potentially impact the certification decision and follow-
+up requirements, as determined by established certification decision rules
+listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure
+to resolve an RFI has the potential to lead to loss of certification.
 
 ---------- STANDARD ----------
 Name: CPR 04
-Description: The organization uses performance measures relevant to the services provided and populations served.
+Description: The organization uses performance measures relevant to the services
+provided and populations served.
 
 ---------- ELEMENTS ----------
 1. CPR.04 EP02 (EP 02)
-   For Stage I programs: A minimum of 2 of the 4 identified performance measures must be clinical in nature.
+   For Stage I programs: A minimum of 2 of the 4 identified performance measures
+must be clinical in nature.
 
 2. CPR.04 EP03 (EP 03)
-   For Stage I programs: Organizations seeking disease-specific care certification are required to have collected performance measure data for a minimum of 4 months prior to the initial on-site certification review.
+   For Stage I programs: Organizations seeking disease-specific care
+certification are required to have collected performance measure data for a
+minimum of 4 months prior to the initial on-site certification review.
 
 3. CPR.04 EP04 (EP 04)
-   For Stage I programs: The organization collects performance measure data; analyzes the data internally; and generates run charts, control charts, or other appropriate applicable performance improvement tools, showing monthly data points, for use in performance improvement activities.
+   For Stage I programs: The organization collects performance measure data;
+analyzes the data internally; and generates run charts, control charts, or other
+appropriate applicable performance improvement tools, showing monthly data
+points, for use in performance improvement activities.
 
 4. CPR.04 EP06 (EP 06)
-   For Stage II programs: The organization collects standardized performance measure data monthly; analyzes the data internally; and generates run charts, control charts, or other appropriate applicable performance improvement tools, showing monthly data points, for use in performance improvement activities.
+   For Stage II programs: The organization collects standardized performance
+measure data monthly; analyzes the data internally; and generates run charts,
+control charts, or other appropriate applicable performance improvement tools,
+showing monthly data points, for use in performance improvement activities.
 
 5. CPR.04 EP05 (EP 05)
-   For Stage II programs: Organizations seeking disease-specific care certification are required to have collected data on standardized performance measures for a minimum of 4 months prior to the initial on-site certification review.
+   For Stage II programs: Organizations seeking disease-specific care
+certification are required to have collected data on standardized performance
+measures for a minimum of 4 months prior to the initial on-site certification
+review.
 
 6. CPR.04 EP01 (EP 01)
-   For Stage I programs: A minimum of 4 performance measures must be identified by the disease-specific care program.
+   For Stage I programs: A minimum of 4 performance measures must be identified
+by the disease-specific care program.
 
 ---------- END OF DOCUMENT ----------
