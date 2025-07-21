@@ -1,0 +1,36 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 9590ef37-8509-4413-a9a3-87eaf1a17111
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSDF
+Title: Delivering or Facilitating Clinical Care (DSDF)
+
+OVERVIEW:
+Delivering, facilitating, or improving the delivery of high-quality clinical care is at the heart of disease management. Patients with a chronic disease count on practitioners to provide the best care possible. Of course, delivering or facilitating high-quality care means that practitioners are constantly striving to improve. Therefore, the standards in this chapter focus on the following: - Using qualified, competent practitioners - Delivering or facilitating the delivery of care using evidence-based clinical practice guidelines (CPGs) - Individualizing care to meet patients’ needs - Managing comorbidities and concurrently occurring conditions - Initiating discharge planning and facilitating subsequent care, treatment, and services These activities require an interdisciplinary approach. Each practitioner’s role and responsibilities are determined by his or her professional skills, competence, and credentials; the care provided; and the program’s policies. Note: Clinical practice guidelines (CPGs) are found in the literature under many names—practice parameters, practice guidelines, patient care protocols, standards of practice, clinical pathways, care maps, and so forth. In all cases, CPGs should be evidence based and effective for the targeted patient populations.
+
+---------- STANDARD ----------
+Name: DSDF 03.01.01
+Description: The disease-specific care program facilitates and coordinates discharge planning and addresses gaps in continuing care, treatment, and services after discharge.
+
+RATIONALE:
+Specific patient populations may require robust and meticulous discharge planning. Patients with multiple chronic illnesses are more likely to be hospitalized, and coordinating their care after discharge can be challenging. Discharge planning uses an interdisciplinary approach to provide additional support when patients experience changes in their health status caused by a new medical condition or worsening of a chronic medical condition complicated by other comorbid diseases.
+
+---------- ELEMENTS ----------
+1. DSDF.03.01.01 EP1 (EP 1)
+   The disease-specific care program develops and implements a process to identify any needs the patient may have after discharge or transfer for psychosocial or physical care, treatment, and services.
+
+2. DSDF.03.01.01 EP2 (EP 2)
+   Prior to discharge, the disease-specific care program arranges or assists in arranging the services required for the patient after discharge to meet the patient’s ongoing needs for care, treatment, and services. This is documented.
+
+3. DSDF.03.01.01 EP3 (EP 3)
+   At the time of discharge, the disease-specific care program provides individuals who are assuming responsibility for the patient’s care with a summary of the care, treatment, and services the program provided to the patient.
+
+4. DSDF.03.01.01 EP4 (EP 4)
+   At the time of discharge, the disease-specific care program provides the patient with an individualized discharge plan of care, including referrals and follow-up appointment(s), based on the patient’s disease-specific care needs.
+Note: Discharge information is consistent with the patient’s health literacy needs, reading and writing skills, comprehension, and measuring or counting skills. (See also DSSE.03.01.01, EP 3)
+
+---------- END OF DOCUMENT ----------

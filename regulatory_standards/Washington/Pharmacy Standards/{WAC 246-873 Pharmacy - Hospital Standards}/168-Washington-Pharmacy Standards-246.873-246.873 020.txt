@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 5c3e86d9-0d7a-40cf-a002-1da33edf9916
+
+---------- REGULATION ----------
+Name: Pharmacy Standards
+Regulatory Entity: Washington
+
+---------- CHAPTER ----------
+Name: 246.873
+Title: {WAC 246-873 Pharmacy - Hospital Standards}
+
+---------- STANDARD ----------
+Name: 246.873 020
+Description: Applicability
+
+---------- ELEMENTS ----------
+1. 246.873.020.1 (1)
+   The following rules and regulations are applicable to all facilities licensed pursuant to chapters 70.41 and 71.12 RCW or designated pursuant to RCW 72.23.020.
+
+---------- END OF DOCUMENT ----------

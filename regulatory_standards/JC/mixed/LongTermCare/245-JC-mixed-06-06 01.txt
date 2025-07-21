@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: a160bd34-bf09-4150-bed2-1231122a105a
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 06
+Title: LongTermCare
+
+---------- STANDARD ----------
+Name: 06 01
+Description: Long term
+
+---------- ELEMENTS ----------
+1. 06.01.01 (01)
+   long term
+
+---------- END OF DOCUMENT ----------

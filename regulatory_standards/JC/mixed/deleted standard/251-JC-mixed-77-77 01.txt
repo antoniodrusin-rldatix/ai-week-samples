@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 1b151fff-2feb-49fb-bbc7-6335189d5fd2
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 77
+Title: deleted standard
+
+---------- STANDARD ----------
+Name: 77 01
+Description: deleted standard
+
+---------- ELEMENTS ----------
+1. 77.01.01 (01)
+   deleted standard
+
+---------- END OF DOCUMENT ----------

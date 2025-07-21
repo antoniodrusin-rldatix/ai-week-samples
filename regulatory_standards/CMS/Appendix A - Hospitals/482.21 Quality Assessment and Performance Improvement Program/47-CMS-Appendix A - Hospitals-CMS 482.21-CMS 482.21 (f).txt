@@ -1,0 +1,32 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: bb72be0f-ea60-4641-9c6a-378ed4cbe949
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.21
+Title: 482.21 Quality Assessment and Performance Improvement Program
+
+OVERVIEW:
+A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing Adequate Resources
+
+ABOUT:
+The hospital must develop, implement, and maintain an effective, ongoing, hospital wide, data-driven quality assessment and performance improvement program.  The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services;  involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
+
+---------- STANDARD ----------
+Name: CMS 482.21 (f)
+Description: Unified and integrated QAPI program for multi-hospital systems.
+
+---------- ELEMENTS ----------
+1. CMS 482.21.(f).A-0320 (A-0320)
+   §482.21(f) Standard: Unified and integrated QAPI program for multi-hospital systems. If a hospital is part of a hospital system consisting of multiple separately certified hospitals using a system governing body that is legally responsible for the conduct of two or more hospitals, the system governing body can elect to have a unified and integrated QAPI program for all of its member hospitals after determining that such a decision is in accordance with all applicable State and local laws.  The system governing body is responsible and accountable for ensuring that each of its separately certified hospitals meets all of the requirements of this section.  Each separately certified hospital subject to the system governing body must demonstrate that:
+
+2. CMS 482.21.(f).A-0321 (A-0321)
+   §482.21(f)(1) The unified and integrated QAPI program is established in a manner that takes into account each member hospital's unique circumstances and any significant differences in patient populations and services offered in each hospital; and 
+
+3. CMS 482.21.(f).A-0322  (A-0322 )
+   §482.21(f)(2)  The unified and integrated QAPI program establishes and implements policies and procedures to ensure that the needs and concerns of each of its separately certified hospitals, regardless of practice or location, are given due consideration, and that the unified and integrated QAPI program has mechanisms in place to ensure that issues localized to particular hospitals are duly considered and addressed. 
+
+---------- END OF DOCUMENT ----------

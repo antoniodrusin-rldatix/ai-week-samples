@@ -1,0 +1,23 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: e9e73737-de45-4c75-b7ef-3cb29a5bab16
+
+---------- REGULATION ----------
+Name: Hospital
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Hospital
+
+---------- ELEMENTS ----------
+1. 01.01.HOSP (HOSP)
+   Hospital
+
+2. 01.01.HOSP (HOSP)
+   Hospital
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 93c57782-6c3d-449e-bcf8-404e0713bdd1
+
+---------- REGULATION ----------
+Name: LongTerm
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Long Term
+
+---------- ELEMENTS ----------
+1. 01.01.LONG (LONG)
+   Long Term
+
+---------- END OF DOCUMENT ----------

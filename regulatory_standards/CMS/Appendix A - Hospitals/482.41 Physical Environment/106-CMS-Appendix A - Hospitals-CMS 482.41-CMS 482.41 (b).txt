@@ -1,0 +1,105 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 011ce01f-b461-468a-b6b8-6afb547670d9
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.41
+Title: 482.41 Physical Environment
+
+OVERVIEW:
+The hospital must be constructed, arranged, and maintained to ensure the safety of the patient, and to provide facilities for diagnosis and treatment and for special hospital services appropriate to the needs of the community.
+
+ABOUT:
+Interpretive Guidelines §482.41 This CoP applies to all locations of the hospital, all campuses, all satellites, all providerbased activities, and all inpatient and outpatient locations. The hospital’s Facility Maintenance and hospital departments or services responsible for the hospital’s buildings and equipment (both facility equipment and patient care equipment) must be incorporated into the hospital’s QAPI program and be in compliance with the QAPI requirements. Survey Procedures §482.41 Survey of the Physical Environment CoP should be conducted by one surveyor.  However, each surveyor as he/she conducts his/her survey assignments should assess the hospital’s compliance with the Physical Environment CoP.  The Life Safety Code survey may be conducted separately by a specialty surveyor.
+
+---------- STANDARD ----------
+Name: CMS 482.41 (b)
+Code: 482.41
+Description: Life Safety from Fire
+
+RATIONALE:
+A-0709
+
+---------- ELEMENTS ----------
+1. CMS 482.41.(b).A-0711 (A-0711)
+   §482.41(b)(4) - Beginning March 13, 2006, a hospital must be in compliance with Chapter 19.2.9, Emergency Lighting. 
+
+
+2. CMS 482.41.(b).2 (2)
+   (A-0710) After consideration of State survey agency findings, CMS may waive specific provisions of the Life Safety Code which, if rigidly applied, would result in unreasonable hardship upon the facility, but only if the waiver does not adversely affect the health and safety of the patients. 
+
+3. CMS 482.41.(b).A-0712 (A-0712)
+   §482.41(b)(5) - Beginning March 13, 2006, Chapter 19.3.6.3.2, exception number 2 does not apply to hospitals. 
+
+4. CMS 482.41.(b).3 (3)
+   (A-0710) The provisions of the Life Safety Code do not apply in a State where CMS finds that a fire and safety code imposed by State law adequately protects patients in hospitals.
+
+
+5. CMS 482.41.(b).9 (9)
+   Buildings must have an outside window or outside door in every sleeping room, and for any building constructed after July 5, 2016 the sill height must not exceed 36 inches above the floor. Windows in atrium walls are considered outside windows for the purposes of this requirement.
+(i) The sill height requirement does not apply to newborn nurseries and rooms intended for occupancy for less than 24 hours.
+(ii) The sill height in special nursing care areas of new occupancies must not exceed 60 inches.
+
+6. CMS 482.41.(b).8 (8)
+   When a sprinkler system is shut down for more than 10 hours, the hospital must:
+(i) Evacuate the building or portion of the building affected by the system outage until the system is back in service, or
+(ii) Establish a fire watch until the system is back in service.
+
+7. CMS 482.41.(b).4 (4)
+   (A-0711) Beginning March 13, 2006, a hospital must be in compliance with Chapter 19.2.9, Emergency Lighting.
+
+8. CMS 482.41.(b).5 (5)
+   (A-0712) Beginning March 13, 2006, Chapter 19.3.6.3.2, exception number 2 does not apply to hospitals. 
+
+9. CMS 482.41.(b).4 (4)
+   Beginning March 13, 2006, a hospital must be in compliance with Chapter 19.2.9, Emergency Lighting.
+
+10. CMS 482.41.(b).A-0709 (A-0709)
+   §482.41(b) Standard:  Life Safety from Fire 
+ The hospital must ensure that the life safety from fire requirements are met. 
+
+11. CMS 482.41.(b).A-0710 (A-0710)
+   §482.41(b) 
+ (1)  Except as otherwise provided in this section— 
+ (i)  The hospital must meet the applicable provisions and must proceed in accordance with the Life Safety Code (NFPA 101 and Tentative Interim Amendments TIA 12–1, TIA 12–2, TIA 12–3, and TIA 12–4.) Outpatient surgical departments must meet the provisions applicable to Ambulatory Health Care Occupancies, regardless of the number of patients served.  
+ 
+(ii)  Notwithstanding paragraph (b)(1)(i) of this section, corridor doors and doors to rooms containing flammable or combustible materials must be provided with positive latching hardware. Roller latches are prohibited on such doors. 
+ (2)  In consideration of a recommendation by the State survey agency or Accrediting Organization or at the discretion of the Secretary, may waive, for periods deemed appropriate, specific provisions of the Life Safety Code, which would result in unreasonable hardship upon a hospital, but only if the waiver will not adversely affect the health and safety of the patients. 
+ (3)  The provisions of the Life Safety Code do not apply in a State where CMS finds that a fire and safety code imposed by State law adequately protects patients in hospitals. 
+
+12. CMS 482.41.(b).A-0713 (A-0713)
+   §482.41(b)(4) - The hospital must have procedures for the proper routine storage and prompt disposal of trash. 
+
+
+13. CMS 482.41.(b).A-0714 (A-0714)
+   §482.41(b)(5) - The hospital must have written fire control plans that contain 
+provisions for prompt reporting of fires; extinguishing fires; protection of patients, personnel and guests; evacuation; and cooperation with fire fighting authorities. 
+
+14. CMS 482.41.(b).A-0715 (A-0715)
+   §482.41(b)(6) - The hospital must maintain written evidence of regular inspection and approval by State or local fire control agencies. 
+
+15. CMS 482.41.(b).A-0716 (A-0716)
+   §482.41(b)(9) Notwithstanding any provisions of the 2000 edition of the Life Safety Code to the contrary, a hospital may install alcohol-based hand rub dispensers in its facility if— (i) Use of alcohol-based hand rub dispensers does not conflict with any State or local codes that prohibit or otherwise restrict the placement of alcohol-based hand rub dispensers in health care facilities; (ii) The dispensers are installed in a manner that minimizes leaks and spills that could lead to falls; (iii) The dispensers are installed in a manner that adequately protects against inappropriate access; and (iv)  The dispensers are installed in accordance with Chapter 18.3.2.7 or Chapter 19.3.2.7 of the 2000 edition of the Life Safety Code, as amended by NFPA Temporary Interim Amendment 00–1(101), issued by the Standards 
+Council of the National Fire Protection Association on April 15, 2004. The Director of the Office of the Federal Register has approved NFPA Temporary Interim Amendment 00–1(101) for incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. A copy of the amendment is available for inspection at the CMS Information Resource Center, 7500 Security Boulevard, Baltimore, MD and at the Office of the Federal Register, 800 North Capitol Street NW., Suite 700, Washington, DC. Copies may be obtained from the National Fire Protection Association, 1 Batterymarch Park, Quincy, MA 02269.  (v)  The dispensers are maintained in accordance with dispenser manufacturer guidelines. 
+
+16. CMS 482.41.(b).A-0716  (A-0716 )
+   §482.41(b)(7) - A hospital may install alcohol-based hand rub dispensers in its facility if the dispensers are installed in a manner that adequately protects against inappropriate access. 
+
+17. CMS 482.41.(b).A-0717 (A-0717)
+   §482.41(b)(8) When a sprinkler system is shut down for more than 10 hours, the hospital must: 
+ 
+(i) Evacuate the building or portion of the building affected by the system outage until the system is back in service, or 
+ 
+(ii) Establish a fire watch until the system is back in service. 
+
+18. CMS 482.41.(b).A-0718  (A-0718 )
+   §482.41(b)(9) Buildings must have an outside window or outside door in every sleeping room, and for any building constructed after July 5, 2016 the sill height must not exceed 36 inches above the floor. Windows in atrium walls are considered outside windows for the purposes of this requirement.  
+ 
+(i) The sill height requirement does not apply to newborn nurseries and rooms intended for occupancy for less than 24 hours. 
+ 
+(ii) The sill height in special nursing care areas of new occupancies must not exceed 60 inches. 
+
+---------- END OF DOCUMENT ----------

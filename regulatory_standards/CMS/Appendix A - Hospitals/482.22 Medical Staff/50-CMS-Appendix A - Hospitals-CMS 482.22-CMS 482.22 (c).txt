@@ -1,0 +1,110 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: c27739d8-f375-4b22-8100-ce5a286aff7c
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.22
+Title: 482.22 Medical Staff
+
+OVERVIEW:
+The hospital must have an organized medical staff that operates under bylaws approved by the governing body, and which is responsible for the quality of medical care provided to patients by the hospital.
+
+ABOUT:
+Interpretive Guidelines §482.22 The hospital must have one medical staff for the entire hospital (including all campuses, provider-based locations, satellites, remote locations, etc.).  For example, a multi-campus hospital may not have a separately organized medical staff for each campus.  On the other hand, in the case of a hospital system, it is permissible for the system to have a unified and integrated medical staff (hereafter referred to as a “unified medical staff”) for multiple, separately certified hospitals.  The medical staff must be organized and integrated as one body that operates under one set of bylaws approved by the governing body.  These medical staff bylaws must apply equally to all practitioners within each category of practitioners at all locations of the hospital and to the care provided at all locations of the hospital.  The medical staff is responsible for the quality of medical care provided to patients by the hospital. Survey Procedures §482.22 Surveyors assess the manner and degree of noncompliance with the standards within this condition to determine whether there is condition-level noncompliance.
+
+---------- STANDARD ----------
+Name: CMS 482.22 (c)
+Code: 482.22
+Description: Medical Staff Bylaws
+
+---------- ELEMENTS ----------
+1. CMS 482.22.(c).0 (0)
+   Describe the organization of the medical staff.
+
+2. CMS 482.22.(c).0 (0)
+   Include criteria for determining the privileges to be granted to individual practitioners and a procedure for applying the criteria to individuals requesting privileges.
+
+3. CMS 482.22.(c).A-0354 (A-0354)
+   [The bylaws must:] 
+ 
+§482.22(c)(1) - Be approved by the governing body. 
+
+4. CMS 482.22.(c).0 (0)
+   The bylaws must be include a statement of the duties and privileges of each category of medical staff (e.g., active, courtesy, etc.)
+
+5. CMS 482.22.(c).0 (0)
+   Include a requirement that a physical examination and medical history be done no more than 7 days before or 48 hours after an admission for each patient by a doctor of medicine or osteopathy, or for patients admitted only for oromaxillofacial surgery, by an oromaxillofacial surgeon who has been granted such privileges by the medical staff in accordance with State law.
+
+6. CMS 482.22.(c).0 (0)
+   The medical staff must adopt and enforce bylaws to carry out its responsibilities.
+
+7. CMS 482.22.(c).0 (0)
+   Describe the qualifications to be met by a candidate in order for the medical staff to recommend that the candidate be appointed by the governing body.
+
+8. CMS 482.22.(c).A-0355 (A-0355)
+   [The bylaws must:] 
+ 
+§482.22(c)(2) - Include a statement of the duties and privileges of each category of medical staff (e.g., active, courtesy, etc.) 
+
+
+9. CMS 482.22.(c).1 (1)
+   The bylaws must Be approved by the governing body.
+
+
+10. CMS 482.22.(c).A-0357 (A-0357)
+   [The bylaws must:] 
+ 
+§482.22(c)(4) - Describe the qualifications to be met by a candidate in order for the medical staff to recommend that the candidate be appointed by the governing body. 
+
+
+11. CMS 482.22.(c).A-0356 (A-0356)
+   [The bylaws must:] 
+ 
+§482.22(c)(3) - Describe the organization of the medical staff. 
+
+
+12. CMS 482.22.(c).A-0363 (A-0363)
+   [The bylaws must:] 
+ §482.22(c)(6) - Include criteria for determining the privileges to be granted to individual practitioners and a procedure for applying the criteria to individuals requesting privileges.  For distant-site physicians and practitioners requesting privileges to furnish telemedicine services under an agreement with the hospital, the criteria for determining privileges and the procedure for applying the criteria are also subject to the requirements in §482.12(a)(8) and (a)(9), and §482.22(a)(3) and (a)(4). 
+
+13. CMS 482.22.(c).A-0353 (A-0353)
+   §482.22(c) Standard:  Medical Staff Bylaws 
+ The medical staff must adopt and enforce bylaws to carry out its responsibilities.  The bylaws must: 
+
+14. CMS 482.22.(c).A-0358 (A-0358)
+   [The bylaws must:] 
+ 482.22(c)(5)  Include a requirement that  -- 
+  (i)  A medical history and physical examination be completed and documented for each patient no more than 30 days before or 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, and except as provided under paragraph (c)(5)(iii) of this section. The medical history and physical examination must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oral and maxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
+
+15. CMS 482.22.(c).A-0359 (A-0359)
+   [The bylaws must:] 
+ 482.22(c)(5) - [Include a requirement that  --] 
+  (ii)  An updated examination of the patient, including any changes in the patient's condition, be completed and documented within 24 hours after admission or registration, but prior to surgery or a procedure requiring anesthesia services, when the medical history and physical examination are completed within 30 days before admission or registration, and except as provided under paragraph (c)(5)(iii) of this section. The updated examination of the patient, including any changes in the patient's condition, must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oral and maxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.
+
+16. CMS 482.22.(c).A-0360 (A-0360)
+   [The bylaws must:] 
+ §482.22(c)(5) - Include a requirement that  -- 
+ 
+ (iii)  An assessment of the patient (in lieu of the requirements of paragraphs (c)(5)(i) and (ii) of this section) be completed and documented after registration, but prior to surgery or a procedure requiring anesthesia services, when the patient is receiving specific outpatient surgical or procedural services and when the medical staff has chosen to develop and maintain a policy that identifies, in accordance with the requirements at paragraph (c)(5)(v) of this section, specific patients as not requiring a comprehensive medical history and physical examination, or any update to it, prior to specific outpatient surgical or procedural services.  The assessment must be completed and documented by a physician (as defined in section 1861(r) of the Act), an oral and maxillofacial surgeon, or other qualified licensed individual in accordance with State law and hospital policy.  
+
+17. CMS 482.22.(c).A-0361  (A-0361 )
+   [The bylaws must:] 
+ 
+§482.22(c)(5) - Include a requirement that  -- 
+ 
+ (iv)  The medical staff develop and maintain a policy that identifies those patients for whom the assessment requirements of paragraph (c)(5)(iii) of this section would apply.  The provisions of paragraphs (c)(5)(iii), (iv), and (v) of this section do not apply to a medical staff that chooses to maintain a policy that adheres to the requirements of paragraphs of (c)(5)(i) and (ii) of this section for all patients. 
+ 
+
+18. CMS 482.22.(c).A-0362 (A-0362)
+   [The bylaws must:] 
+ §482.22(c)(5) - Include a requirement that  -- 
+ 
+ (v)   The medical staff, if it chooses to develop and maintain a policy for the identification of specific patients to whom the assessment requirements in paragraph (c)(5)(iii) of this section would apply, must demonstrate evidence that the policy applies only to those patients receiving specific outpatient surgical or procedural services as well as evidence that the policy is based on: 
+(A)   Patient age, diagnoses, the type and number of surgeries and procedures scheduled to be performed, comorbidities, and the level of anesthesia required for the surgery or procedure. 
+(B)   Nationally recognized guidelines and standards of practice for assessment of specific types of patients prior to specific outpatient surgeries and procedures. 
+(C)  Applicable state and local health and safety laws.   
+
+---------- END OF DOCUMENT ----------

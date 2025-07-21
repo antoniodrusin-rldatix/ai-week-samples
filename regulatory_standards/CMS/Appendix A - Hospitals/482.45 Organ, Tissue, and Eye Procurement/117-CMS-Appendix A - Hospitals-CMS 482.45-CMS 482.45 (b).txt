@@ -1,0 +1,33 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: e9e4c8f3-93df-485c-8f6f-c91c9347b611
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.45
+Title: 482.45 Organ, Tissue, and Eye Procurement
+
+---------- STANDARD ----------
+Name: CMS 482.45 (b)
+Code: 482.45
+Description: Organ Transplantation Responsibilities
+
+---------- ELEMENTS ----------
+1. CMS 482.45.(b).2 (2)
+   For purposes of these standards, the term "organ" means a human kidney, liver, heart, lung, or pancreas.
+
+
+2. CMS 482.45.(b).A-0899 (A-0899)
+   §482.45(b) Standard: Organ Transplantation Responsibilities 
+ (1)  A hospital in which organ transplants are performed must be a member of the Organ Procurement and Transplantation Network (OPTN) established and operated in accordance with section 372 of the Public Health Service (PHS) Act (42 U.S.C. 274) and abide by its rules.   The term “rules of the OPTN” 
+means those rules provided for in regulations issued by the Secretary in accordance with section 372 of the PHS Act which are enforceable under 42 CFR 121.10.  No hospital is considered to be out of compliance with section 1138(a)(1)(B) of the Act, or with the requirements of this paragraph, unless the Secretary has given the OPTN formal notice that he or she approves the decision to exclude the hospital from the OPTN and has notified the hospital in writing. 
+ (2)  For purposes of these standards, the term “organ” means a human kidney, liver, heart, lung, or pancreas. 
+ (3)  If a hospital performs any type of transplants, it must provide organ transplant related data, as requested by the OPTN, the Scientific Registry, and the OPOs.  The hospital must also provide such data directly to the Department when requested by the Secretary. 
+
+3. CMS 482.45.(b).3 (3)
+   If a hospital performs any type of transplants, it must provide organ-transplant-related data, as requested by the OPTN, the Scientific Registry, and the OPOs. The hospital must also provide such data directly to the Department when requested by the Secretary.
+
+
+---------- END OF DOCUMENT ----------

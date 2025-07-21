@@ -1,0 +1,29 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 519e5bdc-4847-4e7d-8b27-d7bef03bb123
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 062
+Description: Remote dispensing
+
+---------- ELEMENTS ----------
+1. 450.062.1 (1)
+   A health care facility under s. 150.84 (2) or a facility identified under s. 980.065.
+
+2. 450.062.2 (2)
+   The office or clinic of a practitioner.
+
+3. 450.062.3 (3)
+   A county jail, rehabilitation facility under s. 59.53 (8), state prison under s. 302.01, or county house of correction under s. 303.16 (1).
+
+4. 450.062.4 (4)
+   A juvenile correctional facility under s. 938.02 (10p), juvenile detention facility under s. 938.02 (10r), residential care center for children and youth under s. 938.02 (15d), secured residential care center for children and youth under s. 938.02 (15g), type 1 juvenile correctional facility under s. 938.02 (19), type 2 residential care center for children and youth under s. 938.02 (19r), or type 2 juvenile correctional facility under s. 938.02 (20).
+
+---------- END OF DOCUMENT ----------

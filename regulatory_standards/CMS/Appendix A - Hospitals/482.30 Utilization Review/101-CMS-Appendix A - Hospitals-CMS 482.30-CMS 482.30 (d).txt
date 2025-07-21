@@ -1,0 +1,40 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 0f303b33-1f94-4ebf-8b86-4d594a9e35f0
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.30
+Title: 482.30 Utilization Review
+
+OVERVIEW:
+The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs.
+
+ABOUT:
+Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the exception criteria at §482.30(a), it must have a UR plan in effect which provides for review of services provided to Medicare and Medicaid beneficiaries. Survey Procedures  §482.30 The manner and degree of noncompliance with one or more of the UR standards is considered when determining whether there is condition-level compliance or noncompliance.
+
+---------- STANDARD ----------
+Name: CMS 482.30 (d)
+Code: 482.30
+Description: Determination Regarding Admissions or Continued Stays
+
+---------- ELEMENTS ----------
+1. CMS 482.30.(d).A-0656 (A-0656)
+   §482.30(d) Standard:  Determination Regarding Admissions or Continued Stays 
+ (1)   The determination that an admission or continued stay is not medically necessary- 
+ (i)    May be made by one member of the UR committee if the practitioner or practitioners responsible for the care of the patient, as specified of §482.12(c), concur with the determination or fail to present their views when afforded the opportunity; and 
+(ii)   Must be made by at least two members of the UR committee in all other cases. 
+ (2)   Before making a determination that an admission or continued stay is not medically necessary, the UR committee must consult the practitioner or practitioners responsible for the care of the patient, as specified in §482.12(c), and afford the practitioner or practitioners the opportunity to present their views. 
+ (3)   If the committee decides that admission to or continued stay in the hospital is not medically necessary, written notification must be given, no later than 2 days after the determination, to the hospital, the patient, and the practitioner or practitioners responsible for the care of the patient, as specified in §482.12(c); 
+
+2. CMS 482.30.(d).3 (3)
+   If the committee decides that admission to or continued stay in the hospital is not medically necessary, written notification must be given, no later than 2 days after the determination, to the hospital, the patient, and the practitioner or practitioners responsible for the care of the patient, as specified in Sec. 482.12(c)
+
+
+3. CMS 482.30.(d).2 (2)
+   Before making a determination that an admission or continued stay is not medically necessary, the UR committee must consult the practitioner or practitioners responsible for the care of the patient, as specified in §482.12(c), and afford the practitioner or practitioners the opportunity to present their views. 
+
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,29 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 337e7c87-fd48-4008-abd9-bdd193ec2857
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSSE
+Title: Supporting Self-Management (DSSE)
+
+OVERVIEW:
+One basic principle of disease management mandates that the patient must be actively involved in managing the disease. Patients who learn about their disease, their symptoms, and the warning signs of future complications tend to be better able to manage their long-term health. Practitioners can strive to offer high-quality care, but their effort will have greater results when patients are interested and informed. The standards in this chapter focus on the following: - Assessing patients’ self-management capabilities - Providing support for patients in self-management activities - Involving patients in developing the plan of care - Educating patients in the theory and skills necessary to manage their disease(s) - Recognizing and supporting self-management efforts
+
+---------- STANDARD ----------
+Name: DSSE 02.01.01
+Description: The disease-specific care program develops a self-management plan as part of the individualized plan of care that involves the patient, family, and staff.
+
+RATIONALE:
+A self-management plan is a structured, documented plan that is developed to support an individual patient's self-management of their condition and describes how to stay well, how to cope when the condition worsens, and what to do when problems occur. A self-management plan that involves the patient and family empowers them to achieve their goals, which also leads to better clinical quality outcomes.
+
+---------- ELEMENTS ----------
+1. DSSE.02.01.01 EP01 (EP 01)
+   The disease-specific care program develops an individualized self-management plan that involves the patient, staff, and family and/or caregiver, who are included in the patient’s care, treatment, and services.
+
+2. DSSE.02.01.01 EP02 (EP 02)
+   The disease-specific care program identifies physical, psychological, and/or psychosocial barriers that prohibit the patient’s engagement in self-management activities. The program revises the self-management plan as applicable.
+
+---------- END OF DOCUMENT ----------

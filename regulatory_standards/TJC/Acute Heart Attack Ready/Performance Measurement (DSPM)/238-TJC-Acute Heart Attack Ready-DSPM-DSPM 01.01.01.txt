@@ -1,0 +1,40 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 91d6c1f6-8559-4efd-b3aa-f17f0034a5fa
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSPM
+Title: Performance Measurement (DSPM)
+
+OVERVIEW:
+Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+
+---------- STANDARD ----------
+Name: DSPM 01.01.01
+Description: The disease-specific care program collects data relevant to the care, treatment, and services provided.
+
+RATIONALE:
+Utilizing standardized methods for data management reduces errors that can lead to poor patient outcomes. Quantitative data collection allows for data comparison and analysis, which is useful in making decisions and identifying trends or patterns.
+
+---------- ELEMENTS ----------
+1. DSPM.01.01.01 EP01 (EP 01)
+   The disease-specific care program develops and implements a process to maintain data quality and integrity that includes but is not limited to the following:
+- Minimizing data bias
+- Using sampling methodology
+- Using data analysis tools
+- Monitoring the reliability and validity of data
+
+2. DSPM.01.01.01 EP02 (EP 02)
+   The disease-specific care program collects data related to the processes and outcomes of the care, treatment, and services it provides.
+
+Requirement Specific to Acute Heart Attack Ready Certification
+a. In addition to the standardized performance measures, the program selects a minimum of two additional patient care data elements related to assessment, diagnosis, treatment, and management of acute coronary syndrome.
+Note: Data already collected through registry participation may be used to meet this requirement.
+
+3. DSPM.01.01.01 EP03 (EP 03)
+   The disease-specific care program collects data related to the patient’s perception of the safety and quality of the disease-specific care, treatment, or services they receive.
+
+---------- END OF DOCUMENT ----------

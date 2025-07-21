@@ -1,0 +1,53 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: c30ef39b-2ef4-4bfd-850b-86e8ca24be05
+
+---------- REGULATION ----------
+Name: KLOE
+Regulatory Entity: CQC
+
+---------- CHAPTER ----------
+Name: E
+Title: Effective
+
+OVERVIEW:
+By effective, we mean that people’s care, treatment and support achieves good outcomes, promotes a good quality of life and is based on the best available evidence.
+
+---------- STANDARD ----------
+Name: E 1
+Description: Are people’s needs assessed and care and treatment delivered in line with current
+legislation, standards and evidence-based guidance to achieve effective outcomes?
+
+---------- ELEMENTS ----------
+1. E.1.1 (1)
+   Are people's physical, mental health and social needs holistically assessed, and is their
+care, treatment and support delivered in line with legislation, standards and evidencebased guidance, including NICE and other expert professional bodies, to achieve effective
+outcomes?
+
+2. E.1.2 (2)
+   What processes are in place to ensure there is no discrimination, including on the grounds
+of protected characteristics under the Equality Act, when making care and treatment
+decisions?
+
+3. E.1.3 (3)
+   How is technology and equipment used to enhance the delivery of effective care and
+treatment and to support people’s independence?
+
+4. E.1.4 (4)
+   Are the rights of people subject to the Mental Health Act 1983 (MHA) protected and do staff
+have regard to the MHA Code of Practice?
+
+5. E.1.5 (5)
+   How are people's nutrition and hydration needs (including those related to culture and
+religion) identified, monitored and met? Where relevant, what access is there to dietary and
+nutritional specialists to assist in this?
+
+6. E.1.6 (6)
+   How is a person’s pain assessed and managed, particularly for people who have difficulty
+communicating? 
+
+
+7. E.1.7 (7)
+   Are people told when they need to seek further help and advised what to do if their
+condition deteriorates?
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 32f56028-cea7-4865-bc60-c4d21be52786
+
+---------- REGULATION ----------
+Name: Lab
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Lab
+
+---------- ELEMENTS ----------
+1. 01.01.LAB (LAB)
+   Lab
+
+---------- END OF DOCUMENT ----------

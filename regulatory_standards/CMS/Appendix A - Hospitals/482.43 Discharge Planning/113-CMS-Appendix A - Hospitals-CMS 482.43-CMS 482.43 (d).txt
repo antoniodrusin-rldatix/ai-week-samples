@@ -1,0 +1,25 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: ad71e1e4-1307-4a21-afba-8468c11b6156
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.43
+Title: 482.43 Discharge Planning
+
+---------- STANDARD ----------
+Name: CMS 482.43 (d)
+Code: 482.43
+Description: Transfer or Referral
+
+
+
+---------- ELEMENTS ----------
+1. CMS 482.43.(d).A-0837 (A-0837)
+   §482.43(d) Standard:  Transfer or Referral 
+ The hospital must transfer or refer patients, along with necessary medical information, to appropriate facilities, agencies, or outpatient services, as needed, for follow-up or ancillary care. 
+
+
+---------- END OF DOCUMENT ----------

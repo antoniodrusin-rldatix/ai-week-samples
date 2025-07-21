@@ -1,0 +1,27 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: cf3df391-cb4a-4933-8e58-7b58a970918a
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.30
+Title: 482.30 Utilization Review
+
+OVERVIEW:
+The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs.
+
+ABOUT:
+Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the exception criteria at §482.30(a), it must have a UR plan in effect which provides for review of services provided to Medicare and Medicaid beneficiaries. Survey Procedures  §482.30 The manner and degree of noncompliance with one or more of the UR standards is considered when determining whether there is condition-level compliance or noncompliance.
+
+---------- STANDARD ----------
+Name: CMS 482.30 -
+Description: Condition of Participation:  Utilization Review
+
+---------- ELEMENTS ----------
+1. CMS 482.30.-.A-0652 (A-0652)
+   §482.30  Condition of Participation:  Utilization Review 
+The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs. 
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,62 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: cbe543e3-f845-4e8c-8600-c7f60ca69bbd
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSPM
+Title: Performance Measurement (DSPM)
+
+OVERVIEW:
+Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+
+---------- STANDARD ----------
+Name: DSPM 01
+Description: The program has an organized, comprehensive approach to performance improvement. 
+
+---------- ELEMENTS ----------
+1. DSPM.01 EP01 (EP 01)
+   The program leader(s) identifies goals and sets priorities for improvement in a performance improvement plan. 
+
+2. DSPM.01 EP07 (EP 07)
+   The program documents actions taken to achieve improvement. 
+
+3. DSPM.01 EP03 (EP 03)
+   The program has a written performance improvement plan. 
+
+4. DSPM.01 EP05 (EP 05)
+   The program collects data related to its target population to identify opportunities for performance improvement. 
+
+5. DSPM.01 EP04 (EP 04)
+   The program leader(s) shares the program performance improvement plan with organizational leadership. 
+
+6. DSPM.01 EP06 (EP 06)
+   The program analyzes its performance measurement data to identify opportunities for performance improvement. 
+
+Requirement Specific to Acute Heart Attack Ready Certification 
+a. The quality improvement program identifies outliers in the following metrics and investigates the processes in place to achieve those metrics: 
+- Arrival-to-PCI within 90 and/or 60 minutes 
+- EMS/first medical contact-to-PCI within 90 minutes 
+- EMS/first medical contact-to-PCI within 120 minutes when transport time is 45 minutes or longer and arrival to PCI is 30 minutes or less (if applicable) 
+- Arrival at Acute Heart Attack Ready organization-to-PCI within 120 minutes for patients transferred to a Primary Heart Attack Center for PCI (no fibrinolytics) 
+- Arrival-to-fibrinolytics within 30 minutes (if fibrinolytics are administered) 
+- Patient arrival to 12-lead ECG within 10 minutes or less 
+- Call for transport to time of transport team’s arrival (expectation defined by coordination between an AHAR and interfacility transport agency[ies]) 
+- Transport team’s arrival to the time of departure (expectation defined by coordination between AHAR and interfacility transport agency[ies]) 
+- Patient arrival to lytic administration in 30 minutes or less - Patient arrival to patient departure within 30 minutes or less (door in–door out)
+
+7. DSPM.01 EP08 (EP 08)
+   The program determines if improvements have been achieved and are being sustained. 
+
+8. DSPM.01 EP02 (EP 02)
+   The program leader(s) involves the interdisciplinary team and other practitioners across disciplines and/or settings in performance improvement planning and activities. 
+
+Requirements Specific to Acute Heart Attack Ready Certification 
+a. The program has a quality improvement program led by the interdisciplinary team to track and improve the treatment of the STEMI patient throughout hospitalization. 
+b. The quality improvement program collects the following STEMI patient care data: 
+- Time of sign/symptom onset, if available, to first medical contact through PCI. 
+- From PCI through discharge, including cardiac rehabilitation referral, if applicable.
+
+---------- END OF DOCUMENT ----------

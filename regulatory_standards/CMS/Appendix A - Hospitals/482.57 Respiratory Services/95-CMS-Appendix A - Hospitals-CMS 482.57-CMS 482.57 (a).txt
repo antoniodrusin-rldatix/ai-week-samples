@@ -1,0 +1,30 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: fd5287c1-caa7-4242-8d16-4868600e71a7
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.57
+Title: 482.57 Respiratory Services
+
+---------- STANDARD ----------
+Name: CMS 482.57 (a)
+Code: 482.57
+Description: Organization and Staffing
+
+---------- ELEMENTS ----------
+1. CMS 482.57.(a).A-1153 (A-1153)
+   §482.57(a)(1) - There must be a director of respiratory care services who is a doctor of medicine or osteopathy with the knowledge, experience and capabilities to supervise and administer the service properly.  The director may serve on either a full-time or part-time basis. 
+
+
+2. CMS 482.57.(a).A-1154 (A-1154)
+   §482.57(a)(2) - There must be adequate numbers of respiratory therapists, respiratory therapy technicians, and other personnel who meet the qualifications specified by the medical staff, consistent with State law. 
+
+
+3. CMS 482.57.(a).A-1152 (A-1152)
+   §482.57(a) Standard:  Organization and Staffing 
+ The organization of the respiratory care services must be appropriate to the scope and complexity of the services offered. 
+
+---------- END OF DOCUMENT ----------

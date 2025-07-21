@@ -1,0 +1,57 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 36126567-f852-4187-a450-9ffb14e52d05
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.43
+Title: 482.43 Discharge Planning
+
+---------- STANDARD ----------
+Name: CMS 482.43 (c)
+Code: 482.43
+Description: Requirements related to post-acute care services. 
+
+---------- ELEMENTS ----------
+1. CMS 482.43.(c).A-0819 (A-0819)
+   §482.43(c)(2) In the absence of a finding by the hospital that a patient needs a discharge plan, the patient’s physician may request a discharge plan.  In such a case, the hospital must develop a discharge plan for the patient. 
+
+2. CMS 482.43.(c).A-0818 (A-0818)
+   §482.43(c) Standard:  Discharge Plan 
+ (1) - A registered nurse, social worker, or other appropriately qualified personnel must develop, or supervise the development of, a discharge plan if the discharge planning evaluation indicates a need for a discharge plan. 
+
+3. CMS 482.43.(c).A-0821 (A-0821)
+   §482.43(c)(4) - The hospital must reassess the patient’s discharge plan if there are factors that may affect continuing care needs or the appropriateness of the discharge plan. 
+
+4. CMS 482.43.(c).A-0820 (A-0820)
+   §482.43(c)(3) - The hospital must arrange for the initial implementation of the patient’s discharge plan…. 
+ §482.43(c)(5) - As needed, the patient and family members or interested persons must be counseled to prepare them for post-hospital care. 
+
+5. CMS 482.43.(c).5 (5)
+   (A-0820) As needed, the patient and family members or interested persons must be counseled to prepare them for post-hospital care.
+
+
+6. CMS 482.43.(c).A-0815  (A-0815 )
+   §482.43(c)(1) –The hospital must include the discharge planning a list of HHA’s, SNF’s, IRF’s, or LTCH’s that are available to the patient, that are participating in the Medicare program, and that serve the geographic area (as defined by the HHA) in which the patient resides, or in the case of a SNF, IRF, or LTCH, in the geographic area requested by the patient. HHAs must request to be listed by the hospital as available.  
+ 
+ (i) The list must only be presented to patients for whom home health care post hospital extended care services, SNF, IRF, or LTCH services are indicated and appropriate as determined by the discharge planning evaluation. 
+ 
+  (ii) For patients enrolled in managed care organizations, the hospital must make the patient aware of the need to verify with their managed care organization which practitioners, providers or certified suppliers are in the network of the patient’s managed care organization, it must share this with the patient or the patient’s representative. 
+ 
+  (iii)  [The hospital must] document in the patient’s medical record that the list was presented to the patient or to the patient’s representative.…. 
+
+7. CMS 482.43.(c).A-0816  (A-0816 )
+   §482.43(c)(2) The hospital , as part of the discharge planning process, msut inform the patient or the patient’s representative of their freedom to choose among participating Medicare providers and suppliers of the post-discharge services and must, when possible, respect the patient’s or the patient’s representative goals of care and treatment preferences, as well as other preferences they express. The hospital must not specify or otherwise limit the qualified providers or suppliers that are available to the patients.
+
+8. CMS 482.43.(c).A-0817 (A-0817)
+   §482.43(c)(3) The discharge plan must identify any HHA or SNF to which the patient is referred in which the hospital has a disclosable financial interest, as specified by the Secretary, and any HHA or SNF that has a disclosable financial interest in a hospital under Medicare. Financial interests that are disclosable under Medicare are determined in accordance with the provisions of part 420, subpart C, of this chapter.  
+ 
+
+9. CMS 482.43.(c).A-0814 (A-0814)
+   §482.43(c) Standard: Requirements related to post-acute care services. 
+ 
+For those patients discharged to home and referred for HHA services, or for those patients transferred to a SNF for post-hospital extended care services, or transferred to an IRF or LTCH for specialized hospital services, the following requirements apply, in addition to those set out at paragraphs (a) and (b) of this section: 
+
+---------- END OF DOCUMENT ----------

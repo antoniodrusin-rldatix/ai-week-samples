@@ -1,0 +1,28 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 3361caef-cef1-4192-95aa-dde805514dce
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: CPR
+Title: Certification Participation Requirements (CPR)
+
+OVERVIEW:
+This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+
+---------- STANDARD ----------
+Name: CPR 02
+Description: The organization reports any changes in the information provided in the application for certification and any changes made between reviews. 
+
+---------- ELEMENTS ----------
+1. CPR.02 EP01 (EP 01)
+   The organization notifies The Joint Commission in writing within 30 days of a change in
+ownership, control, location, capacity, or services offered.
+Note: When the organization changes ownership, control, location, capacity, or services offered, 
+it may be necessary for The Joint Commission to review the organization again. If the
+organization does not provide written notification to The Joint Commission within 30 days of
+these changes, the organization may be denied certification.
+
+---------- END OF DOCUMENT ----------

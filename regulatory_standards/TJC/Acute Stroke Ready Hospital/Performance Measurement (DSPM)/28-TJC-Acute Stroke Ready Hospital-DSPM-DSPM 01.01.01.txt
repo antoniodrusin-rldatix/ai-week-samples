@@ -1,0 +1,47 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 8e82c5ab-bd2d-4127-bb22-06a4aa35e380
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSPM
+Title: Performance Measurement (DSPM)
+
+OVERVIEW:
+Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+
+---------- STANDARD ----------
+Name: DSPM 01.01.01
+Description: The disease-specific care program collects data relevant to the care, treatment, and services provided.
+
+RATIONALE:
+Utilizing standardized methods for data management reduces errors that can lead to poor patient outcomes. Quantitative data collection allows for data comparison and analysis, which is useful in making decisions and identifying trends or patterns.
+
+---------- ELEMENTS ----------
+1. DSPM.01.01.01 EP1 (EP 1)
+   The disease-specific care program develops and implements a process to maintain data quality and integrity that includes but is not limited to the following:
+- Minimizing data bias
+- Using sampling methodology
+- Using data analysis tools
+- Monitoring the reliability and validity of data
+
+2. DSPM.01.01.01 EP2 (EP 2)
+   The disease-specific care program collects data related to the processes and outcomes of the care, treatment, and services it provides.
+
+Requirement Specific to Acute Stroke Ready Certification
+a. At a minimum, the stroke team log includes the following information for each entry:
+- Physician or other licensed practitioner response time to acute stroke patients
+- Type(s) of diagnostic tests and acute treatment if used
+- Patient diagnosis
+- Time from patient arrival to the administration of IV thrombolytic therapy
+- Patient complications
+- Disposition of the patient (for example, upon admission to the organization, discharge, transfer to another organization)
+Note: The log can be captured by written or electronic means and/or may be done retrospectively through chart audits.
+
+
+3. DSPM.01.01.01 EP3 (EP 3)
+   The disease-specific care program collects data related to the patient’s perception of the safety and quality of the disease-specific care, treatment, or services they receive.
+
+---------- END OF DOCUMENT ----------

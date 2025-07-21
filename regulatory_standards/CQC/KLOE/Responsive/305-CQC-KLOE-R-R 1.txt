@@ -1,0 +1,36 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 11a92bb5-ce84-45aa-8bc0-96c7edc0f67d
+
+---------- REGULATION ----------
+Name: KLOE
+Regulatory Entity: CQC
+
+---------- CHAPTER ----------
+Name: R
+Title: Responsive
+
+OVERVIEW:
+By responsive, we mean that services meet people’s needs. The definition of responsive has changed from: “By responsive, we mean that services are organised so that they meet people’s needs”. Service planning for population needs (previously the first two prompts of R1) will now sit in well-led (W2.5 and W7.4).
+
+---------- STANDARD ----------
+Name: R 1
+Description: How do people receive personalised care that is responsive to their needs? 
+
+---------- ELEMENTS ----------
+1. R.1.2 (2)
+   Where people’s needs and choices are not being met, is this identified and used to inform
+how services are improved and developed?
+
+2. R.1.3 (3)
+   Are the facilities and premises appropriate for the services that are delivered?
+
+3. R.1.4 (4)
+   How does the service identify and meet the information and communication needs of
+people with a disability or sensory loss? How does it record, highlight and share this
+information with others when required, and gain people’s consent to do so?
+
+4. R.1.1 (1)
+   Do the services provided reflect the needs of the population served and do they ensure
+flexibility, choice and continuity of care?
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,65 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: f622683a-b62f-42d5-b571-55e4a37d05ed
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.25
+Title: 482.25 Pharmaceutical Services
+
+OVERVIEW:
+The hospital must have pharmaceutical services that meet the needs of the patients.  The institution must have a pharmacy directed by a registered pharmacist or a drug storage area under competent supervision.  The medical staff is responsible for developing policies and procedures that minimize drug errors.  This function may be delegated to the hospital’s organized pharmaceutical service.
+
+ABOUT:
+Interpretive Guidelines §482.25 A hospital must provide pharmaceutical services that meet the needs of its patients.  The services must include either a pharmacy that is directed by a pharmacist, or, when appropriate, a drug storage area that is competently supervised.  The hospital’s medical staff is responsible for developing pharmaceutical policies and procedures that minimize the potential for medication errors, but may delegate this function to the pharmaceutical service. The manner or degree of noncompliance with the requirements of this Condition and its component standards must be evaluated to determine whether there is substantial noncompliance with the Condition, warranting a Condition-level citation. Interpretive Guidelines §482.25 What is included in pharmaceutical services? Pharmaceutical services encompass the functions of procuring, storing, compounding, repackaging, and dispensing all medications, biologicals, chemicals and medication-related devices within the hospital.  They also include providing medication-related information to care professionals within the hospital, as well as direct provision of medication-related care. Meeting patient needs Hospitals must provide pharmaceutical services that meet the needs of their patients.  The scope and complexity of pharmaceutical services available in the hospital must be consistent with the volume and types of patients the hospital serves. Except in unusual circumstances, the pharmaceutical service is expected to make available in a timely manner the volume and types of medications typically needed.  These would be those medications typically prescribed by the hospital’s practitioners for hospital patients receiving inpatient services, surgical services, diagnostic services involving medications as a component of testing, and outpatient drug therapies administered while the patient is in the hospital. Not every hospital is expected to offer the same level of pharmaceutical services.  For example: • It would not be uncommon for a psychiatric hospital to maintain a relatively limited pharmaceutical service, due to minimal need for compounding, and/or dispensing multiple types and forms of medications and biologicals. • On the other hand, a short-term acute care hospital with a busy oncology outpatient service and other complex medical and surgical departments would be expected to provide a wider range of pharmaceutical services that are ready to be furnished when needed. Survey Procedures §482.25 • Ask the hospital for evidence of the scope and complexity of its pharmaceutical services. • Ask how the hospital has determined that the services meet the needs of its patients. • Ask unit nursing staff if prescribed medications are routinely available and timely.  If there are reports of frequent delays or other problems, probe further with the director of pharmaceutical services.
+
+---------- STANDARD ----------
+Name: CMS 482.25 (b)
+Code: 482.25
+Description: Delivery of Services
+
+---------- ELEMENTS ----------
+1. CMS 482.25.(b).A-0502 (A-0502)
+   §482.25(b)(2)(i) - All drugs and biologicals must be kept in a secure area, and locked when appropriate. 
+
+2. CMS 482.25.(b).A-0506 (A-0506)
+   §482.25(b)(4) - When a pharmacist is not available, drugs and biologicals must be removed from the pharmacy or storage area only by personnel designated in the policies of the medical staff and pharmaceutical service, in accordance with Federal and State law. 
+
+3. CMS 482.25.(b).A-505 (A-505)
+   §482.25(b)(3) -  Outdated, mislabeled, or otherwise unusable drugs and biologicals must not be available for patient use. 
+
+
+4. CMS 482.25.(b).A-0507 (A-0507)
+   §482.25(b)(5) - Drugs and biologicals not specifically prescribed as to time or number of doses must automatically be stopped after a reasonable time that is predetermined by the medical staff. 
+
+
+5. CMS 482.25.(b).A-0508 (A-0508)
+   §482.25(b)(6) - Drug administration errors, adverse drug reactions, and incompatibilities must be immediately reported to the attending physician and, if appropriate, to the hospital’s quality assessment and performance improvement program . 
+
+6. CMS 482.25.(b).A-0511 (A-0511)
+   §482.25(b)(9) - A formulary system must be established by the medical staff to assure quality pharmaceuticals at reasonable costs. 
+
+
+7. CMS 482.25.(b).A-0509 (A-0509)
+   §482.25(b)(7) - Abuses and losses of controlled substances must be reported, in accordance with applicable Federal and State laws, to the individual responsible for the pharmaceutical service, and to the chief executive officer, as appropriate. 
+
+
+8. CMS 482.25.(b).A-0510 (A-0510)
+   §482.25(b)(8) - Information relating to drug interactions and information of drug therapy, side effects, toxicology, dosage, indications for use, and routes of administration must be available to the professional staff. 
+
+9. CMS 482.25.(b).A-0504 (A-0504)
+   §482.25(b)(2)(iii) - Only authorized personnel may have access to locked areas. 
+
+10. CMS 482.25.(b).A-500 (A-500)
+   §482.25(b) Standard:  Delivery of Services 
+ In order to provide patient safety, drugs and biologicals must be controlled and distributed in accordance with applicable standards of practice, consistent with Federal and State law. 
+
+11. CMS 482.25.(b).A-503 (A-503)
+   §482.25(b)(2)(ii) - Drugs listed in Schedules II, III, IV, and V of the Comprehensive Drug Abuse Prevention and Control Act of 1970 must be kept locked within a secure area. 
+
+12. CMS 482.25.(b).A-0501 (A-0501)
+   §482.25(b)(1) - All compounding, packaging, and dispensing of drugs and biologicals must be under the supervision of a pharmacist and performed consistent with State and Federal laws. 
+
+---------- END OF DOCUMENT ----------

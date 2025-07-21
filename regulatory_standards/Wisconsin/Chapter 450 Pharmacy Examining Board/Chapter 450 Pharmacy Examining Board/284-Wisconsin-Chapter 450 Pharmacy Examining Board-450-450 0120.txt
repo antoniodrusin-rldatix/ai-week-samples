@@ -1,0 +1,31 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 5853555b-b6db-4240-92da-36fabe38bea6
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0120
+Description: Labeling of prescription drugs and prescription drug products
+
+---------- ELEMENTS ----------
+1. 450.0120.1 (1)
+   In this section:
+(a) “Brand name" means the name, other than the generic name, that the labeler of a drug or drug product places on its commercial container at the time of packaging.
+(b) “Generic name" means the official or established name given a drug by the U.S. department of health and human services or the U.S. adopted names council.
+
+2. 450.0120.2 (2)
+   The manufacturer's or distributor's commercial container of every prescription drug or prescription drug product delivered to any pharmacist, practitioner, hospital or nursing home shall bear a label containing the generic name of the drug, if any, the brand name of the drug or drug product, if any, the name and address of the manufacturer of the drug or drug product and, if different from the manufacturer, the name and address of the distributor of the drug or drug product.
+
+3. 450.0120.3 (3)
+   Every prescription order or medication profile record shall include the brand name, if any, or the name of the manufacturer or distributor of the drug product dispensed.
+
+4. 450.0120.4 (4)
+   This section does not apply with respect to biological products.
+
+---------- END OF DOCUMENT ----------

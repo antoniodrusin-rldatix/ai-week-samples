@@ -1,0 +1,34 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: dbe14592-da25-4d72-ad9b-5f0055e8da68
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 095
+Description: Duty to dispense contraceptives
+
+---------- ELEMENTS ----------
+1. 450.095.1 (1)
+   In this section:
+(a) “Contraceptive drug or device" means any drug or device approved by the federal food and drug administration that is used to prevent pregnancy, including a contraceptive drug or device restricted to distribution by a pharmacy.
+(b) “Without delay" means within the usual and customary time frame reasonably expected at a pharmacy for dispensing or distributing a prescription that is not a contraceptive drug or device.
+
+2. 450.095.2 (2)
+   Unless one or more of the following applies, a pharmacy shall dispense lawfully prescribed contraceptive drugs and devices and shall deliver contraceptive drugs and devices restricted to distribution by a pharmacy to a patient without delay:
+(a) The prescription contains an obvious or known error or contains inadequate instructions.
+(b) The prescription is contraindicated for the patient, is incompatible with another drug or device prescribed for the patient, or is prohibited by state or federal law.
+(c) The prescription is potentially fraudulent.
+
+3. 450.095.3 (3)
+   Any person who violates this section may be required to forfeit not less than $250 nor more than $2,500 for each violation.
+
+4. 450.095.4 (4)
+   Nothing in this section may be construed to abrogate a pharmacist's legal and ethical obligations to comply with the laws of this state.
+
+---------- END OF DOCUMENT ----------

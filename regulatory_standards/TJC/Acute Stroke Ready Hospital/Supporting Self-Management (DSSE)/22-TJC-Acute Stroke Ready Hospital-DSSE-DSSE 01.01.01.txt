@@ -1,0 +1,30 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: bd8b9530-14a4-49e4-a9b5-76d858eab2db
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSSE
+Title: Supporting Self-Management (DSSE)
+
+OVERVIEW:
+One basic principle of disease management mandates that the patient must be actively involved in managing the disease. Patients who learn about their disease, their symptoms, and the warning signs of future complications tend to be better able to manage their long-term health. Practitioners can strive to offer high-quality care, but their effort will have greater results when patients are interested and informed. The standards in this chapter focus on the following: - Assessing patients’ self-management capabilities - Providing support for patients in self-management activities - Involving patients in developing the plan of care - Educating patients in the theory and skills necessary to manage their disease(s) - Recognizing and supporting self-management efforts
+
+---------- STANDARD ----------
+Name: DSSE 01.01.01
+Description: The disease-specific care program assesses the patient’s ability to engage in self-management.
+
+RATIONALE:
+Interventions to improve self-management have led to documented improvements in self-efficacy. Self-efficacy is defined as one's belief in one's ability to succeed in specific situations or accomplish certain tasks. One's sense of self-efficacy plays a major role in how one approaches goals, tasks, and challenges regarding one's health.
+
+---------- ELEMENTS ----------
+1. DSSE.01.01.01 EP1 (EP 1)
+   The disease-specific care program develops and implements a process to evaluate the learning needs for each patient to increase understanding of their diagnosis, disease, or condition and their ability to engage in self-management.
+
+2. DSSE.01.01.01 EP2 (EP 2)
+   The disease-specific care program assesses and documents the patient’s health-related social needs (HRSNs) and provides information about community resources and support services, as needed.
+Note: Examples of HRSNs include access to transportation, difficulty paying for prescriptions or medical bills, education and literacy, food insecurity, and/or housing insecurity.
+
+---------- END OF DOCUMENT ----------

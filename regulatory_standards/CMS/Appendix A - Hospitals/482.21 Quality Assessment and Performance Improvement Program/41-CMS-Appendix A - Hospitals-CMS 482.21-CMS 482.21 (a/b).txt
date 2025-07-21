@@ -1,0 +1,39 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 10063564-e196-4ef6-b86b-8b1a600cd2d2
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.21
+Title: 482.21 Quality Assessment and Performance Improvement Program
+
+OVERVIEW:
+A-0273 - Data Collection & Analysis A-0283 - Quality Improvement Activities A-0286 - Patient Safety, Medical Errors & Adverse Events A-0297 - Performance Improvement Projects A-0309 - Executive Responsibilities A-0315 - Providing Adequate Resources
+
+ABOUT:
+The hospital must develop, implement, and maintain an effective, ongoing, hospital wide, data-driven quality assessment and performance improvement program.  The hospital’s governing body must ensure that the program reflects the complexity of the hospital’s organization and services;  involves all hospital departments and services (including those services furnished under contract or arrangement); and focuses on indicators related to improved health outcomes and the prevention and reduction of medical errors.  The hospital must maintain and demonstrate evidence of its QAPI program for review by CMS.
+
+---------- STANDARD ----------
+Name: CMS 482.21 (a/b)
+Code: 482.21
+Description: Data Collection & Analysis 
+
+---------- ELEMENTS ----------
+1. CMS 482.21.(a/b).2 (2)
+   (A-0273, A-0286)  The hospital must measure, analyze, and track quality indicators, including adverse patient events, and other aspects of performance that assess processes of care, hospital service and operations.
+
+2. CMS 482.21.(a/b).A-0273 (A-0273)
+   Data Collection & Analysis 
+ §§482.21(a), 482.21(b)(1), 482.21(b)(2)(i), & 482.21(b)(3) 
+ 
+§482.21(a) Standard:  Program Scope 
+ (1) The program must incorporate quality indicator data including patient care data, and other relevant data such as data submitted to or received from Medicare quality reporting and quality performance programs, including but not limited to data related to hospital readmissions and hospital-acquired conditions.
+ (2) The hospital must measure, analyze, and track quality indicators…and other aspects of performance that assess processes of care, hospital service and operations. 
+ §482.21(b) Standard:  Program Data. 
+ (1) The program must incorporate quality indicator data including patient care data, and other relevant data such as data submitted to or received from Medicare quality reporting and quality performance programs, including but not limited to data related to hospital readmissions and hospital-acquired conditions.
+ (2) The hospital must use the data collected to-- (i)  Monitor the effectiveness and safety of services and quality of care; and… 
+ (3) The frequency and detail of data collection must be specified by the hospital’s governing body. 
+
+---------- END OF DOCUMENT ----------

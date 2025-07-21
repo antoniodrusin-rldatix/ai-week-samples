@@ -1,0 +1,47 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: f4c2b175-33ab-4e40-80ed-f06ad2915dfa
+
+---------- REGULATION ----------
+Name: KLOE
+Regulatory Entity: CQC
+
+---------- CHAPTER ----------
+Name: C
+Title: Caring
+
+OVERVIEW:
+By caring, we mean that the service involves and treats people with compassion, kindness, dignity and respect.
+
+---------- STANDARD ----------
+Name: C 1
+Description: How does the service ensure that people are treated with kindness, respect and
+compassion, and that they are given emotional support when needed?
+
+---------- ELEMENTS ----------
+1. C.1.1 (1)
+   Do staff understand and respect the personal, cultural, social and religious needs of people
+and how these may relate to care needs, and do they take these into account in the way
+they deliver services? Is this information recorded and shared with other services or
+providers?
+
+2. C.1.2 (2)
+   Do staff take the time to interact with people who use the service and those close to them
+in a respectful and considerate way?
+
+3. C.1.3 (3)
+   Do staff show an encouraging, sensitive and supportive attitude to people who use services
+and those close to them?
+
+4. C.1.4 (4)
+   Do staff raise concerns about disrespectful, discriminatory or abusive behaviour or
+attitudes?
+
+5. C.1.5 (5)
+   Do staff understand the impact that a person’s care, treatment or condition will have on
+their wellbeing and on those close to them, both emotionally and socially?
+
+6. C.1.6 (6)
+   Are people given appropriate and timely support and information to cope emotionally with
+their care, treatment or condition? Are they advised how to find other support services?
+
+---------- END OF DOCUMENT ----------

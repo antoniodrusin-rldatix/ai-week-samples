@@ -1,0 +1,38 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 3a166598-2606-4d80-ae6f-c33f8f231d74
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.22
+Title: 482.22 Medical Staff
+
+OVERVIEW:
+The hospital must have an organized medical staff that operates under bylaws approved by the governing body, and which is responsible for the quality of medical care provided to patients by the hospital.
+
+ABOUT:
+Interpretive Guidelines §482.22 The hospital must have one medical staff for the entire hospital (including all campuses, provider-based locations, satellites, remote locations, etc.).  For example, a multi-campus hospital may not have a separately organized medical staff for each campus.  On the other hand, in the case of a hospital system, it is permissible for the system to have a unified and integrated medical staff (hereafter referred to as a “unified medical staff”) for multiple, separately certified hospitals.  The medical staff must be organized and integrated as one body that operates under one set of bylaws approved by the governing body.  These medical staff bylaws must apply equally to all practitioners within each category of practitioners at all locations of the hospital and to the care provided at all locations of the hospital.  The medical staff is responsible for the quality of medical care provided to patients by the hospital. Survey Procedures §482.22 Surveyors assess the manner and degree of noncompliance with the standards within this condition to determine whether there is condition-level noncompliance.
+
+---------- STANDARD ----------
+Name: CMS 482.22 (d)
+Code: 482.22
+Description: Autopsies
+
+
+---------- ELEMENTS ----------
+1. CMS 482.22.(d).A-0364 (A-0364)
+   §482.22(d) Standard:  Autopsies 
+ The medical staff should attempt to secure autopsies in all cases of unusual deaths and of medical-legal and educational interest.  The mechanism for documenting permission to perform an autopsy must be defined.  There must be a system for notifying the medical staff, and specifically the attending practitioner, when an autopsy is being performed. 
+
+2. CMS 482.22.(d).1 (1)
+   The medical staff should attempt to secure 
+autopsies in all cases of unusual deaths and of medical-legal and 
+educational interest. The mechanism for documenting permission to 
+perform an autopsy must be defined. There must be a system for notifying 
+the medical staff, and specifically the attending practitioner, when an 
+autopsy is being performed.
+
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,33 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 4a9b5914-a3b9-4c0b-ae4c-8ff374cfb43a
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.28
+Title: 482.28 Food and Dietetic Services
+
+---------- STANDARD ----------
+Name: CMS 482.28 (a)
+Code: 482.28
+Description: Organization
+
+---------- ELEMENTS ----------
+1. CMS 482.28.(a).A-0621 (A-0621)
+   §482.28(a)(2) - There must be a qualified dietitian, full-time, part-time or on a consultant basis. 
+
+2. CMS 482.28.(a).A-0622 (A-0622)
+   §482.28(a)(3) - There must be administrative and technical personnel competent in their respective duties. 
+
+3. CMS 482.28.(a).A-0620 (A-0620)
+   §482.28(a)(1) - The hospital must have a full-time employee who– 
+(i)  Serves as director of the food and dietetic services; 
+(ii)  Is responsible for daily management of the dietary services; and 
+(iii)Is qualified by experience or training. 
+
+4. CMS 482.28.(a).A-0619 (A-0619)
+   §482.28(a) Standard:  Organization 
+
+---------- END OF DOCUMENT ----------

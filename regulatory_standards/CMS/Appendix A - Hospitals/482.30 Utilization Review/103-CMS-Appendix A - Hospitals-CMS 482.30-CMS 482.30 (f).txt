@@ -1,0 +1,30 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: a2f9592b-0ceb-4dc5-91d5-7902ee6ab952
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.30
+Title: 482.30 Utilization Review
+
+OVERVIEW:
+The hospital must have in effect a utilization review (UR) plan that provides for review of services furnished by the institution and by members of the medical staff to patients entitled to benefits under the Medicare and Medicaid programs.
+
+ABOUT:
+Interpretive Guidelines  §482.30 If the hospital does not satisfy one of the exception criteria at §482.30(a), it must have a UR plan in effect which provides for review of services provided to Medicare and Medicaid beneficiaries. Survey Procedures  §482.30 The manner and degree of noncompliance with one or more of the UR standards is considered when determining whether there is condition-level compliance or noncompliance.
+
+---------- STANDARD ----------
+Name: CMS 482.30 (f)
+Code: 482.30
+Description: Review of Professional Services
+
+---------- ELEMENTS ----------
+1. CMS 482.30.(f).A-0658 (A-0658)
+   §482.30(f) Standard:  Review of Professional Services 
+ The committee must review professional services provided, to determine medical 
+necessity and to promote the most efficient use of available health facilities and services. 
+
+
+---------- END OF DOCUMENT ----------

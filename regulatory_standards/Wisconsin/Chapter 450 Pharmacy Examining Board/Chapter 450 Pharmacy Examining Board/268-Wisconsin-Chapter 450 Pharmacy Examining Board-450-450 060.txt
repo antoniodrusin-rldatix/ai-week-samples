@@ -1,0 +1,39 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 743214af-8a54-4d66-a891-8fda91cf8937
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 060
+Description: Pharmacies located in this state; licensure
+
+---------- ELEMENTS ----------
+1. 450.060.1 (1)
+    Except as provided in s. 450.062, no pharmacist may dispense at any location in this state that is not licensed as a pharmacy by the board. No person in this state may use or display the title “pharmacy," “drugstore," “apothecary," or any other title, symbol, or insignia having the same or similar meanings, except for a place of practice which is licensed under this section as a pharmacy by the board.
+
+2. 450.060.2 (2)
+   The board shall issue a license to operate a pharmacy at a specific location in this state if:
+(a) An application is made on forms provided by the board showing all of the following:
+1. The location of the pharmacy.
+2. A floor plan of the pharmacy.
+3. The name and address of the person holding title and ownership control of the location.
+4. The name of the managing pharmacist of the pharmacy under s. 450.09 (1).
+(b) The location of the pharmacy is inspected and found to meet all the requirements of this chapter.
+(c) The initial credential fee determined by the department under s. 440.03 (9) (a) is paid.
+
+3. 450.060.2m (2m)
+   The board may request, but may not require, that practice-related information be submitted on the application under sub. (2) (a).
+
+4. 450.060.3 (3)
+   No pharmacy located in this state may be opened or kept open for practice following a change of ownership or change of location unless the pharmacy is licensed for the new owner or at the new location, notwithstanding any remaining period of validity under the pharmacy's license under the previous owner or at the previous location.
+
+5. 450.060.4 (4)
+   Any person who fails to license his or her place of practice as required under this section may be assessed a forfeiture of not less than $25 nor more than $50 for each separate offense. Each day of violation constitutes a separate offense.
+
+---------- END OF DOCUMENT ----------

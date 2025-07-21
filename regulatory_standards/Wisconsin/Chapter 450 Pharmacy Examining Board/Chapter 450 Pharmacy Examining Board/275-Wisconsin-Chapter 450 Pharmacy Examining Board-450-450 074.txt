@@ -1,0 +1,43 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: bc78bff7-d2d7-4a04-9d95-ef6bdee2c3c2
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 074
+Description: Wholesale distributors; prohibited actions, enforcement, penalties
+
+---------- ELEMENTS ----------
+1. 450.074.1 (1)
+   If the board finds that there is a reasonable probability that a wholesale distributor, other than a manufacturer, has done any of the following, that continued distribution of a prescription drug involved in the occurrence could cause death or serious adverse health consequences, and that additional procedures would result in an unreasonable delay, the board shall issue an order requiring that distribution of a prescription drug in this state cease immediately:
+450.074(1)(a)(a) Violated a provision of ss. 450.071 to 450.073.
+(b) Falsified a pedigree or sold, distributed, transferred, manufactured, repackaged, handled, or held a counterfeit prescription drug intended for human use.
+
+2. 450.074.2 (2)
+   If the board issues an order under sub. (1), the board shall provide the person who is the subject of the order an opportunity for an informal hearing not more than 10 days after the date on which the order is issued. If, after a hearing, the board determines that the order was issued without sufficient grounds, the board shall vacate the order.
+
+3. 450.074.3 (3)
+   Any person who knowingly does any of the following is guilty of a Class H felony:
+(a) Fails to obtain a license required under s. 450.071.
+(b) Purchases or otherwise receives a prescription drug from a pharmacy in violation of s. 450.072 (1).
+(c) Violates s. 450.072 (2) (a), if the person is required to obtain a license under s. 450.071.
+(d) Violates s. 450.072 (2) (b).
+(e) Violates s. 450.072 (2) (d).
+(f) Violates s. 450.073.
+(g) Provides false or fraudulent records to, or makes a false or fraudulent statement to, the board, a representative of the board, or a federal official.
+(h) Obtains or attempts to obtain a prescription drug by fraud, deceit, or misrepresentation, or engages in misrepresentation or fraud in the distribution of a prescription drug.
+(i) Manufactures, repackages, sells, transfers, delivers, holds, or offers for sale a prescription drug that is adulterated, misbranded, counterfeit, suspected of being counterfeit, or otherwise unfit for distribution, except for wholesale distribution by a manufacturer of a prescription drug that has been delivered into commerce pursuant to an application approved by the federal food and drug administration.
+(j) Adulterates, misbrands, or counterfeits a prescription drug, except for wholesale distribution by a manufacturer of a prescription drug that has been delivered into commerce pursuant to an application approved by the federal food and drug administration.
+(k) Receives a prescription drug that has been adulterated, misbranded, stolen, obtained by fraud or deceit, counterfeited, or suspected of being counterfeited, and delivers or proffers such a drug.
+(L) Alters, mutilates, destroys, obliterates, or removes any part of the labeling of a prescription drug or commits another act that results in the misbranding of a prescription drug.
+
+4. 450.074.4 (4)
+   Subsection (3) does not apply to a prescription drug manufacturer or an agent of a prescription drug manufacturer, if the manufacturer or agent is obtaining or attempting to obtain a prescription drug for the sole purpose of testing the authenticity of the prescription drug.
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,43 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 1a6d4c60-589e-4640-862d-b3e87b786909
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0115
+Description: Drug disposal programs and authorizations
+
+---------- ELEMENTS ----------
+1. 450.0115.1 (1)
+   In this section:
+(a) “Guardian" means the person named by the court under ch. 880, 2003 stats., or ch. 48 or 54 that has the duty and authority of guardianship.
+(am) “Hospice worker” means a person who is employed by a hospice, as defined in s. 50.90 (1).
+(b) “Personal representative" means an executor, administrator, or special administrator of a decedent's estate, a person legally authorized to perform substantially the same functions, or a successor to any of those persons.
+(c) “Trustee" means a person that holds in trust title to or power over property. “Trustee" includes an original, added, or successor trustee.
+(d) “Ward" means a person for whom a guardian has been appointed.
+
+2. 450.0115.2 (2)
+   Nothing in this chapter, or rules promulgated under this chapter, prohibits any of the following:
+(a) The direct operation or implementation of a drug disposal program that is authorized under s. 165.65 (2) or (3) or is authorized under federal law, as defined in s. 165.65 (1) (a).
+(b) The transfer of a prescription drug by a person that lawfully possesses the prescription drug to a drug disposal program that is authorized under s. 165.65 (2) or (3) or is authorized under federal law, as defined in s. 165.65 (1) (a), and that accepts the prescription drug.
+(c) Subject to sub. (4), the possession of a prescription drug under a written authorization described in sub.
+
+3. 450.0115.3 (3)
+   (a) A guardian may grant written authorization to an adult who is related to the guardian's ward by blood, marriage, or adoption within the 3rd degree of kinship as computed under s. 990.001 (16), or to a domestic partner of the ward under ch. 770, for the disposal of a prescription drug that belongs to the ward.
+(b) A personal representative or a trustee may grant written authorization to an adult beneficiary, as defined in s. 701.1102 (1m), of the estate or trust for the disposal of a prescription drug that belongs to the estate or trust.
+(c) A person who is a competent adult may grant written authorization to that person's domestic partner under ch. 770 or to another adult who is related to that person by blood, marriage, or adoption within the 3rd degree of kinship as computed under s. 990.001 (16), for the disposal of a prescription drug that lawfully belongs to that person.
+(d) A personal representative, trustee, or an adult beneficiary, as defined in s. 701.1102 (1m), of an estate or trust may grant written authorization to a hospice worker for the disposal of a controlled substance that belongs to the estate or trust.
+
+4. 450.0115.4 (4)
+   A written authorization under sub. (3) is valid only to the extent permitted under federal law and only if all of the following conditions are satisfied:
+(a) The authorization describes with reasonable specificity each prescription drug or controlled substance that is to be disposed of.
+(b) The authorization is in the physical possession of the person authorized to dispose of the prescription drug or controlled substance and each prescription drug or controlled substance described in the authorization is, within 24 hours after the authorization is signed by the person granting the authorization, transferred to a drug disposal program under s. 165.65 or otherwise lawfully disposed of.
+(c) The authorization and each prescription drug or controlled substance to be disposed of were obtained without consideration.
+
+---------- END OF DOCUMENT ----------

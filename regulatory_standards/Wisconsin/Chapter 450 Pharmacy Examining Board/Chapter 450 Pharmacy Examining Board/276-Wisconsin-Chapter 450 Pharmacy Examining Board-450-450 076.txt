@@ -1,0 +1,40 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: a8ab4f06-715f-4dc6-b25c-e473ff9a9593
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 076
+Description: Home medical oxygen providers; licensure
+
+---------- ELEMENTS ----------
+1. 450.076.1 (1)
+   Definitions. In this section:
+(a) “Home medical oxygen provider" means a person that provides medical oxygen directly to a consumer or patient in this state for that consumer's or patient's own use.
+(b) “Licensed provider" means a home medical oxygen provider licensed under this section.
+(c) “Medical oxygen" means oxygen that is a prescription drug.
+
+2. 450.076.2 (2)
+   License required.
+(a) Except as provided in par. (b), no person may operate as a home medical oxygen provider, use the title “home medical oxygen provider" or any similar title, or hold itself out as a home medical oxygen provider unless the person is a licensed provider.
+(b) No license under this section is required for any of the following:
+1. A person that holds a current credential, as defined in s. 440.01 (2) (a), and is acting within the scope of that credential.
+2. A hospital, excluding any home medical oxygen provider that is owned or operated by a hospital.
+3. An employee or agent of a licensed provider acting within the scope of his or her employment or agency.
+
+3. 450.076.3 (3)
+   Licensure. The board may grant a license to act as a home medical oxygen provider to a person that does all of the following:
+(a) Submits an application for licensure on a form provided by the board.
+(b) Pays the fee specified in s. 440.05 (1).
+(c) Satisfies any other requirements established by the board by rule.
+
+4. 450.076.4 (4)
+   Rules. The board shall promulgate rules implementing this section. The rules shall include rules governing the professional conduct of licensed providers and their employees and agents.
+
+---------- END OF DOCUMENT ----------

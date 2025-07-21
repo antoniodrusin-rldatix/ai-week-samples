@@ -1,0 +1,25 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 964cfd84-f534-4707-ad60-c71d39acf8e6
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.43
+Title: 482.43 Discharge Planning
+
+---------- STANDARD ----------
+Name: CMS 482.43 (e)
+Code: 482.43
+Description: Reassessment
+
+
+
+---------- ELEMENTS ----------
+1. CMS 482.43.(e).A-0843 (A-0843)
+   §483.43(e) Standard:  Reassessment 
+ The hospital must reassess its discharge planning process on an on-going basis.  The reassessment must include a review of discharge plans to ensure that they are responsive to discharge needs. 
+
+
+---------- END OF DOCUMENT ----------

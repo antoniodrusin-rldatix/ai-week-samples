@@ -1,0 +1,71 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 7ee09e49-a628-43c1-9103-e96993b5dc30
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 071
+Description: Wholesale distributors; licensure
+
+---------- ELEMENTS ----------
+1. 450.071.1 (1)
+   No person may engage in the wholesale distribution of a prescription drug in this state without obtaining a license from the board for each facility from which the person distributes prescription drugs. The board shall exempt a manufacturer that distributes prescription drugs or devices manufactured by the manufacturer from licensing and other requirements under this section to the extent the license or requirement is not required under federal law or regulation, unless the board determines that it is necessary to apply a requirement to a manufacturer.
+
+2. 450.071.2 (2)
+   An applicant shall submit a form provided by the board showing all of the following and swear or affirm the truthfulness of each item in the application:
+(a) The name, business address, and telephone number of the applicant.
+(b) All trade or business names used by the applicant.
+(c) Names, addresses, and telephone numbers of contact persons for all facilities used by the applicant for the storage, handling, and distribution of prescription drugs.
+(d) The type of ownership or operation for the applicant's business.
+(e) If the applicant's wholesale distribution business is a partnership, the name of each partner and the name of the partnership.
+(f) If the applicant's wholesale distribution business is a corporation, the name of each corporate officer and director, the name of the corporation, and the state of incorporation.
+(g) If the applicant's wholesale distribution business is a sole proprietorship, the name of the sole proprietor and the name of the business entity.
+(h) A list of all licenses and permits issued to the applicant by any other state that authorizes the applicant to purchase or possess prescription drugs.
+(i) The name, address, and telephone number of a designated representative.
+(j) For the person listed in par. (i), a personal information statement that contains all of the following:
+1. The person's date and place of birth.
+2. The person's places of residence for the 7-year period immediately preceding the date of the application.
+3. The person's occupations, positions of employment, and offices held during the 7-year period immediately preceding the date of the application.
+4. The name and addresses for each business, corporation, or other entity listed in subd. 3.
+5. A statement indicating whether the person has been, during the 7-year period immediately preceding the date of the application, the subject of any proceeding for the revocation of any business or professional license and the disposition of the proceeding.
+6. A statement indicating whether the person has been, during the 7-year period immediately preceding the date of the application, enjoined by a court, either temporarily or permanently, from possessing, controlling, or distributing any prescription drug, and a description of the circumstances surrounding the injunction.
+7. A description of any involvement by the person during the past 7 years with any business, including investments other than the ownership of stock in a publicly traded company or mutual fund, that manufactured, administered, prescribed, distributed, or stored pharmaceutical products or drugs, and a list of any lawsuits in which such a business was named as a party.
+8. A description of any misdemeanor or felony criminal offense of which the person was, as an adult, found guilty, whether adjudication of guilt was withheld or the person pleaded guilty or no contest. If the person is appealing a criminal conviction, the application shall include a copy of the notice of appeal, and the applicant shall submit a copy of the final disposition of the appeal not more than 15 days after a final disposition is reached.
+9. A photograph of the person taken within the 12-month period immediately preceding the date of the application.
+(k) A statement that each facility used by the applicant for the wholesale distribution of prescription drugs has been inspected in the 3-year period immediately preceding the date of the application by the board, a pharmacy examining board of another state, the National Association of Boards of Pharmacy, or another accrediting body recognized by the board, with the date of each such inspection.
+
+3. 450.071.3 (3)
+   The board shall grant a license to the applicant to engage in the wholesale distribution of prescription drugs if all of the following apply:
+(a) The applicant pays the fee under s. 440.05 (1) (a).
+(b) The inspections conducted pursuant to sub. (2) (k) satisfy requirements adopted by the board for wholesale distribution facilities.
+(c) All of the following apply to each person identified by the applicant as a designated representative:
+1. The person is at least 21 years old.
+2. The person has been employed full time for at least 3 years in a pharmacy or with a wholesale prescription drug distributor in a capacity related to the dispensing and distribution of, and record keeping related to, prescription drugs.
+3. The person is employed by the applicant full time in a managerial level position.
+4. The person is physically present at the wholesale prescription drug distributor's facility during regular business hours and is involved in and aware of the daily operation of the wholesale prescription drug distributor. This subdivision does not preclude the designated representative from taking authorized sick leave and vacation time or from being absent from the facility for other authorized business or personal purposes.
+5. The person is actively involved in and aware of the daily operations of the wholesale distributor.
+6. The person is a designated representative for only one applicant at any given time. This subdivision does not apply if more than one wholesale distributor is located at the facility and the wholesale distributors located at the facility are members of an affiliated group.
+7. The person has not been convicted of violating any federal, state, or local law relating to wholesale or retail prescription drug distribution or distribution of a controlled substance.
+8. The person has not been convicted of a felony.
+9. The person submits to the department 2 fingerprint cards, each bearing a complete set of the applicant's fingerprints. The department of justice shall provide for the submission of the fingerprint cards to the federal bureau of investigation for the purposes of verifying the identity of the applicant and obtaining the applicant's criminal arrest and conviction record. This subdivision does not apply to a person accredited by the national association of boards of pharmacy's verified-accredited wholesale distributor program.
+
+4. 450.071.3m (3m)
+   Notwithstanding subs. (2) and (3), the board may grant a license to engage in the wholesale distribution of prescription drugs to a person who is domiciled in another state and is licensed to engage in the wholesale distribution of prescription drugs in another state, if the board determines that the standards for licensure in the state in which the person is licensed are at least as stringent as the standards for licensure under this section.
+
+5. 450.071.4 (4)
+   The board may set, by rule, continuing education requirements for designated representatives under this section.
+
+6. 450.071.5 (5)
+   (a) The board shall require every wholesale distributor to submit a surety bond acceptable to the board in an amount not to exceed $100,000 or other equivalent means of security acceptable to the board, except that the board shall not require submission of a bond or other security under this subsection by a chain pharmacy warehouse that is engaged only in intracompany transfers. A wholesale distributor that operates more than one facility is not required to submit a bond or other security under this paragraph for each facility.
+(b) The bond or other security under this subsection shall be used to secure payment of fees or costs that relate to the issuance of a license under this section and that have not been paid within 30 days after the fees or costs have become final. No claim may be made against a wholesale distributor's bond or other security under this subsection more than one year after the date on which the wholesale distributor's license expires.
+
+7. 450.071.6 (6)
+   Applications for licensure under this section are not subject to inspection or copying under s. 19.35, and may not be disclosed to any person except as necessary for compliance with and enforcement of the provisions of this chapter.
+
+---------- END OF DOCUMENT ----------

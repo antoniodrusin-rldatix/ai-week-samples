@@ -1,0 +1,56 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 3339371e-78af-4b63-b81a-f2e4ab8badbd
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.23
+Title: 482.23 Nursing Services
+
+OVERVIEW:
+The hospital must have an organized nursing service that provides 24-hour nursing services.  The nursing services must be furnished or supervised by a registered nurse.
+
+ABOUT:
+Interpretive Guidelines §482.23 The hospital must have an organized nursing service and must provide on premise nursing services 24 hours a day, 7 days a week with at least 1 registered nurse (RN) furnishing or supervising the service 24 hours a day, 7 days a week (Exception: small rural hospitals operating under a waiver as discussed in §482.23(b)(1)). The Social Security Act (SSA) at §1861(b) states that nursing services must be furnished to inpatients and furnished by the hospital. The SSA at §1861(e) further requires that the hospital have a RN on duty at all times (except small rural hospitals operating under a nursing waiver). The nursing service must be a well-organized service of the hospital and under the direction of a registered nurse. The nursing service must be integrated into the hospital-wide QAPI program. Survey Procedures §482.23 • Determine if the nursing service is integrated into the hospital-wide QAPI program. • Interview the director of the service. Request the following items: - Organizational chart(s) for nursing services for all locations where the hospital provides nursing services; - Job or position descriptions for all nursing personnel including the director’s position description. • Select at least one patient from every inpatient care unit. Observe the nursing care in progress to determine the adequacy of staffing and to assess the delivery of care. Other sources of information to use in the evaluation of the nursing services are: nursing care plans, medical records, patients, family members, accident and investigative reports, staffing schedules, nursing policies and procedures, and QAPI activities and reports. Interview patients for information relative to the delivery of nursing services. ______________________________________________________________________
+
+---------- STANDARD ----------
+Name: CMS 482.23 (b)
+Code: 482.23
+Description: Staffing and Delivery of Care
+
+---------- ELEMENTS ----------
+1. CMS 482.23.(b).A-0397 (A-0397)
+   §482.23(b)(5) - A registered nurse must assign the nursing care of each patient to other nursing personnel in accordance with the patient’s needs and the specialized qualifications and competence of the nursing staff available. 
+
+
+2. CMS 482.23.(b).A-0393 (A-0393)
+   §482.23(b)(1) - The hospital must provide 24-hour nursing services furnished or supervised by a registered nurse, and have a licensed practical nurse or registered nurse on duty at all times, except for rural hospitals that have in effect a 24-hour nursing waiver granted under §488.54(c)of this chapter. 
+
+3. CMS 482.23.(b).A-0395 (A-0395)
+   §482.23(b)(3) - A registered nurse must supervise and evaluate the nursing care for each patient. 
+
+
+4. CMS 482.23.(b).A-0394 (A-0394)
+   §482.23(b)(2) - The nursing service must have a procedure to ensure that hospital nursing personnel for whom licensure is required have valid and current licensure. 
+
+
+5. CMS 482.23.(b).A-0396 (A-0396)
+   §482.23(b)(4) - The hospital must ensure that the nursing staff develops and keeps current a nursing care plan for each patient that reflects the patient's goals and the nursing care to be provided to meet the patient's needs. The nursing care plan may be part of an interdisciplinary care plan.
+
+6. CMS 482.23.(b).A-0398 (A-0398)
+   §482.23(b)(6) - All licensed nurses who provide services in the hospital must adhere to the policies and procedures of the hospital. The director of nursing service must provide for the adequate supervision and evaluation of the clinical activities of all nursing personnel which occur within the responsibility of the nursing service, regardless of the mechanism through which those personnel are providing services (that is, hospital employee, contract, lease, other agreement, or volunteer).
+
+7. CMS 482.23.(b).A-0392 (A-0392)
+   §482.23(b) Standard:  Staffing and Delivery of Care 
+The nursing service must have adequate numbers of licensed registered nurses, licensed practical (vocational) nurses, and other personnel to provide nursing care to all patients as needed. There must be supervisory and staff personnel for each department or nursing unit to ensure, when needed, the immediate availability of a registered nurse for the care of any patient.
+
+8. CMS 482.23.(b).A-0399 (A-0399)
+   §482.23(b)(7) - The hospital must have policies and procedures in place establishing which outpatient departments, if any, are not required under hospital policy to have a registered nurse present.  The policies and procedures must: 
+(i)  Establish the criteria such outpatient departments must meet, taking into account the types of services delivered, the general level of acuity of patients served by the department, and the established standards of practice for the services delivered;  
+(ii)  Establish alternative staffing plans; 
+(iii)  Be approved by the director of nursing; 
+(iv)  Be reviewed at least once every 3 years 
+
+---------- END OF DOCUMENT ----------

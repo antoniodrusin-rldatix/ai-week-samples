@@ -1,0 +1,36 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: cfb171a2-f8b6-4af3-8afb-460c184dcb0d
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.41
+Title: 482.41 Physical Environment
+
+OVERVIEW:
+The hospital must be constructed, arranged, and maintained to ensure the safety of the patient, and to provide facilities for diagnosis and treatment and for special hospital services appropriate to the needs of the community.
+
+ABOUT:
+Interpretive Guidelines §482.41 This CoP applies to all locations of the hospital, all campuses, all satellites, all providerbased activities, and all inpatient and outpatient locations. The hospital’s Facility Maintenance and hospital departments or services responsible for the hospital’s buildings and equipment (both facility equipment and patient care equipment) must be incorporated into the hospital’s QAPI program and be in compliance with the QAPI requirements. Survey Procedures §482.41 Survey of the Physical Environment CoP should be conducted by one surveyor.  However, each surveyor as he/she conducts his/her survey assignments should assess the hospital’s compliance with the Physical Environment CoP.  The Life Safety Code survey may be conducted separately by a specialty surveyor.
+
+---------- STANDARD ----------
+Name: CMS 482.41 (a)
+Code: 482.41
+Description: Buildings
+
+---------- ELEMENTS ----------
+1. CMS 482.41.(a).A-0702 (A-0702)
+   §482.41(a)(1) - There must be emergency power and lighting in at least the operating, recovery, intensive care, and emergency rooms, and stairwells.  In all other areas not serviced by the emergency supply source, battery lamps and flashlights must be available. 
+
+
+2. CMS 482.41.(a).A-0703 (A-0703)
+   §482.41(a)(2) - There must be facilities for emergency gas and water supply. 
+
+
+3. CMS 482.41.(a).A-0701 (A-0701)
+   §482.41(a) Standard:  Buildings 
+ The condition of the physical plant and the overall hospital environment must be developed and maintained in such a manner that the safety and well-being of patients are assured. 
+
+---------- END OF DOCUMENT ----------

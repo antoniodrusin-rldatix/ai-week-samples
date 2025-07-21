@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 1922eddd-10d5-423e-bc78-edb43226eace
+
+---------- REGULATION ----------
+Name: Home
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Home
+
+---------- ELEMENTS ----------
+1. 01.01.HOME (HOME)
+   Home
+
+---------- END OF DOCUMENT ----------

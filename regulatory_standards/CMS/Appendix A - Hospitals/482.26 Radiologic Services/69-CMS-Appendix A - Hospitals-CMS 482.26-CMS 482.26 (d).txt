@@ -1,0 +1,34 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 510ac5ac-426e-45b6-9777-41306b962167
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.26
+Title: 482.26 Radiologic Services
+
+---------- STANDARD ----------
+Name: CMS 482.26 (d)
+Code: 482.26
+Description: Records 
+
+
+---------- ELEMENTS ----------
+1. CMS 482.26.(d).A-0553 (A-0553)
+   §482.26(d) Standard: Records  
+ 
+Records of radiologic services must be maintained.  
+ (1) - The radiologist or other practitioner who performs radiology services must sign reports of his or her interpretations.  
+ (2) - The hospital must maintain the following for at least 5 years:  (i)  Copies of reports and printouts.  (ii) Films, scans, and other image records, as appropriate. 
+
+2. CMS 482.26.(d).2 (2)
+   The hospital must maintain the following for at least 5 years:
+
+(i) Copies of reports and printouts.
+
+(ii) Films, scans, and other image records, as appropriate.
+
+
+---------- END OF DOCUMENT ----------

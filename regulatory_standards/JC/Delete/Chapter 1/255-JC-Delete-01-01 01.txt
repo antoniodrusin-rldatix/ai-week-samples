@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 3997299a-e593-440d-89df-2f0f87caabe4
+
+---------- REGULATION ----------
+Name: Delete
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: delete
+
+---------- ELEMENTS ----------
+1. 01.01.01 (01)
+   deleted standard
+
+---------- END OF DOCUMENT ----------

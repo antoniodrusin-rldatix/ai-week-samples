@@ -1,0 +1,29 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 98010bea-b77a-431d-8ff7-88b1056207a1
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.54
+Title: 482.54 Outpatient Services
+
+---------- STANDARD ----------
+Name: CMS 482.54 (b)
+Code: 482.54
+Description: Personnel
+
+---------- ELEMENTS ----------
+1. CMS 482.54.(b).2 (2)
+   Have appropriate professional and nonprofessional personnel available at each location where outpatient services are offered, based on the scope and complexity of outpatient services.
+
+2. CMS 482.54.(b).A-1079 (A-1079)
+   §482.54(b) Standard:  Personnel 
+ The hospital must --  
+ 
+(1) Assign one or more individuals to be responsible for outpatient services.  
+ 
+(2) Have appropriate professional and nonprofessional personnel available at each location where outpatient services are offered, based on the scope and complexity of outpatient services. 
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: aa223893-e8ad-4188-b7c4-009f973b6209
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0170
+Description: Violations
+
+---------- ELEMENTS ----------
+1. 450.0170.1 (1)
+   Each member of the board shall investigate and institute actions for violations of this chapter by any person and for violation of ch. 961 by pharmacists. The district attorney of the proper county shall promptly prosecute any such violation upon notice from any source
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,23 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 17f7cccb-107b-4e2f-a399-d7ea87057112
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 09
+Title: no type AND all types
+
+---------- STANDARD ----------
+Name: 09 01
+Description: mixed
+
+---------- ELEMENTS ----------
+1. 09.01.01 (01)
+   no type
+
+2. 09.01.99 (99)
+   all types
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,55 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: fee48f6c-17de-46cf-b2b7-e461886b9d6a
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0137
+Description: Access to investigational drugs, devices, and biological products for terminally ill patients
+
+---------- ELEMENTS ----------
+1. 450.0137.1 (1)
+   Definitions. In this section:
+(a) “Eligible patient" means a patient who is eligible under sub. (2).
+(b) “Investigational drug, device, or biological product" means a drug, device, or biological product that has not been approved or licensed for use by the federal food and drug administration and meets all of the following conditions:
+1. The drug, device, or biological product has successfully completed a phase one clinical trial approved by the federal food and drug administration.
+2. The drug, device, or biological product remains under investigation in a phase 2 or 3 clinical trial approved by the federal food and drug administration or has completed a phase 3 clinical trial and is pending approval or licensure by the federal food and drug administration.
+3. The active development or production of the drug, device, or biological product is ongoing and has not been discontinued by the manufacturer or placed on clinical hold under 21 USC 355 (i).
+(c) “Life-threatening disease or condition” means a disease or condition that is life-threatening, as defined in 21 CFR 312.81 (a).
+
+2. 450.0137.2 (2)
+   Eligibility. An individual is an eligible patient for purposes of this section if the individual meets all of the following conditions:
+(a) Has been diagnosed with a life-threatening disease or condition.
+(b) Has exhausted approved treatment options and is unable to participate in a clinical trial involving the investigational drug, device, or biological product.
+(c) Has received a recommendation or prescription order from the individual's treating physician for an investigational drug, device, or biological product.
+(d) Has given written informed consent to use the investigational drug, device, or biological product. The content of the written informed consent provided by the patient shall be consistent with and at least as comprehensive as the consent used in clinical trials for the investigational drug, device, or biological product.
+(e) Is aware of the potential costs that may be associated with or otherwise result from the use of the investigational drug, device, or biological product under this section.
+(f) Possesses a written verification executed by the individual's treating physician attesting that the individual meets the conditions under pars. (a) to (e), and that the physician is not compensated directly by the manufacturer of the investigational drug, device, or biological product for making that attestation.
+
+3. 450.0137.3 (3)
+   Manufacturers. A manufacturer of an investigational drug, device, or biological product may, but is not required to, make that investigational drug, device, or biological product available to an eligible patient. If the manufacturer charges an eligible patient for an investigational drug, device, or biological product, the manufacturer may not charge more than an amount that is equal to the manufacturer's actual cost to manufacture the investigational drug, device, or biological product provided to the eligible patient.
+
+4. 450.0137.4 (4)
+   Limitations of liability.
+(a) A physician is immune from civil or criminal liability or from professional discipline under s. 448.02 based solely on the physician's recommendation to an eligible patient for the use of an investigational drug, device, or biological product to treat the patient's life-threatening disease or condition if the eligible patient gives written informed consent that satisfies sub. (2) (d) and s. 448.30.
+450.137(4)(b)(b) Any manufacturer, distributor, pharmacist, practitioner, health care facility, or other person who lawfully makes available, delivers, distributes, prescribes, dispenses, or administers an investigational drug, device, or biological product to an eligible patient consistent with this section, and who in doing so exercises reasonable care, may not be held liable in any action under state law for any loss, damage, or injury arising out of, relating to, or resulting from any of the following:
+1. The design, development, clinical testing, investigation, manufacture, labeling, distribution, sale, purchase, donation, dispensing, prescribing, administration, or use of the investigational drug, device, or biological product.
+2. The lack of safety or effectiveness of the investigational drug, device, or biological product.
+
+5. 450.0137.5 (5)
+   Reporting. The manufacturer or sponsor of an investigational drug, device, or biological product that makes the investigational drug, device, or biological product available to a patient in this state shall submit to the federal food and drug administration an annual summary of the use of the investigational drug, device, or biological product. The summary shall include the number of doses supplied, the number of patients treated, the uses for which it was made available, and any known serious adverse events.
+
+6. 450.0137.6 (6)
+   State officials. No official, employee, or agent of this state may block or attempt to block an eligible patient's access to an investigational drug, device, or biological product. Any counseling, advice, or recommendation of a practitioner that is consistent with the applicable standard of care for the practitioner is not a violation of this subsection.
+
+7. 450.0137.7 (7)
+   Insurance. Nothing in this section alters the obligations of an eligible patient's insurer under the contract of insurance and applicable law.
+NOTE: This section was created as s. 450.135 by 2017 Wis. Act 165 and renumbered s. 450.137 by the legislative reference bureau under s. 13.92 (1) (bm) 2.
+
+---------- END OF DOCUMENT ----------

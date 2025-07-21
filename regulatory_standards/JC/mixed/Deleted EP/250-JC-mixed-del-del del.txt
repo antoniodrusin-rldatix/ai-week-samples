@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 9931bea3-6d94-4f0b-98a3-d1d413d5e282
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: del
+Title: Deleted EP
+
+---------- STANDARD ----------
+Name: del del
+Description: deleted EP
+
+---------- ELEMENTS ----------
+1. del.del.deleted (deleted)
+   deleted
+
+---------- END OF DOCUMENT ----------

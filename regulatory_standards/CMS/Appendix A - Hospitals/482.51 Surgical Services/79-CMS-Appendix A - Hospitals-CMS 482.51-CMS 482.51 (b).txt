@@ -1,0 +1,50 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: aabb565b-d158-475e-ad1a-237888a54237
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.51
+Title: 482.51 Surgical Services
+
+---------- STANDARD ----------
+Name: CMS 482.51 (b)
+Code: 482.51
+Description: Delivery of Service
+
+---------- ELEMENTS ----------
+1. CMS 482.51.(b).A-0956 (A-0956)
+   §482.51(b)(3) - The following equipment must be available to the operating room suites:  call-in system, cardiac monitor, resuscitator, defibrillator, aspirator, and tracheotomy set. 
+
+2. CMS 482.51.(b).A-0955 (A-0955)
+   §482.51(b)(2) - A properly executed informed consent form for the operation must be in the patient’s chart before surgery, except in emergencies. 
+
+3. CMS 482.51.(b).A-0959 (A-0959)
+   §482.51(b)(6) - An operative report describing techniques, findings, and tissues removed or altered must be written or dictated immediately following surgery and signed by the surgeon. 
+
+4. CMS 482.51.(b).A-0958 (A-0958)
+   §482.51(b)(5) - The operating room register must be complete and up-to-date. 
+
+5. CMS 482.51.(b).A-0957 (A-0957)
+   §482.51(b)(4) - There must be adequate provisions for immediate post-operative care. 
+
+
+6. CMS 482.51.(b).A-0951 (A-0951)
+   §482.51(b) Standard:  Delivery of Service 
+ Surgical services must be consistent with needs and resources.  Policies governing surgical care must be designed to assure the achievement and maintenance of high standards of medical practice and patient care. 
+
+7. CMS 482.51.(b).A-0952 (A-0952)
+   §482.51(b)(1) - Prior to surgery or a procedure requiring anesthesia services and except in the case of emergencies: 
+  (i) A medical history and physical examination must be completed and documented no more than 30 days before or 24 hours after admission or registration, and except as provided under paragraph (b)(1)(iii) of this section. 
+
+8. CMS 482.51.(b).A-0953  (A-0953 )
+   §482.51(b)(1) - Prior to surgery or a procedure requiring anesthesia services and except in the case of emergencies: 
+  (ii) An updated examination of the patient, including any changes in the patient’s condition, must be completed and documented within 24 hours after admission or registration when the medical history and physical examination are completed within 30 days before admission or registration, and except as provided under paragraph (b)(1)(iii) of this section. 
+
+9. CMS 482.51.(b).A-0954  (A-0954 )
+   §482.51(b)(1) - Prior to surgery or a procedure requiring anesthesia services and except in the case of emergencies: 
+  (iii) An assessment of the patient must be completed and documented after registration (in lieu of the requirements of paragraphs (b)(1)(i) and (ii) of this section) when the patient is receiving specific outpatient surgical or procedural services and when the medical staff has chosen to develop and maintain a policy that identifies, in accordance with the requirements at § 482.22(c)(5)(v), specific patients as not requiring a comprehensive medical history and physical examination, or any update to it, prior to specific outpatient surgical or procedural services. 
+
+---------- END OF DOCUMENT ----------

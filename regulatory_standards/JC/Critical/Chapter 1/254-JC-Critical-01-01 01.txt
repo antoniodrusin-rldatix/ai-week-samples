@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 8ef77c19-e83b-4ed4-9361-854ec46ad6c4
+
+---------- REGULATION ----------
+Name: Critical
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Critical
+
+---------- ELEMENTS ----------
+1. 01.01.CRIT (CRIT)
+   Critical
+
+---------- END OF DOCUMENT ----------

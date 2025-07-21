@@ -1,0 +1,22 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 46157598-5c2b-416b-973e-53efc65b6ec0
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.54
+Title: 482.54 Outpatient Services
+
+---------- STANDARD ----------
+Name: CMS 482.54 -
+Description: Standard-level Tag for Condition of Participation:  Outpatient Services
+
+---------- ELEMENTS ----------
+1. CMS 482.54.-.A-1081 (A-1081)
+   Standard-level Tag for  
+ §482.54 Condition of Participation:  Outpatient Services 
+ If the hospital provides outpatient services, the services must meet the needs of the patients in accordance with acceptable standards of practice. 
+
+---------- END OF DOCUMENT ----------

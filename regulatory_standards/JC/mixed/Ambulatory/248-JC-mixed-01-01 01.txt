@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 08ea41fe-7bc5-40b6-8649-cdd7ad1c93e1
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Ambulatory
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Amb
+
+---------- ELEMENTS ----------
+1. 01.01.01 (01)
+   amb
+
+---------- END OF DOCUMENT ----------

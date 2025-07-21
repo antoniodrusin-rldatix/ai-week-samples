@@ -2,9 +2,9 @@
 import json
 
 # The OpenAI API Key
-api_key = "<Your API Key>"
+api_key = "<your key>"
 # OpenAI API base URL
-url = "<your region's url>"
+url = "open AI url"
 
 headers = {
     "Authorization": f"Bearer {api_key}",
@@ -19,28 +19,30 @@ print(f"Status Code: {response.status_code}")
 
 # Parse the JSON response
 models_data = json.loads(response.text)
+for model in models_data["data"]:
+    print(model["id"])
 
 # Search for a model with "llama3-2-11b-instruct" in its ID
-llama_model_id = None
+selected_model_id = None
 if "data" in models_data:
     for model in models_data["data"]:
-        if "llama3-2-11b-instruct" in model["id"]:
-            llama_model_id = model["id"]
-            print(f"Found matching model: {llama_model_id}")
+        if "amazon.nova-premier" in model["id"]:
+            selected_model_id = model["id"]
+            print(f"Found matching model: {selected_model_id}")
             break
 
 # If a matching model is found, make a text generation request
-if llama_model_id:
+if selected_model_id:
     # Define the completion endpoint and payload
     completions_url = f"{url}/chat/completions"
     payload = {
-        "model": llama_model_id,
+        "model": selected_model_id,
         "messages": [
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": "Tell me a short story about artificial intelligence."}
         ],
         "max_tokens": 300,
-        "temperature": 0.7
+        "temperature": 0.1,
     }
 
     # Make the text generation request

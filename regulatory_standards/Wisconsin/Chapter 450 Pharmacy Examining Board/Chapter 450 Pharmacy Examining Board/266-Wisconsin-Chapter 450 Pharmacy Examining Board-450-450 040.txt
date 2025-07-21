@@ -1,0 +1,27 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: b8722f61-c490-4007-a7f6-2dc86f929bc3
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 040
+Description: Examinations
+
+---------- ELEMENTS ----------
+1. 450.040.1 (1)
+   Examinations for licensure as a pharmacist shall be designed to determine whether an applicant is competent to engage in the practice of pharmacy.
+
+2. 450.040.2 (2)
+   Examinations shall be conducted at least semiannually.
+
+3. 450.040.3 (3)
+   Every candidate for examination for licensure as a pharmacist shall submit an application on a form provided by the department and pay the fee specified in s. 440.05 (1) at least 30 days before the date of examination.
+
+
+---------- END OF DOCUMENT ----------

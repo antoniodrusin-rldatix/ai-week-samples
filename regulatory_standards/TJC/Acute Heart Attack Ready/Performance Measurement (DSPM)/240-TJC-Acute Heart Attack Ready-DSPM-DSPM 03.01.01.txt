@@ -1,0 +1,46 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 3c159c2f-ab0a-4848-97c1-e96118b1b448
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSPM
+Title: Performance Measurement (DSPM)
+
+OVERVIEW:
+Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+
+---------- STANDARD ----------
+Name: DSPM 03.01.01
+Description: The disease-specific care program utilizes data for performance improvement.
+
+RATIONALE:
+Planning is essential to achieving and sustaining improved performance. Leaders who evaluate data related to organizational processes and outcomes have a better awareness of how well they are performing and where opportunities for improvement exist. After leaders identify the processes and outcomes that will be the focus for improvement, the leaders needs to create a detailed plan that will communicate to staff the goals, expectations, data to collect, and timelines for activity. This detailed plan provides structure and focus for both leaders and staff that will lead to meaningful and sustainable change. This sends a message to staff that ongoing attention and vigilance at all levels of the organization are critical in the quest for health care high reliability. By continuously evaluating and improving these patient-care processes, the program can continuously evaluate and improve their processes to adapt to changing market dynamics, deliver superior products or services, and achieve sustainable growth. Performance improvement helps programs systematically evaluate their processes, identify areas for improvement, and implement effective solutions.
+
+---------- ELEMENTS ----------
+1. DSPM.03.01.01 EP01 (EP 01)
+   The disease-specific care program utilizes standardized performance improvement methodology.
+
+2. DSPM.03.01.01 EP02 (EP 02)
+   The disease-specific care program utilizes data to develop a written performance improvement plan that identifies the program’s goals and priorities that is reviewed at least annually. The performance improvement plan aligns with the organization’s performance improvement initiatives.
+
+3. DSPM.03.01.01 EP03 (EP 03)
+   The disease-specific care program involves staff and members of the interdisciplinary team in performance improvement planning, goal setting, and activities.
+
+4. DSPM.03.01.01 EP04 (EP 04)
+   At least quarterly, members of the interdisciplinary team participate in meetings to review the effectiveness of interventions related to operational issues and performance data and to identify opportunities for improvement. Documentation includes attendance records and meeting minutes.
+
+Requirements Specific to Acute Heart Attack Ready Certification
+a. Representatives of the interdisciplinary team participate in meetings to review the assessment, diagnosis, and treatment provided to patients with acute coronary syndrome, including review of cardiac arrest and cardiogenic shock and any transfer-related issues. Documentation includes attendance records and meeting minutes.
+b. The program’s interdisciplinary team and other practitioners participate in the review of all major adverse cardiac events including but not limited to the following:
+- Unanticipated death
+- Bleeding/hemorrhage occurrences post intervention
+- Stroke occurrences post intervention
+- Other severe complications as determined by the organization
+
+5. DSPM.03.01.01 EP05 (EP 05)
+   The disease-specific care program takes action when performance improvement activities are not achieved or sustained. These initiatives are documented in the program’s performance improvement plan.
+
+---------- END OF DOCUMENT ----------

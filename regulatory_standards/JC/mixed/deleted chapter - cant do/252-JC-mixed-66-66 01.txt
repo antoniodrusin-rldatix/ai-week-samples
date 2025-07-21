@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: d9941f7b-881c-49c9-93d0-f35ebcea76ef
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 66
+Title: deleted chapter - cant do
+
+---------- STANDARD ----------
+Name: 66 01
+Description: deleted chapter
+
+---------- ELEMENTS ----------
+1. 66.01.01 (01)
+   deleted chapter
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,43 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: e2636643-ad4c-4a02-86c7-8366294f06e9
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSPR
+Title: Program Management (DSPR)
+
+OVERVIEW:
+Providing high-quality care requires an infrastructure capable of supporting the activities of the patient and practitioner. Leaders must commit resources to support, evaluate, and improve services. Commitments such as these require leaders to know their organization’s strengths, challenges, and areas for improvement. They must also have a thorough understanding of their patient population so that the care they provide is relevant to their population’s needs. The standards in this chapter focus on the following: - Designing and implementing the program - Evaluating the program - Offering a relevant program for patients - Providing safe and adequate access to care - Conducting the program in an ethical manner - Supplying reference resources to practitioners - Offering the program in safe and accessible facilities Please note that not all standards or elements of performance apply to every disease-specific care program. For example, disease management service providers may facilitate or support care by telephone interventions but may not have a physical site where patients are seen or gathered. In these cases, the facility standards may not apply. Each disease-specific care program should consider its individual circumstances and services.
+
+---------- STANDARD ----------
+Name: DSPR 02.01.01
+Description: The disease-specific care program makes certain that physicians, other licensed practitioners, and staff are qualified and competent.
+
+RATIONALE:
+The safety and quality of care, treatment, and services are highly dependent on the people who work in the disease-specific care program. Therefore, the complexity of care provided by the program defines the skill sets and the number of qualified and competent staff needed to perform various patient-care tasks.
+
+---------- ELEMENTS ----------
+1. DSPR.02.01.01 EP1 (EP 1)
+   The leader(s) of the organization develops and implements a process to verify the credentials of physicians, other licensed practitioners, and staff to make certain that they are practicing within the scope of their licensure, privileging, certification, registration, and training, as applicable to their job roles and responsibilities in the disease-specific care program.
+
+2. DSPR.02.01.01 EP2 (EP 2)
+   The disease-specific care program defines in writing the initial and ongoing competencies for staff who provide disease-specific care, treatment, and services.
+
+3. DSPR.02.01.01 EP3 (EP 3)
+   The disease-specific care program provides initial and ongoing education and training, at least annually and at intervals determined by the program, to maintain or increase competency for staff as applicable to their roles and responsibilities in the care, treatment, and services provided. Documentation is required.
+Note: The program considers the needs of its staff, patients, and communities served; program goals and objectives; and current evidence-based literature when developing education and training.
+
+Requirement Specific to Acute Stroke Ready Certification
+a. The acute stroke ready hospital makes educational opportunities available to prehospital personnel, as defined by the program.
+
+4. DSPR.02.01.01 EP4 (EP 4)
+   The leader(s) of the organization develops and implements a process to evaluate the competency of each physician, other licensed practitioner, and staff member who provides disease-specific care, treatment, and services at intervals determined by the program. Documentation is required.
+Note: The process for ongoing professional practice evaluation is determined by the organization’s medical staff bylaws and applicable law and regulation.
+
+5. DSPR.02.01.01 EP5 (EP 5)
+   The leader(s) of the organization and the disease-specific care program develop and implement a process to make certain that the physicians and other licensed practitioners are privileged to provide disease-specific care, treatment, and services as defined by the organization’s medical staff process and applicable law and regulation.
+
+---------- END OF DOCUMENT ----------

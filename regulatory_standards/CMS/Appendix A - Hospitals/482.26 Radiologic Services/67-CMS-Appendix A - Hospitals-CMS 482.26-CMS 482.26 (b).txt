@@ -1,0 +1,47 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: b4d4a68c-28e5-4805-94dd-9d100f257a96
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.26
+Title: 482.26 Radiologic Services
+
+---------- STANDARD ----------
+Name: CMS 482.26 (b)
+Code: 482.26
+Description: Safety for Patients and Personnel
+
+
+INTRODUCTION:
+-
+
+---------- ELEMENTS ----------
+1. CMS 482.26.(b).A-0538 (A-0538)
+   §482.26(b)(3) - Radiation workers must be checked periodically, by the use of exposure meters or badge tests, for amount of radiation exposure. 
+
+2. CMS 482.26.(b).A-0537 (A-0537)
+   §482.26(b)(2) - Periodic inspection of equipment must be made and hazards identified must be properly corrected.
+
+
+3. CMS 482.26.(b).A-0536 (A-0536)
+   §482.26(b)(1) - Proper safety precautions must be maintained against radiation hazards. This includes adequate shielding for patients, personnel, and facilities, as well as appropriate storage, use and disposal of radioactive materials.
+
+4. CMS 482.26.(b).A-0539 (A-0539)
+   §482.26(b)(4) - Radiologic services must be provided only on the order of practitioners with clinical privileges or, consistent with State law, of other practitioners authorized by the medical staff and the governing body to order the services.  
+
+
+5. CMS 482.26.(b).654 (654)
+   gsd
+
+6. CMS 482.26.(b).A-0535 (A-0535)
+   [§482.26 Condition of Participation: Radiologic Services  
+ 
+…. If therapeutic services are also provided, they, as well as the diagnostic services, must meet professionally approved standards for safety and personnel qualifications.] 
+ §482.26(b) Standard: Safety for Patients and Personnel  
+ 
+The radiologic services, particularly ionizing radiology procedures, must be free from hazards for patients and personnel. 
+
+---------- END OF DOCUMENT ----------

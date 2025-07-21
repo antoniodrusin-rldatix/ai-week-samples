@@ -1,0 +1,25 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: aa616b41-2145-4151-b33d-106869987be6
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: CPR
+Title: Certification Participation Requirements (CPR)
+
+OVERVIEW:
+This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+
+---------- STANDARD ----------
+Name: CPR 10
+Description: The organization accepts the presence of Joint Commission reviewer management staff or a Board of Commissioners member in the role of observer of an on-site review. 
+
+---------- ELEMENTS ----------
+1. CPR.10 EP01 (EP 01)
+   The organization allows Joint Commission reviewer management staff or a member of the Board of Commissioners to observe the on-site review. 
+Note 1: The observer will not participate in the on-site review process, including the scoring of standards compliance. Reviewer management staff will only participate in the review process if he or she feels it is necessary to bring any potential findings or observations to the attention of the reviewer and the organization. 
+Note 2: The organization will not incur any additional fees because an observer(s) is present. 
+
+---------- END OF DOCUMENT ----------

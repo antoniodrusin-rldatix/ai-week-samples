@@ -1,0 +1,26 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: c6e75e95-655e-4560-aece-d2dc5dadfa4e
+
+---------- REGULATION ----------
+Name: Ambulatory
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 01
+Title: Chapter 1
+
+---------- STANDARD ----------
+Name: 01 01
+Description: Ambulatory
+
+---------- ELEMENTS ----------
+1. 01.01.AMB (AMB)
+   
+
+2. 01.01.AMB (AMB)
+   aMBULATORY
+
+3. 01.01.AMB (AMB)
+   aMBULATORY
+
+---------- END OF DOCUMENT ----------

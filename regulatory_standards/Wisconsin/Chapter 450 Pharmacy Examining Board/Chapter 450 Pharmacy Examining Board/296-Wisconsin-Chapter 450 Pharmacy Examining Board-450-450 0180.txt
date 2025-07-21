@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 32734679-4c73-48f2-8d9d-cd9dbe6cbd69
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0180
+Description: Penalties
+
+---------- ELEMENTS ----------
+1. 450.0180.1 (1)
+   Except as otherwise provided in this chapter, any person who violates this chapter or any rule promulgated under the authority of this chapter may be fined not less than $50 nor more than $100 or imprisoned not less than 30 days nor more than 90 days or both.
+
+---------- END OF DOCUMENT ----------

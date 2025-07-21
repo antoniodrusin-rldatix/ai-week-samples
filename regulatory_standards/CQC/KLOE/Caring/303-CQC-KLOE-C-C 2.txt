@@ -1,0 +1,52 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: a87b320b-dd46-41bc-b64a-e9aebb78d866
+
+---------- REGULATION ----------
+Name: KLOE
+Regulatory Entity: CQC
+
+---------- CHAPTER ----------
+Name: C
+Title: Caring
+
+OVERVIEW:
+By caring, we mean that the service involves and treats people with compassion, kindness, dignity and respect.
+
+---------- STANDARD ----------
+Name: C 2
+Description: How does the service support people to express their views and be actively involved in making decisions about their care, treatment and support as far as possible? 
+
+
+---------- ELEMENTS ----------
+1. C.2.1 (1)
+   Do staff communicate with people so that they understand their care, treatment and
+condition and any advice given? 
+
+2. C.2.2 (2)
+   Do staff seek accessible ways to communicate with people when their protected equality or
+other characteristics make this necessary?
+
+3. C.2.3 (3)
+   How do staff make sure that people who use services and those close to them are able to
+find further information, including community and advocacy services, or ask questions
+about their care and treatment? How are they supported to access these?
+
+4. C.2.4 (4)
+   Are people empowered and supported, where necessary, to use and link with support
+networks and advocacy, so that it will have a positive impact on their health, care and
+wellbeing?
+
+5. C.2.5 (5)
+   Do staff routinely involve people who use services and those close to them (including
+carers and dependants) in planning and making shared decisions about their care and
+treatment? Do people feel listened to, respected and have their views considered?
+
+6. C.2.6 (6)
+   Are people’s carers, advocates and representatives, including family members and friends,
+identified, welcomed and treated as important partners in the delivery of their care?
+
+7. C.2.7 (7)
+   What emotional support and information is provided to those close to people who use
+services, including carers, family and dependants? 
+
+---------- END OF DOCUMENT ----------

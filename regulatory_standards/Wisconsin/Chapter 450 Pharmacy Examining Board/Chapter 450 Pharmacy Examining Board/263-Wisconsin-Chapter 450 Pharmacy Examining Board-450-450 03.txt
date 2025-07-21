@@ -1,0 +1,47 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: c14575dd-2b22-4bf4-b40f-2c172301b9a4
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 03
+Description: Pharmacist; licensure
+
+---------- ELEMENTS ----------
+1. 450.03.1 (1)
+   No person may engage in the practice of pharmacy or use the title “pharmacist" or sell, give away or barter drugs unless the person is licensed as a pharmacist by the board. This subsection does not apply to:
+(a) The offer to sell or sale of contraceptive articles, as defined under s. 450.155 (1) (a), by a registered nurse licensed under s. 441.06.
+(b) The sale of any nonprescription drug product, in an original unbroken package, which complies with 21 USC 301 to 392.
+(c) The sale of pesticides which comply with ss. 94.67 to 94.71.
+(d) The delivery of complimentary samples of drug products or devices to a practitioner by a manufacturer or its agent acting in the usual course of business.
+(e) Any person lawfully practicing within the scope of a license, permit, registration, certificate, or certification granted to provide home medical oxygen under s. 450.076, to practice professional or practical nursing or nurse-midwifery under ch. 441, to practice dentistry or dental hygiene under ch. 447, to practice medicine and surgery under ch. 448, to practice optometry under ch. 449 or to practice veterinary medicine under ch. 89, or as otherwise provided by statute.
+(f) A person who has successfully completed his or her second year in, and is enrolled at, an accredited school of pharmacy and whose practice of pharmacy is limited to performing duties under the direct supervision of a person licensed as a pharmacist by the board.
+(g) A person who has applied for a license under s. 450.05 whose practice of pharmacy is limited to performing duties under the direct supervision of a person licensed as a pharmacist by the board and during the period before which the board takes final action on the person's application.
+(h) The provision of services by a health care provider under s. 257.03.
+(i) Any person who is providing services, including administering vaccines or drugs as authorized under s. 450.035, as directed, supervised, and inspected by a pharmacist who has the power to direct, decide, and oversee the implementation of the services rendered, subject to any rules promulgated by the board and subject to s. 450.035 (2m).
+(j) A person who dispenses, distributes, or sells dialysate drugs or devices necessary for providing home peritoneal kidney dialysis to a patient with end-stage renal disease if all of the following apply:
+1. The person is licensed under s. 450.07 or 450.071, or is an agent of a person licensed under s. 450.07 or 450.071.
+2. The person lawfully holds the dialysate drugs or devices.
+3. The dialysate drugs or devices are held and delivered in their original, sealed packaging from the manufacturing facility.
+4. The dialysate drugs or devices are delivered only pursuant to a prescription order issued by a licensed physician and only if an order from a licensed pharmacy is transmitted to the person.
+5. The dialysate drugs or devices are delivered to one of the following:
+a. A patient with end-stage renal disease or the patient's designee, for the patient to self-administer the dialysis therapy.
+b. A health care provider or institution, for administration or delivery of the dialysis therapy to a patient with end-stage renal disease.
+6. If required by federal law, the dialysate drugs or devices are approved or cleared by the federal food and drug administration.
+(k) A person who sells, gives away, or barters hemp, as defined in s. 94.55 (1), or takes any of the actions described in s. 450.01 (16) (a) to (k) in relation to hemp.
+
+2. 450.03.2 (2)
+   Except as provided in s. 450.10, the board shall issue a license as a pharmacist to any person who does all of the following:
+(a) Has received a professional degree from a pharmacy program approved by the board.
+(b) Has completed an internship in the practice of pharmacy or has practical experience acquired in another state that is comparable to that included in an internship and that is approved and verified by the board or by the agency that is the equivalent of the board in the state in which the practical experience was acquired.
+(c) Passes the examination under s. 450.04.
+(d) Pays the fee specified in s. 440.05 (1).
+
+
+---------- END OF DOCUMENT ----------

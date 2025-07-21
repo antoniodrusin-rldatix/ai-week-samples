@@ -1,0 +1,29 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 4520d77f-0fe6-46f1-8438-b8087b380a6d
+
+---------- REGULATION ----------
+Name: 2019.1 R
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: M
+Title: MIke
+
+---------- STANDARD ----------
+Name: M 01
+Description: this is a test
+
+---------- ELEMENTS ----------
+1. M.01.01 (01)
+   Testing
+
+2. M.01.01 (01)
+   01
+
+3. M.01.02 (02)
+   02
+
+4. M.01.01 (01)
+   01
+
+---------- END OF DOCUMENT ----------

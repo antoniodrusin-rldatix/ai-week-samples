@@ -1,0 +1,30 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 1660e66b-2299-4282-bb60-95d3ece9909b
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 070
+Description: Manufacturers; licensure
+
+---------- ELEMENTS ----------
+1. 450.070.1 (1)
+   Except as provided under sub. (1m), no person may engage in manufacturing in this state unless the person obtains a manufacturer's license from the board. For the issuance of a license under this subsection, the applicant shall pay the initial credential fee determined by the department under s. 440.03 (9) (a).
+
+2. 450.070.1m (1m)
+   A license is not required under this section for a person to engage in the manufacturing of hemp, as defined in s. 94.55 (1).
+
+3. 450.070.4 (4)
+   (a) The issuance of licenses under this section is subject to rules the board adopts for the protection of the public health and safety.
+(b) The board shall adopt rules prescribing minimum standards for manufacturing and distributing drugs. Rules adopted under this paragraph may not impose requirements regarding the storage of a controlled substance in a safe, a steel cabinet, a vault, or any other secure storage compartment, area, room, or building unless one of the following applies:
+1. The controlled substance is included in schedule I, II, III, or IV under ch. 961.
+2. The controlled substance is also a controlled substance under federal law.
+(c) The rules adopted by the board under par. (b) shall require a manufacturer to maintain and to update at least once per month a list of the manufacturer's authorized distributors of record.
+
+---------- END OF DOCUMENT ----------

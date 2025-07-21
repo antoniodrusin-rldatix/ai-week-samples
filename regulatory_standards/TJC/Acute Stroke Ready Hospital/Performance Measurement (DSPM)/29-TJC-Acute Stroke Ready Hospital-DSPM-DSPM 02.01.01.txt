@@ -1,0 +1,41 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 29a5fd6b-6474-47af-ac6b-ccdeead953a0
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSPM
+Title: Performance Measurement (DSPM)
+
+OVERVIEW:
+Performance improvement (PI) activities should help identify and evaluate changes that the program must make to enhance performance. Performance improvement is a continuous process and is dependent on measuring the function of important processes and services, as well as the final outcomes of the care rendered. The standards in this chapter focus on the following: - Having an organized, comprehensive approach to PI - Developing a performance improvement plan - Trending and comparing data to evaluate processes and outcomes - Using information garnered from measurement data to improve or validate clinical practice - Using patient-specific, care-related data - Evaluating the patient's perception of the quality of care - Maintaining data quality and integrity
+
+---------- STANDARD ----------
+Name: DSPM 02.01.01
+Description: The disease-specific care program evaluates data to support performance improvement. Note: Measurement data must be internally trended over time and may be compared to an external data source.
+
+RATIONALE:
+Data collection allows for comparison and analysis, which is useful in making decisions and identifying trends or patterns. Collecting and analyzing data helps the program determine if the performance improvement intervention(s) brought about the desired results. The data analyses may also help discover unexpected influences and/or provide the program with credible evidence to show stakeholders the success of the program’s activities.
+
+---------- ELEMENTS ----------
+1. DSPM.02.01.01 EP1 (EP 1)
+   The disease-specific care program analyzes data to support quality and performance improvement activities at least quarterly.
+
+2. DSPM.02.01.01 EP2 (EP 2)
+   The disease-specific care program utilizes aggregate data related to the processes and outcomes of the care, treatment, and services it provides to guide the development and implementation of performance improvement goals and activities.
+Note: Examples of aggregate data may include analyses of audited registry data, as applicable to the program. See the Glossary for a definition of aggregate.
+
+Requirements Specific to Acute Stroke Ready Certification
+a. The program reviews its process for managing patients who present with stroke to identify opportunities to reduce the time between patient arrival and the administration of IV thrombolytic therapy.
+b. The program sets a goal to administer IV thrombolytic therapy as timely and safely as possible, but no longer than 60 minutes after an eligible patient presents for stroke care.
+c. The program has documentation to reflect tracking of performance measures and indicators.
+d. The program monitors its IV thrombolytic complications, which include symptomatic intracerebral hemorrhage and serious, life-threatening systemic bleeding for the time period in which the patient is under the care of the acute stroke ready program.
+Note 1: Symptomatic intracerebral hemorrhage is defined by clinical deterioration and a brain image indicating parenchymal hematoma, subarachnoid hemorrhage, or intraventricular hemorrhage within 36 hours after the onset of treatment with IV or intraarterial thrombolytic therapy or mechanical endovascular reperfusion along with a physician’s note documenting that the clinical deterioration is due to symptomatic intracerebral hemorrhage.
+Note 2: Serious, life-threatening systemic bleeding is defined as bleeding prior to transfer requiring multiple transfusions along with a physician’s note attributing IV thrombolytic therapy as the reason for multiple transfusions
+
+3. DSPM.02.01.01 EP3 (EP 3)
+   The disease-specific care program uses aggregate data related to the patient’s perception of the safety and quality of disease-specific care, treatment, or services they receive to guide the development and implementation of performance improvement goals and activities.
+
+---------- END OF DOCUMENT ----------

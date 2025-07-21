@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: e8a33062-7c14-4ceb-baf5-088d60fd0648
+
+---------- REGULATION ----------
+Name: This is a standard
+Regulatory Entity: This is a test
+
+---------- CHAPTER ----------
+Name: code
+Title: chapter
+
+---------- STANDARD ----------
+Name: code 01
+Description: this is a standard
+
+---------- ELEMENTS ----------
+1. code.01.new eleement (new eleement)
+   description
+
+---------- END OF DOCUMENT ----------

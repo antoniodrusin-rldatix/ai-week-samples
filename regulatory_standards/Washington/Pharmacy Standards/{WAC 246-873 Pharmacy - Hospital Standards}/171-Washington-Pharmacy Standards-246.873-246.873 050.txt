@@ -1,0 +1,27 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 670e10f6-dc54-4c85-b1ca-2c5517696d5d
+
+---------- REGULATION ----------
+Name: Pharmacy Standards
+Regulatory Entity: Washington
+
+---------- CHAPTER ----------
+Name: 246.873
+Title: {WAC 246-873 Pharmacy - Hospital Standards}
+
+---------- STANDARD ----------
+Name: 246.873 050
+Description: Absence of a pharmacist
+
+---------- ELEMENTS ----------
+1. 246.873.050.1 (1)
+   General. Pharmaceutical services shall be available on a 24-hour basis. If round-the-clock services of a pharmacist are not feasible, arrangements shall be made in advance by the director of pharmacy to provide reasonable assurance of pharmaceutical services.
+
+2. 246.873.050.2 (2)
+   Access to the pharmacy. Whenever a drug is required to treat an immediate need and not available from floor stock when the pharmacy is closed, the drug may be obtained from the pharmacy by a designated registered nurse, who shall be accountable for his/her actions. One registered nurse shall be designated in each hospital shift for removing drugs from the pharmacy.
+(a) The director of pharmacy shall establish written policy and recording procedures to assist the registered nurse who may be designated to remove drugs from the pharmacy, when a pharmacist is not present, in accordance with Washington State Pharmacy Practice Act, RCW 18.64.255(2), which states that the director of pharmacy and the hospital be involved in designating the nurse.
+(b) The stock container of the drug or similar unit dose package of the drug removed shall be left with a copy of the order of the authorized practitioner to be checked by a pharmacist, when the pharmacy reopens, or as soon as is practicable.
+(c) Only a sufficient quantity of drugs shall be removed in order to sustain the patient until the pharmacy opens.
+(d) All drugs removed shall be completely labeled in accordance with written policy and procedures, taking into account state and federal rules and regulations and current standards.
+
+---------- END OF DOCUMENT ----------

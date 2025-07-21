@@ -1,0 +1,33 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 2a719eab-b644-4320-98ca-72f159ec0ee3
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSSE
+Title: Supporting Self-Management (DSSE)
+
+OVERVIEW:
+One basic principle of disease management mandates that the patient must be actively involved in managing the disease. Patients who learn about their disease, their symptoms, and the warning signs of future complications tend to be better able to manage their long-term health. Practitioners can strive to offer high-quality care, but their effort will have greater results when patients are interested and informed. The standards in this chapter focus on the following: - Assessing patients’ self-management capabilities - Providing support for patients in self-management activities - Involving patients in developing the plan of care - Educating patients in the theory and skills necessary to manage their disease(s) - Recognizing and supporting self-management efforts
+
+---------- STANDARD ----------
+Name: DSSE 03.01.01
+Description: The disease-specific care program provides education and training to the patient to support the disease-specific care, treatment, and services provided.
+
+RATIONALE:
+A patient must be adequately prepared and informed about the management of their disease as well as potential side effects of any interventions, this includes factoring in the patient’s health literacy—or their ability to understand, engage, and act upon health information. Patients who are actively engaged in their health and wellness will be better equipped to manage their care at home, which will help to achieve better clinical outcomes. Learning about their condition means these individuals have the knowledge to undertake their treatments with confidence and, in some cases, are more likely to do so safely outside a medical facility.
+
+---------- ELEMENTS ----------
+1. DSSE.03.01.01 EP1 (EP 1)
+   The disease-specific care program’s education materials comply with recommended elements of care, treatment, and services that are supported by literature, clinical practice guidelines, and/or evidence-based practice.
+
+2. DSSE.03.01.01 EP2 (EP 2)
+   The disease-specific care program provides individualized education and training based on the assessed needs and goals of the patient.
+Note: Patient education and training is consistent with the patient’s health literacy needs, reading and writing skills, comprehension, and measuring or counting skills.
+
+3. DSSE.03.01.01 EP3 (EP 3)
+   The disease-specific care program develops and implements a process to evaluate the patient, family, and/or caregiver’s understanding of the education and training it provided. (See also DSDF.03.01.01, EP 4)
+
+---------- END OF DOCUMENT ----------

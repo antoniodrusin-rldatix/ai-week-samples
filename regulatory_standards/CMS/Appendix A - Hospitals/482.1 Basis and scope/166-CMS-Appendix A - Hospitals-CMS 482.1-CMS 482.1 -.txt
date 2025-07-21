@@ -1,0 +1,25 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 8a53fc64-24d5-4091-b505-42d09c72b78d
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.1
+Title: 482.1 Basis and scope
+
+---------- STANDARD ----------
+Name: CMS 482.1 -
+Description: Basis and scope. 
+
+---------- ELEMENTS ----------
+1. CMS 482.1.-.A-0008 (A-0008)
+   §482.1   Basis and scope. 
+ 
+(a) Statutory basis. (1) Section 1861(e) of the [Social Security] Act provides that— 
+ (i) Hospitals participating in Medicare must meet certain specified requirements; and 
+ (ii) The Secretary may impose additional requirements if they are found necessary in the interest of the health and safety of the individuals who are furnished services in hospitals.  . . . 
+ (b) Scope. Except as provided in subpart A of part 488 of this chapter, the provisions of this part serve as the basis of survey activities for the purpose of determining whether a hospital qualifies for a provider agreement under Medicare and Medicaid.
+
+---------- END OF DOCUMENT ----------

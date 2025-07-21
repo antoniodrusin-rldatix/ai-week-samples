@@ -1,0 +1,67 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 8decd408-1ba2-48cf-b48e-9222805d5581
+
+---------- REGULATION ----------
+Name: KLOE
+Regulatory Entity: CQC
+
+---------- CHAPTER ----------
+Name: R
+Title: Responsive
+
+OVERVIEW:
+By responsive, we mean that services meet people’s needs. The definition of responsive has changed from: “By responsive, we mean that services are organised so that they meet people’s needs”. Service planning for population needs (previously the first two prompts of R1) will now sit in well-led (W2.5 and W7.4).
+
+---------- STANDARD ----------
+Name: R 2
+Description: Do services take account of the particular needs and choices of different people?
+
+---------- ELEMENTS ----------
+1. R.2.1 (1)
+   How are services delivered, made accessible and coordinated to take account of the needs
+of different people, including those with protected characteristics under the Equality Act and
+those in vulnerable circumstances?
+
+2. R.2.2 (2)
+   How are services delivered and coordinated to be accessible and responsive to people with
+complex needs?
+
+3. R.2.3 (3)
+   How are people supported during referral, transfer between services and discharge?
+
+4. R.2.4 (4)
+   Are reasonable adjustments made so that people with a disability can access and use
+services on an equal basis to others?
+
+5. R.2.5 (5)
+   Do key staff work across services to coordinate people's involvement with families and
+carers, particularly for those with multiple long-term conditions? 
+
+6. R.2.6 (6)
+   Where the service is responsible, how are people encouraged to develop and maintain
+relationships with people that matter to them, both within the service and the wider
+community?
+
+7. R.2.7 (7)
+   Where the service is responsible, how are people supported to follow their interests and
+take part in activities that are socially and culturally relevant and appropriate to them,
+including in the wider community and, where appropriate, to have access to education and
+work opportunities?
+
+8. R.2.8 (8)
+   How are services delivered and coordinated to ensure that people who may be approaching
+the end of their life are identified, including those with a protected equality characteristic
+and people whose circumstances may make them vulnerable, and that this information is
+shared?
+
+9. R.2.9 (9)
+   How are people who may be approaching the end of their life supported to make informed
+choices about their care? Are people’s decisions documented and delivered through a
+personalised care plan and shared with others who may need to be informed?
+
+10. R.2.10 (10)
+   If any treatment is changed or withdrawn, what are the processes to ensure that this is
+managed openly and sensitively so that people have a comfortable and dignified death?
+
+
+---------- END OF DOCUMENT ----------

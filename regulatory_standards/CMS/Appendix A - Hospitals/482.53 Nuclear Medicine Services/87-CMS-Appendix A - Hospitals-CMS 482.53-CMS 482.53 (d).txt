@@ -1,0 +1,36 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 5d890cf7-5b49-44d7-acbe-bbf55241f145
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.53
+Title: 482.53 Nuclear Medicine Services
+
+---------- STANDARD ----------
+Name: CMS 482.53 (d)
+Code: 482.53
+Description: Records
+
+---------- ELEMENTS ----------
+1. CMS 482.53.(d).A-1051 (A-1051)
+   §482.53(d) Standard: Records 
+ The hospital must maintain signed and dated reports of nuclear medicine interpretations, consultations, and procedures. 
+ (1)  The hospital must maintain copies of nuclear medicine reports for at least 5 years. 
+(2)  The practitioner approved by the medical staff to interpret diagnostic procedures must sign and date the interpretation of these tests. 
+
+2. CMS 482.53.(d).2 (2)
+   The practitioner approved by the medical staff to interpret diagnostic procedures must sign and date the interpretation of these tests.
+
+
+3. CMS 482.53.(d).A-1054 (A-1054)
+   §482.53(d)(3) - The hospital must maintain records of the receipt and distribution of radio-pharmaceuticals. 
+
+
+4. CMS 482.53.(d).A-1055 (A-1055)
+   §482.53(d)(4) - Nuclear medicine services must be ordered only by practitioners whose scope of Federal or State licensure and whose defined staff privileges allow such referrals. 
+
+
+---------- END OF DOCUMENT ----------

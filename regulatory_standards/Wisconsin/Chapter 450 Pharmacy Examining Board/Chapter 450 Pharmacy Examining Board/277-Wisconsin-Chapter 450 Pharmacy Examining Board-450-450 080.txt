@@ -1,0 +1,24 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 7d996ba3-27f6-4964-9de6-84a3b4e4ad56
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 080
+Description: License renewal
+
+---------- ELEMENTS ----------
+1. 450.080.1 (1)
+   The renewal date for all licenses granted by the board is specified under s. 440.08 (2) (a). Except as provided under sub. (2) (a), only a holder of an unexpired license may engage in his or her licensed activity.
+
+2. 450.080.2 (2)
+   (a) A pharmacist's license may be renewed by complying with continuing education requirements under s. 450.085 and paying the applicable fee determined by the department under s. 440.03 (9) (a) on or before the applicable renewal date specified under s. 440.08 (2) (a). Notwithstanding s. 440.08 (3) (a), if a pharmacist fails to obtain renewal by that date, the board may suspend the pharmacist's license, and the board may require the pharmacist to pass an examination to the satisfaction of the board to restore that license.
+(b) A pharmacy, manufacturer's, distributor's, or home medical oxygen provider's license may be renewed by paying the applicable fee determined by the department under s. 440.03 (9) (a) on or before the applicable renewal date specified under s.
+
+---------- END OF DOCUMENT ----------

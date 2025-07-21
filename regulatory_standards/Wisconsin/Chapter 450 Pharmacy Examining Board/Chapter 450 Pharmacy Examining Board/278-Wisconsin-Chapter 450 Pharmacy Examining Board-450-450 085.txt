@@ -1,0 +1,23 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 5a157de6-1a31-4190-8823-33613a243881
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 085
+Description: Continuing education
+
+---------- ELEMENTS ----------
+1. 450.085.1 (1)
+   An applicant for renewal of a license under s. 450.08 (2) (a) shall submit proof that he or she has completed, within the 2-year period immediately preceding the date of his or her application, 30 hours of continuing education in courses conducted by a provider that is approved by the Accreditation Council for Pharmacy Education or in courses approved by the board. Courses specified in s. 450.035 (1r) and (2) are courses in continuing education for purposes of this subsection. This subsection does not apply to an applicant for renewal of a license that expires on the first renewal date after the date on which the board initially granted the license.
+
+2. 450.085.2 (2)
+   The board may waive all or part of any requirement in sub. (1) if it finds that exceptional circumstances such as prolonged illness, disability or other similar circumstances have prevented a pharmacist from meeting the requirement.
+
+---------- END OF DOCUMENT ----------

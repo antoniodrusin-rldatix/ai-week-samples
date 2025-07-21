@@ -1,0 +1,34 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 10d9c87c-c3db-4592-b4c7-4c758c652103
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.11
+Title: 482.11 Compliance with Federal, State and Local Laws
+
+ABOUT:
+Interpretive Guidelines §482.11 The hospital must ensure that all applicable Federal, State and local law requirements are met.
+
+---------- STANDARD ----------
+Name: CMS 482.11 (b)
+Code: 482.11
+Description: The hospital must be--
+
+RATIONALE:
+
+ 
+
+---------- ELEMENTS ----------
+1. CMS 482.11.(b).A-0022 (A-0022)
+   §482.11(b) The hospital must be-- 
+ (1)  Licensed; or 
+ (2)  Approved as meeting standards for licensing established by the agency of the State or locality responsible for licensing hospitals.
+
+2. CMS 482.11.(b).2 (2)
+   Approved as meeting standards for licensing established by the agency of the State or locality responsible for licensing hospitals.
+
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,41 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: dad71149-d773-4923-a4c2-350ee29335a7
+
+---------- REGULATION ----------
+Name: Pharmacy Standards
+Regulatory Entity: Washington
+
+---------- CHAPTER ----------
+Name: 246.873
+Title: {WAC 246-873 Pharmacy - Hospital Standards}
+
+---------- STANDARD ----------
+Name: 246.873 010
+Description: Definitions
+
+---------- ELEMENTS ----------
+1. 246.873.010.1 (1)
+   For the purpose of these rules and regulations, the following definitions apply:
+(1) "Authenticated" or "authentication" means authorization of a written entry in a record by means of a signature which shall include, minimally, first initial, last name, and title.
+(2) "Controlled substance" means those drugs, substances or immediate precursors listed in Schedule I through V, chapter 69.50 RCW, State Uniform Controlled Substance Act, as now or hereafter amended.
+(3) "Drug" means any product referenced in RCW 18.64.011(3) as now or hereafter amended.
+(4) "Drug administration" means an act in which a single dose of a prescribed drug or biological is given to a patient by an authorized person in accordance with all laws and regulations governing such acts. The complete act of administration entails removing an individual dose from a previously dispensed, properly labeled container (including a unit dose container) reviewing it with a verified transcription, a direct copy, or the original medical practitioner's orders, giving the individual dose to the proper patient, and properly recording the time and dose given.
+(5) "Drug dispensing" means an act entailing the interpretation of an order for a drug or biological and, pursuant to that order, proper selection, measuring, labeling, packaging, and issuance of the drug for a patient or for a service unit of the facility.
+(6) "Hospital" means any institution licensed pursuant to chapters 70.41 or 71.12 RCW or designated pursuant to RCW 72.23.020.
+(7) "Hospital pharmacy" means that portion of a hospital which is engaged in the manufacture, production, preparation, dispensing, sale, and/or distribution of drugs, components, biologicals, chemicals, devices and other materials used in the diagnosis and treatment of injury, illness and diseases; and which is licensed by the state board of pharmacy pursuant to the Washington State Pharmacy Practice Act, chapter 18.64 RCW.
+(8) "Immediate supervision" means visual and/or physical proximity that insure adequate safety and controls.
+(9) "Investigational drug" means any article which has not been approved for use in the United States, but for which an investigational drug application (IND) has been approved by the FDA.
+(10) "Nurse" means a registered nurse or a licensed practical nurse licensed pursuant to chapters 18.88 or 18.78 RCW.
+(11) "Practitioner" means any person duly authorized by law or rule in the state of Washington to prescribe drugs in RCW 18.64.011(9).
+(12) "Pharmacist" means a person duly licensed by the state board of pharmacy to engage in the practice of pharmacy.
+(13) "Pharmacy" means every place properly licensed by the board of pharmacy where the practice of pharmacy is conducted.
+(14) "Pharmacy Assistant Level A and Level B" means persons certified under chapter 18.64A RCW.
+(15) "Physician" means a doctor of medicine or a doctor of osteopathy licensed to practice in the state of Washington.
+(16) "Practice of pharmacy" means the definition given in RCW 18.64.011(11) now or hereafter amended.
+(17) "Protocol" means a written set of guidelines.
+(18) "Registered nurse" means an individual licensed under the provisions of chapter 18.88 RCW, regulating the practice of registered nursing in the state of Washington.
+(19) "Self-administration of drugs" means that a patient administers or takes his/her own drugs from properly labeled containers: Provided, That the facility maintains the responsibility for seeing that the drugs are used correctly and that the patient is responding appropriately.
+(20) "Shall" means that compliance with regulation is mandatory.
+(21) "Should" means that compliance with a regulation or standard is recommended.
+
+---------- END OF DOCUMENT ----------

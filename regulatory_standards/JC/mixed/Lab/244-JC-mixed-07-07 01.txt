@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 8cbc33cc-b1cb-4bd3-9404-e3b91ec2b882
+
+---------- REGULATION ----------
+Name: mixed
+Regulatory Entity: JC
+
+---------- CHAPTER ----------
+Name: 07
+Title: Lab
+
+---------- STANDARD ----------
+Name: 07 01
+Description: Lab
+
+---------- ELEMENTS ----------
+1. 07.01.01 (01)
+   lab
+
+---------- END OF DOCUMENT ----------

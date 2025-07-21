@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 9aff7544-e777-4f36-9d98-0cfe48d5086a
+
+---------- REGULATION ----------
+Name: Test
+Regulatory Entity: New
+
+---------- CHAPTER ----------
+Name: chapter
+Title: New Chapter
+
+---------- STANDARD ----------
+Name: chapter 01
+Description: Standard 01
+
+---------- ELEMENTS ----------
+1. chapter.01.Element 01 (Element 01)
+   
+
+---------- END OF DOCUMENT ----------

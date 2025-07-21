@@ -1,0 +1,26 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: e3ab4ccd-6266-4619-8822-6ac504f1655e
+
+---------- REGULATION ----------
+Name: Pharmacy Standards
+Regulatory Entity: Washington
+
+---------- CHAPTER ----------
+Name: 246.873
+Title: {WAC 246-873 Pharmacy - Hospital Standards}
+
+---------- STANDARD ----------
+Name: 246.873 100
+Description: Investigational drugs
+
+---------- ELEMENTS ----------
+1. 246.873.100.1 (1)
+   Distribution. Storage, distribution, and control of approved investigational drugs used in the institution shall be the responsibility of the director of pharmacy or his designee. The pharmacy shall be responsible for maintaining and providing information on approved investigational drugs.
+
+2. 246.873.100.2 (2)
+   General. Investigational drugs shall be properly labeled and stored for use only under the explicit direction of the authorized principal investigator or coinvestigator(s). Such drugs shall be approved by an appropriate medical staff committee.
+
+3. 246.873.100.3 (3)
+   Administration. On approval of the principal investigator or coinvestigator(s), those authorized to administer drugs may administer these drugs after they have been given basic pharmacological information about the drug. Investigational drugs shall be administered in accordance with approved written protocol that includes any requirements for the patient's appropriate informed consent.
+
+---------- END OF DOCUMENT ----------

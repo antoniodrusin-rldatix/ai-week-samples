@@ -1,0 +1,20 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: aed0ff21-0521-496b-a94f-210a0b6c9dc8
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.60
+Title: 482.60 Special Provisions Applying to Psychiatric Hospitals
+
+---------- STANDARD ----------
+Name: CMS 482.60 (-)
+Description: Special Provisions Applying to Psychiatric Hospitals
+
+---------- ELEMENTS ----------
+1. CMS 482.60.(-).A-1600  (A-1600 )
+   §482.60-Special Provisions Applying to Psychiatric Hospitals - Psychiatric hospitals must
+
+---------- END OF DOCUMENT ----------

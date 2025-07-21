@@ -1,0 +1,25 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 4c7c3f95-13b6-4fc0-b9cb-236dd17da43b
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.11
+Title: 482.11 Compliance with Federal, State and Local Laws
+
+ABOUT:
+Interpretive Guidelines §482.11 The hospital must ensure that all applicable Federal, State and local law requirements are met.
+
+---------- STANDARD ----------
+Name: CMS 482.11 (a)
+Code: 482.11
+Description: The hospital must be in compliance with applicable Federal laws related to the health and safety of patients.
+
+---------- ELEMENTS ----------
+1. CMS 482.11.(a).A-0021 (A-0021)
+   The hospital must be in compliance with applicable Federal laws related to the health and safety of patients.
+
+
+---------- END OF DOCUMENT ----------

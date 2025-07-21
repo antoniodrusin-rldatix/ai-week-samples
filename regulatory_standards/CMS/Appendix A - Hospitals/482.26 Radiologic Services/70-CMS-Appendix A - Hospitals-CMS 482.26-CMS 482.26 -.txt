@@ -1,0 +1,22 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 1fd622f8-d34f-4aba-8d6c-8c18d9513bd5
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.26
+Title: 482.26 Radiologic Services
+
+---------- STANDARD ----------
+Name: CMS 482.26 -
+Description: Condition of Participation: Radiologic Services
+
+---------- ELEMENTS ----------
+1. CMS 482.26.-.A-0528 (A-0528)
+   §482.26 Condition of Participation: Radiologic Services  
+ 
+The hospital must maintain, or have available, diagnostic radiologic services. If therapeutic services are also provided, they, as well as the diagnostic services, must meet professionally approved standards for safety and personnel qualifications. 
+
+---------- END OF DOCUMENT ----------

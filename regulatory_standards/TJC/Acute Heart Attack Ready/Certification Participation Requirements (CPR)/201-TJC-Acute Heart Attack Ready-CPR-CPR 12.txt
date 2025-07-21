@@ -1,0 +1,25 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: c7212dcb-7699-4fe5-85fb-c16d58a52077
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: CPR
+Title: Certification Participation Requirements (CPR)
+
+OVERVIEW:
+This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+
+---------- STANDARD ----------
+Name: CPR 12
+Description: The organization submits information to The Joint Commission as required. 
+
+---------- ELEMENTS ----------
+1. CPR.12 EP01 (EP 01)
+   The organization meets all requirements for timely submission of data and information to The Joint Commission. (See also CPR 7, EP 1) 
+Note 1: The Joint Commission will impose the following consequence for failure to comply with this CPR: If the organization consistently fails to meet the requirements for the timely submission of data and information to The Joint Commission, the organization will be required to undergo a Certification with Follow-up Survey. Failure to resolve this issue at the time of the Certification with Follow-up Survey may result in a certification decision change. 
+Note 2: The proposed consequences address only compliance with the requirement itself. They do not address the content of the organization's submissions to The Joint Commission. For example, if information in an organization's electronic application for certification (E-App) leads to inaccuracies in the appropriate length of the review and a longer review is required, the organization will incur the additional costs of the longer review. In addition, if there is evidence that the organization has intentionally falsified the information submitted to The Joint Commission, the Information Accuracy and Truthfulness Policy and its consequences will be applicable. 
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,35 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: bc1eb90c-382f-418c-8704-8ec8cd61671d
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSSE
+Title: Supporting Self-Management (DSSE)
+
+OVERVIEW:
+One basic principle of disease management mandates that the patient must be actively involved in managing the disease. Patients who learn about their disease, their symptoms, and the warning signs of future complications tend to be better able to manage their long-term health. Practitioners can strive to offer high-quality care, but their effort will have greater results when patients are interested and informed. The standards in this chapter focus on the following: - Assessing patients’ self-management capabilities - Providing support for patients in self-management activities - Involving patients in developing the plan of care - Educating patients in the theory and skills necessary to manage their disease(s) - Recognizing and supporting self-management efforts
+
+---------- STANDARD ----------
+Name: DSSE 01
+Description: The program involves patients in making decisions about managing their disease or condition. 
+
+---------- ELEMENTS ----------
+1. DSSE.01 EP04 (EP 04)
+   The program utilizes the assessment of the patient and family and/or caregiver to guide the development of a self-management plan. 
+
+2. DSSE.01 EP05 (EP 05)
+   Patients and practitioners mutually agree upon goals. 
+
+3. DSSE.01 EP01 (EP 01)
+   The program involves patients in decisions about their care, treatment, and services.
+
+4. DSSE.01 EP03 (EP 03)
+   The program assesses the family and/or caregiver's readiness, willingness, and ability to provide or support self-management activities when needed. 
+
+5. DSSE.01 EP02 (EP 02)
+   The program assesses the patient's readiness, willingness, and ability to engage in self-management activities. 
+
+---------- END OF DOCUMENT ----------

@@ -1,0 +1,28 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: fb5eaced-8aaf-40b5-a582-cfd25af64a81
+
+---------- REGULATION ----------
+Name: Appendix A - Hospitals
+Regulatory Entity: CMS
+
+---------- CHAPTER ----------
+Name: CMS 482.53
+Title: 482.53 Nuclear Medicine Services
+
+---------- STANDARD ----------
+Name: CMS 482.53 (a)
+Code: 482.53
+Description: Organization and Staffing
+
+---------- ELEMENTS ----------
+1. CMS 482.53.(a).A-1027 (A-1027)
+   §482.53(a) Standard: Organization and Staffing 
+ The organization of the nuclear medicine service must be appropriate to the scope and complexity of the services offered. 
+ (1) There must be a director who is a doctor of medicine or osteopathy qualified in nuclear medicine. 
+ (2)  The qualifications, training, functions and responsibilities of the nuclear medicine personnel must be specified by the service director and approved by the medical staff. 
+
+2. CMS 482.53.(a).2 (2)
+   The qualifications, training, functions, and responsibilities of nuclear medicine personnel must be specified by the service director and approved by the medical staff.
+
+
+---------- END OF DOCUMENT ----------

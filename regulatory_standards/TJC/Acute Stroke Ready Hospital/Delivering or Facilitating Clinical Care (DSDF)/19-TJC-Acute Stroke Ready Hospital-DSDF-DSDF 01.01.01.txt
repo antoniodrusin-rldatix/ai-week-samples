@@ -1,0 +1,47 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: b67ab62c-1c7a-4834-873d-6a47da10e27c
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSDF
+Title: Delivering or Facilitating Clinical Care (DSDF)
+
+OVERVIEW:
+Delivering, facilitating, or improving the delivery of high-quality clinical care is at the heart of disease management. Patients with a chronic disease count on practitioners to provide the best care possible. Of course, delivering or facilitating high-quality care means that practitioners are constantly striving to improve. Therefore, the standards in this chapter focus on the following: - Using qualified, competent practitioners - Delivering or facilitating the delivery of care using evidence-based clinical practice guidelines (CPGs) - Individualizing care to meet patients’ needs - Managing comorbidities and concurrently occurring conditions - Initiating discharge planning and facilitating subsequent care, treatment, and services These activities require an interdisciplinary approach. Each practitioner’s role and responsibilities are determined by his or her professional skills, competence, and credentials; the care provided; and the program’s policies. Note: Clinical practice guidelines (CPGs) are found in the literature under many names—practice parameters, practice guidelines, patient care protocols, standards of practice, clinical pathways, care maps, and so forth. In all cases, CPGs should be evidence based and effective for the targeted patient populations.
+
+---------- STANDARD ----------
+Name: DSDF 01.01.01
+Description: The disease-specific care program develops an interdisciplinary plan of care for each patient based on their assessed needs and goals.
+
+RATIONALE:
+The disease-specific care program actively engages its patients in developing treatment or care plans and monitors progress to regularly guide revisions. The plan of care should be made through a collaborative, shared decision-making process between patient and provider. The plan of care is designed to facilitate communication among members of the care team and with the patient.
+
+---------- ELEMENTS ----------
+1. DSDF.01.01.01 EP1 (EP 1)
+   The disease-specific care program conducts patient assessments and reassessments based on clinical practice guidelines; within the time frames defined in the program’s protocols, policies, procedures, and/or order sets; and in accordance with applicable law and regulation.
+
+Requirements Specific to Acute Stroke Ready Certification
+a. The National Institutes of Health Stroke Scale (NIHSS) is used for the initial assessment of patients with acute stroke.
+Note: The NIHSS is completed by a qualified member of the team as determined by the program.
+b. A blood glucose level is completed for any patient presenting with stroke symptoms.
+c. Laboratory and other diagnostic tests do not delay the administration of IV thrombolytic therapy.
+Note: Laboratory tests may include a complete blood cell count with platelet count, coagulation studies (prothrombin time, International Normalized Ratio), blood chemistries, and troponin.
+d. All patients exhibiting stroke symptoms are screened for dysphagia prior to receiving any oral intake of medication, fluids, or food.
+e. The program has a process to notify medical staff and other staff about the deterioration of a stroke patient that may include but is not limited to changes in vital signs and neurological status.
+
+2. DSDF.01.01.01 EP2 (EP 2)
+   The disease-specific care program develops and implements a process for referral when the patient’s comorbid or co-occurring condition(s) is outside the scope of the program.
+
+3. DSDF.01.01.01 EP3 (EP 3)
+   The disease-specific care program utilizes shared decision-making with the patient and the family and/or caregiver to make decisions about the patient’s care, treatment, and services, in accordance with law and regulation.
+
+4. DSDF.01.01.01 EP4 (EP 4)
+   The disease-specific care program develops and revises an individualized plan of care to meet the patient’s care needs and short- and long-term goals. See the Glossary for a definition of care plan (plan of care).
+
+Requirement Specific to Acute Stroke Ready Certification
+a. Based on prognosis and the patient’s needs and preferences, patients are referred to palliative care, hospice, or end-of-life services when indicated.
+
+---------- END OF DOCUMENT ----------

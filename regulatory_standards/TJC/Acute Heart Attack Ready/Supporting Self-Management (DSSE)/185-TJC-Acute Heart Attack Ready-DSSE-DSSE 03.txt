@@ -1,0 +1,35 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 07abe12e-1edd-4612-8c06-2302a02513de
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSSE
+Title: Supporting Self-Management (DSSE)
+
+OVERVIEW:
+One basic principle of disease management mandates that the patient must be actively involved in managing the disease. Patients who learn about their disease, their symptoms, and the warning signs of future complications tend to be better able to manage their long-term health. Practitioners can strive to offer high-quality care, but their effort will have greater results when patients are interested and informed. The standards in this chapter focus on the following: - Assessing patients’ self-management capabilities - Providing support for patients in self-management activities - Involving patients in developing the plan of care - Educating patients in the theory and skills necessary to manage their disease(s) - Recognizing and supporting self-management efforts
+
+---------- STANDARD ----------
+Name: DSSE 03
+Description: The program addresses the patient's education needs. 
+
+---------- ELEMENTS ----------
+1. DSSE.03 EP01 (EP 01)
+   The program's education materials comply with recommended elements of care, treatment, and services, which are supported by literature and promoted through clinical practice guidelines and evidence-based practice. 
+
+2. DSSE.03 EP05 (EP 05)
+   The program addresses the education needs of the patient regarding his or her disease or condition and care, treatment, and services. 
+
+3. DSSE.03 EP02 (EP 02)
+   The program presents content in an understandable manner according to the patient's level of literacy. 
+
+4. DSSE.03 EP03 (EP 03)
+   The program presents content in a manner that is culturally sensitive. 
+
+5. DSSE.03 EP04 (EP 04)
+   The program makes initial and ongoing assessments of the patient's comprehension of program-specific information. 
+
+---------- END OF DOCUMENT ----------

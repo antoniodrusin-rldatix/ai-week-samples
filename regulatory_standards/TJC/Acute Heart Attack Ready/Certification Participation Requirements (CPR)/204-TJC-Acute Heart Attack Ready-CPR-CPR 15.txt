@@ -1,0 +1,24 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 3113056b-fdb6-434c-ab4f-efc1e22728a8
+
+---------- REGULATION ----------
+Name: Acute Heart Attack Ready
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: CPR
+Title: Certification Participation Requirements (CPR)
+
+OVERVIEW:
+This chapter includes specific certification participation requirements (CPRs) that apply to the certification process and are required to maintain a certification award. These differ from review eligibility criteria in that the certification process may be initiated even when all CPRs have not yet been met. For an organization seeking certification for the first time, compliance with the CPRs is assessed during the initial review. For the certified program, compliance with these requirements is assessed throughout the certification cycle through on-site reviews, Evidence of Standards Compliance (ESC), and periodic updates of organization-specific data and information. Organizations are either compliant or not compliant with CPRs. When an organization does not comply with a CPR, the organization generally will be assigned a Requirement for Improvement (RFI) similar to noncompliance with a standard. However, refusal to permit performance of an unscheduled or unannounced for-cause review (CPR 3) or falsification of information (CPR 7) will immediately lead to a decision of Not Certified. Any RFI can potentially impact the certification decision and follow-up requirements, as determined by established certification decision rules listed in “The Joint Commission Certification Process“ (CERT) chapter. Failure to resolve an RFI has the potential to lead to loss of certification.
+
+---------- STANDARD ----------
+Name: CPR 15
+Description: The disease-specific care program provides care, treatment, services, and an environment that pose no risk of an “Immediate Threat to Health or Safety.” 
+
+---------- ELEMENTS ----------
+1. CPR.15 EP01 (EP 01)
+   The program provides care, treatment, services, and an environment that pose no risk of an 
+“Immediate Threat to Health or Safety.”
+
+---------- END OF DOCUMENT ----------

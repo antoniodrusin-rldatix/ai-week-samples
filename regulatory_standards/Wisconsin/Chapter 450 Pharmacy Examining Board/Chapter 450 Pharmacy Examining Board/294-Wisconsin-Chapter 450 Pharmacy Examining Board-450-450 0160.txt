@@ -1,0 +1,26 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: f6657a0a-0586-40be-9547-c5598f609445
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0160
+Description: Sale of contraceptives prohibited in certain areas
+
+---------- ELEMENTS ----------
+1. 450.0160.1 (1)
+   In this section, “vending machine" has the meaning given under s. 450.155 (1) (L).
+
+2. 450.0160.2 (2)
+   No person may have in the person's possession or under the person's control, any vending machine that is located in a public school, as specified under s. 115.01 (1).
+
+3. 450.0160.3 (3)
+   Any person violating this section may be fined not more than $10,000 or imprisoned for not more than 9 months or both.
+
+---------- END OF DOCUMENT ----------

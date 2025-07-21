@@ -1,0 +1,42 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 443ccb26-fea8-464f-bfd8-b2a0523b0d66
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0155
+Description: Exhibition, display or advertisement of certain vending machines by use of certain material prohibited
+
+---------- ELEMENTS ----------
+1. 450.0155.1 (1)
+   Definitions. In this section:
+(a) “Contraceptive article" means any drug, medicine, mixture, preparation, instrument, article or device of any nature used or intended or represented to be used to prevent a pregnancy.
+(b) “Material" means any visual representation, image, printed matter however reproduced or sound recording.
+(c) “Harmful to minors" means that quality of any description or representation, in whatever form, of nudity, sexual conduct, sexual excitement, or sadomasochistic abuse, when it does all of the following:
+1. Predominantly appeals to the prurient, shameful or morbid interest of minors.
+2. Is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors.
+3. Lacks serious literary, artistic, political or scientific value, if taken as a whole, for minors.
+(d) “Knowledge of the minor's age" means knowledge or information that the person is a minor.
+(e) “Knowledge of the nature of the material" means any of the following:
+1. Knowledge of the character and content of any material described herein.
+2. Knowledge or information that the material described herein has been adjudged to be harmful to minors in a proceeding instituted under sub. (2), or is the subject of a pending proceeding instituted under sub. (2).
+(f) “Minor" means any person under the age of 18 years.
+(g) “Nudity" means the showing of the human male or female genitals, pubic area or buttocks with less than a full opaque covering, or the showing of the female breast with less than a fully opaque covering of any portion thereof below the top of the nipple, or the depiction of covered male genitals in a discernibly turgid state.
+(h) “Person" means any individual, partnership, firm, association, corporation or other legal entity.
+(i) “Sadomasochistic abuse" means the infliction of force, pain or violence upon a person for the purpose of sexual arousal or gratification.
+(j) “Sexual conduct" means acts of masturbation, homosexuality, sexual intercourse or physical contact with a person's clothed or unclothed genitals, pubic area, buttocks or, if such person is a female, breast.
+(k) “Sexual excitement" means the condition of human male or female genitals when in a state of sexual stimulation or arousal.
+(L) “Vending machine" means any mechanical device which automatically dispenses contraceptive articles upon the deposit in it of specified coins in payment for the contraceptive articles.
+
+2. 450.0155.2 (2)
+   Exhibition, display or advertisement of certain vending machines by use of material harmful to minors.
+(a) No person with knowledge of the nature of the material and with knowledge of a minor's age, may, for commercial purposes, exhibit, display or advertise by use of any material which is harmful to minors a vending machine that dispenses contraceptive articles.
+(b) Whoever violates par. (a) may be fined not more than $10,000 or imprisoned for not more than 9 months or both.
+
+---------- END OF DOCUMENT ----------

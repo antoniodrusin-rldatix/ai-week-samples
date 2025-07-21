@@ -1,0 +1,34 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: a742524f-a0ee-47aa-a755-8042533351f0
+
+---------- REGULATION ----------
+Name: Pharmacy Standards
+Regulatory Entity: Washington
+
+---------- CHAPTER ----------
+Name: 246.869
+Title: {WAC 246-869 Pharmacy Licensing}
+
+---------- STANDARD ----------
+Name: 246.869 190
+Description: Pharmacy inspections and self-inspection worksheets.
+
+---------- ELEMENTS ----------
+1. 246.869.190.1 (1)
+   Self-inspections. Effective March 1, 2018, the responsible manager, or designee, is required to conduct an annual self-inspection of the pharmacy on the responsible manager self-inspection worksheet(s) provided by the commission. The self-inspection must be completed within the month of March each year.
+(a) The responsible manager must sign and date the completed self-inspection worksheet(s), and maintain completed worksheets for two years from the date of completion.
+(b) When a change in responsible manager occurs, the new responsible manager, or designee, shall conduct a self-inspection on the responsible manager self-inspection worksheet(s). The new responsible manager must sign and date the self-inspection worksheet(s) within thirty days of becoming responsible manager, and maintain completed worksheets for two years from the date of completion.
+
+2. 246.869.190.2 (2)
+   Commission inspection. A pharmacy is subject to periodic inspections to determine compliance with the laws regulating the practice of pharmacy.
+(a) Inspection report.
+(i) At the end of the inspection, the commission, or its designee, will conduct an exit meeting with the responsible manager or designee(s), addressing unresolved deficiencies identified during the inspection.
+(ii) The commission, or its designee, shall provide a written inspection report to the pharmacy within fourteen calendar days of the exit meeting.
+(iii) The inspection report may include unresolved deficiencies identified at the end of a periodic commission inspection, describing the unresolved deficiencies in detail with a reference to all applicable laws.
+(b) Plan of correction. A pharmacy must submit a plan of correction to the commission, or its designee, addressing each identified unresolved deficiency.
+(i) A "plan of correction" is a proposal devised by the applicant or pharmacy that includes specific corrective actions that must be taken to correct identified unresolved deficiencies with time frames to complete them.
+(ii) The commission, or its designee, must notify the pharmacy within a time frame set by the commission, whether or not a submitted plan of correction adequately addresses the unresolved deficiencies identified in the inspection report.
+(iii) Implementation of the corrective action is required within the time frames set in the approved plan of correction, and are subject to verification by the commission, or its designee, which may require the pharmacy to submit a progress report(s) attesting to the correction of deficiencies, or a follow-up inspection.
+(c) Pharmacies with deficiencies that represent an imminent or immediate risk or threat to public health, safety, and welfare may be subject to summary suspension of the pharmacy license, at the discretion of the commission.
+
+---------- END OF DOCUMENT ----------

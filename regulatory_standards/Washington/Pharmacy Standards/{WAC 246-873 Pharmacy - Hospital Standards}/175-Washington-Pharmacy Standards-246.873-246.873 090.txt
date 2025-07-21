@@ -1,0 +1,33 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 0666071f-8f57-4cf4-865c-b906d528fbe3
+
+---------- REGULATION ----------
+Name: Pharmacy Standards
+Regulatory Entity: Washington
+
+---------- CHAPTER ----------
+Name: 246.873
+Title: {WAC 246-873 Pharmacy - Hospital Standards}
+
+---------- STANDARD ----------
+Name: 246.873 090
+Description: Administration of drugs
+
+---------- ELEMENTS ----------
+1. 246.873.090.1 (1)
+   General. Drugs shall be administered only upon the order of a practitioner who has been granted clinical privileges to write such orders. Verbal orders for drugs shall only be issued in emergency or unusual circumstances and shall be accepted only by a licensed nurse, pharmacist, or physician, and shall be immediately recorded and signed by the person receiving the order. Such orders shall be authenticated by the prescribing practitioner within 48 hours.
+
+2. 246.873.090.2 (2)
+   Administration. Drugs shall be administered only by appropriately licensed personnel in accordance with state and federal laws and regulations governing such acts and in accordance with medical staff approved hospital policy.
+
+3. 246.873.090.3 (3)
+   Patient's drugs. The hospital shall develop written policies and procedures for the administration of drugs brought into the hospital by or for patients.
+(a) Drugs brought into the hospital by or for the patient shall be administered only when there is a written order by a practitioner. Prior to use, such drugs shall be identified and examined by the pharmacist to ensure acceptable quality for use in the hospital.
+(b) Drugs from outside the hospital which are not used during the patient's hospitalization shall be packaged and sealed, if stored in the hospital, and returned to the patient at time of discharge or given to the patient's family.
+(c) Return of drugs may be prohibited due to possible jeopardy of the patient's health.
+(d) Written procedures shall be developed for the disposal of unreturned drugs.
+
+4. 246.873.090.4 (4)
+   Self-administration. Self-administration of drugs shall occur only within approved protocols in accordance with a program of self-care or rehabilitation. Policy and specific written procedures, approved by the appropriate medical staff, nursing service and administration shall be established by the director of pharmacy.
+
+---------- END OF DOCUMENT ----------

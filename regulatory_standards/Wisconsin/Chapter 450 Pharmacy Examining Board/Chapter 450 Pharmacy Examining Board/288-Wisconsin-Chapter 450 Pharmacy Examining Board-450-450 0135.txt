@@ -1,0 +1,55 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: a26680b5-273e-409f-8ec6-319c9e7a8551
+
+---------- REGULATION ----------
+Name: Chapter 450 Pharmacy Examining Board
+Regulatory Entity: Wisconsin
+
+---------- CHAPTER ----------
+Name: 450
+Title: Chapter 450 Pharmacy Examining Board
+
+---------- STANDARD ----------
+Name: 450 0135
+Description: Using interchangeable biological product in dispensing prescriptions
+
+---------- ELEMENTS ----------
+1. 450.0135.1 (1)
+   Definition. In this section, “interchangeable biological product” means a biological product that the federal food and drug administration has licensed and has determined meets the standards for interchangeability pursuant to 42 USC 262 (k) (4) or has determined is therapeutically equivalent as set forth in the latest edition of or supplement to the federal food and drug administration's Approved Drug Products with Therapeutic Equivalence Evaluations.
+
+2. 450.0135.2 (2)
+   Biological product or interchangeable biological product to be used. Except as provided in sub. (3), a pharmacist shall dispense every prescription using either the biological product prescribed or an interchangeable biological product, if the interchangeable biological product is lower in price to the consumer than the biological product prescribed, and shall inform the consumer of the options available in dispensing the prescription.
+
+3. 450.0135.3 (3)
+   Exception. A prescribing practitioner may indicate, by writing on the face of the prescription order or, with respect to a prescription order transmitted electronically, by designating in electronic format the phrase “No substitutions” or words of similar meaning or the initials “N.S.,” that no substitution of the biological product prescribed may be made under sub. (2). If such indication is made, the pharmacist shall dispense the prescription with the specific biological product prescribed. No preprinted statement regarding biological product substitution may appear on the face of the prescription order.
+
+4. 450.0135.4 (4)
+   Refilled prescriptions. Prescriptions dispensed with an interchangeable biological product may be refilled with a different interchangeable biological product only if the pharmacist informs the consumer of the change.
+
+5. 450.0135.5 (5)
+   Communication of biological product dispensed. Within 5 business days after the dispensing of a biological product, the dispensing pharmacist or the pharmacist's designee shall do one of the following:
+(a) Make an entry of the specific product provided to the patient, including the name of the product and the manufacturer. Entry into an electronic records system as described in this paragraph is presumed to provide notice to the prescribing practitioner. The communication shall be conveyed by making an entry that is electronically accessible to the prescribing practitioner through one of the following:
+1. An interoperable electronic medical records system.
+2. An electronic prescribing technology.
+3. A pharmacist benefit management system.
+4. A pharmacy record.
+(b) If a pharmacist is unable to make an entry as provided in par. (a), communicate the biological product dispensed to the prescribing practitioner using facsimile, telephone, electronic transmission, or another prevailing means, except that communication under this paragraph is not required if any of the following applies:
+1. There is no interchangeable biological product for the product prescribed.
+2. A refill of the biological product is not changed from the product dispensed on the prior filling of the prescription.
+
+6. 450.0135.6 (6)
+   Limitation of liability. A pharmacist who dispenses a prescription with an interchangeable biological product under this section assumes no greater liability than would be incurred had the pharmacist dispensed the prescription with the biological product prescribed.
+
+7. 450.0135.7 (7)
+   Use of interchangeable biological product in hospitals. Subsections (2) to (6) do not apply to a pharmacist who dispenses an interchangeable biological product that is prescribed for a patient in a hospital if the pharmacist dispenses the interchangeable biological product in accordance with written guidelines or procedures previously established by a pharmacy and therapeutics committee of the hospital and approved by the hospital's medical staff and use of the interchangeable biological product has been approved for a patient during the period of the patient's stay within the hospital by any of the following:
+(a) The patient's individual physician.
+(b) The patient's advanced practice nurse prescriber, if the advanced practice nurse prescriber has entered into a written agreement to collaborate with a physician.
+(c) The patient's physician assistant.
+
+8. 450.0135.8 (8)
+   Applicability. This section applies only with respect to prescriptions for biological products.
+
+9. 450.0135.9 (9)
+   Links to be maintained by board. The board shall maintain links on the department's Internet site to the federal food and drug administration's lists of all currently approved interchangeable biological products.
+
+---------- END OF DOCUMENT ----------

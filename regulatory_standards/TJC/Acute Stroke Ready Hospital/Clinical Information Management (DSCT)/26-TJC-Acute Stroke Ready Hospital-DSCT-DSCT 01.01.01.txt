@@ -1,0 +1,29 @@
+REGULATORY STANDARD DOCUMENT
+Document ID: 0683e2eb-fedd-4692-93d4-c1b08accfcb0
+
+---------- REGULATION ----------
+Name: Acute Stroke Ready Hospital
+Regulatory Entity: TJC
+
+---------- CHAPTER ----------
+Name: DSCT
+Title: Clinical Information Management (DSCT)
+
+OVERVIEW:
+Delivering or facilitating the delivery of health care is a complex endeavor that is highly dependent on the exchange of information. Over time, patients may receive a range of care in multiple settings from multiple practitioners. The goal of coordinating information across the continuum of care is to manage information so that care is maximized as well as improved. For this reason the disease-specific care program should understand its role within a health care delivery system that spans across settings, services, practitioners, and care levels. Because the continuum of care encompasses such a large scope of people and services, disease-specific care programs must maintain the integrity and security of their data and information as they compile and share it with others. The standards in this chapter focus on the following: - Proactively gathering and sharing information across the continuum to coordinate care across settings and over time - Providing easy access to patient-related information - Preserving confidentiality of patient information - Maintaining data quality and integrity - Integrating and interpreting data from various sources - Using aggregate data to support the program's information needs and direction setting Although efficiency may be improved by computerization and other technologies, the principles of good information management apply to all processes, whether paper based or electronic.
+
+---------- STANDARD ----------
+Name: DSCT 01.01.01
+Description: The disease-specific care program protects the privacy of health information.
+
+RATIONALE:
+The privacy of health information is a critical information management concern. Privacy of health information applies to electronic, paper, and verbal communications. Protecting the privacy of health information is the responsibility of the entire organization. Organizations protect privacy by limiting the use of information to only what is needed to provide care, treatment, and services. Privacy, along with security, results in the confidentiality of health information. Health information is kept confidential when the information is secure and its use is limited.
+
+---------- ELEMENTS ----------
+1. DSCT.01.01.01 EP1 (EP 1)
+   The disease-specific care program develops and implements a process to protect patient information in accordance with the organization’s policy and applicable law and regulation.
+
+2. DSCT.01.01.01 EP2 (EP 2)
+   The disease-specific care program develops and implements a process to address violations of the confidentiality or security of the patient’s medical record in accordance with the organization’s policy and applicable law and regulation.
+
+---------- END OF DOCUMENT ----------
